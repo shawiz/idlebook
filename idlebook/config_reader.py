@@ -1,4 +1,6 @@
-# Helper for getting a dict of config variables for a given section (aka config category)
+''' 
+Helper for getting a dict of config variables for a given section (aka config category)
+'''
 import os
 import ConfigParser
 
@@ -26,3 +28,4 @@ def get_config(section):
             
         env_vars[option] = value
     return env_vars
+
