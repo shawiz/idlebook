@@ -1,0 +1,18 @@
+{% extends "library/library_base.html" %}
+
+{% block library_main %}
+<h1 class="title"><a href="/library/" title="Back to Library">Library</a> / Departments</h1>
+<div id="main">
+	<div class="main-block">
+		<ul id="library-depts">
+		{% for dept in departments%}
+			<li><a href="/library/{{network_slug}}/depts/{{dept.id}}" title="{{dept.name}}">{{dept.name}} ({{dept.code}})</a>
+		{% endfor %}
+		</ul>
+	</div>
+</div>
+{% endblock %}
+
+{% block library_side %}
+
+{% endblock %}

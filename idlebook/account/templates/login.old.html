@@ -1,0 +1,64 @@
+{% extends "base.html" %}
+
+{% block title %}Login - idlebook{% endblock %}
+
+{% block css %}
+<link href="{{STATIC_URL}}css/account.css" rel="stylesheet" type="text/css" />
+{% endblock %}
+
+{% block header %}
+<div id="header-wrap">
+	<div id="header">
+		<div id="site-logo"><a href="/"><img src="{{STATIC_URL}}images/site-logo.png" /></a></div>
+	</div>
+</div>
+{% endblock %}
+
+{% block content %}
+<div id="content" class="dark">
+	<div id="container">
+		<div id="main">
+			<div class="account-form">
+				<h2>Login</h2>
+				{% if user.is_authenticated %}
+					<p class="notice">You are now successfully logged in.</p>
+				{% else %}
+					{% if errors %}
+					<p class="notice errors">{{ errors }}</p>
+					{% endif %}
+				<form action="{% url idlebook.account.views.debug_login %}" method="post">
+					{% csrf_token %}
+					<div class="form-row individual">
+						<label>If you have already signed up using Facebook:</label>
+					    <img src="{{STATIC_URL}}images/facebook-login.png" title="Connect with Facebook" id="facebook-login-button" />
+					</div>
+					<div class="form-row first">
+						<p class="errors">{{ form.email.errors }}</p>
+						<label for="email">{{ form.email.label_tag }}</label>
+						{{ form.email }}
+					</div>
+					<div class="form-row">
+						<p class="errors">{{ form.password.errors }}</p>
+						<label for="password">{{ form.password.label_tag }}</label>
+						{{ form.password }}
+						<p class="account-desc"><a href="#">Forget password?</a></p>
+					</div>
+				
+					<div class="form-row last">
+						<label><input type="checkbox" name="remember_me" value="" /> Remember me</label>
+					</div>
+				
+					<div class="form-row last">
+						<input type="hidden" name="next" value="{{next}}"/>
+						<input type="submit" name="submit" class="active" value="Login" />
+					</div>
+				
+				</form>
+				{% endif %}
+			</div>
+		</div>
+		<div id="aside"></div>
+		<div class="clear"></div>
+	</div>
+</div>
+{% endblock %}

@@ -1,0 +1,63 @@
+{% extends "base.html" %}
+
+{% block title %}Sign up - Idlebook{% endblock %}
+
+{% block css %}
+<link href="{{STATIC_URL}}css/account.css" rel="stylesheet" type="text/css" />
+{% endblock %}
+
+{% block header %}
+<div id="header-wrap">
+	<div id="header">
+		<div id="site-logo"><a href="/"><img src="{{STATIC_URL}}images/site-logo.png" /></a></div>
+	</div>
+</div>
+{% endblock %}
+
+{% block content %}
+<div id="content" class="dark">
+	<div id="container">
+		<div id="main">
+			<div class="account-form">
+				<h2>Sign up</h2>
+				{% if user.is_authenticated %}
+				<p class="notice">You are already logged in.</p>
+				{% else %}
+				<form action="{% url idlebook.facebook.views.signup %}" method="post">
+					{% csrf_token %}
+					<div class="form-row individual">
+						<div id="facebook">
+							<img class="facebook-picture" src="{{facebook_data.thumb_url}}">
+							<div class="facebook-name">{{facebook_data.name}}</div>
+							<div class="facebook-info">
+								<span class="facebook-connect">Connected to Facebook</span>
+								<span class="facebook-friends">{{facebook_data.num_of_friends}} friends</span>
+							</div>
+							<div class="clear"></div>
+						</div>
+					</div>
+					<div class="form-row first">
+					    <p class="label">Please enter your UW email (required, without the @uw.edu or @u.washington.edu part)</p>
+						{{form.email}}@uw.edu
+						{% if errors %}
+						<p class="account-error">{{errors}}</p>
+						{% endif %}
+					</div>
+					<div class="form-row last">
+						<p class="account-desc">By clicking "Create Account", you are indicating that you have read and agree to the <a href="/terms/" target="_blank">Terms of Service</a></p>
+					</div>
+					<div class="form-row last">
+						<input type="hidden" name="next" value="{{ next }}"/>
+						<input type="submit" name="submit" class="active" value="Create Account" />
+					</div>
+				</form>
+				{% endif %}
+			</div>
+		</div>
+		<div id="aside">
+			
+		</div>
+		<div class="clear"></div>
+	</div>
+</div>
+{% endblock %}

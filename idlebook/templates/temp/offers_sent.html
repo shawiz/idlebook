@@ -1,0 +1,51 @@
+{% extends "base.html" %}
+
+{% block title %}Requests - idlebook{% endblock %}
+
+{% block css %}
+<link href="{{MEDIA_URL}}/css/account.css" rel="stylesheet" type="text/css" />
+<link href="{{MEDIA_URL}}/css/message.css" rel="stylesheet" type="text/css" />
+{% endblock %}
+
+{% block content %}
+<div id="content">
+	<div id="board-wrap">
+		<div id="board">
+			<h1>Book Requests</h1>
+			<div id="settings-tabs">
+				<ul class="tabs">
+					<li><a href="/requests/">Requests received</a></li>
+					<li><a href="/requests/sent/">Requests sent</a></li>
+					<li><a href="/offers/">Lend offers</a></li>
+					<li class="active"><a href="/offers/sent/">Offers sent</a></li>
+				</ul>
+			</div>
+		</div>	
+	</div>
+	<div id="container">
+		<div id="main">
+			{% for request in requests %}
+			<div class="request">
+				<a href="/request/{{ request.id }}/"><img class="request-image" src="{{MEDIA_URL}}{{ request.image }}" /></a>
+				<div class="request-main">
+					<div class="request-info">
+						<a href="/requests/{{ request.id }}/">
+						<p>Request date: {{ request.add_time }}</p>
+						<p>Borrow date: {{ request.borrow_date }}</p>
+						<p>Return date: {{ request.due_date }}</p></a>
+					</div>
+					<a href="/requests/{{ request.id }}/"><p class="request-title">{{ request.title }}</p></a>
+					<p>CSE 444</p>
+					<p>offerred <a href="/person/{{ request.username }}/">{{ request.name }}</a></p>
+					<span class="request-status">{{ request.status }}</span>
+				</div>
+				<div class="clear"></div>
+			</div>
+			{% endfor %}
+		</div>
+		<div id="aside">
+		</div>
+		<div class="clear"></div>
+	</div>
+</div>
+{% endblock %}

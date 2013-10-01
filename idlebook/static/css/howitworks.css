@@ -1,0 +1,84 @@
+#howitworks {
+	height: 500px;
+	border-bottom: 1px dashed #ccc;
+	background-color: #eee;
+	display: none;
+	padding-left: 20px;
+}
+
+#how-tabs {
+    display: block;
+    width: 220px;
+    margin: 0 auto;
+}
+
+#howitworks .how-tab {
+	display: block;
+	float: left;
+	margin: 20px 10px 0 0;
+	padding: 5px 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	color: #333;	
+}
+
+#howitworks .how-tab.active {
+    background-color: #fff;
+	color: #333;
+}
+
+#graphs {
+    width: 800px;
+    margin: 0 auto;
+}
+
+#howitworks #step1,
+#howitworks #step3,
+#howitworks #step5,
+#howitworks #step7 {
+	clear: left;
+}
+
+#howitworks #hide {
+	float: right;
+	margin: 20px 40px;
+	color: #666;
+	font-size: 16px;
+    padding: 4px 10px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+}
+
+#howitworks #hide:hover {
+    background-color: #fff;
+    color: #888;
+} 
+
+#howitworks .step {
+	height: 160px;
+	background-color: #fff;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	margin: 15px 15px;
+	padding: 5px 10px;
+	float: left;
+}
+
+#howitworks .step img {
+	float: left;
+}
+
+#howitworks .step p {
+	margin-top: 35px;
+	margin-right: 10px;
+	float: left;
+	width: 180px;
+	font-size: 16px;
+	line-height: 24px;
+}
+
+#graphs div.hidden {
+	display: none;
+}

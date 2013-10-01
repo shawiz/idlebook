@@ -1,0 +1,106 @@
+{% extends "requests/requests_base.html" %}
+
+{% load state_format %}
+{% load money_format %}
+{% load humanize %}
+{% load switch_tag %}
+{% load elif_tag %}
+{% load name_format %}
+
+{% block requests_tabs %}
+<div id="settings-tabs">
+	<ul class="tabs">
+		<li class="active"><a href="/requests/">Requests received <span class="count">{{unread_requests_received}}</span></a></li>
+		<li><a href="/requests/sent/">Requests sent <span class="count">{{unread_requests_sent}}</span></a></li>
+	</ul>
+</div>
+{% endblock %}
+
+{% block requests_main %}
+<div id="main" class="wide">
+	<ul class="sub-tabs">
+		<li><a href="/requests/">Open requests</a></li>
+		<li class="active">Past requests</li>
+	</ul>
+	{% for request in requests %}
+	<div class="request">
+		<a href="/requests/{{ request.id }}/"><img class="request-image" src="{{MEDIA_URL}}{{request.image|default:'books/book-default.png'}}" /></a>
+		<div class="request-main">
+		    
+		    <div class="request-prices">
+				{% if request.special_offer != None %}
+					<span class="request-price strike">{{request.price|price}}</span>
+				    <span class="request-price">{{request.special_offer|price}}</span>
+				{% else %}
+			        <span class="request-price">{{request.price|price}}</span>
+		        {% endif %}
+		        {% if request.paid %}
+		        <a href="/wallet/" class="payment-status" rel="tipsy" title="View your balance and transaction history in your Wallet">Paid</a>
+		        {% else %}
+		        <a class="payment-status" rel="tipsy" title="You will be paid once the renter/buyer picks up your book from our dropbox">Not Paid</a>
+		        {% endif %}
+			</div>
+			
+		    <p class="request-title"><a href="/requests/{{ request.id }}/">{{request.title}}</a></p>
+	        <div class="request-info">
+				<p><span class="request-label">requested by</span><a href="/person/{{ request.buyer_username }}/">{{ request.buyer_fullname }}</a><span class="request-time">{{request.add_time|naturalday}}</span></p>
+				{% if request.type == 'lease' %}
+				<p><span class="request-label">type</span>Rent</p>
+				<p><span class="request-label">rental period</span>{{request.start_date}} - {{request.due_date}} ({{request.duration}})</p>	
+				{% else %}
+				<p><span class="request-label">type</span>Buy</p>
+				{% endif %}
+			    
+			    <table class="request-status-table"><tbody><tr>
+				{% if request.type == 'lease' %}
+                    {% switch request.phase %}
+    				    {% case 1 %}				
+        				        <td class="current"><span class="count">1</span> <span class="request-status">{{request.state|format_state_status:'lease'}}</span></td>
+        				        <td class="not-complete"><span class="count">2</span> owner dropped off</td>
+        				        <td class="not-complete"><span class="count">3</span> renter picked up</td>
+        				        <td class="not-complete last"><span class="count">4</span> returned</td>	
+    				    {% case 2 %}
+    				        <td class="complete"><span class="count">1</span> request</td>
+    				        <td class="current"><span class="count">2</span> <span class="request-status">{{request.state|format_state_status:'lease'}}</span></td>
+    				        <td class="not-complete"><span class="count">3</span> renter picked up</td>
+    				        <td class="not-complete last"><span class="count">4</span> returned</td>                    
+                        {% case 3 %}
+    				        <td class="complete"><span class="count">1</span> request</td>
+    				        <td class="complete"><span class="count">2</span> owner dropped off</td>
+    				        <td class="current"><span class="count">3</span> <span class="request-status">{{request.state|format_state_status:'lease'}}</span></td>
+    				        <td class="not-complete last"><span class="count">4</span> returned</td>
+                        {% case 4 %}
+    				        <td class="complete"><span class="count">1</span> request</td>
+    				        <td class="complete"><span class="count">2</span> owner dropped off</td>
+    				        <td class="complete"><span class="count">3</span> renter picked up</td>
+    				        <td class="current last"><span class="count">4</span> <span class="request-status" >{{request.state|format_state_status:'lease'}}</span></td>
+                    {% endswitch %}
+                
+                {% else %}
+                    {% switch request.phase %}
+    				    {% case 1 %}
+        				    <td class="current"><span class="count">1</span> <span class="request-status">{{request.state|format_state_status:'sale'}}</span></td>
+        				    <td class="not-complete"><span class="count">2</span> seller dropped off</td>
+        				    <td class="not-complete last"><span class="count">3</span> buyer picked up</td>
+    				    {% case 2 %}
+    				        <td class="complete"><span class="count">1</span> request</td>
+    				        <td class="current"><span class="count">2</span> <span class="request-status">{{request.state|format_state_status:'sale'}}</span></td>
+    				        <td class="not-complete last"><span class="count">3</span> buyer picked up</td>
+                        {% case 3 %}
+    				        <td class="complete"><span class="count">1</span> request</td>
+    				        <td class="complete"><span class="count">2</span> seller dropped off</td>
+    				        <td class="current last"><span class="count">3</span> <span class="request-status">{{request.state|format_state_status:'sale'}}</span></td>
+                    {% endswitch %}
+                {% endif %}
+				</tr></tbody></table>
+			</div>
+			
+		</div>
+		<div class="clear"></div>
+	</div>
+	{% empty %}
+	<div class="request empty">No past request.</div>
+	{% endfor %}
+</div>
+<div class="clear"></div>
+{% endblock %}

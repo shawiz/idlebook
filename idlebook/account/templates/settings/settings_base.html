@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+
+{% block title %}Settings - Idlebook{% endblock %}
+
+{% block css %}
+<link href="{{STATIC_URL}}css/account.css" rel="stylesheet" type="text/css" />
+{% endblock %}
+
+{% block scripts %}
+<script src="{{STATIC_URL}}scripts/settings.js" type="text/javascript"></script>
+{% endblock %}
+
+{% block content %}
+<div id="content">
+	<div id="board-wrap">
+		<div id="board">
+			<h1>Settings</h1>
+			{% block settings_tabs %}
+			{% endblock %}
+		</div>
+	</div>
+	<div id="container">
+		{% block settings_main %}
+		{% endblock %}
+		<div class="clear"></div>
+	</div>
+</div>
+{% endblock %}

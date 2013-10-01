@@ -1,0 +1,217 @@
+{% extends "base.html" %}
+{% load cache %}
+
+{% block title %}{{ book.title }} - Idlebook{% endblock %}
+
+{% block css %}
+<link href="{{STATIC_URL}}css/book.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="{{STATIC_URL}}css/datePicker.css" media="screen" rel="stylesheet" type="text/css" />
+{% endblock %}
+
+{% block scripts %}
+<script src="{{STATIC_URL}}scripts/library/date.min.js" type="text/javascript"></script>
+<script src="{{STATIC_URL}}scripts/library/jquery.datePicker.min.js" type="text/javascript"></script>
+<script src="{{STATIC_URL}}scripts/edit.copy.js" type="text/javascript"></script>
+<script src="{{STATIC_URL}}scripts/own_wish.book.js" type="text/javascript"></script>
+<script src="{{STATIC_URL}}scripts/book.js" type="text/javascript"></script>
+{% endblock %}
+
+{% load name_format %}
+{% load money_format %}
+{% load elif_tag %}
+
+{% block modals %}
+    {% include "request_sale_modal.html" %}
+    {% include "request_lease_modal.html" %}
+    {% include "edit_copy_modal.html" %}
+{% endblock %}
+
+{% block content %}
+<div id="content">
+	<div id="container">
+		<h1 class="title">{{ book.title }}
+			{% if user.is_staff %}(<a href="/manage/book/{{book.id}}">manage</a>){% endif %}
+		</h1>
+		<div id="main">
+			{% cache 600 book_img book.id %}
+			<img class="book-image" src="{{MEDIA_URL}}{{ book.image|default:'books/book-default-large.png' }}">
+			{% endcache %}
+			<div id="book-actions">
+				{% if my_wish %}
+				<button class="wish-button status-button" id="book-wish-{{ book.id }}">In wishlist</button>
+				<p><span class="secondary-action remove-wish-button" id="remove-wish-{{book.id}}">remove from wishlist</span></p>
+                {% if not user.is_authenticated %}
+                <p><span class="secondary-info" rel="tipsy" title="Please sign up or login to save this info permanately">saved temporarily</span></p>
+                {% endif %}
+				{% else %}
+					{% if my_copy %}
+					<button class="own-button status-button" id="book-own-{{ book.id }}">Owned</button>
+					    {% if user.is_authenticated %}
+					    <p><span class="secondary-action copy-edit-button" id="edit-copy-{{my_copy.id}}">set your price</span></p>
+					    <p><span class="secondary-action remove-own-button" id="remove-own-{{book.id}}">remove owned</span></p>
+                        {% else %}
+					    <p><span class="secondary-action remove-own-button" id="remove-own-{{book.id}}">remove owned</span></p>
+					    <p><span class="secondary-info" rel="tipsy" title="Please sign up or login to save this info permanately">saved temporarily</span></p>
+					    {% endif %}
+					{% else %}
+					<button class="active wish-button" id="book-wish-{{ book.id }}">Add to wishlist</button>
+					<button class="active own-button" id="book-own-{{ book.id }}">I own this book</button>
+					{% endif %}
+				{% endif %}
+			</div>
+			{% cache 600 book_info book.id %}
+			<div id="book-info">
+				<dl class="book-properties">
+					{% if book.edition %}<dt>edition:</dt><dd>{{ book.edition }}</dd>{% endif %}
+					{% if book.authors %}<dt>author:</dt><dd>{{ book.authors }}</dd>{% endif %}
+					{% if book.publisher %}<dt>publisher:</dt><dd>{{ book.publisher }}</dd>{% endif %}
+					{% if book.publication_date %}<dt>publication date:</dt><dd>{{ book.publication_date }}</dd>{% endif %}
+					{% if book.list_price %}<dt>list price:</dt><dd>{{ book.list_price|money }}</dd>{% endif %}
+					{% if book.formats %}<dt>formats:</dt><dd>{{ book.formats }}</dd>{% endif %}
+					<dt>ISBN:</dt><dd>{{ book.isbn }}</dd>	
+				</dl>
+			</div>
+			{% endcache %}
+			
+			{% cache 600 other_ed_info book.id %}
+			{% if other_editions %}
+			<div class="main-block" id="book-editions">
+				<h2>Other Editions</h2>
+				{% for edition in other_editions %}
+					<p><a href="/book/{{ edition.id }}/">{{ edition.title }} ({{ edition.edition }} edition)</a></p>
+				{% endfor %}
+			</div>
+			{% endif %}
+			{% endcache %}
+			
+			{% cache 600 courses_info book.id %}
+			{% if courses %}
+			<div class="main-block" id="book-courses">
+				<h2>Courses</h2>
+				{% for course in courses %}
+				<a href="/library/washington/depts/{{course.department.id}}/#{{course.name}}" class="course">{{ course.name }}</a>
+				{% endfor %}
+			</div>
+			{% endif %}
+			{% endcache %}
+			
+			<div class="main-block" id="book-copies">
+				<h2>Copies</h2>
+				<table>
+				<tbody>
+				<tr>
+					<th>Owner</th>
+					<th>Edition</th>
+					<th>Condition</th>
+					<th>Status</th>
+					<th>Buy it</th>
+					<th>Rent it</th>
+				</tr>
+				{% for copy in copies %}
+				<tr class="{% cycle 'even' 'odd' %}">
+					<td><a href="/person/{{ copy.owner.profile.username }}">{{ copy.owner|name:user }}</a></td>
+					<td>{{ copy.book.edition }}</td>
+					<td>
+						{% if copy.condition == 1 %}
+						New
+						{% elif copy.condition == 2 %}
+						Used - Like New
+						{% elif copy.condition == 3 %}
+						Used - Very Good
+						{% elif copy.condition == 4 %}
+						Used - Good
+						{% elif copy.condition == 5 %}
+						Used - Acceptable
+						{% endif %}
+					</td>
+					<td>
+					    {% if copy.owner == user %}
+					        Own Copy
+					    {% elif copy in requested_copies %}
+					        Requested
+					    {% else %}
+					        {% if copy.sale_price and copy.lease_price %}
+					            For Rent or Sale
+					        {% elif copy.sale_price %}
+					            For Sale
+					        {% elif copy.lease_price %}
+					            For Rent
+					        {% endif %}
+					    {% endif %}
+					</td>
+					<td>
+				        {% if copy.sale_price %}
+				            {% if copy.owner == user %}
+				                <button class="copy-edit-button disabled" title="Set price" id="sale-copy-{{ copy.id }}">{{copy.sale_price|price}}</button>
+				            {% elif copy in requested_copies %}
+					            <button class="disabled" title="Copy requested" id="sale-copy-{{ copy.id }}">{{copy.sale_price|price}}</button>
+					        {% else %}
+					            <button class="buy-button" title="Request to buy this copy from {{ copy.owner|name:user}}" id="sale-copy-{{ copy.id }}">{{copy.sale_price|price}}</button>
+					        {% endif %}
+					    {% else %}
+					        {% if copy.owner == user %}
+					            <button class="copy-edit-button" title="Set price" id="sale-copy-{{ copy.id }}">Set Price</button>
+					        {% else%}
+							    <button class="disabled" title="Not available for Sale" id="sale-copy-{{ copy.id }}">-</button>
+    					    {% endif %}
+    					{% endif %}
+					</td>
+					<td>
+					    {% if copy.lease_price %}
+					        {% if copy.owner == user %}
+    					        <button class="copy-edit-button disabled" title="Set price" id="lease-copy-{{ copy.id }}">{{copy.lease_price|price}}</button>
+    					    {% elif copy in requested_copies %}
+        					    <button class="disabled" title="Copy requested" id="lease-copy-{{ copy.id }}">{{copy.lease_price|price}}</button>
+                            {% else %}
+    					        <button class="rent-button" title="Request to rent this copy from {{ copy.owner|name:user }}" id="lease-copy-{{ copy.id }}">{{copy.lease_price|price}}</button>
+				            {% endif %}
+					    {% else %}
+					        {% if copy.owner == user %}
+				                <button class="copy-edit-button" title="Set price" id="lease-copy-{{ copy.id }}">Set Price</button>
+				            {% else%}
+    						    <button class="disabled" title="Not available for Rent" id="lease-copy-{{ copy.id }}">-</button>
+    			            {% endif %}
+    				    {% endif %}
+					</td>
+				</tr>
+				{% empty %}
+				<tr><td class="not-available" colspan="6">Not books available. If you have a copy, click "I own this book".</td></td>
+				{% endfor %}
+				</tbody>
+				</table>
+			</div>
+		</div>
+		
+		<div id="aside">
+			<div class="side-block" id="book-stats">
+				<ul class="single-stats">
+					<li><span id="book-stats-own">{{ copy_count|default:0 }}</span><span class="stats-label">copies</span></li>
+					<li><span id="book-stats-wish">{{ wisher_count|default:0 }}</span><span class="stats-label">wants</span></li>
+				</ul>
+			</div>
+			<div class="side-block last" id="book-buy">
+				<h2>No copy available? Buy it from:</h2> 
+			 	<ul>
+					{% if prices.ubookstore_new %}<li>U-Bookstore New {{ prices.ubookstore_new|money }}</li>{% endif %}
+					{% if prices.ubookstore_used %}<li>U-Bookstore Used {{ prices.ubookstore_used|money }}</li>{% endif %}
+				</ul>
+			</div>
+			{% if wishers %}
+			<div class="side-item" id="book-wishers">
+				<h2>Who wants this book</h2> 
+				<ul class="people-list">
+					{% for wisher in wishers %}
+					<li><a href="/person/{{wisher.profile.username}}/">
+						<img src="{{MEDIA_URL}}{{ wisher.profile.thumb }}" />
+						<p>{{ wisher.first_name }}</p>
+					</a></li>
+					{% endfor %}
+				</ul>
+				<div class="clear"></div>
+			</div>
+			{% endif %}
+		</div>
+		<div class="clear"></div>
+	</div>
+</div>
+{% endblock %}

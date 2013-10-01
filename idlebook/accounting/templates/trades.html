@@ -1,0 +1,194 @@
+{% extends "base.html" %}
+{% load elif_tag %}
+
+{% block title %}Manager - Idlebook{% endblock %}
+
+{% block css %}
+<link href="{{STATIC_URL}}css/book.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="{{STATIC_URL}}css/manage.css" media="screen" rel="stylesheet" type="text/css" />
+{% endblock %}
+
+{% block scripts %}
+<script src="{{STATIC_URL}}scripts/trades.js" type="text/javascript"></script>
+{% load money_format %}
+{% load state_format %}
+{% endblock %}
+
+{% block content %}
+
+<div id="deposit-modal" class="modal-box-outer">
+	<div class="modal-box-inner">
+		<div class="modal-box-header">
+			<div class="close">×</div>
+			<h3>Deposit money</h3>
+		</div>
+		<div class="modal-box-body">
+			<form action="{% url idlebook.accounting.views.deposit %}" method="post">
+				{% csrf_token %}
+				<span class="dollar">$</span><input type="text" name="amount" id="amount" />
+				<input type="hidden" name="trade_id" id="deposit_trade_id" />
+				<input type="submit" name="send" class="active" value="Deposit" />
+				<button class="close cancel-button inactive">Cancel</button>
+			</form>
+			<div class="clear"></div>
+		</div>
+	</div>
+</div>
+
+<div id="pay-modal" class="modal-box-outer">
+	<div class="modal-box-inner">
+		<div class="modal-box-header">
+			<div class="close">×</div>
+			<h3>Pay</h3>
+		</div>
+		<div class="modal-box-body">
+			<form action="{% url idlebook.accounting.views.pay %}" method="post">
+				{% csrf_token %}
+				<p>Are you sure to pay for the book?</p>
+				<input type="hidden" name="trade_id" id="pay_trade_id" />
+				<div class="modal-controls">
+					<input type="submit" name="send" class="active" value="Pay" />
+					<button class="close cancel-button inactive">Cancel</button>
+				</div>
+			</form>
+			<div class="clear"></div>
+		</div>
+	</div>
+</div>
+
+<div id="action-modal" class="modal-box-outer">
+	<div class="modal-box-inner">
+		<div class="modal-box-header">
+			<div class="close">×</div>
+			<h3>Action</h3>
+		</div>
+		<div class="modal-box-body">
+			<form action="{% url idlebook.accounting.views.action %}" method="post">
+				{% csrf_token %}
+				<p>Are you sure to do the action?</p>
+				<input type="hidden" name="trade_id" id="action_trade_id" />
+				<div class="modal-controls">
+					<input type="submit" name="accept" class="active" value="Accept" />
+					<button class="close cancel-button inactive">Cancel</button>
+				</div>
+			</form>
+			<div class="clear"></div>
+		</div>
+	</div>
+</div>
+
+<div id="pickup-modal" class="modal-box-outer">
+	<div class="modal-box-inner">
+		<div class="modal-box-header">
+			<div class="close">×</div>
+			<h3>Pick up a book</h3>
+		</div>
+		<div class="modal-box-body">
+			<form action="{% url idlebook.accounting.views.action %}" method="post">
+				{% csrf_token %}
+				<p>Do want want to pick up this book?</p>
+				<input type="hidden" name="trade_id" id="pickup_trade_id" />
+				<div class="modal-controls">
+					<input type="submit" name="accept" class="active" value="Accept" />
+					<input type="submit" name="reject" class="active" value="Reject" />
+					<button class="close cancel-button">Cancel</button>
+				</div>
+			</form>
+			<div class="clear"></div>
+		</div>
+	</div>
+</div>
+
+<div id="content">
+	<div id="container">
+		<h1 class="title">{{ book.title }}</h1>
+		<div id="main" class="wide">
+			<img class="book-image" src="{{MEDIA_URL}}{{ book.image|default:'books/book-default-large.png' }}">
+			<div id="book-info">
+				<dl class="book-properties">
+					{% if book.edition %}<dt>edition:</dt><dd>{{ book.edition }}</dd>{% endif %}
+					{% if book.author %}<dt>author:</dt><dd>{{ book.author }}</dd>{% endif %}
+					{% if book.publisher %}<dt>publisher:</dt><dd>{{ book.publisher }}</dd>{% endif %}
+					{% if book.publication_date %}<dt>publication date:</dt><dd>{{ book.publication_date }}</dd>{% endif %}
+					{% if book.list_price %}<dt>list price:</dt><dd>{{ book.list_price|money }}</dd>{% endif %}
+					{% if book.formats %}<dt>formats:</dt><dd>{{ book.formats }}</dd>{% endif %}
+					<dt>ISBN:</dt><dd>{{ book.isbn }}</dd>
+				</dl>
+			</div>
+			
+			<div id="trades-block">
+				<h2>Trades</h2>
+				<table id="trades"><tbody>
+					<tr>
+						<th>id</th>
+						<th>updated</th>
+						<th>seller</th>
+						<th>buyer</th>
+						<th>type</th>
+						<th>price</th>
+						<th>buyer balance</th>
+						<th>pay</th>
+						<th>state</th>
+						<th>sequence</th>
+					</tr>
+					{% for trade in trades %}
+					<tr>
+						<td>{{trade.id}}</td>
+						<td>{{trade.time}}</td>
+						{% if trade.role == 'seller' %}
+						<td class="active"><a href="/person/{{trade.seller.profile.username}}">{{trade.seller.first_name}} {{trade.seller.last_name}}</a></td>
+						<td><a href="/person/{{trade.buyer.profile.username}}">{{trade.buyer.first_name}} {{trade.buyer.last_name}}</a></td>
+						{% else %}
+						<td><a href="/person/{{trade.seller.profile.username}}">{{trade.seller.first_name}} {{trade.seller.last_name}}</a></td>
+						<td class="active"><a href="/person/{{trade.buyer.profile.username}}">{{trade.buyer.first_name}} {{trade.buyer.last_name}}</a></td>
+						{% endif %}
+						<td>{{trade.type}}</td>
+						<td>amount: <br />{{trade.price|price}}<br />deposit: {{trade.deposit|price}}</td>
+						<td>
+							<p>balance needed: {{trade.balance_needed|money}}</p>
+							<p>deposit: {{trade.deposit|money}}</p>
+							<p>total needed: {{trade.total_needed|money}}</p>
+							{% if trade.payment_status != 1 and trade.role == 'buyer' %}
+								<button class="active deposit-button" id="deposit-{{trade.id}}">Deposit</button>
+							{% endif %}
+						</td>
+						<td>
+							{% if trade.payment_status == 0 and trade.role == 'buyer' %}
+								{% if trade.total_needed == 0 %}
+									<button class="active pay-button" id="pay-{{trade.id}}">Pay</button>
+								{% else %}
+									no money
+								{% endif %}
+							{% elif trade.role == 'buyer' %}
+								paid
+							{% else %}
+								nothing but tangerines
+							{% endif %}
+						</td>
+						<td>
+							<div>
+								<p>state: {{trade.state}} {{trade.role}}</p>
+								{% if trade.state == 20 %}
+									<p>{{trade.role}}: {{trade.state|format_lease_state:trade.role}}</p>
+									<p><button class="pickup-button active" id="action-{{trade.id}}">Respond</button></p>
+								{% else %}
+									{% if trade.type == 'sale' %}
+										<p>{{trade.role}}: <button class="action-button active" id="action-{{trade.id}}">{{trade.state|format_sale_state:trade.role}}</button></p>
+									{% else %}
+										<p>{{trade.role}}: <button class="action-button active" id="action-{{trade.id}}">{{trade.state|format_lease_state:trade.role}}</button></p>	
+									{% endif %}
+								{% endif %}
+							</div>
+						</td>
+						<td>{{trade.sequence}}</td>
+					</tr>
+					{% empty %}
+					<tr><td colspan="10">no active trades =_=</td></tr>
+					{% endfor %}
+				</tbody></table>
+			</div>
+		</div>
+		<div class="clear"></div>
+	</div>
+</div>
+{% endblock %}

@@ -1,0 +1,58 @@
+{% extends "base.html" %}
+{% load cache %}
+
+{% block title %}{{ flatpage.title }} - idlebook{% endblock %}
+
+{% block scripts %}
+<script src="{{STATIC_URL}}scripts/index.js" type="text/javascript"></script>
+{% endblock %}
+
+{% block css %}
+<link href="{{STATIC_URL}}css/howitworks.css" rel="stylesheet" type="text/css" />
+{% endblock %}
+
+{% block content %}
+{% cache 3000 howitworks_flat %}
+<div id="howitworks" style="display: block">
+    <p id="how-tabs"><a class="how-tab active" href="#">As Owner</a><a class="how-tab" href="#">As Buyer/Renter</a></p>
+	<div id="graphs">
+    	<div>
+        	<div id="step1" class="step">
+        	    <img src="{{STATIC_URL}}images/how/lend_1_web.png" />
+        	    <p>1. Tell us what books you have.</p>
+        	</div>
+        	<div id="step2" class="step">
+        	    <img src="{{STATIC_URL}}images/how/lend_2_web.png" />
+        	    <p>2. We'll find you renters or buyers and notify you of their interest via email.</p>
+        	</div>
+        	<div id="step3" class="step">
+        	    <img src="{{STATIC_URL}}images/how/lend_3_web.png" />
+        	    <p>3. Drop your book off at our dropbox on the Ave.</p>
+        	</div>
+        	<div id="step4" class="step">
+        	    <img src="{{STATIC_URL}}images/how/lend_4_web.png" />
+        	    <p>4. Get paid as soon as your renter / buyer picks up.</p>
+        	</div>
+        </div>
+        <div class="hidden">
+    	    <div id="step5" class="step">
+    	        <img src="{{STATIC_URL}}images/how/rent_1_web.png" />
+    	        <p>1. Find books you want to buy or rent.</p>
+    	    </div>
+    	    <div id="step6" class="step">
+    	        <img src="{{STATIC_URL}}images/how/rent_2_web.png" />
+    	        <p>2. Send a request to the owner of the book.</p>
+    	    </div>
+    	    <div id="step7" class="step">
+    	        <img src="{{STATIC_URL}}images/how/rent_3_web.png" />
+    	        <p>3. After the owner agrees, they will leave the book at our dropbox where you can pick it up and pay.</p>
+    	    </div>
+    	    <div id="step8" class="step">
+    	        <img src="{{STATIC_URL}}images/how/rent_4_web.png" />
+    	        <p>4. If you're renting, return it to our dropbox when it's due.</p>
+    	    </div>
+        </div>
+    </div>
+</div>
+{% endcache %}
+{% endblock %}

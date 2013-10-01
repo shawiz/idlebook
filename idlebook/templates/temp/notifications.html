@@ -1,0 +1,41 @@
+{% extends "base.html" %}
+
+{% block title %}Notifications - idlebook{% endblock %}
+
+{% block css %}
+<link href="{{MEDIA_URL}}/css/account.css" rel="stylesheet" type="text/css" />
+<link href="{{MEDIA_URL}}/css/message.css" rel="stylesheet" type="text/css" />
+{% endblock %}
+
+{% block content %}
+<div id="content">
+	<div id="board-wrap">
+		<div id="board">
+			<h1>Inbox</h1>
+			<div id="settings-tabs">
+				<ul class="tabs">
+					{% if unread == 0 %}
+					<li><a href="/inbox/">Inbox</a></li>
+					{% else %}
+					<li><a href="/inbox/">Inbox ({{ unread }})</a></li>
+					{% endif %}
+					<li><a href="#">Friend Requests (1)</a></li>
+					<li class="active"><a href="/notifications/">Notifications (4)</a></li>
+				</ul>
+			</div>
+		</div>	
+	</div>
+	<div id="container">
+		<div id="main">
+			<ul id="notifications">
+				<li>Jim George wrote on your wall. <span class="time">today at 12:15 pm</span></li>
+				<li>Jim George wrote on your wall. <span class="time">today at 12:10 pm</span></li>
+				<li>Jim George wrote on your wall. <span class="time">today at 12:08 pm</span></li>
+				<li>Jim George accepted your friend request. <span class="time">yesterday at 21:18 pm</span></li>
+			</ul>
+		</div>
+		<div id="aside"></div>
+		<div class="clear"></div>
+	</div>
+</div>
+{% endblock %}

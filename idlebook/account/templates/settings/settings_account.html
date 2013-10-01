@@ -1,0 +1,67 @@
+{% extends "settings/settings_base.html" %}
+
+{% block settings_tabs %}
+<div id="settings-tabs">
+	<ul class="tabs">
+		<li class="active"><a href="/settings/">Account</a></li>
+		<li><a href="/settings/profile/">Profile</a></li>
+		<li><a href="/settings/network/">Network</a></li>
+		<li><a href="/settings/notifications/">Notifications</a></li>
+	</ul>
+</div>
+{% endblock %}
+
+{% block settings_main %}
+<div id="main">
+	<div class="account-row">
+		<div class="label"><label for="fullname">Full Name</label></div>
+		<div class="input">
+			<p class="account-text">{{ user.first_name }} {{ user.last_name }} <a href="#" rel="tipsy" title="This is the name you use on Facebook and it cannot be changed for security reasons. However, your full name will not be visible except for to the people you are trading with.">?</a></p>
+		</div>
+	</div>
+	<div class="account-row">
+		<div class="label"><label for="username">Username</label></div>
+		<div class="input">
+			{% if user.profile.has_username %}
+			<input type="text" id="username" name="username" value="{{ user.profile.username }}" disabled="disabled" />
+			<p class="account-error" id="username-exist">This username already exists. Please try a different one.</p>
+            <p class="account-desc">Your profile url is <span class="account-url">http://idlebook.com/person/<em id="url-username">{{ user.profile.username }}</em></span></p>
+			{% else %}
+			<form method="post" action="." id="set-username"><input type="text" id="username" name="username" value="" /> <input type="submit" name="set" value="set" /></form>
+			<p class="account-error" id="username-exist"></p>
+			<p class="account-desc">Your profile url will become <span class="account-url">http://idlebook.com/person/<em id="url-username">{{ user.profile.username }}</em></span></p>
+			{% endif %}
+			<p class="account-desc">It cannot be changed once it is set</p>
+		</div>
+	</div>
+	<div class="account-row">
+		<div class="label"><label for="email">Email</label></div>
+		<div class="input">
+			<input type="text" name="email" value="{{ user.email }}" disabled="disabled" /> 
+			{% if not user.profile.email_verified %}
+			<button id="send-confirmation">resend confirmation email</button>
+			{% endif %}
+			<p class="account-desc">You cannot change your school email</p>
+		</div>
+	</div>
+	<div class="account-row last">
+		<div class="label"><label>Facebook</label></div>
+		<div class="input">
+		    {% if facebook_linked %}
+			<div id="facebook" class="settings">
+				<img class="facebook-picture" src="{{MEDIA_URL}}{{user.profile.thumb}}">
+				<div class="facebook-name">{{user.first_name}} {{user.last_name}}</div>
+				<div class="facebook-info">
+					<span class="facebook-connect">Connected to Facebook</span>
+				</div>
+				<div class="clear"></div>
+			</div>
+			{% else %}
+                <img src="{{STATIC_URL}}images/facebook-login.png" title="Connect with Facebook" id="facebook-login-button" />
+		    {% endif %}
+		</div>
+	</div>
+</div>
+<div id="aside">
+</div>
+{% endblock %}

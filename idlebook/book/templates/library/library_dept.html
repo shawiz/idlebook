@@ -1,0 +1,25 @@
+{% extends "library/library_base.html" %}
+
+{% load sort_tag %}
+
+{% block library_main %}
+<h1 class="title"><a href="/library/" title="Back to Library">Library</a> / <a href="/library/{{network_slug}}/depts/" title="Back to All Departments">Departments</a> / {{dept.name}}</h1>
+<div id="main">
+	{% for course, books in dept_books.items|sort %}
+	<div class="main-block">
+		<h2 id="{{course}}">{{course}}</h2>
+		<ul class="book-list">
+			{% for book in books %}
+			<li><a href="/book/{{book.id}}" title="{{book.title}}"><img src="{{MEDIA_URL}}{{book.image|default:'books/book-default.png'}}" /></a><a href="/book/{{book.id}}/" title="{{book.title}}"><span class="label">{{ book.title|truncatewords:5 }}</span></a></li>
+			{% endfor %}
+		</ul>
+		<div class="clear"></div>
+	</div>
+	{% endfor %}
+</div>
+
+{% endblock %}
+
+{% block library_side %}
+
+{% endblock %}

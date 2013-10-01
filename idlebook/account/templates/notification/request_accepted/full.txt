@@ -1,0 +1,3 @@
+{{writer}} has accepted your request for the book {{book_title}}. You can view the request at:
+
+http://{{current_site}}/requests/{{trade_id}}

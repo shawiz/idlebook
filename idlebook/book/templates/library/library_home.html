@@ -1,0 +1,64 @@
+{% extends "library/library_base.html" %}
+{% load cache %}
+
+{% block library_main %}
+<h1 class="title">Library</h1>
+<div id="main">
+    {% for dept_id, info in books_in_dept.items %}
+	<div class="main-block">
+		<h2>Textbooks used in {{info.name}} <a href="/library/washington/depts/{{dept_id}}/">(view all)</a></h2>
+		<ul class="book-list">
+			{% for book in info.books %}
+			<li><a href="/book/{{book.id}}" title="{{book.title}}"><img src="{{MEDIA_URL}}{{book.image|default:'books/book-default.png'}}" /></a><a href="/book/{{book.id}}/" title="{{book.title}}"><span class="label">{{ book.title|truncatewords:5 }}</span></a></li>
+			{% endfor %}
+		</ul>
+		<div class="clear"></div>
+	</div>
+	{% endfor %}
+	
+	{% cache 600 new_library_books %}
+	<div class="main-block">
+		<h2>New to Library</h2>
+		{% if new_books %}
+		<ul class="book-list">
+			{% for book in new_books %}
+			<li><a href="/book/{{book.id}}" title="{{book.title}}"><img src="{{MEDIA_URL}}{{book.image|default:'books/book-default.png'}}" /></a><a href="/book/{{book.id}}/" title="{{book.title}}"><span class="label">{{ book.title|truncatewords:5 }}</span></a></li>
+			{% endfor %}
+		</ul>
+		{% else %}
+			<p>There is currently no book in the library : (</p>
+		{% endif %}
+		<div class="clear"></div>
+	</div>
+	{% endcache %}
+</div>
+{% endblock %}
+
+{% block library_side %}
+<div id="aside">
+	<div class="side-item" id="library-browse">
+		<a href="/library/washington/depts/">Browse by department</a>
+	</div>
+	{% if user.is_authenticated %}
+	<div class="side-item" id="library-edit-dept">
+		<a href="/settings/network/" title="This helps you find books easier">(change my departments)</a>
+	</div>
+	{% endif %}
+	<div class="side-block" id="library-stats">
+		<ul class="single-stats">
+			<li>{{book_count}}<span class="stats-label">book copies</span></li>
+		</ul>
+	</div>
+	{% cache 600 pop_library_books %}
+	<div class="side-block" id="library-popular">
+		<h2>Most wanted books</h2>
+		<ol class="multiple-stats">
+			{% for book in wanted %}
+			<li><p class="count">{{ book.wish_count }}</p><a href="/book/{{book.id}}/" title="{{book.title}}">{{ book.title|truncatewords:5 }}</a></li>
+			{% endfor %}
+		</ol>
+	 	<div class="clear"></div>
+	</div>
+	{% endcache %}
+</div>
+{% endblock %}

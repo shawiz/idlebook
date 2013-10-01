@@ -1,0 +1,120 @@
+{% extends "base.html" %}
+{% load cache %}
+
+{% block title %}idlebook{% endblock %}
+
+{% block css %}
+<link href="{{STATIC_URL}}css/home.css" rel="stylesheet" type="text/css" />
+<link href="{{STATIC_URL}}css/howitworks.css" rel="stylesheet" type="text/css" />
+{% endblock %}
+
+{% block scripts %}
+<script src="{{STATIC_URL}}scripts/index.js" type="text/javascript"></script>
+<script src="{{STATIC_URL}}scripts/lookup.js" type="text/javascript"></script>
+{% endblock %}
+
+{% block header %}
+<div id="header-wrap">
+	<div id="header">
+		<div id="site-logo">
+			<a href="/"><img src="{{STATIC_URL}}images/index-logo.png" /></a>
+		</div>
+		<ul id="site-nav">
+			<li><a href="#" class="how" id="how-nav">How it works</a></li>
+			<li><a href="/library/">Library</a></li>
+		</ul>
+	</div>
+</div>
+{% endblock %}
+
+{% block content %}
+{% cache 3000 howitworks %}
+<div id="howitworks">
+    <p><a class="how-tab active" href="#">As Owner</a><a class="how-tab" href="#">As Buyer/Renter</a></p>
+	<a id="hide" class="how" href="#">× hide</a>
+	<div id="graphs">
+    	<div>
+        	<div id="step1" class="step">
+        	    <img src="{{STATIC_URL}}images/how/lend_1_web.png" />
+        	    <p>1. Tell us what books you have.</p>
+        	</div>
+        	<div id="step2" class="step">
+        	    <img src="{{STATIC_URL}}images/how/lend_2_web.png" />
+        	    <p>2. We'll find you renters or buyers. You'll be notified by Email.</p>
+        	</div>
+        	<div id="step3" class="step">
+        	    <img src="{{STATIC_URL}}images/how/lend_3_web.png" />
+        	    <p>3. Drop your book off at our dropbox on the Ave.</p>
+        	</div>
+        	<div id="step4" class="step">
+        	    <img src="{{STATIC_URL}}images/how/lend_4_web.png" />
+        	    <p>4. Get paid as soon as your renter / buyer picks up.</p>
+        	</div>
+        </div>
+        <div class="hidden">
+    	    <div id="step5" class="step">
+    	        <img src="{{STATIC_URL}}images/how/rent_1_web.png" />
+    	        <p>1. Find books you want to buy or rent.</p>
+    	    </div>
+    	    <div id="step6" class="step">
+    	        <img src="{{STATIC_URL}}images/how/rent_2_web.png" />
+    	        <p>2. Send a request to the book owner.</p>
+    	    </div>
+    	    <div id="step7" class="step">
+    	        <img src="{{STATIC_URL}}images/how/rent_3_web.png" />
+    	        <p>3. After the owner agrees and leave the book at our dropbox, pick it up and pay up front.</p>
+    	    </div>
+    	    <div id="step8" class="step">
+    	        <img src="{{STATIC_URL}}images/how/rent_4_web.png" />
+    	        <p>4. If you're renting, return it to our dropbox when it's due.</p>
+    	    </div>
+        </div>
+    </div>
+</div>
+{% endcache %}
+<div id="content" class="dark">
+	<div id="container">
+		<div id="main">
+			<div id="intro">
+				<p>Idlebook helps you find out where you can get books for next quarter, and connects you with people looking for books too. <a href="#" class="how">learn more</a></p>
+			</div>
+			<div id="search-focus-zone">
+				<div id="search-bar">
+					<input type="text" name="q" class="ac-input" id="search-box" title="Search to add books to my listings and wishlist to see how much I can make and save" value="Enter book title or course name (i.e. math124)" />
+				</div>
+				<div id="selectors">
+					<div class="selector left active" id="own-selector">add books I own</div>
+					<div class="selector right" id="wish-selector"> add books I want</div>
+				</div>
+			</div>
+			<div id="book-lists">
+				<div id="own-list" class="single-book-list"><ul></ul></div>
+				<div id="wish-list" class="single-book-list"><ul></ul></div>
+				<div class="clear"></div>
+			</div>
+			<div id="book-prices">
+				<div id="own-price-count" class="price-count">
+					<p>bookstore buyback price <em class="red">$</em><span id="own-price">0.00</span></p>
+					<p>make <em class="green">$</em><span id="own-rent">0.00</span> per quarter by lending them</p>
+				</div>
+				<div id="wish-price-count" class="price-count">
+					<p>total <em class="red">$</em><span id="wish-price">0.00</span></p>
+					<p>spend <em class="green">$</em><span id="wish-rent">0.00</span> a quarter by renting them</p>
+				</div>
+				<div class="clear"></div>
+				<p id="book-info-notice">Your book info had been saved. Add more books and sign up to share it with your friends.</p>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div id="aside">
+			<div class="side-block" id="login">
+				<h2>Get Started</h2>
+				<p>You need a <strong class="facebook">Facebook</strong> account and <strong>@uw.edu</strong> email to use this service. (<a href="#" title="We need to confirm that everyone is a UW student to prevent bad people from stealing your books." rel="tipsy">?</a>)</p>
+			    <img src="{{STATIC_URL}}images/facebook-connect.png" title="Connect with Facebook" id="facebook-login-button" />
+				<p class="tip">Click the button above to sign up or login</p>
+			</div>
+		</div>
+		<div class="clear"></div>
+	</div>
+</div>
+{% endblock %}

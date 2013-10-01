@@ -1,0 +1,2069 @@
+10023|AA|503|A,B|9780521405980|Mechanics & Thermodynamics Of Continua|N/NewPrice|N/UsedPrice
+10025|AA|510|A|9780387950013|Linear Operator TheoryIn Engineering & Scien|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+10035|AA|547|A|9780195117776|Linear SystemTheory & Design|N/NewPrice|N/UsedPrice
+10066|AAS|101|A|9780295952895|America IsIn The Heart|14.95|11.25
+10066|AAS|101|A|9780295969695|Quiet Odyssey|18.95|N/UsedPrice
+10066|AAS|101|A|9780805784374|Asian Americans|29.00|21.75
+10066|AAS|101|A|9780816648917|Chains OfBabylon|N/NewPrice|15.00
+10073|AAS|330|A|9780295958330|Chickencoop Chinaman /Year Of Dragon|N/NewPrice|15.00
+10073|AAS|330|A|9780295974330|Fish Head Soup|N/NewPrice|19.50
+10073|AAS|330|A|9780452272590|M Butterfly|N/NewPrice|9.00
+10073|AAS|330|A|9780802135001|Porcelain & ALanguage Of Their Own|N/NewPrice|14.25
+10073|AAS|330|A|9780870238567|Unbroken Thread|N/NewPrice|17.25|N/NewPrice|N/UsedPrice
+10074|AAS|360|A|9780295952895|America Is InThe Heart|14.95|11.25
+10074|AAS|360|A|9780393321548|American Son|N/NewPrice|N/UsedPrice
+10074|AAS|360|A|9780822332176|Global Divas|N/NewPrice|17.25
+10074|AAS|360|A|9781592131228|Positively No FilipinosAllowed|N/NewPrice|N/UsedPrice
+10075|AAS|370|A|9780295973760|Japanese American Ethnicity|N/NewPrice|21.00
+10076|AAS|385|A|9780813539027|Race Rights& Asian American Experience (2e 0|N/NewPrice|N/UsedPrice
+10077|AAS|395|A|9780300078732|Children Of CambodiasKilling Fields|N/NewPrice|14.65
+10077|AAS|395|A|9780374525644|Spirit Catches You& You Fall Down|15.00|11.25
+10077|AAS|395|A|9780375700026|Gangster We AreAll Looking For|N/NewPrice|11.25
+10077|AAS|395|A|9780691021157|Family Tightrope|N/NewPrice|N/UsedPrice
+10077|AAS|395|A|9780807745748|Up Against Whiteness|23.95|18.00
+10077|AAS|395|A|9781566391634|Hmong Means Free|N/NewPrice|20.25
+10077|AAS|395|A|9781566891677|Crossing Three Wildernesses|N/NewPrice|12.00
+10084|ACCTG|215|A,B|9780077520649|2 P/sFinancial Accounting (2e 11) W/ Connect|123.25|N/UsedPrice
+10089|ACCTG|215|A,B|9780077520649|2 P/sFinancial Accounting (2e 11) W/ Connect|123.25|N/UsedPrice
+10094|ACCTG|215|C|9780077520649|2 P/s Financial Accounting (2e 11) W/ Connect|123.25|N/UsedPrice
+10105|ACCTG|225|A|9780077559977|2 P/sManagerial Accounting (14e 12) W/ Conne|N/NewPrice|N/UsedPrice
+10111|ACCTG|301|A,B|9780077958015|2 P/s IntermediateAccounting (6e 11) W/ Conn|152.00|N/UsedPrice
+10112|ACCTG|301|A,B|9780077958015|2 P/s Intermediate Accounting (6e 11) W/ Conn|152.00|N/UsedPrice
+10113|ACCTG|301|C|9780077958015|2 P/s Intermediate Accounting (6e 11) W/ Conn|152.00|N/UsedPrice
+10114|ACCTG|302|A|9780077958015|2 P/s Intermediate Accounting (6e 11) W/ Conn|152.00|N/UsedPrice
+10115|ACCTG|303|A,B|9780077958015|2 P/s IntermediateAccounting (6e 11) W/ Conn|152.00|N/UsedPrice
+10116|ACCTG|303|A,B|9780077958015|2 P/sIntermediate Accounting (6e 11) W/ Conn|152.00|N/UsedPrice
+10117|ACCTG|311|A|9780132795166|2 P/sCost Accounting (14e 12) W/ My Accounti|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+10118|ACCTG|320|A|9780132552622|Accounting Information Systems(12e 12)|N/NewPrice|148.90
+10118|ACCTG|320|A|9780912503271|Systems Understanding Aid(7e 08)|55.20|N/UsedPrice
+10119|ACCTG|321|A,B|9780974067995|2012 Intro ToTaxation|N/NewPrice|N/UsedPrice
+10120|ACCTG|321|A,B|9780974067995|2012 Intro ToTaxation|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+10121|ACCTG|411|A|9780136084730|Auditing &Assurance Services (13e 09)|212.75|159.60
+10123|ACCTG|485|A|9782222222224|See InstructorFor Course Materials|N/NewPrice|N/UsedPrice
+10127|ACCTG|500|A-D|9781111004897|Financial Accounting (13e10) (custom)|N/NewPrice|134.85
+10128|ACCTG|500|A-D|9781111004897|Financial Accounting(13e 10) (custom)|N/NewPrice|134.85
+10129|ACCTG|500|A-D|9781111004897|Financial Accounting (13e 10) (custom)|N/NewPrice|134.85
+10130|ACCTG|500|A-D|9781111004897|Financial Accounting(13e 10) (custom)|N/NewPrice|134.85
+10132|ACCTG|510|A-D|9780078110863|Financial Reporting& Analysis|N/NewPrice|N/UsedPrice
+10133|ACCTG|510|A-D|9780078110863|Financial Reporting& Analysis|N/NewPrice|N/UsedPrice
+10134|ACCTG|510|A-D|9780078110863|Financial Reporting& Analysis|N/NewPrice|N/UsedPrice
+10135|ACCTG|510|A-D|9780078110863|Financial Reporting &Analysis|N/NewPrice|N/UsedPrice
+10136|ACCTG|521|A|9781439078198|Contemporary Auditing (7e 10)|N/NewPrice|75.40
+10137|ACCTG|523|A|9780078110863|Financial Reporting& Analysis|N/NewPrice|N/UsedPrice
+10138|ACCTG|527|A,B|9780132567244|Effective Writing: Hbk F/ Accountants (9e 12|N/NewPrice|N/UsedPrice
+10139|ACCTG|527|A,B|9780132567244|Effective Writing: Hbk F/ Accountants (9e 12|N/NewPrice|N/UsedPrice
+10140|ACCTG|530|A|9780808027034|6 P/s Internal Revenue Regulations July 2011|N/NewPrice|N/UsedPrice
+10140|ACCTG|530|A|9780808027089|2 P/s Internal Revenue Code July 2011|N/NewPrice|N/UsedPrice
+10140|ACCTG|533|A|9781422422632|Tax Controversies (3e 08)|N/NewPrice|N/UsedPrice
+10142|ACCTG|534|A|9780791378137|2 P/s Federal Income Taxation Of Corporations|N/NewPrice|N/UsedPrice
+10142|ACCTG|534|A|9780808027089|2 P/s Internal Revenue Code July 2011|N/NewPrice|N/UsedPrice
+10143|ACCTG|539|A,B|9780226104201|Chicago Manual OfStyle (16e 10)|65.00|48.75
+10143|ACCTG|539|A,B|9780808027089|2 P/s InternalRevenue Code July 2011|N/NewPrice|N/UsedPrice
+10144|ACCTG|539|A,B|9780226104201|Chicago Manual Of Style (16e 10)|65.00|48.75
+10144|ACCTG|539|A,B|9780808027089|2 P/s Internal Revenue Code July 2011|N/NewPrice|N/UsedPrice
+10151|AES|150|A,B|9780072963786|From Slavery ToFreedom (9e 10)|N/NewPrice|80.10
+10151|AES|150|A,B|9780143119289|Harvest Of Empire(rev 11)|N/NewPrice|N/UsedPrice
+10151|AES|150|A,B|9780316022361|Different Mirror (revised)|17.99|13.50
+10151|AES|150|A,B|9780805086843|Bury My HeartAt Wounded Knee ( Movie Tie-in|N/NewPrice|12.75
+10151|AES|150|A,B|9780805784374|Asian Americans|29.00|21.75
+10152|AES|150|A,B|9780072963786|From SlaveryTo Freedom (9e 10)|N/NewPrice|80.10
+10152|AES|150|A,B|9780143119289|Harvest OfEmpire (rev 11)|N/NewPrice|N/UsedPrice
+10152|AES|150|A,B|9780316022361|Different Mirror(revised)|17.99|13.50
+10152|AES|150|A,B|9780805086843|Bury MyHeart At Wounded Knee ( Movie Tie-in|N/NewPrice|12.75
+10152|AES|150|A,B|9780805784374|Asian Americans|29.00|21.75
+10217|AMATH|505|A|9780123737359|Fluid Mechanics (4e08)|N/NewPrice|75.00
+10245|ANTH|101|A|9780205234103|Conformity &Conflict (14e 12)|N/NewPrice|N/UsedPrice
+10245|ANTH|101|A|9780520238886|Chechnya|N/NewPrice|N/UsedPrice
+10245|ANTH|101|A|9780812216219|Different KindOf War Story|N/NewPrice|N/UsedPrice
+10245|ANTH|101|A|9780812216882|Unraveling SomaliaRace & Legacy Of Slavery|N/NewPrice|N/UsedPrice
+10245|ANTH|101|A|9780812220711|Aceh, IndonesiaSecuring Insecure State|N/NewPrice|N/UsedPrice
+10245|ANTH|101|A|9780812236880|Masking Terror|N/NewPrice|N/UsedPrice
+10245|ANTH|101|A|9780812240085|Guatemalan InAftermath Of Violence|N/NewPrice|N/UsedPrice
+10245|ANTH|101|A|9780822344391|Making OfHuman Bomb|N/NewPrice|N/UsedPrice
+10245|ANTH|101|A|9780822350774|War Machines|N/NewPrice|N/UsedPrice
+10245|ANTH|101|A|9781111301514|Cultural Anthropology(9e 12)|N/NewPrice|N/UsedPrice
+10259|ANTH|215|A|9780374525644|Spirit CatchesYou & You Fall Down|15.00|11.25
+10259|ANTH|215|A|9780520248397|Aids &Accusation Updtd W/ New Preface|22.95|17.25
+10259|ANTH|215|A|9780826517180|Family Secrets|34.95|26.25
+10259|ANTH|215|A|9780881337488|Dancing Skeletons|16.95|12.75
+10259|ANTH|215|A|9780897895484|Cultural ContextOf Health Illness & Medicine|36.95|27.75
+10259|ANTH|215|A|9781560982517|Cancer InThe Community|N/NewPrice|12.75
+10268|ANTH|313|A|9781588264664|Understanding ContemporaryAfrica (4e 07)|N/NewPrice|N/UsedPrice
+10271|ANTH|362|A|9780374527075|Small Place|N/NewPrice|9.75
+10271|ANTH|362|A|9780375725340|Art OfTravel|N/NewPrice|N/UsedPrice
+10271|ANTH|362|A|9780822332978|Whats LoveGot To Do With It ?|N/NewPrice|N/UsedPrice
+10272|ANTH|374|A,B|9780375701214|Diving Bell & Butterfly|N/NewPrice|N/UsedPrice
+10272|ANTH|374|A,B|9780807072615|Stranger In The Village Of The Sick|N/NewPrice|N/UsedPrice
+10272|ANTH|374|A,B|9781602860568|Bloodletting & Miraculous Cures|N/NewPrice|N/UsedPrice
+10284|ANTH|569|A|9780140445688|V.1 Capital|N/NewPrice|N/UsedPrice
+10284|ANTH|569|A|9780140445756|Grundrisse|N/NewPrice|N/UsedPrice
+10284|ANTH|569|A|9780674060289|Commonwealth|N/NewPrice|N/UsedPrice
+10284|ANTH|569|A|9780936756257|Marx BeyondMarx|N/NewPrice|N/UsedPrice
+10284|ANTH|569|A|9781570270598|Caliban &Witch|N/NewPrice|N/UsedPrice
+10284|ANTH|569|A|9781902593296|Reading CapitalPolitically|N/NewPrice|N/UsedPrice
+10288|ARAB|411|A-C|9780198643210|Concise Oxford English-arabic Dictionary ( En|45.00|33.75
+10288|ARAB|411|A-C|9781405155021|Modern Standard Arabic|N/NewPrice|N/UsedPrice
+10288|ARAB|411|A-C|9781589016323|2 P/s Alif Baa An Intro To Arabic Letters & S|N/NewPrice|N/UsedPrice
+10288|ARAB|411|A-C|9781589017368|Pt.1 Al Kitaab W/ Dvds (3e 12) ( Al-kitaab )|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+10289|ARAB|411|A-C|9780198643210|Concise OxfordEnglish-arabic Dictionary ( En|45.00|33.75
+10289|ARAB|411|A-C|9781405155021|Modern StandardArabic|N/NewPrice|N/UsedPrice
+10289|ARAB|411|A-C|9781589016323|2 P/sAlif Baa An Intro To Arabic Letters & S|N/NewPrice|N/UsedPrice
+10289|ARAB|411|A-C|9781589017368|Pt.1 AlKitaab W/ Dvds (3e 12) ( Al-kitaab )|N/NewPrice|N/UsedPrice
+10290|ARAB|411|A-C|9780198643210|Concise Oxford English-arabicDictionary ( En|45.00|33.75
+10290|ARAB|411|A-C|9781405155021|Modern Standard Arabic|N/NewPrice|N/UsedPrice
+10290|ARAB|411|A-C|9781589016323|2 P/s AlifBaa An Intro To Arabic Letters & S|N/NewPrice|N/UsedPrice
+10290|ARAB|411|A-C|9781589017368|Pt.1 Al KitaabW/ Dvds (3e 12) ( Al-kitaab )|N/NewPrice|N/UsedPrice
+10291|ARAB|421|A|9780198643210|Concise OxfordEnglish-arabic Dictionary ( En|45.00|33.75
+10291|ARAB|421|A|9781405155021|Modern StandardArabic|N/NewPrice|N/UsedPrice
+10291|ARAB|421|A|9781589010963|Pt.2 AlKitaab (w/ Dvd ) (2e 06) ( Al-kitaab|N/NewPrice|N/UsedPrice
+10294|ARAB|496|C|9781405155021|Modern StandardArabic|N/NewPrice|N/UsedPrice
+10294|ARAB|496|C|9789774161087|Media Arabic|N/NewPrice|N/UsedPrice
+10298|ARAB|596|C|9781405155021|Modern Standard Arabic|N/NewPrice|N/UsedPrice
+10298|ARAB|596|C|9789774161087|Media Arabic|N/NewPrice|N/UsedPrice
+10300|ARCH|150|A,B|9780714836164|Story Of Architecture(2e 97)|N/NewPrice|21.00
+10301|ARCH|150|A,B|9780714836164|Story Of Architecture(2e 97)|N/NewPrice|21.00
+10311|ARCH|350|A-D|9780195083798|History Of Architecture(2e 95)|N/NewPrice|74.25
+10311|ARCH|350|A-D|9780471288213|Visual Dictionary OfArchitecture|N/NewPrice|37.50|N/NewPrice|N/UsedPrice
+10312|ARCH|350|A-D|9780195083798|History OfArchitecture (2e 95)|N/NewPrice|74.25
+10312|ARCH|350|A-D|9780471288213|Visual DictionaryOf Architecture|N/NewPrice|37.50
+10313|ARCH|350|A-D|9780195083798|History Of Architecture(2e 95)|N/NewPrice|74.25
+10313|ARCH|350|A-D|9780471288213|Visual Dictionary OfArchitecture|N/NewPrice|37.50
+10314|ARCH|350|A-D|9780195083798|History Of Architecture (2e 95)|N/NewPrice|74.25
+10314|ARCH|350|A-D|9780471288213|Visual Dictionary Of Architecture|N/NewPrice|37.50
+10342|ARCH|590|A|9780110021393|V.1 Arch590 Course Pack 114 R|48.25|N/UsedPrice
+10342|ARCH|590|A|9780110021409|V.2 Arch590 Course Pack 114 R|39.75|N/UsedPrice
+10342|ARCH|590|A|9780262620017|Image OfThe City|N/NewPrice|16.50
+10342|ARCH|590|A|9780679741954|Death &Life Of Great American Cities|16.00|12.00
+10342|ARCH|590|A|9780970632418|Social LifeOf Small Urban Spaces ( Project F|N/NewPrice|26.25
+10449|ARTH|201|A|9780495794479|3 P/s GardnersArt Through Ages (13e 09) (bac|74.25|N/UsedPrice
+10459|ARTH|250|A|9780140513295|Penguin HistoricalAtlas Of Ancient Rome|N/NewPrice|12.75
+10468|ARTH|317|A|9780824817176|Tea InJapan : Essays On Hist Of Chanoyu|N/NewPrice|N/UsedPrice
+10471|ARTH|374|A|9780064300773|Baroque (in-77)|N/NewPrice|N/UsedPrice
+10471|ARTH|374|A|9780300074512|Dutch Painting 1600-1800|N/NewPrice|N/UsedPrice
+10471|ARTH|374|A|9780300104691|Flemish Art & Architecture 1585-1700|N/NewPrice|N/UsedPrice
+10473|ARTH|384|A|9780136138556|Short Gt Writing About Art (9e O8)|N/NewPrice|39.20
+10473|ARTH|384|A|9780500287156|Framing America|N/NewPrice|54.20
+10488|ARTH|581|A|9780767919388|At Home|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+10498|ASIAN|203|A|9780140298666|Ramayana (tr. Sattar)|N/NewPrice|N/UsedPrice
+10498|ASIAN|203|A|9780140444025|Rig Veda|N/NewPrice|N/UsedPrice
+10498|ASIAN|203|A|9780192839886|Pancatantra|N/NewPrice|9.75
+10498|ASIAN|203|A|9780231156554|Sakuntala|N/NewPrice|N/UsedPrice
+10498|ASIAN|203|A|9780814707296|Little Clay Cart(tr Acharya )|N/NewPrice|N/UsedPrice
+10502|ASIAN|207|A|9780205770779|Film (3e 12)|N/NewPrice|N/UsedPrice
+10514|ASIAN|498|B|9780140455182|Tale Of Four Dervishes|N/NewPrice|N/UsedPrice
+10514|ASIAN|498|B|9780231110556|Mahabharata|29.00|21.75
+10514|ASIAN|498|B|9780393331660|Arabian Nights|N/NewPrice|N/UsedPrice
+10517|ASIAN|510|A|9780131579064|Communicative LanguageTeaching In Action|68.25|51.20
+10517|ASIAN|510|A|9780521004404|Methodology InLanguage Teaching|N/NewPrice|N/UsedPrice
+10521|ASL|101|A-D|9781881133209|2 P/s Master Asl|155.75|N/UsedPrice
+10522|ASL|101|A-D|9781881133209|2 P/sMaster Asl|155.75|N/UsedPrice
+10523|ASL|101|A-D|9781881133209|2 P/s Master Asl|155.75|N/UsedPrice
+10524|ASL|101|A-D|9781881133209|2 P/s Master Asl|155.75|N/UsedPrice
+10525|ASL|201|A|9780674022522|Inside DeafCulture|N/NewPrice|N/UsedPrice
+10525|ASL|201|A|9781581211313|2 P/sLev.2 Signing Naturally W/ Dvd|N/NewPrice|N/UsedPrice
+10526|ASTBIO|115|A|9780321687678|Life InThe Universe (3e 12)|N/NewPrice|N/UsedPrice
+10530|ASTR|101|A|9780321642707|Cosmic Perspective:Stars, Galaxies & Cosmolo|85.25|63.95
+10552|ASTR|102|A|9780321642707|Cosmic Perspective:Stars, Galaxies & Cosmolo|85.25|63.95
+10555|ASTR|115|A|9780321687678|Life InThe Universe (3e 12)|N/NewPrice|N/UsedPrice
+10573|ASTR|301|A|9780321642707|Cosmic Perspective:Stars, Galaxies & Cosmolo|85.25|63.95
+10578|ASTR|497|A|9780521878081|Intro ToRadio Astronomy (3e 09)|N/NewPrice|N/UsedPrice
+10581|ASTR|500|A|9780472034512|First Day To Final Grade|N/NewPrice|N/UsedPrice
+10583|ASTR|519|A|9780471827597|Radiative ProcessesIn Astrophysics|N/NewPrice|N/UsedPrice
+10590|ATMS|101|A|9780495115588|Essentials OfMeteorology (5e 08)|N/NewPrice|N/UsedPrice
+10590|ATMS|101|A|9781111031404|Weather (5e08) (custom)|100.50|75.40
+10600|ATMS|111|A|9781848365797|Rough Guide To Climate Change (3e 11)|N/NewPrice|N/UsedPrice
+10609|ATMS|211|A|9780321597793|Earth System (3e10)|129.25|96.95|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+10612|ATMS|301|A|9780127329512|Atmospheric Science (2e 06)|N/NewPrice|54.75
+10614|ATMS|431|A|9780120593545|Introduction ToMicrometeorology (2e 01)|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+10615|ATMS|441|A|9780123540157|Intro To Dynamic Meteorology (4e 04)|N/NewPrice|60.00
+10616|ATMS|458|A|9780691001852|Intro ToAtmospheric Chemistry|N/NewPrice|56.25
+10621|ATMS|501|A|9780127329512|Atmospheric Science (2e 06)|N/NewPrice|54.75
+10622|ATMS|502|A|9780470864654|Mid-latitude AtmosphericDynamics|N/NewPrice|N/UsedPrice
+10623|ATMS|503|A|9780123540157|Intro ToDynamic Meteorology (4e 04)|N/NewPrice|60.00
+10624|ATMS|505|A|9780123737359|Fluid Mechanics (4e08)|N/NewPrice|75.00
+10628|ATMS|533|A|9780124514515|Intro To Atmospheric Radiation (2e 02)|N/NewPrice|N/UsedPrice
+10749|BCMU|301|D|9780132147712|Gt ManagerialCommunication (9e 12)|N/NewPrice|N/UsedPrice
+10749|BCMU|301|D|9780977261833|Be QuietBe Heard (3e 06)|N/NewPrice|N/UsedPrice
+10833|BECON|300|A-C|9780077907556|Managerial Economics (10e11)|130.00|97.50|N/NewPrice|N/UsedPrice
+10834|BECON|300|A-C|9780077907556|Managerial Economics (10e11)|130.00|97.50
+10835|BECON|300|A-C|9780077907556|Managerial Economics (10e 11)|130.00|97.50|N/NewPrice|N/UsedPrice
+10908|B H|402|B|9780073407425|Morality & The Good Life|N/NewPrice|70.50
+10908|B H|402|B|9780495502371|Conduct & Character Readings In Moral Theory|N/NewPrice|N/UsedPrice
+10997|BCS|404|A|9780415450812|Colloquial Croatian|N/NewPrice|N/UsedPrice
+10997|BCS|404|A|9780415454018|Colloquial Serbian|N/NewPrice|N/UsedPrice
+11018|BIOA|101|A,B|9780195387407|Human Biological Variation (2e 11)|N/NewPrice|N/UsedPrice
+11053|BIOC|405|A|9780470129302|Fundamentals Of Biochemistry (3e 08)|N/NewPrice|158.65
+11055|BIOC|440|A|9780716771081|Lehningers Principles Of Biochemistry (5e 08)|199.25|149.45
+11055|BIOC|440|A|9781429250092|3 P/s Lehningers Principles Of Biochemistry (|N/NewPrice|N/UsedPrice
+11113|BIOEN|325|A|9780070502079|Schaums Outline HeatTransfer (2e 98) Schaum'|N/NewPrice|N/UsedPrice
+11113|BIOEN|325|A|9780131569881|Transport Phenomena InBiological Systems (2e|N/NewPrice|N/UsedPrice
+11121|BIOEN|420|A|9780471237662|Intro ToBiomedical Imaging|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+11123|BIOEN|490|A|9780125824637|Biomaterials Science(2e 05)|N/NewPrice|89.25
+11146|BIOEN|599|I|9780130653536|Medical Imaging Signals & Systems|N/NewPrice|N/UsedPrice
+11157|BIOL|114|A|9780321687678|Life InThe Universe (3e 12)|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+11160|BIOL|118|A,B|9780321575548|Essentials Of Anatomy& Physiology W/ Cd (5e|N/NewPrice|117.60
+11160|BIOL|118|A,B|9781934931400|Response Card RfLcd Radio Frequency|42.00|31.50
+11161|BIOL|118|A,B|9780321575548|Essentials OfAnatomy & Physiology W/ Cd (5e|N/NewPrice|117.60
+11161|BIOL|118|A,B|9781934931400|Response CardRf Lcd Radio Frequency|42.00|31.50
+11168|BIOL|180|A|9780321561688|Sg T/a BiologicalScience (4e 11)|53.00|N/UsedPrice
+11168|BIOL|180|A|9780321597960|2 P/s BiologicalScience (4e 11) W/ Student A|194.75|N/UsedPrice
+11168|BIOL|180|A|9781934931400|Response Card RfLcd Radio Frequency|42.00|31.50
+11204|BIOL|200|A|9780321561688|Sg T/a Biological Science (4e 11)|53.00|N/UsedPrice
+11204|BIOL|200|A|9780321597960|2 P/s Biological Science (4e 11) W/ Student A|194.75|N/UsedPrice
+11204|BIOL|200|A|9781889899091|Molecular Biology Made Simple & Fun 4e10|49.95|N/UsedPrice
+11204|BIOL|200|A|9781934931400|Response Card Rf Lcd Radio Frequency|42.00|31.50
+11221|BIOL|220|A|9780321597960|2 P/s Biological Science (4e 11) W/ Student A|194.75|N/UsedPrice
+11235|BIOL|250|B,D|9780805345827|Marine Biology|139.25|N/UsedPrice
+11243|BIOL|280|A|9780309100618|Out Of ThinAir|N/NewPrice|N/UsedPrice
+11243|BIOL|280|A|9780393307009|Wonderful Life|N/NewPrice|N/UsedPrice
+11251|BIOL|350|A|9780878933174|Animal Physiology (2e08)|N/NewPrice|96.00
+11258|BIOL|354|A|9780879696849|Evolution (4e07)|N/NewPrice|82.50|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+11265|BIOL|355|A,B|9780470483374|Cell &Molecular Biology (6e 10)|N/NewPrice|124.50
+11269|BIOL|355|A,B|9780470483374|Cell & MolecularBiology (6e 10)|N/NewPrice|124.50
+11273|BIOL|356|A|9780073383224|Ecology (5e09)|N/NewPrice|108.00
+11273|BIOL|356|A|9781934931400|Response CardRf Lcd Radio Frequency|42.00|31.50
+11283|BIOL|404|A|9780716738633|Eckert AnimalPhysiology (5e 02)|N/NewPrice|112.50
+11284|BIOL|408|A|9780199208302|Behavioral Neurobiology (2e10)|N/NewPrice|N/UsedPrice
+11285|BIOL|411|A|9780878933846|Developmental Biology (9e 10)|N/NewPrice|93.75
+11291|BIOL|441|A|9780716710073|Biology Of Plants (7e 05)|N/NewPrice|107.85
+11295|BIOL|453|A|9780030223693|Functional AnatomyVertebrates (3e 00)|N/NewPrice|N/UsedPrice
+11295|BIOL|453|A|9780895827487|Comparative Anatomy(2e 08) Looseleaf|N/NewPrice|N/UsedPrice
+11299|BIOL|462|A|9780878933174|Animal Physiology(2e 08)|N/NewPrice|96.00
+11307|BIOL|465|A|9780120887682|Vertebrate Endocrinology|N/NewPrice|74.25
+11308|BIOL|468|A|9780321559395|Human Physiology (w/Ip Cd) (5e 10)|N/NewPrice|134.25
+11316|BIOL|481|A|9781934931400|Response Card Rf Lcd Radio Frequency|42.00|31.50
+11323|BIOL|492|B|9780787965679|Tools ForTeaching (2e 09)|N/NewPrice|N/UsedPrice
+11340|BIOL|505|A|9780787965679|Tools For Teaching(2e 09)|N/NewPrice|N/UsedPrice
+11376|BIOL|563|A|9781934931400|Response Card RfLcd Radio Frequency|42.00|31.50
+11404|BIOST|508|A|9780205510672|Reading Statistics & Research 5e08|N/NewPrice|N/UsedPrice
+11404|BIOST|508|A|9780387329130|Statistical Reasoning In Medicine|N/NewPrice|N/UsedPrice
+11404|BIOST|508|A|9780470025192|Medical Statistics 4e06|N/NewPrice|N/UsedPrice
+11407|BIOST|511|A|9781429272728|Practice OfStatistics In Life Sciences W/ St|N/NewPrice|N/UsedPrice
+11414|BIOST|514|A|9780534370688|Fundamentals Of Biostatistics(w/3.5 Disk)|N/NewPrice|86.65
+11414|BIOST|514|A|9780538733496|Fundamentals Of Biostatistics7e11|N/NewPrice|N/UsedPrice
+11417|BIOST|517|A|9780534370688|Fundamentals Of Biostatistics(w/3.5 Disk)|N/NewPrice|86.65
+11417|BIOST|517|A|9780538733496|Fundamentals Of Biostatistics7e11|N/NewPrice|N/UsedPrice
+11422|BIOST|536|A|9780471356325|Applied LogisticRegression 2e 00|N/NewPrice|N/UsedPrice
+11422|BIOST|536|A|9781441917416|Logistic Regression3e10 Self Learning Text|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+11582|C LIT|230|A|9780299227142|Bloodstoppers &Bearwalkers|24.95|18.75
+11582|C LIT|230|A|9780874211283|Folk Groups& Folklore Genres|29.95|N/UsedPrice
+11584|C LIT|240|A|9780142437612|Seize Day|N/NewPrice|10.50
+11584|C LIT|240|A|9780205668946|Short GtWriting About Film (10 07)|45.00|33.75
+11584|C LIT|240|A|9780374530259|Gimpel Fool& Other Stories|N/NewPrice|10.50
+11584|C LIT|240|A|9780393967975|Metamorphosis (trCorngold )|N/NewPrice|11.25
+11584|C LIT|240|A|9780679748267|Goodbye Columbus|15.00|N/UsedPrice
+11584|C LIT|240|A|9781567923919|Badenheim 1939|14.95|N/UsedPrice
+11589|C LIT|240|H|9780131540576|Writing AboutLiterature (11e 06)|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+11589|C LIT|240|H|9780312664848|Everyday Writer(2009 Mla Updates & 2010 Apa|63.75|47.85
+11589|C LIT|240|H|9780812979305|Reading LolitaIn Tehran|N/NewPrice|N/UsedPrice
+11590|C LIT|272|A|9780205770779|Film (3e 12)|N/NewPrice|N/UsedPrice
+11607|C LIT|320|A|9780060927516|Testaments Betrayed|N/NewPrice|N/UsedPrice
+11607|C LIT|320|A|9780060932145|Book Of Laughter & Forgetting|N/NewPrice|10.50
+11607|C LIT|320|A|9780140127737|Lost In Translation|N/NewPrice|N/UsedPrice
+11607|C LIT|320|A|9780140186246|This Way For Gas Ladies & Gentlemen|N/NewPrice|10.50
+11607|C LIT|320|A|9780156904582|Too Loud Solitude|N/NewPrice|N/UsedPrice
+11607|C LIT|320|A|9780810117808|Border State|N/NewPrice|N/UsedPrice
+11607|C LIT|320|A|9780811213066|On Edge Of Reason|17.95|13.50
+11607|C LIT|320|A|9781400078622|Kaddish For An Unborn Child|N/NewPrice|N/UsedPrice
+11607|C LIT|320|A|9781564782731|Tomb For Boris Davidovich (tr Mikic-mitchell|N/NewPrice|N/UsedPrice
+11608|C LIT|360|A|9780140423556|Heroides (tr Isbell )|N/NewPrice|11.25
+11608|C LIT|360|A|9780140444087|Love Visions|N/NewPrice|N/UsedPrice
+11608|C LIT|360|A|9780199540655|Vita Nuova|N/NewPrice|N/UsedPrice
+11608|C LIT|360|A|9780199540679|Romance Of The Rose (tr Horgan )|N/NewPrice|N/UsedPrice
+11608|C LIT|360|A|9780460877626|Book Of Good Love|N/NewPrice|N/UsedPrice
+11608|C LIT|360|A|9780674011304|Famous Women (tr Brown )|N/NewPrice|N/UsedPrice
+11608|C LIT|360|A|9780892552306|Book Of City Of Ladies|N/NewPrice|9.00
+11611|C LIT|400|A|9780312446345|Critical Visions InFilm Theory|N/NewPrice|N/UsedPrice
+11620|C LIT|596|A|9788433972712|Plata Quemada (anagrama)|N/NewPrice|N/UsedPrice
+11620|C LIT|596|A|9789682708954|El Complot Mongol (joaquin Mortiz)|N/NewPrice|N/UsedPrice
+11620|C LIT|596|A|9789682710155|Las Muertas (booket)|N/NewPrice|N/UsedPrice
+11620|C LIT|596|A|9789707102507|Cementerio De Papel (byblos)|N/NewPrice|N/UsedPrice
+11620|C LIT|596|A|9789708105514|Ensayo De Un Crimen (delbolsillo)|N/NewPrice|N/UsedPrice
+11620|C LIT|596|A|9789870412762|La Pregunta De Sus Ojos (alfaguara)|N/NewPrice|N/UsedPrice
+11640|CEE|306|A|9780138135966|Managing The ConstructionProcess (4e 12)|N/NewPrice|N/UsedPrice
+11641|CEE|316|A|9780132554343|Elementary Surveying (13e12)|N/NewPrice|N/UsedPrice
+11646|CEE|320|A|9780470290750|Principles Of HighwayEngineering & Traffic A|N/NewPrice|108.95
+11647|CEE|342|A|9780470262849|Fundamentals OfFluid Mechanics (6e 09)|N/NewPrice|N/UsedPrice
+11660|CEE|416|A|9780072423327|Urban Transportation Planning (2e 01)|N/NewPrice|N/UsedPrice
+11663|CEE|436|A|9780135897065|Foundation Design (2e01)|181.00|N/UsedPrice
+11664|CEE|452|A|9780132281416|Reinforced Concrete (5e08)|187.00|N/UsedPrice
+11666|CEE|457|A|9780495668251|First Course In Finite Element Method (5e 11)|209.50|N/UsedPrice
+11667|CEE|462|A|9780415429900|Pollutant Effects InFreshwater (3e O7)|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+11670|CEE|476|A|9781577665618|Physical Hydrology W/ Cd (2e 08)|N/NewPrice|N/UsedPrice
+11688|CEE|518|A|9780471331193|Probability Reliability& Statistical Methods|N/NewPrice|N/UsedPrice
+11691|CEE|527|A|9780133749359|Experimental Soil Mechanics|N/NewPrice|N/UsedPrice
+11697|CEE|578|A|9780140178241|Cadillac Desert (rev& Upd)|18.00|N/UsedPrice
+11728|CFR|535|A|9781559632300|Fire EcologyOf Pacific Northwest Forests|N/NewPrice|N/UsedPrice
+11728|CFR|535|A|9781597261838|Fire EcologyIn Rocky Mountain Landscapes|N/NewPrice|N/UsedPrice
+11746|CHEM|110|A|9780538736404|Sg T/a IntroductoryChemistry (7e 11)|N/NewPrice|48.95
+11746|CHEM|110|A|9781439049402|Introductory Chemistry (7e11)|N/NewPrice|124.35
+11751|CHEM|120|A|9780136054542|General Organic & Biological Chemistry (3e 10|N/NewPrice|138.20
+11751|CHEM|120|A|9780321587558|Sg T/a General Organic & Biological Chemistry|N/NewPrice|51.40|N/NewPrice|N/UsedPrice
+11751|CHEM|120|A|9780738041629|General Chemistry Lab Notebook|14.25|N/UsedPrice
+11766|CHEM|142|A|9780547154695|Chemical Principles(6e 09) For Students Taki|165.00|123.75
+11766|CHEM|142|A|9780618946587|Sg T/aChemical Principles (6e 09)|78.25|58.70
+11766|CHEM|142|A|9780738038759|General Chemistry142 Lab Manual 2010-2011|12.50|N/UsedPrice
+11766|CHEM|142|A|9780738041629|General ChemistryLab Notebook|14.25|N/UsedPrice
+11766|CHEM|142|A|9781111004996|General Chemistry142 (6e 09) (custom)|92.00|69.00
+11777|CHEM|142|B|9780618946587|Sg T/a ChemicalPrinciples (6e 09)|78.25|58.70
+11777|CHEM|142|B|9780738038759|General Chemistry 142Lab Manual 2010-2011|12.50|N/UsedPrice
+11777|CHEM|142|B|9780738041629|General Chemistry LabNotebook|14.25|N/UsedPrice
+11777|CHEM|142|B|9781111004996|General Chemistry 142(6e 09) (custom)|92.00|69.00
+11788|CHEM|142|C|9780618946587|Sg T/a Chemical Principles (6e 09)|78.25|58.70
+11788|CHEM|142|C|9780738038759|General Chemistry 142 Lab Manual 2010-2011|12.50|N/UsedPrice
+11788|CHEM|142|C|9780738041629|General Chemistry Lab Notebook|14.25|N/UsedPrice
+11788|CHEM|142|C|9781111004996|General Chemistry 142 (6e 09) (custom)|92.00|69.00
+11795|CHEM|142|D|9780618946587|Sg T/a Chemical Principles (6e 09)|78.25|58.70
+11795|CHEM|142|D|9780738038759|General Chemistry 142 Lab Manual 2010-2011|12.50|N/UsedPrice
+11795|CHEM|142|D|9780738041629|General Chemistry Lab Notebook|14.25|N/UsedPrice
+11795|CHEM|142|D|9781111004996|General Chemistry 142 (6e 09) (custom)|92.00|69.00
+11805|CHEM|145|A|9780030353734|Principles Of ModernChemistry (5e 03)|N/NewPrice|37.50
+11805|CHEM|145|A|9780534402662|Ssm T/a PrinciplesOf Modern Chemistry (5e 03|N/NewPrice|N/UsedPrice
+11805|CHEM|145|A|9780738041629|General Chemistry LabNotebook|14.25|N/UsedPrice
+11809|CHEM|152|A|9780618946587|Sg T/a ChemicalPrinciples (6e 09)|78.25|58.70
+11809|CHEM|152|A|9780738041629|General Chemistry LabNotebook|14.25|N/UsedPrice
+11809|CHEM|152|A|9780738043593|General Chemistry 152Lab Manual 2011-2012|N/NewPrice|N/UsedPrice
+11809|CHEM|152|A|9781111004989|General Chemistry 152(custom) (6e 09)|67.00|50.25
+11818|CHEM|162|A|9780618946587|Sg T/a Chemical Principles (6e 09)|78.25|58.70
+11818|CHEM|162|A|9780738041629|General Chemistry Lab Notebook|14.25|N/UsedPrice
+11818|CHEM|162|A|9780738046006|General Chemistry 162 Lab Manual 2011-2012|N/NewPrice|N/UsedPrice
+11818|CHEM|162|A|9781111005207|General Chemistry 162 (custom)|52.50|39.40
+11842|CHEM|237|A|9780073293974|Ssm T/aOrganic Chemistry (8e 10)|119.25|89.45
+11842|CHEM|237|A|9780077964153|Organic Chemistry(8e 10)|135.00|N/UsedPrice
+11842|CHEM|237|A|9780205081363|Molecular ModelSet F/ Organic Chemistry ( Ki|60.00|N/UsedPrice
+11859|CHEM|237|B|9780073293974|Ssm T/aOrganic Chemistry (8e 10)|119.25|89.45
+11859|CHEM|237|B|9780077964153|Organic Chemistry(8e 10)|135.00|N/UsedPrice
+11859|CHEM|237|B|9780205081363|Molecular ModelSet F/ Organic Chemistry ( Ki|60.00|N/UsedPrice
+11876|CHEM|239|A|9780073293974|Ssm T/a Organic Chemistry (8e 10)|119.25|89.45
+11876|CHEM|239|A|9780077964153|Organic Chemistry (8e 10)|135.00|N/UsedPrice
+11877|CHEM|242|A|9780495016304|Microscale IntroTo Organic Lab Techniques (4|224.50|168.40|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+11877|CHEM|242|A|9780738041629|General ChemistryLab Notebook|14.25|N/UsedPrice
+11887|CHEM|321|A|9781429218153|Quantitative ChemicalAnalysis (8 11)|N/NewPrice|N/UsedPrice
+11890|CHEM|335|A|9780205081363|Molecular Model Set F/ Organic Chemistry ( Ki|60.00|N/UsedPrice
+11890|CHEM|335|A|9780470050989|Sg T/a Organic Chemistry (9e 08)|111.75|83.85|N/NewPrice|N/UsedPrice
+11890|CHEM|335|A|9780471684961|Organic Chemistry (9e 08)|N/NewPrice|155.85
+11893|CHEM|416|A|9780130354716|Inorganic Chemistry(3e 04)|N/NewPrice|N/UsedPrice
+11893|CHEM|416|A|9780131112469|Ssm T/aInorganic Chemistry (3e 04)|N/NewPrice|N/UsedPrice
+11894|CHEM|452|A|9780805382778|Physical ChemistryF/ Life Sciences|142.75|107.10
+11895|CHEM|455|A|9780321615046|Quantum Chemistry & Spectroscopy (2e 09)|N/NewPrice|73.35
+11897|CHEM|458|A|9780691001852|Intro To AtmosphericChemistry|N/NewPrice|56.25
+11898|CHEM|460|A|9780321592569|Organic Structural Spectroscopy(2e 11)|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+11902|CHEM|475|A|9780136131069|Quantum Chemistry (6e09)|N/NewPrice|N/UsedPrice
+11909|CHEM|520|A|9780521815246|Methods In MolecularBiophysics|N/NewPrice|N/UsedPrice
+11912|CHEM|550|A|9780136131069|Quantum Chemistry (6e 09)|N/NewPrice|N/UsedPrice
+11925|CHEM E|325|A|9780471385868|Engineering & ChemicalThermodynamics|190.75|143.10
+11927|CHEM E|341|A|9780954452933|Sustainable Energy|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+11928|CHEM E|435|A|9780470481837|Separation Process Principles(3e 11)|N/NewPrice|N/UsedPrice
+11931|CHEM E|455|A|9789814299824|Intro To Interfaces& Colloids|68.00|51.00
+11935|CHEM E|465|A|9780137146123|Essentials OfChemical Reaction Engineering (|N/NewPrice|N/UsedPrice
+11939|CHEM E|490|A|9780125824637|Biomaterials Science(2e 05)|N/NewPrice|89.25
+11942|CHEM E|510|A|9780387950013|Linear OperatorTheory In Engineering & Scien|N/NewPrice|N/UsedPrice
+11947|CHEM E|555|A|9789814299824|Intro ToInterfaces & Colloids|68.00|51.00
+11965|CHID|207|A|9780393301588|Civilization & Its Discontents|N/NewPrice|9.75
+11965|CHID|207|A|9780451531216|Confessions Of St Augustine W/ New Intro (tr|N/NewPrice|N/UsedPrice
+11965|CHID|207|A|9780520256095|Seeing Is Forgetting The Name Of Thing One Se|N/NewPrice|N/UsedPrice
+11965|CHID|207|A|9780872201361|Republic (tr Grube, Rev Tr Reeve ) (2e 92)|N/NewPrice|8.25
+11973|CHID|230|A|9780812924121|No Pity|N/NewPrice|12.75
+11978|CHID|250|A|9780061478758|Golden Age P.s. Ed|N/NewPrice|N/UsedPrice
+11978|CHID|250|A|9780143114512|Penguin Atlas Of Women In The World Rev & Upd|N/NewPrice|N/UsedPrice
+11978|CHID|250|A|9780300170955|Quiet Revolution|N/NewPrice|N/UsedPrice
+11978|CHID|250|A|9780865436282|African Women & Feminism|N/NewPrice|N/UsedPrice
+11978|CHID|250|A|9780865479302|An Elegy For Easterly|N/NewPrice|N/UsedPrice
+11978|CHID|250|A|9781580052726|Women Of Color & Feminism|N/NewPrice|N/UsedPrice
+11993|CHID|484|A|9780226647456|King Khama, Emperor Joe & The Great White Que|N/NewPrice|N/UsedPrice
+11993|CHID|484|A|9780486248592|Noa Noa|N/NewPrice|N/UsedPrice
+11993|CHID|484|A|9780571117420|Translations|N/NewPrice|9.00
+11993|CHID|484|A|9780802150844|Black Skin, White Masks|N/NewPrice|N/UsedPrice
+11993|CHID|484|A|9780872203303|Selected Political Writings|N/NewPrice|10.50
+11997|CHID|495|A|9780520236943|This IsNot A Pipe|N/NewPrice|N/UsedPrice
+11997|CHID|495|A|9780679753346|Birth OfThe Clinic|N/NewPrice|9.00
+12009|CHIN|101|A,B|9780887276385|L1 P1Txbk Integrated Chinese (3e 09) Simplif|44.99|N/UsedPrice
+12009|CHIN|101|A,B|9780887276408|L1 P1Wkbk T/a Integrated Chinese|23.99|N/UsedPrice
+12009|CHIN|101|A,B|9780887276484|L1 P1Character Wkbk T/a Integrated Chinese (|21.99|N/UsedPrice
+12016|CHIN|101|A,B|9780887276385|L1 P1Txbk Integrated Chinese (3e 09) Simplif|44.99|N/UsedPrice
+12016|CHIN|101|A,B|9780887276408|L1 P1Wkbk T/a Integrated Chinese|23.99|N/UsedPrice
+12016|CHIN|101|A,B|9780887276484|L1 P1Character Wkbk T/a Integrated Chinese (|21.99|N/UsedPrice
+12023|CHIN|111|A|9780887276385|L1 P1 Txbk Integrated Chinese (3e 09) Simplif|44.99|N/UsedPrice
+12023|CHIN|111|A|9780887276408|L1 P1 Wkbk T/a Integrated Chinese|23.99|N/UsedPrice|N/NewPrice|N/UsedPrice
+12023|CHIN|111|A|9780887276484|L1 P1 Character Wkbk T/a Integrated Chinese (|21.99|N/UsedPrice
+12024|CHIN|201|A-C|9780887276798|L2 P1Txbk Integrated Chinese (3e 09)|53.99|N/UsedPrice
+12024|CHIN|201|A-C|9780887276835|L2 P1Wkbk T/a Integrated Chinese (3e 09)|25.99|N/UsedPrice
+12024|CHIN|201|A-C|9780887276859|L2 P1Character Wkbk T/a Integrated Chinese (|12.95|N/UsedPrice
+12025|CHIN|201|A-C|9780887276798|L2 P1 TxbkIntegrated Chinese (3e 09)|53.99|N/UsedPrice
+12025|CHIN|201|A-C|9780887276835|L2 P1 WkbkT/a Integrated Chinese (3e 09)|25.99|N/UsedPrice
+12025|CHIN|201|A-C|9780887276859|L2 P1 CharacterWkbk T/a Integrated Chinese (|12.95|N/UsedPrice
+12026|CHIN|201|A-C|9780887276798|L2 P1Txbk Integrated Chinese (3e 09)|53.99|N/UsedPrice
+12026|CHIN|201|A-C|9780887276835|L2 P1Wkbk T/a Integrated Chinese (3e 09)|25.99|N/UsedPrice|N/NewPrice|N/UsedPrice
+12026|CHIN|201|A-C|9780887276859|L2 P1Character Wkbk T/a Integrated Chinese (|12.95|N/UsedPrice
+12027|CHIN|211|A|9780691090481|All Things Considered|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+12028|CHIN|301|A,B|9780691090481|All ThingsConsidered|N/NewPrice|N/UsedPrice
+12029|CHIN|301|A,B|9780691090481|All Things Considered|N/NewPrice|N/UsedPrice
+12030|CHIN|342|A|9780521296533|Chinese (2e 88)|N/NewPrice|39.00
+12030|CHIN|342|A|9780691014685|Languages Of China|N/NewPrice|29.25
+12032|CHIN|411|A|9780691127668|Anything Goes|N/NewPrice|N/UsedPrice
+12032|CHIN|411|A|9788042000516|Reflection OfReality|53.25|N/UsedPrice|N/NewPrice|N/UsedPrice
+12033|CHIN|442|A|9780521296533|Chinese (2e 88)|N/NewPrice|39.00
+12033|CHIN|442|A|9780691014685|Languages Of China|N/NewPrice|29.25
+12036|CHIN|461|A|9780393971064|Anthology Of ChineseLiterature|N/NewPrice|49.70|N/NewPrice|N/UsedPrice
+12040|CHSTU|101|A,B|9780205786183|Occupied America (7e 11)|N/NewPrice|54.75
+12040|CHSTU|101|A,B|9780813542249|500 Years Of Chicana Womens History|N/NewPrice|N/UsedPrice
+12041|CHSTU|101|A,B|9780205786183|Occupied America(7e 11)|N/NewPrice|54.75|N/NewPrice|N/UsedPrice
+12041|CHSTU|101|A,B|9780813542249|500 YearsOf Chicana Womens History|N/NewPrice|N/UsedPrice
+12044|CHSTU|255|A|9780292776388|Soldaderas In MexicanMilitary|N/NewPrice|15.00
+12044|CHSTU|255|A|9780816527465|Women & ChangeAt U.s. Mexico Border|N/NewPrice|18.75
+12045|CHSTU|498|A|9782222222224|See Instructor For Course Materials|N/NewPrice|N/UsedPrice
+12048|CLAS|101|A-F|9780865164857|Words & Ideas|39.00|N/UsedPrice
+12049|CLAS|101|A-F|9780865164857|Words &Ideas|39.00|N/UsedPrice
+12050|CLAS|101|A-F|9780865164857|Words &Ideas|39.00|N/UsedPrice
+12051|CLAS|101|A-F|9780865164857|Words & Ideas|39.00|N/UsedPrice
+12052|CLAS|101|A-F|9780865164857|Words & Ideas|39.00|N/UsedPrice
+12053|CLAS|101|A-F|9780865164857|Words & Ideas|39.00|N/UsedPrice
+12054|CLAS|205|A-F|9780816503056|Bioscientific Terminology|19.95|15.00
+12055|CLAS|205|A-F|9780816503056|Bioscientific Terminology|19.95|15.00
+12056|CLAS|205|A-F|9780816503056|Bioscientific Terminology|19.95|15.00
+12057|CLAS|205|A-F|9780816503056|Bioscientific Terminology|19.95|15.00
+12058|CLAS|205|A-F|9780816503056|Bioscientific Terminology|19.95|15.00
+12059|CLAS|205|A-F|9780816503056|Bioscientific Terminology|19.95|15.00
+12060|CLAS|210|A|9780140445923|Iliad (trFagles )|15.00|11.25
+12060|CLAS|210|A|9780192834720|Metamorphoses (trMelville )|8.95|6.75
+12060|CLAS|210|A|9780199537570|Complete Poems(tr Lee )|13.95|10.50
+12060|CLAS|210|A|9780199538720|Jason &Golden Fleece|13.95|10.50
+12060|CLAS|210|A|9780226307909|V.1 GreekTragedies (2e 92)|N/NewPrice|8.25
+12060|CLAS|210|A|9780679729525|Aeneid (trFitzgerald )|13.00|9.75
+12060|CLAS|210|A|9780801494338|Phaedra (trAhl )|11.50|8.65
+12060|CLAS|210|A|9780882950051|Clouds &Pot Of Gold (tr Arnott )(ahm)|6.95|5.25
+12060|CLAS|210|A|9780941051217|Lucretius :On Nature Of Things|16.95|12.75
+12060|CLAS|210|A|9780941051569|Symposium (trSharon )|10.95|8.25
+12065|CLAS|326|A|9780195098624|Women In Classical World|N/NewPrice|N/UsedPrice
+12065|CLAS|326|A|9780801883101|Womens Life In Greece & Rome (3e 05)|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+12066|CLAS|330|A|9780393005844|Augustus|N/NewPrice|N/UsedPrice
+12066|CLAS|330|A|9780472081240|Power OfImages In Age Of Augustus|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+12066|CLAS|330|A|9781853991387|Augustan Rome|N/NewPrice|N/UsedPrice
+12067|CLAS|427|A|9780226307800|Euripides I(ed Grene )|N/NewPrice|8.25
+12067|CLAS|427|A|9780226307947|Aeschylus Ii: Four Tragedies (ed Grene ) (2e|N/NewPrice|N/UsedPrice
+12067|CLAS|427|A|9780872203907|Oresteia (trMeineck )|N/NewPrice|N/UsedPrice
+12067|CLAS|427|A|9780872203921|Bacchae (edWoodruff )|N/NewPrice|N/UsedPrice
+12067|CLAS|427|A|9780872204928|Oedipus Tyrannus(ed Meinick )|N/NewPrice|N/UsedPrice
+12067|CLAS|427|A|9780872207639|Four Tragedies|N/NewPrice|N/UsedPrice
+12067|CLAS|427|A|9780941051255|Antigone (trBlondell )|N/NewPrice|N/UsedPrice
+12067|CLAS|427|A|9781585103089|Frogs (edHenderson )|N/NewPrice|N/UsedPrice
+12068|CLAS|430|A|9780195397703|Classical Mythology (9e11)|79.95|60.00
+12074|CM|301|A|9781580083287|Write Right(4e 01)|N/NewPrice|9.75
+12075|CM|310|A|9780138135966|Managing The Construction Process (4e 12)|N/NewPrice|N/UsedPrice
+12078|CM|312|A|9780135017111|Construction Accounting& Financial Managemen|N/NewPrice|87.00
+12091|CM|410|D|9780130496652|2 P/s Construction Cost Estimating Process &|133.00|99.75|N/NewPrice|N/UsedPrice
+12105|CM|520|C|9780137559275|Construction Contracts (3e 01)|N/NewPrice|N/UsedPrice
+12106|CM|550|A|9780874209181|Residential Development Hbk(2e 05)|N/NewPrice|N/UsedPrice
+12124|COM|202|F|9780697795588|Com 202 Reader: A Look At Communication Theo|55.25|41.45
+12175|COM|362|A|9780060891541|On Writing Well30th Anniv Ed Rev & Expd|14.99|11.25
+12191|COM|441|A|9780316022361|Different Mirror (revised)|17.99|13.50|N/NewPrice|N/UsedPrice
+12191|COM|441|A|9780465081943|Creation Of Media|N/NewPrice|N/UsedPrice
+12205|COM|495|D|9781439082829|Visual Communication (5e 10)|N/NewPrice|N/UsedPrice
+12236|CONJ|401|A|9780077216092|Vanders Human Physiology (11e 08)|N/NewPrice|N/UsedPrice
+12236|CONJ|401|A|9780077350017|Vander S Human Physiology 12e10|N/NewPrice|N/UsedPrice
+12236|CONJ|401|A|9780443068508|Wheater's Functional Histology|N/NewPrice|N/UsedPrice
+12236|CONJ|401|A|9781582558561|Color Atlas Anatomy (7e 11)|N/NewPrice|63.40
+12319|CSE|142|A,B|9780136091813|Building Java ProgramsW/ Cd (2e 10)|112.00|84.00
+12319|CSE|142|A,B|9780558971328|Loose Leaf BuildingJava Programs (2e 10)|72.25|N/UsedPrice
+12336|CSE|142|A,B|9780136091813|Building JavaPrograms W/ Cd (2e 10)|112.00|84.00
+12336|CSE|142|A,B|9780558971328|Loose LeafBuilding Java Programs (2e 10)|72.25|N/UsedPrice
+12354|CSE|143|A|9780136091813|Building JavaPrograms W/ Cd (2e 10)|112.00|84.00
+12393|CSE|332|A|9780321370136|Data Structures& Algorithm Analysis In Java|128.50|96.40
+12403|CSE|351|A|9780131103627|C Programming Language (2e 88)|N/NewPrice|N/UsedPrice
+12403|CSE|351|A|9780136108047|Computer Systems (2e 11)|N/NewPrice|N/UsedPrice
+12406|CSE|352|A|9780123704979|Digital Design& Computer Architecture|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+12409|CSE|373|A|9780321370136|Data Structures &Algorithm Analysis In Java|128.50|96.40|N/NewPrice|N/UsedPrice
+12422|CSE|451|A|9780471687238|Operating Systems InDepth|N/NewPrice|N/UsedPrice
+12429|CSE|461|A|9780132126953|Computer Networks (5e11)|N/NewPrice|N/UsedPrice
+12438|CSE|473|A|9780136042594|Artificial Intelligence (3e09)|136.25|N/UsedPrice
+12453|CSE|521|A|9780321295354|Algorithm Design|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+12517|CSEP|521|B|9780321295354|Algorithm Design|N/NewPrice|N/UsedPrice
+12518|CSEP|544|A,B|9780072465631|Database ManagemantSystems (3e 03)|N/NewPrice|117.20
+12566|CZECH|401|A|9788086727042|Do You WantTo Speak Czech|54.00|N/UsedPrice
+12567|CZECH|404|A|9788090111998|Do YouWant To Speak Czech Even Better ?|40.25|30.20
+12588|DANCE|231|A,B|9780819567741|Glamour Addiction|N/NewPrice|N/UsedPrice
+12589|DANCE|231|A,B|9780819567741|Glamour Addiction|N/NewPrice|N/UsedPrice
+12624|DANISH|201|A|9788723048387|Mellem Linjerne(3e 05)|119.25|N/UsedPrice
+12627|DENT|521|A|9781416034353|Oral &Maxillofacial Pathology (3e 09)|N/NewPrice|N/UsedPrice
+12643|DISST|230|A|9780812924121|No Pity|N/NewPrice|12.75
+12660|DRAMA|101|A|9780393934120|Norton AnthologyOf Drama Shorter Ed|65.75|49.35
+12669|DRAMA|201|C|9780393934120|Norton Anthology Of Drama Shorter Ed|65.75|49.35
+12669|DRAMA|201|C|9780809311101|Backwards & Forwards|17.95|13.50
+12768|EE|233|A|9780136114994|Electric Circuits(9e 10)|176.25|132.20
+12773|EE|235|A|9780138147570|Signals & Systems(2e 97)|168.50|126.40
+12779|EE|271|A|9780077211646|Fundamentals OfDigital Logic W/ Verilog Desi|N/NewPrice|130.15
+12785|EE|331|A|9780073380452|Microelectronic Circuit Design (4e 11)|180.50|N/UsedPrice
+12789|EE|341|A|9780138147570|Signals &Systems (2e 97)|168.50|126.40
+12792|EE|351|A|9781420062199|Electric Energy(2e 08)|102.95|77.25
+12796|EE|361|A|9780132139311|Fundamentals Of AppliedElectromagnetics (6e|N/NewPrice|111.00
+12803|EE|416|A|9780849318849|Probability F/ Electrical & Computer Engineer|N/NewPrice|N/UsedPrice
+12804|EE|418|A|9781584885085|Cryptography (3e 06)|N/NewPrice|N/UsedPrice
+12806|EE|433|A|9780072320848|Design W/Operational Amplifiers & Analog Int|N/NewPrice|152.65
+12810|EE|447|A|9780471794752|Control SystemsEngineering (5e 08)|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+12811|EE|452|A|9780971529281|First Course On Power Electronics & Drives (4|110.00|82.50
+12814|EE|454|A|9780136919902|Power Systems Analysis (2e 00)|N/NewPrice|N/UsedPrice
+12815|EE|471|A|9780123744937|Computer Organization& Design W/ Out Cd (4e|N/NewPrice|67.50
+12816|EE|472|A|9780471721802|Embedded Systems|184.25|138.20
+12817|EE|476|A|9780130909961|Digital Integrated Circuits(2e 03)|N/NewPrice|N/UsedPrice
+12818|EE|478|A|9780131733497|Digital DesignW/ Cds (4e 06)|173.25|129.95
+12819|EE|480|A|9780471448785|Microwave Engineering(3e 05)|N/NewPrice|140.25
+12821|EE|486|A|9780961672188|Microchip Manufacturing|N/NewPrice|N/UsedPrice
+12830|EE|505|A|9780131471221|Probability, Statistics& Random Processes Fo|N/NewPrice|122.65|N/NewPrice|N/UsedPrice
+12833|EE|510|A|9780387950013|Linear Operator TheoryIn Engineering & Scien|N/NewPrice|N/UsedPrice
+12835|EE|518|A|9780131988422|Discrete Time Signal Processing (3e 09)|N/NewPrice|123.40
+12838|EE|541|A|9780792383932|Algorithms ForVlsi Physical Design Automatio|N/NewPrice|89.25
+12840|EE|547|A|9780195117776|Linear System Theory& Design|N/NewPrice|N/UsedPrice
+12845|EE|572|A|9780132490535|Electromagnetic Wave Propagation Radiation &|N/NewPrice|N/UsedPrice
+12845|EE|572|A|9780471387992|Scattering Of Electromagnetic Waves Theories|N/NewPrice|N/UsedPrice
+12845|EE|572|A|9780471388005|Scattering Of Electromagnetic Waves : Numeric|160.00|N/UsedPrice
+12860|ECON|200|A|9781256338680|2 P/s Principles Of Microeconomics W/ Myeconl|N/NewPrice|N/UsedPrice
+12871|ECON|200|B|9781256338680|2 P/sPrinciples Of Microeconomics W/ Myeconl|N/NewPrice|N/UsedPrice
+12888|ECON|201|B|9780132738699|2 P/s MacroeconomicsW/ Access Code|N/NewPrice|N/UsedPrice
+12889|ECON|201|C|9780538453066|Principles OfMacroeconomics (6e 12)|182.50|N/UsedPrice
+12895|ECON|201|I|9780538453066|Principles Of Macroeconomics(6e 12)|182.50|N/UsedPrice
+12903|ECON|301|A|9780132479301|2 P/s Macroeconomics W/ Access Code (5e 11) (|N/NewPrice|N/UsedPrice
+12906|ECON|301|D|9780558838805|Macroeconomics (updated)(custom)|98.75|74.10
+12908|ECON|400|A|9780324585070|Microeconomic Theory(10e 08)|N/NewPrice|N/UsedPrice
+12910|ECON|422|A|9780077337629|Corporate Finance(9e 10)|N/NewPrice|N/UsedPrice
+12912|ECON|436|A|9780393927016|Economics OfThe Environment (5e 06)|N/NewPrice|N/UsedPrice
+12913|ECON|437|A|9780140264456|Origins OfVirtue|N/NewPrice|N/UsedPrice
+12913|ECON|437|A|9780199291151|Selfish Gene(3e 06) 30th Anniversary Rev. Ed|19.95|N/UsedPrice
+12913|ECON|437|A|9780262582650|Privatization OfThe Oceans|N/NewPrice|N/UsedPrice
+12913|ECON|437|A|9780393317558|Guns Germs& Steel|N/NewPrice|14.25
+12918|ECON|464|A|9780195101133|Golden Fetters|N/NewPrice|52.50
+12918|ECON|464|A|9780691003542|Monetary HistoryOf United States 1867 - 1960|N/NewPrice|45.00|N/NewPrice|N/UsedPrice
+12918|ECON|464|A|9780691139371|Globalizing Capital(2e 08)|N/NewPrice|N/UsedPrice
+12920|ECON|471|B|9780132744836|2 P/s International Economics W/ Access Code|N/NewPrice|N/UsedPrice
+12922|ECON|481|A|9780062731029|Cartoon Gt Statistics|N/NewPrice|N/UsedPrice
+12922|ECON|481|A|9780131427068|John E FreundsMathematical Statistics (7e 04|N/NewPrice|N/UsedPrice
+12922|ECON|481|A|9780534399429|Mathematical Statistics &Data Analysis (3e 0|N/NewPrice|N/UsedPrice
+12922|ECON|481|A|9780674175440|Course In Econometrics|N/NewPrice|N/UsedPrice
+12922|ECON|481|A|9780691120355|Mostly Harmless &Econometrics|N/NewPrice|N/UsedPrice
+12928|ECON|495|A|9781416560715|Return : Russia'sJourney|N/NewPrice|N/UsedPrice
+12931|ECON|500|A|9780195073409|Microeconomic Theory|N/NewPrice|96.75
+12931|ECON|500|A|9780393957358|Microeconomic Analysis (3e92)|N/NewPrice|N/UsedPrice
+12935|ECON|535|A|9780521311748|Natural Resource Economics|N/NewPrice|N/UsedPrice
+12941|ECON|580|A|9780062731029|Cartoon GtStatistics|N/NewPrice|N/UsedPrice
+12941|ECON|580|A|9780131427068|John EFreunds Mathematical Statistics (7e 04|N/NewPrice|N/UsedPrice
+12941|ECON|580|A|9780534399429|Mathematical Statistics& Data Analysis (3e 0|N/NewPrice|N/UsedPrice
+12941|ECON|580|A|9780674175440|Course InEconometrics|N/NewPrice|N/UsedPrice
+12941|ECON|580|A|9780691120355|Mostly Harmless& Econometrics|N/NewPrice|N/UsedPrice
+12949|EDC&I|460|A|9781571284570|Teaching Reading Sourcebook(2e 08)|69.00|N/UsedPrice
+12952|EDC&I|474|A|9780205594276|Teaching Strategies F/ Ethnic Studies (8e 09)|N/NewPrice|83.25
+12952|EDC&I|474|A|9780807749913|Teaching What Really Happened|21.95|N/UsedPrice
+12979|EDC&I|578|A|9780470283547|Qualitative Research(3e 09)|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+13013|EDLPS|598|G|9780767901260|Hope In The Unseen|N/NewPrice|12.00
+13022|EDPSY|471|A|9780452278301|Magic Trees OfMind|N/NewPrice|N/UsedPrice
+13022|EDPSY|471|A|9780553378252|Whats Going OnIn There|N/NewPrice|N/UsedPrice
+13022|EDPSY|471|A|9780756654412|Human Brain Book|N/NewPrice|N/UsedPrice
+13022|EDPSY|471|A|9781594860683|Einstein Never UsedFlash Cards|N/NewPrice|N/UsedPrice
+13023|EDPSY|490|A|9780495596523|Understanding StatisticsIn Behavioral Scienc|N/NewPrice|144.95
+13024|EDPSY|490|B,C|9780495596523|Understanding StatisticsIn Behavioral Scienc|N/NewPrice|144.95
+13029|EDPSY|501|A|9780309065368|How People Learn|N/NewPrice|N/UsedPrice
+13042|EDPSY|572|A,B|9780805853704|Behavioral Social &Emotional Assessment Of C|N/NewPrice|N/UsedPrice
+13042|EDPSY|572|A,B|9781606239605|Academic Skills Problems(4e 11)|N/NewPrice|N/UsedPrice
+13042|EDPSY|572|A,B|9781609180218|Academic Skills ProblemsWkbk (4e 11)|N/NewPrice|N/UsedPrice
+13043|EDPSY|575|A|9780805849103|2 P/sLatent Variable Models (4e 04) W/ Cd|N/NewPrice|N/UsedPrice
+13043|EDPSY|575|A|9781606238769|Principles &Practice Of Structural Equation|N/NewPrice|N/UsedPrice
+13047|EDPSY|586|A|9780470283547|Qualitative Research(3e 09)|N/NewPrice|N/UsedPrice
+13055|EDSPE|460|A|9781571284570|Teaching Reading Sourcebook(2e 08)|69.00|N/UsedPrice
+13061|EDSPE|501|A|9780137033706|Exceptional Learners (12e11)|142.00|106.50
+13062|EDSPE|503|A|9780205616114|2 P/sClassroom Management F/ Elementary Teac|N/NewPrice|N/UsedPrice
+13063|EDSPE|503|B|9780205616114|2 P/sClassroom Management F/ Elementary Teac|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+13064|EDSPE|511|A|9780205340231|Single Case DesignsF/ Educational Research|N/NewPrice|N/UsedPrice
+13065|EDSPE|513|A,B|9780131961913|Assessing StudentsW/ Special Needs (7e 08)|N/NewPrice|N/UsedPrice
+13066|EDSPE|513|A,B|9780131961913|Assessing StudentsW/ Special Needs (7e 08)|N/NewPrice|N/UsedPrice
+13068|EDSPE|520|A|9780131421134|Applied BehaviorAnalysis (2e 07)|N/NewPrice|N/UsedPrice
+13073|EDSPE|527|E|9780131592896|Applied Behavior AnalysisF/ Teachers (8e 09)|118.00|N/UsedPrice
+13077|EDSPE|564|E|9780132080880|Very YoungChildren W/ Special Needs (4e 10)|N/NewPrice|N/UsedPrice
+13077|EDSPE|564|E|9781557661975|Meaningful DifferencesIn Everyday Experience|N/NewPrice|N/UsedPrice
+13095|EDTEP|566|A,B|9780470550472|Teach Like A Champion|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+13095|EDTEP|566|A,B|9780976423317|2 P/s First Days Of School (4e 09) W/ Dvd|N/NewPrice|N/UsedPrice
+13096|EDTEP|566|A,B|9780470550472|Teach Like A Champion|N/NewPrice|N/UsedPrice
+13096|EDTEP|566|A,B|9780976423317|2 P/s First Days Of School (4e 09) W/ Dvd|N/NewPrice|N/UsedPrice
+13097|EDTEP|573|A|9780132335546|Classroom Assessment(2e 08)|N/NewPrice|N/UsedPrice
+13098|EDTEP|573|B,C|9780132335546|Classroom Assessment (2e 08)|N/NewPrice|N/UsedPrice
+13099|EDTEP|573|B,C|9780132335546|Classroom Assessment(2e 08)|N/NewPrice|N/UsedPrice
+13112|EDUC|310|A|9780767901260|Hope In The Unseen|N/NewPrice|12.00
+13294|ENGL|109|A-I|9780393933611|They Say,I Say (2e 09)|21.50|16.15
+13295|ENGL|109|A-I|9780393933611|They Say, ISay (2e 09)|21.50|16.15
+13297|ENGL|109|A-I|9780393933611|They Say, ISay (2e 09)|21.50|16.15
+13298|ENGL|109|A-I|9780393933611|They Say,I Say (2e 09)|21.50|16.15
+13299|ENGL|109|A-I|9780393933611|They Say, I Say (2e 09)|21.50|16.15
+13300|ENGL|109|A-I|9780393933611|They Say, ISay (2e 09)|21.50|16.15|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+13305|ENGL|111|A-T|9780312664848|Everyday Writer (2009 Mla Updates & 2010 Apa|63.75|47.85|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+13305|ENGL|111|A-T|9780312666781|2 P/s Brief Ed, Acts Of Inquiry W/ Getting Th|34.25|N/UsedPrice
+13306|ENGL|111|A-T|9780312664848|Everyday Writer(2009 Mla Updates & 2010 Apa|63.75|47.85
+13306|ENGL|111|A-T|9780312666781|2 P/sBrief Ed, Acts Of Inquiry W/ Getting Th|34.25|N/UsedPrice
+13307|ENGL|111|A-T|9780312664848|Everyday Writer (2009 Mla Updates & 2010 Apa|63.75|47.85
+13307|ENGL|111|A-T|9780312666781|2 P/s Brief Ed, Acts Of Inquiry W/ Getting Th|34.25|N/UsedPrice
+13308|ENGL|111|A-T|9780312664848|Everyday Writer (2009Mla Updates & 2010 Apa|63.75|47.85
+13308|ENGL|111|A-T|9780312666781|2 P/s BriefEd, Acts Of Inquiry W/ Getting Th|34.25|N/UsedPrice
+13311|ENGL|111|A-T|9780312664848|Everyday Writer(2009 Mla Updates & 2010 Apa|63.75|47.85
+13311|ENGL|111|A-T|9780312666781|2 P/sBrief Ed, Acts Of Inquiry W/ Getting Th|34.25|N/UsedPrice
+13312|ENGL|111|A-T|9780312664848|Everyday Writer (2009Mla Updates & 2010 Apa|63.75|47.85
+13312|ENGL|111|A-T|9780312666781|2 P/s BriefEd, Acts Of Inquiry W/ Getting Th|34.25|N/UsedPrice
+13313|ENGL|111|A-T|9780312664848|Everyday Writer (2009 Mla Updates & 2010 Apa|63.75|47.85
+13313|ENGL|111|A-T|9780312666781|2 P/s Brief Ed, Acts Of Inquiry W/ Getting Th|34.25|N/UsedPrice
+13314|ENGL|111|A-T|9780312664848|Everyday Writer (2009Mla Updates & 2010 Apa|63.75|47.85
+13314|ENGL|111|A-T|9780312666781|2 P/s BriefEd, Acts Of Inquiry W/ Getting Th|34.25|N/UsedPrice
+13315|ENGL|111|A-T|9780312664848|Everyday Writer (2009Mla Updates & 2010 Apa|63.75|47.85
+13315|ENGL|111|A-T|9780312666781|2 P/s BriefEd, Acts Of Inquiry W/ Getting Th|34.25|N/UsedPrice
+13316|ENGL|111|A-T|9780312664848|Everyday Writer (2009 Mla Updates & 2010 Apa|63.75|47.85
+13316|ENGL|111|A-T|9780312666781|2 P/s Brief Ed, Acts Of Inquiry W/ Getting Th|34.25|N/UsedPrice
+13318|ENGL|111|A-T|9780312664848|Everyday Writer(2009 Mla Updates & 2010 Apa|63.75|47.85
+13318|ENGL|111|A-T|9780312666781|2 P/sBrief Ed, Acts Of Inquiry W/ Getting Th|34.25|N/UsedPrice
+13319|ENGL|111|A-T|9780312664848|Everyday Writer (2009Mla Updates & 2010 Apa|63.75|47.85
+13319|ENGL|111|A-T|9780312666781|2 P/s BriefEd, Acts Of Inquiry W/ Getting Th|34.25|N/UsedPrice
+13320|ENGL|111|A-T|9780312664848|Everyday Writer (2009 Mla Updates & 2010 Apa|63.75|47.85
+13320|ENGL|111|A-T|9780312666781|2 P/s Brief Ed, Acts Of Inquiry W/ Getting Th|34.25|N/UsedPrice
+13321|ENGL|111|A-T|9780312664848|Everyday Writer(2009 Mla Updates & 2010 Apa|63.75|47.85
+13321|ENGL|111|A-T|9780312666781|2 P/sBrief Ed, Acts Of Inquiry W/ Getting Th|34.25|N/UsedPrice
+13323|ENGL|111|A-T|9780312664848|Everyday Writer(2009 Mla Updates & 2010 Apa|63.75|47.85
+13323|ENGL|111|A-T|9780312666781|2 P/sBrief Ed, Acts Of Inquiry W/ Getting Th|34.25|N/UsedPrice
+13324|ENGL|111|A-T|9780312664848|Everyday Writer (2009 Mla Updates & 2010 Apa|63.75|47.85
+13324|ENGL|111|A-T|9780312666781|2 P/s Brief Ed, Acts Of Inquiry W/ Getting Th|34.25|N/UsedPrice
+13326|ENGL|111|V|9780312664848|Everyday Writer(2009 Mla Updates & 2010 Apa|63.75|47.85
+13326|ENGL|111|V|9780312666781|2 P/sBrief Ed, Acts Of Inquiry W/ Getting Th|34.25|N/UsedPrice
+13330|ENGL|121|B-E,G|9780312664848|Everyday Writer (2009Mla Updates & 2010 Apa|63.75|47.85
+13330|ENGL|121|B-E,G|9780312666781|2 P/s BriefEd, Acts Of Inquiry W/ Getting Th|34.25|N/UsedPrice
+13331|ENGL|121|B-E,G|9780312664848|Everyday Writer (2009 Mla Updates & 2010 Apa|63.75|47.85
+13331|ENGL|121|B-E,G|9780312666781|2 P/s Brief Ed, Acts Of Inquiry W/ Getting Th|34.25|N/UsedPrice
+13332|ENGL|121|B-E,G|9780312664848|Everyday Writer(2009 Mla Updates & 2010 Apa|63.75|47.85
+13332|ENGL|121|B-E,G|9780312666781|2 P/sBrief Ed, Acts Of Inquiry W/ Getting Th|34.25|N/UsedPrice
+13333|ENGL|121|B-E,G|9780312664848|Everyday Writer (2009Mla Updates & 2010 Apa|63.75|47.85
+13333|ENGL|121|B-E,G|9780312666781|2 P/s BriefEd, Acts Of Inquiry W/ Getting Th|34.25|N/UsedPrice
+13335|ENGL|121|B-E,G|9780312664848|Everyday Writer(2009 Mla Updates & 2010 Apa|63.75|47.85|N/NewPrice|N/UsedPrice
+13335|ENGL|121|B-E,G|9780312666781|2 P/sBrief Ed, Acts Of Inquiry W/ Getting Th|34.25|N/UsedPrice
+13337|ENGL|131|A-B|9780312664848|Everyday Writer(2009 Mla Updates & 2010 Apa|63.75|47.85|N/NewPrice|N/UsedPrice
+13337|ENGL|131|A-X,Z|9780312666774|2 P/sComplete Ed, Acts Of Inquiry W/ Getting|68.50|N/UsedPrice
+13338|ENGL|131|A-B|9780312664848|Everyday Writer(2009 Mla Updates & 2010 Apa|63.75|47.85
+13339|ENGL|131|A-B|9780312664848|Everyday Writer(2009 Mla Updates & 2010 Apa|63.75|47.85
+13340|ENGL|131|A-B|9780312664848|Everyday Writer(2009 Mla Updates & 2010 Apa|63.75|47.85
+13341|ENGL|131|A-B|9780312664848|Everyday Writer (2009Mla Updates & 2010 Apa|63.75|47.85
+13342|ENGL|131|A-B|9780312664848|Everyday Writer (2009Mla Updates & 2010 Apa|63.75|47.85
+13343|ENGL|131|A-B|9780312664848|Everyday Writer(2009 Mla Updates & 2010 Apa|63.75|47.85
+13344|ENGL|131|A-B|9780312664848|Everyday Writer (2009 Mla Updates & 2010 Apa|63.75|47.85
+13345|ENGL|131|A-B|9780312664848|Everyday Writer (2009Mla Updates & 2010 Apa|63.75|47.85|N/NewPrice|N/UsedPrice
+13346|ENGL|131|A-B|9780312664848|Everyday Writer (2009Mla Updates & 2010 Apa|63.75|47.85
+13347|ENGL|131|A-B|9780312664848|Everyday Writer (2009Mla Updates & 2010 Apa|63.75|47.85|N/NewPrice|N/UsedPrice
+13347|ENGL|131|A-X,Z|9780312666774|2 P/s CompleteEd, Acts Of Inquiry W/ Getting|68.50|N/UsedPrice
+13348|ENGL|131|A-B|9780312664848|Everyday Writer(2009 Mla Updates & 2010 Apa|63.75|47.85
+13349|ENGL|131|A-B|9780312664848|Everyday Writer (2009Mla Updates & 2010 Apa|63.75|47.85
+13357|ENGL|131|A-X,Z|9780312666774|2 P/sComplete Ed, Acts Of Inquiry W/ Getting|68.50|N/UsedPrice
+13357|ENGL|131|C,D|9780312664848|Everyday Writer(2009 Mla Updates & 2010 Apa|63.75|47.85
+13367|ENGL|131|A-X,Z|9780312666774|2 P/s Complete Ed, Acts Of Inquiry W/ Getting|68.50|N/UsedPrice
+13367|ENGL|131|C,D|9780312664848|Everyday Writer (2009 Mla Updates & 2010 Apa|63.75|47.85
+13373|ENGL|131|A-X,Z|9780312666774|2 P/sComplete Ed, Acts Of Inquiry W/ Getting|68.50|N/UsedPrice
+13373|ENGL|131|E-X|9780312664848|Everyday Writer(2009 Mla Updates & 2010 Apa|63.75|47.85
+13374|ENGL|131|A-X,Z|9780312666774|2 P/s CompleteEd, Acts Of Inquiry W/ Getting|68.50|N/UsedPrice
+13374|ENGL|131|E-X|9780312664848|Everyday Writer (2009Mla Updates & 2010 Apa|63.75|47.85
+13375|ENGL|131|A-X,Z|9780312666774|2 P/s Complete Ed, Acts Of Inquiry W/ Getting|68.50|N/UsedPrice
+13375|ENGL|131|E-X|9780312664848|Everyday Writer (2009 Mla Updates & 2010 Apa|63.75|47.85
+13376|ENGL|131|A-X,Z|9780312666774|2 P/s Complete Ed, Acts Of Inquiry W/ Getting|68.50|N/UsedPrice
+13376|ENGL|131|E-X|9780312664848|Everyday Writer (2009 Mla Updates & 2010 Apa|63.75|47.85
+13377|ENGL|131|A-X,Z|9780312666774|2 P/s CompleteEd, Acts Of Inquiry W/ Getting|68.50|N/UsedPrice
+13377|ENGL|131|E-X|9780312664848|Everyday Writer (2009Mla Updates & 2010 Apa|63.75|47.85
+13378|ENGL|131|A-X,Z|9780312666774|2 P/sComplete Ed, Acts Of Inquiry W/ Getting|68.50|N/UsedPrice
+13378|ENGL|131|E-X|9780312664848|Everyday Writer(2009 Mla Updates & 2010 Apa|63.75|47.85
+13379|ENGL|131|A-X,Z|9780312666774|2 P/sComplete Ed, Acts Of Inquiry W/ Getting|68.50|N/UsedPrice
+13379|ENGL|131|E-X|9780312664848|Everyday Writer(2009 Mla Updates & 2010 Apa|63.75|47.85
+13380|ENGL|131|A-X,Z|9780312666774|2 P/sComplete Ed, Acts Of Inquiry W/ Getting|68.50|N/UsedPrice
+13380|ENGL|131|E-X|9780312664848|Everyday Writer(2009 Mla Updates & 2010 Apa|63.75|47.85
+13381|ENGL|131|A-X,Z|9780312666774|2 P/s CompleteEd, Acts Of Inquiry W/ Getting|68.50|N/UsedPrice
+13381|ENGL|131|E-X|9780312664848|Everyday Writer (2009Mla Updates & 2010 Apa|63.75|47.85
+13382|ENGL|131|A-X,Z|9780312666774|2 P/sComplete Ed, Acts Of Inquiry W/ Getting|68.50|N/UsedPrice
+13382|ENGL|131|E-X|9780312664848|Everyday Writer(2009 Mla Updates & 2010 Apa|63.75|47.85
+13383|ENGL|131|A-X,Z|9780312666774|2 P/s CompleteEd, Acts Of Inquiry W/ Getting|68.50|N/UsedPrice
+13383|ENGL|131|E-X|9780312664848|Everyday Writer (2009Mla Updates & 2010 Apa|63.75|47.85
+13384|ENGL|131|A-X,Z|9780312666774|2 P/s Complete Ed, Acts Of Inquiry W/ Getting|68.50|N/UsedPrice
+13384|ENGL|131|E-X|9780312664848|Everyday Writer (2009 Mla Updates & 2010 Apa|63.75|47.85
+13385|ENGL|131|A-X,Z|9780312666774|2 P/sComplete Ed, Acts Of Inquiry W/ Getting|68.50|N/UsedPrice
+13385|ENGL|131|E-X|9780312664848|Everyday Writer(2009 Mla Updates & 2010 Apa|63.75|47.85
+13386|ENGL|131|A-X,Z|9780312666774|2 P/s CompleteEd, Acts Of Inquiry W/ Getting|68.50|N/UsedPrice
+13386|ENGL|131|E-X|9780312664848|Everyday Writer (2009Mla Updates & 2010 Apa|63.75|47.85
+13387|ENGL|131|A-X,Z|9780312666774|2 P/s CompleteEd, Acts Of Inquiry W/ Getting|68.50|N/UsedPrice
+13387|ENGL|131|E-X|9780312664848|Everyday Writer (2009Mla Updates & 2010 Apa|63.75|47.85
+13388|ENGL|131|A-X,Z|9780312666774|2 P/sComplete Ed, Acts Of Inquiry W/ Getting|68.50|N/UsedPrice
+13388|ENGL|131|E-X|9780312664848|Everyday Writer(2009 Mla Updates & 2010 Apa|63.75|47.85
+13389|ENGL|131|A-X,Z|9780312666774|2 P/s CompleteEd, Acts Of Inquiry W/ Getting|68.50|N/UsedPrice
+13389|ENGL|131|E-X|9780312664848|Everyday Writer (2009Mla Updates & 2010 Apa|63.75|47.85
+13390|ENGL|131|A-X,Z|9780312666774|2 P/sComplete Ed, Acts Of Inquiry W/ Getting|68.50|N/UsedPrice
+13390|ENGL|131|E-X|9780312664848|Everyday Writer(2009 Mla Updates & 2010 Apa|63.75|47.85
+13391|ENGL|131|A-X,Z|9780312666774|2 P/s Complete Ed, Acts Of Inquiry W/ Getting|68.50|N/UsedPrice
+13391|ENGL|131|E-X|9780312664848|Everyday Writer (2009 Mla Updates & 2010 Apa|63.75|47.85
+13392|ENGL|131|A-X,Z|9780312666774|2 P/s Complete Ed, Acts Of Inquiry W/ Getting|68.50|N/UsedPrice
+13392|ENGL|131|E-X|9780312664848|Everyday Writer (2009 Mla Updates & 2010 Apa|63.75|47.85
+13394|ENGL|131|A-X,Z|9780312666774|2 P/s Complete Ed, Acts Of Inquiry W/ Getting|68.50|N/UsedPrice
+13394|ENGL|131|Z|9780312664848|Everyday Writer (2009 Mla Updates & 2010 Apa|63.75|47.85|N/NewPrice|N/UsedPrice
+13398|ENGL|506|A|9780198157861|On AestheticEducation Of Man|N/NewPrice|N/UsedPrice
+13398|ENGL|506|A|9780199537082|On TheGenealogy Of Morals|N/NewPrice|N/UsedPrice
+13398|ENGL|506|A|9780393301588|Civilization &Its Discontents|N/NewPrice|9.75
+13398|ENGL|506|A|9780802143006|Black Skin White Masks|N/NewPrice|10.50
+13398|ENGL|506|A|9780805202410|Illuminations|N/NewPrice|N/UsedPrice
+13398|ENGL|506|A|9780872202184|Selected Writings(ed Simon )|N/NewPrice|12.75
+13404|ENGL|198|G|9780321479358|Style : Ten Lessons In Clarity & Grace (9e 06|N/NewPrice|N/UsedPrice
+13405|ENGL|198|H|9780321479358|Style : Ten Lessons In Clarity & Grace (9e 06|N/NewPrice|N/UsedPrice
+13418|ENGL|200|A|9780393927405|V.b Norton AnthologyAmerican Literature (7e|N/NewPrice|N/UsedPrice
+13418|ENGL|200|A|9780806114293|Joaquin Murieta|N/NewPrice|N/UsedPrice
+13422|ENGL|200|E|9780312227623|Frankenstein, Case StudiesIn Contemporary Cr|N/NewPrice|N/UsedPrice
+13422|ENGL|200|E|9780393930757|Red Badge OfCourage (ed Pizer ) (4e 08)|17.75|13.35
+13422|ENGL|200|E|9780472066001|Scholarly Editing InComputer Age (3e 96)|N/NewPrice|N/UsedPrice
+13422|ENGL|200|E|9780679723424|Pale Fire (tradeEd)|N/NewPrice|11.25
+13422|ENGL|200|E|9780813914183|Critique Of ModernTextual Criticism|19.50|N/UsedPrice
+13422|ENGL|200|E|9781551113081|Frankenstein (2e 00)|N/NewPrice|N/UsedPrice
+13428|ENGL|212|A|9780141439778|Life &Opinions Of Tristram Shandy|N/NewPrice|9.00
+13428|ENGL|212|A|9780192805348|Gullivers Travels|N/NewPrice|N/UsedPrice
+13428|ENGL|212|A|9780199535552|Persuasion NewEdition (ed: Kinsley)|N/NewPrice|N/UsedPrice
+13428|ENGL|212|A|9780199536771|Silas Marner|N/NewPrice|N/UsedPrice
+13428|ENGL|212|A|9780199537617|Major Works(ed: Rogers)|N/NewPrice|N/UsedPrice
+13428|ENGL|212|A|9780312191269|Frankenstein (edSmith ) (2e 00)|13.75|10.35
+13428|ENGL|212|A|9780393924985|Blakes Poetry& Designs (2e 07)|N/NewPrice|17.65
+13428|ENGL|212|A|9780495898023|Glossary OfLiterary Terms (10e 12)|N/NewPrice|N/UsedPrice
+13433|ENGL|242|B|9780156034029|Reluctant Fundamentalist|N/NewPrice|10.50
+13433|ENGL|242|B|9780156628709|Mrs Dalloway|N/NewPrice|9.75
+13433|ENGL|242|B|9780307278449|Bluest Eye|N/NewPrice|10.50
+13433|ENGL|242|B|9780684822761|In Our Time|14.00|10.50
+13433|ENGL|242|B|9780807063156|Corregidora|N/NewPrice|12.00
+13433|ENGL|242|B|9781590173022|Season Of MigrationTo The North|N/NewPrice|N/UsedPrice
+13434|ENGL|242|C|9780375704635|Trumpet|N/NewPrice|N/UsedPrice
+13434|ENGL|242|C|9780385487412|Morvern Callar|N/NewPrice|N/UsedPrice
+13434|ENGL|242|C|9780393314809|Trainspotting|N/NewPrice|N/UsedPrice
+13434|ENGL|242|C|9780747569053|Venus AsA Boy|N/NewPrice|N/UsedPrice
+13435|ENGL|242|D|9780141439518|Pride & Prejudice|N/NewPrice|N/UsedPrice
+13435|ENGL|242|D|9780156628709|Mrs Dalloway|N/NewPrice|9.75
+13435|ENGL|242|D|9780375756887|Best Short StoriesOf Fyodor Dostoevsky (tr M|N/NewPrice|N/UsedPrice
+13435|ENGL|242|D|9780393978629|Moll Flanders (edRivero ) Norton Critical|N/NewPrice|N/UsedPrice
+13435|ENGL|242|D|9780393979176|Madame Bovary NortonCritical|N/NewPrice|11.45
+13435|ENGL|242|D|9781551113364|Age Of Innocence|N/NewPrice|N/UsedPrice
+13476|ENGL|301|A|9780141439471|Frankenstein|N/NewPrice|6.00
+13476|ENGL|301|A|9780393931389|As I Lay Dying|N/NewPrice|11.85
+13476|ENGL|301|A|9780415280068|Critical Practice|N/NewPrice|23.25
+13476|ENGL|301|A|9780446603775|Dawn|17.99|N/UsedPrice
+13476|ENGL|301|A|9781844670864|Imagined Communities (rev Ed 06 )|21.95|16.50|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+13482|ENGL|302|A|9780140174922|Art OfFiction|N/NewPrice|N/UsedPrice
+13482|ENGL|302|A|9780156628709|Mrs Dalloway|N/NewPrice|9.75
+13482|ENGL|302|A|9780199203475|Adam Bede|N/NewPrice|N/UsedPrice
+13482|ENGL|302|A|9780199535651|Madame Bovary|N/NewPrice|N/UsedPrice
+13482|ENGL|302|A|9780316291163|French LieutenantsWoman ( Lieutenant's )|N/NewPrice|N/UsedPrice
+13482|ENGL|302|A|9780451529596|Pere Goriot|N/NewPrice|N/UsedPrice
+13482|ENGL|302|A|9780679732242|Sound &Fury|N/NewPrice|9.75
+13486|ENGL|310|F|9780195288773|New Oxford Annot Bible New Rsv Augmented 3rd|N/NewPrice|26.25
+13489|ENGL|322|A|9780140449105|Utopia (new &Updtd) (tr Turner )|N/NewPrice|N/UsedPrice
+13489|ENGL|322|A|9780192892867|This Stage PlayWorld (2e 98)|N/NewPrice|N/UsedPrice
+13489|ENGL|322|A|9780199535699|Prince|N/NewPrice|N/UsedPrice
+13489|ENGL|322|A|9780393927184|V.b Norton AnthologyOf English Literature (8|N/NewPrice|31.50
+13489|ENGL|322|A|9781408114216|Spanish Tragedy|N/NewPrice|N/UsedPrice
+13490|ENGL|323|A|9780205606283|Complete Works Of Shakespeare (6e 09)|N/NewPrice|73.90
+13492|ENGL|332|B|9780192834874|Frankenstein (wc)|N/NewPrice|6.00
+13492|ENGL|332|B|9780393925326|Norton Anthology OfEnglish Literature, V.2|N/NewPrice|49.35
+13494|ENGL|333|B|9780199536276|Hard Times|N/NewPrice|N/UsedPrice
+13494|ENGL|333|B|9780393964585|Frankenstein (edHunter ) Norton Critical|N/NewPrice|11.25
+13494|ENGL|333|B|9780393975420|Jane Eyre(3e 00)|N/NewPrice|11.25
+13494|ENGL|333|B|9780393978896|Wuthering Heights(4e 02) Norton Critical|15.00|11.25
+13496|ENGL|336|A|9780140183009|Death OfThe Heart|N/NewPrice|N/UsedPrice
+13496|ENGL|336|A|9780141182131|Howards End|N/NewPrice|N/UsedPrice
+13496|ENGL|336|A|9780141441443|Sons &Lovers|N/NewPrice|N/UsedPrice
+13496|ENGL|336|A|9780156628709|Mrs Dalloway|N/NewPrice|9.75
+13496|ENGL|336|A|9780393925333|Selected Stories|16.25|12.20
+13496|ENGL|336|A|9780486295688|World WarI British Poets|N/NewPrice|N/UsedPrice
+13500|ENGL|353|B|9780060726485|Great ShortWorks (p-3032 )|N/NewPrice|N/UsedPrice
+13500|ENGL|353|B|9780060727864|Great ShortWorks Of Mark Twain|N/NewPrice|10.50
+13500|ENGL|353|B|9780393313635|American WomenRegionalists 1850-1910|N/NewPrice|N/UsedPrice
+13500|ENGL|353|B|9780451524485|Awakening &Selected Stories|N/NewPrice|3.75
+13500|ENGL|353|B|9780451524966|Rise OfSilas Lapham|N/NewPrice|N/UsedPrice
+13500|ENGL|353|B|9780451528919|Mcteague (signet)|N/NewPrice|6.00
+13500|ENGL|353|B|9780451529664|American (signet)|N/NewPrice|N/UsedPrice
+13500|ENGL|353|B|9780472061563|Conjure Woman(aa-156, Ann Arbor )|N/NewPrice|N/UsedPrice
+13505|ENGL|370|A|9780205032280|How English Works (3e 12)|N/NewPrice|N/UsedPrice
+13506|ENGL|381|A|9781932361735|Best TravelWriting 2010|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+13510|ENGL|384|A|9781582975634|4 AmBreakthrough|16.99|N/UsedPrice|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+13513|ENGL|430|A|9780394743127|Ulysses : CorrectedText (ed Gabler )|N/NewPrice|N/UsedPrice
+13513|ENGL|430|A|9780486268705|Dubliners|2.00|N/UsedPrice
+13513|ENGL|430|A|9780486280509|Portrait Of ArtistAs A Young Man|N/NewPrice|N/UsedPrice
+13514|ENGL|440|A|9780143037743|On Beauty2006|N/NewPrice|N/UsedPrice
+13514|ENGL|440|A|9780375703867|White Teeth|N/NewPrice|12.00|N/NewPrice|N/UsedPrice
+13514|ENGL|440|A|9780375705502|England, England|N/NewPrice|N/UsedPrice
+13514|ENGL|440|A|9780375707346|Undue Influence|N/NewPrice|N/UsedPrice
+13514|ENGL|440|A|9780385494144|Enduring Love|N/NewPrice|N/UsedPrice
+13514|ENGL|440|A|9780385721790|Atonement|N/NewPrice|N/UsedPrice
+13514|ENGL|440|A|9780679731368|Flauberts Parrot( Flaubert's )|N/NewPrice|11.25
+13514|ENGL|440|A|9780679759324|Hotel DuLac|N/NewPrice|N/UsedPrice
+13521|ENGL|483|C|9780393310900|Postmodern AmericanPoetry|N/NewPrice|22.50
+13523|ENGL|485|A|9780192801692|Secret Agent|N/NewPrice|N/UsedPrice
+13527|ENGL|494|A|9780140081138|Solace Of Open Spaces|N/NewPrice|10.50
+13527|ENGL|494|A|9780140173192|Almanac Of The Dead|N/NewPrice|N/UsedPrice
+13527|ENGL|494|A|9780345457837|Evolution|N/NewPrice|N/UsedPrice
+13527|ENGL|494|A|9780375703768|House Of Leaves|N/NewPrice|15.00
+13527|ENGL|494|A|9780679734406|Room Temperature|N/NewPrice|N/UsedPrice
+13527|ENGL|494|A|9781585674602|Limits Of Vision|N/NewPrice|N/UsedPrice
+13527|ENGL|494|A|9781853262395|Orlando|4.99|N/UsedPrice
+13536|ENGL|532|A|9780140424515|Complete Poems(ed: Murphy)(w/new Intro)|18.00|13.50
+13536|ENGL|532|A|9780143039280|Portable Hawthorne|18.00|13.50
+13536|ENGL|532|A|9780316184137|Complete Poems(ed Johnson)|N/NewPrice|16.50
+13536|ENGL|532|A|9780935312393|Life InIron Mills (feminist )|13.95|10.50
+13543|ENGL|560|A|9780521546881|Chomsky (2e 05)|N/NewPrice|N/UsedPrice
+13543|ENGL|560|A|9780521667708|Cognitive Linguistics|N/NewPrice|N/UsedPrice
+13543|ENGL|560|A|9780826457868|Intro To SystemicFunctional Linguistics (2e|N/NewPrice|N/UsedPrice
+13543|ENGL|560|A|9781405152464|Sociolinguistic Theory (3e08) Rev|N/NewPrice|36.00
+13548|ENGL|575|A|9780521007559|Teachers Grammar OfEnglish ( Teacher's )|N/NewPrice|N/UsedPrice
+13548|ENGL|575|A|9780582339323|How To TeachGrammar|N/NewPrice|N/UsedPrice
+13614|ENTRE|472|A|9781601630230|Financial StatementsRev & Expd|N/NewPrice|N/UsedPrice
+13614|ENTRE|472|A|9781933895147|Successful BusinessPlan (5e 10)|44.95|N/UsedPrice
+13644|ENVH|514|A|9780071470513|Casaret & Doull's Toxicology (7e 08)|N/NewPrice|N/UsedPrice
+13689|ENVIR|221|A|9780520239098|Crimes Against Nature|N/NewPrice|19.50
+13689|ENVIR|221|A|9780803279131|Dust Bowl Diary|N/NewPrice|12.75
+13689|ENVIR|221|A|9780806140957|Campo Indian Landfill War|N/NewPrice|18.75
+13698|ENVIR|341|A|9780954452933|Sustainable Energy|N/NewPrice|N/UsedPrice
+13736|EPI|512|A|9780195150780|Epidemiologic Methods|N/NewPrice|N/UsedPrice
+13736|EPI|512|A|9781416040026|Epidemiology (4e 08)|59.95|45.00
+13741|EPI|536|A|9780471356325|Applied LogisticRegression 2e 00|N/NewPrice|N/UsedPrice
+13741|EPI|536|A|9781441917416|Logistic Regression3e10 Self Learning Text|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+13742|EPI|538|A|9780195122978|Nutritional Epidemiology(2e 98)|N/NewPrice|N/UsedPrice
+13746|EPI|585|A|9780387857695|Handbook Of Injury & Violence Prevention|N/NewPrice|N/UsedPrice
+13763|ESRM|100|C|9780470279847|Essential EnvironmentalScience|85.50|64.15
+13772|ESRM|210|A|9780135014332|Elements OfNature & Properties Of Soils (3e|N/NewPrice|N/UsedPrice
+13777|ESRM|320|A|9780073511702|Understanding Business (9e09)|N/NewPrice|139.70
+13777|ESRM|320|A|9780077389567|Loose Leaf UnderstandingBusiness (9e 09)|110.25|N/UsedPrice
+13792|ESRM|420|A|9781559632300|Fire EcologyOf Pacific Northwest Forests|N/NewPrice|N/UsedPrice
+13792|ESRM|420|A|9781577666523|Forest Health& Protection|N/NewPrice|54.00
+13794|ESRM|428|A|9780471109419|Practice Of Silviculture(9e 97)|163.50|122.65
+13818|ESS|101|A|9780131474642|Geology (4e 06)|N/NewPrice|102.20
+13848|ESS|102|A|9780387304564|Sun Earth Sky (2e 06)|69.95|52.50
+13858|ESS|115|A|9780321687678|Life InThe Universe (3e 12)|N/NewPrice|N/UsedPrice
+13861|ESS|211|A|9780582301566|Global Geomorphology|N/NewPrice|101.85
+13867|ESS|302|A|9780340691519|Quaternary Environments(2e 98)|N/NewPrice|45.40
+13875|ESS|403|A|9781405107778|Global Tectonics|N/NewPrice|71.25
+13876|ESS|408|A|9780198582199|Great GeologicalControversies|N/NewPrice|N/UsedPrice
+13878|ESS|411|A|9781420085389|Continuum Mechanics For Engineers (3e 09)|N/NewPrice|N/UsedPrice
+13879|ESS|415|A|9781860940798|Basic SpacePlasma Physics|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+13881|ESS|431|A|9780123694614|Physics Of Glaciers (4e 10)|N/NewPrice|N/UsedPrice
+13881|ESS|431|A|9780898868098|Avalanche Handbook (3e 06)|21.95|N/UsedPrice
+13881|ESS|431|A|9780946417131|Field Gt Snow Crystals|N/NewPrice|N/UsedPrice
+13882|ESS|433|A|9780340691519|Quaternary Environments (2e98)|N/NewPrice|45.40
+13883|ESS|439|A|9780132403429|Igneous &Metamorphic Petrology|N/NewPrice|N/UsedPrice
+13883|ESS|439|A|9780521880060|Principles OfIgneous & Metamorphic Petrology|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+13883|ESS|439|A|9780865425415|Igneous Petrology|N/NewPrice|N/UsedPrice
+13893|ESS|508|A|9780198582199|Great GeologicalControversies|N/NewPrice|N/UsedPrice
+13894|ESS|511|A|9781420085389|Continuum MechanicsFor Engineers (3e 09)|N/NewPrice|N/UsedPrice
+13895|ESS|515|A|9781860940798|Basic Space PlasmaPhysics|N/NewPrice|N/UsedPrice
+13896|ESS|540|A|9780132403429|Igneous &Metamorphic Petrology|N/NewPrice|N/UsedPrice
+13896|ESS|540|A|9780521880060|Principles OfIgneous & Metamorphic Petrology|N/NewPrice|N/UsedPrice
+13896|ESS|540|A|9780865425415|Igneous Petrology|N/NewPrice|N/UsedPrice
+13912|EURO|110|A,B|9780813343952|Russia & SovietUnion (6e 00)|N/NewPrice|N/UsedPrice
+13913|EURO|110|A,B|9780813343952|Russia & SovietUnion (6e 00)|N/NewPrice|N/UsedPrice
+13914|EURO|111|A|9789608464087|L.1 Communicate In Greek|49.95|N/UsedPrice
+13914|EURO|111|A|9789608464117|Wkbk 1a T/a L.1 Communicate In Greek|16.25|N/UsedPrice
+13914|EURO|111|A|9789608464124|Wkbk 1b T/a L.1 Communicate In Greek|16.25|N/UsedPrice
+13916|EURO|301|A|9780199233977|European Union :A Very Short Intro Fully Upd|N/NewPrice|N/UsedPrice
+13916|EURO|301|A|9780385497992|Struggle For Europe|N/NewPrice|N/UsedPrice
+13916|EURO|301|A|9780674810976|Small City InFrance|N/NewPrice|N/UsedPrice
+13916|EURO|301|A|9780679740483|Magic Lantern W/New Afterword|N/NewPrice|N/UsedPrice
+13916|EURO|301|A|9780691141596|End Of West|N/NewPrice|N/UsedPrice
+13916|EURO|301|A|9780742567733|Europe Today (4e11) 21st Century Intro|N/NewPrice|N/UsedPrice
+13916|EURO|301|A|9780745643526|Veil|N/NewPrice|N/UsedPrice
+13980|FIN|350|A,B|9780132735131|2 P/sFundamentals Of Corporate Finance (2e 1|224.25|N/UsedPrice
+13980|FIN|350|A,B|9781256346722|Loose Leaf2 P/s Fundamentals Of Corporate Fi|N/NewPrice|N/UsedPrice
+13981|FIN|350|A,B|9780132735131|2 P/sFundamentals Of Corporate Finance (2e 1|224.25|N/UsedPrice
+13981|FIN|350|A,B|9781256346722|Loose Leaf2 P/s Fundamentals Of Corporate Fi|N/NewPrice|N/UsedPrice
+13990|FIN|461|A|9780136103226|Fundamentals OfFutures & Options Markets (7e|N/NewPrice|136.35|N/NewPrice|N/UsedPrice
+13994|FIN|552|A,B|9780077907570|Analysis F/Financial Management (9e 09)|N/NewPrice|N/UsedPrice
+13995|FIN|552|A,B|9780077907570|Analysis F/ Financial Management (9e 09)|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+14003|FINN|101|A|9789517924368|Suomen Mestari 1|84.25|N/UsedPrice
+14007|FISH|250|B,D|9780805345827|Marine Biology|139.25|N/UsedPrice|N/NewPrice|N/UsedPrice
+14027|FISH|441|A,B|9780534554040|Animal Physiology|N/NewPrice|N/UsedPrice
+14028|FISH|441|A,B|9780534554040|Animal Physiology|N/NewPrice|N/UsedPrice
+14029|FISH|450|A,B|9780295984575|Behavior & EcologyOf Pacific Salmon & Trout|N/NewPrice|N/UsedPrice
+14030|FISH|450|A,B|9780295984575|Behavior & EcologyOf Pacific Salmon & Trout|N/NewPrice|N/UsedPrice
+14061|FISH|541|A,B|9780534554040|Animal Physiology|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+14062|FISH|541|A,B|9780534554040|Animal Physiology|N/NewPrice|N/UsedPrice
+14071|FRENCH|101|A-F|9780558785871|3 P/s RondPoint, Text, Myfrenchlab Access Co|116.75|N/UsedPrice
+14072|FRENCH|101|A-F|9780558785871|3 P/s Rond Point, Text, Myfrenchlab Access Co|116.75|N/UsedPrice|N/NewPrice|N/UsedPrice
+14073|FRENCH|101|A-F|9780558785871|3 P/s RondPoint, Text, Myfrenchlab Access Co|116.75|N/UsedPrice
+14074|FRENCH|101|A-F|9780558785871|3 P/s RondPoint, Text, Myfrenchlab Access Co|116.75|N/UsedPrice
+14075|FRENCH|101|A-F|9780558785871|3 P/s RondPoint, Text, Myfrenchlab Access Co|116.75|N/UsedPrice
+14079|FRENCH|102|A|9780558785871|3 P/s RondPoint, Text, Myfrenchlab Access Co|116.75|N/UsedPrice
+14086|FRENCH|103|A,B|9780558785871|3 P/sRond Point, Text, Myfrenchlab Access Co|116.75|N/UsedPrice
+14108|FRENCH|201|A-E|9780558312725|5 P/sReseau (custom) W/ Text, Wkbk, Myfrench|157.00|N/UsedPrice
+14109|FRENCH|201|A-E|9780558312725|5 P/s Reseau (custom) W/ Text, Wkbk, Myfrench|157.00|N/UsedPrice
+14110|FRENCH|201|A-E|9780558312725|5 P/sReseau (custom) W/ Text, Wkbk, Myfrench|157.00|N/UsedPrice
+14111|FRENCH|201|A-E|9780558312725|5 P/s Reseau (custom) W/ Text, Wkbk, Myfrench|157.00|N/UsedPrice
+14112|FRENCH|201|A-E|9780558312725|5 P/s Reseau (custom) W/ Text, Wkbk, Myfrench|157.00|N/UsedPrice|N/NewPrice|N/UsedPrice
+14122|FRENCH|202|A|9780558312725|5 P/sReseau (custom) W/ Text, Wkbk, Myfrench|157.00|N/UsedPrice
+14125|FRENCH|203|A,B|9780558312725|5 P/s Reseau(custom) W/ Text, Wkbk, Myfrench|157.00|N/UsedPrice
+14125|FRENCH|203|A,B|9781585101535|Laye L'enfant Noir( Lenfant )|14.95|11.25
+14126|FRENCH|203|A,B|9780558312725|5 P/sReseau (custom) W/ Text, Wkbk, Myfrench|157.00|N/UsedPrice
+14126|FRENCH|203|A,B|9781585101535|Laye L'enfantNoir ( Lenfant )|14.95|11.25
+14132|FRENCH|301|A,B|9780558307431|5 P/s Contrastes(custom) W/ Text, Wkbk, Myfr|196.25|N/UsedPrice
+14132|FRENCH|301|A,B|9781428231238|La France Contemporaine(4e 09)|101.25|N/UsedPrice
+14132|FRENCH|301|A,B|9782070387731|Tous Les MatinsDu Monde (gallimard Folio)|14.00|N/UsedPrice
+14133|FRENCH|301|A,B|9780558307431|5 P/s Contrastes (custom) W/ Text, Wkbk, Myfr|196.25|N/UsedPrice
+14133|FRENCH|301|A,B|9781428231238|La France Contemporaine (4e 09)|101.25|N/UsedPrice
+14133|FRENCH|301|A,B|9782070387731|Tous Les Matins Du Monde (gallimard Folio)|14.00|N/UsedPrice
+14134|FRENCH|303|A|9781428231238|La France Contemporaine(4e 09)|101.25|N/UsedPrice
+14135|FRENCH|304|A|9782047305775|Pantagruel EtGargantua (bordas)|N/NewPrice|7.35
+14135|FRENCH|304|A|9782080702616|Aucassin EtNicolette (g/f)|N/NewPrice|N/UsedPrice
+14135|FRENCH|304|A|9782080705549|La ChansonDe Roland (gf)|N/NewPrice|18.40
+14135|FRENCH|304|A|9782264003799|Le RomanDe Tristan (dix) (10/18)|N/NewPrice|N/UsedPrice
+14146|FRENCH|590|B|9780131579064|Communicative Language Teaching In Action|68.25|51.20
+14424|GERMAN|311|A|9783150000106|Minna VonBarnhelm (reclam)|5.75|N/UsedPrice
+14424|GERMAN|311|A|9783150023549|Aus DemLeben Eines Taugenichts (reclam)|5.75|N/UsedPrice
+14424|GERMAN|311|A|9783150099001|Die Verwandlung(reclam)|4.50|N/UsedPrice
+14457|GENOME|372|A|9780470035245|Introducing Proteomics|N/NewPrice|N/UsedPrice
+14457|GENOME|372|A|9780878932368|A Primer OfGenome Science (3e 09)|N/NewPrice|N/UsedPrice
+14506|GEOG|230|A|9781606232620|World Of Difference|N/NewPrice|45.00
+14521|HINDI|311|A|9788190411004|English HindiDictionary (catholic Press)|32.50|N/UsedPrice
+14522|GEOG|360|A|9780077462956|Mastering Arcgis(5e 12)|N/NewPrice|N/UsedPrice
+14522|GEOG|360|A|9780971764729|Gis Fundamentals(3e 08)|N/NewPrice|30.00
+14528|GEOG|371|A|9780802135919|World Hunger: Twelve Myths (2e 98)|N/NewPrice|N/UsedPrice
+14532|GEOG|462|A|9780471314257|Exploring Geographic InformationSystems (2e|N/NewPrice|N/UsedPrice
+14532|GEOG|462|A|9781559639156|Intro To CoastalZone Management (2e 02)|N/NewPrice|26.25
+14542|GEOG|497|A|9781845206819|Food Studies|N/NewPrice|22.50|N/NewPrice|N/UsedPrice
+14547|GEOG|560|A|9780077462956|Mastering Arcgis (5e12)|N/NewPrice|N/UsedPrice
+14547|GEOG|560|A|9780971764729|Gis Fundamentals (3e08)|N/NewPrice|30.00
+14553|GEOG|562|A|9780471314257|Exploring Geographic InformationSystems (2e|N/NewPrice|N/UsedPrice
+14553|GEOG|562|A|9781559639156|Intro To CoastalZone Management (2e 02)|N/NewPrice|26.25
+14565|GERMAN|101|A-D,F-H,J|9780077299507|2 P/s KontakteW/ Quia (6e 09)|187.25|N/UsedPrice
+14565|GERMAN|101|A-D,F-H,J|9780934034388|English Grammar F/Students Of German (5e 09)|19.95|15.00
+14566|GERMAN|101|A-D,F-H,J|9780077299507|2 P/sKontakte W/ Quia (6e 09)|187.25|N/UsedPrice
+14566|GERMAN|101|A-D,F-H,J|9780934034388|English GrammarF/ Students Of German (5e 09)|19.95|15.00
+14567|GERMAN|101|A-D,F-H,J|9780077299507|2 P/s KontakteW/ Quia (6e 09)|187.25|N/UsedPrice
+14567|GERMAN|101|A-D,F-H,J|9780934034388|English Grammar F/Students Of German (5e 09)|19.95|15.00|N/NewPrice|N/UsedPrice
+14568|GERMAN|101|A-D,F-H,J|9780077299507|2 P/sKontakte W/ Quia (6e 09)|187.25|N/UsedPrice
+14568|GERMAN|101|A-D,F-H,J|9780934034388|English GrammarF/ Students Of German (5e 09)|19.95|15.00
+14569|GERMAN|101|A-D,F-H,J|9780077299507|2 P/sKontakte W/ Quia (6e 09)|187.25|N/UsedPrice
+14569|GERMAN|101|A-D,F-H,J|9780934034388|English GrammarF/ Students Of German (5e 09)|19.95|15.00
+14570|GERMAN|101|A-D,F-H,J|9780077299507|2 P/sKontakte W/ Quia (6e 09)|187.25|N/UsedPrice
+14570|GERMAN|101|A-D,F-H,J|9780934034388|English GrammarF/ Students Of German (5e 09)|19.95|15.00
+14571|GERMAN|101|A-D,F-H,J|9780077299507|2 P/s KontakteW/ Quia (6e 09)|187.25|N/UsedPrice
+14571|GERMAN|101|A-D,F-H,J|9780934034388|English Grammar F/Students Of German (5e 09)|19.95|15.00
+14572|GERMAN|101|A-D,F-H,J|9780077299507|2 P/sKontakte W/ Quia (6e 09)|187.25|N/UsedPrice
+14572|GERMAN|101|A-D,F-H,J|9780934034388|English GrammarF/ Students Of German (5e 09)|19.95|15.00
+14573|GERMAN|103|A,C|9780077299507|2 P/s KontakteW/ Quia (6e 09)|187.25|N/UsedPrice
+14573|GERMAN|103|A,C|9780934034388|English Grammar F/Students Of German (5e 09)|19.95|15.00
+14574|GERMAN|103|A,C|9780077299507|2 P/s Kontakte W/ Quia (6e 09)|187.25|N/UsedPrice
+14574|GERMAN|103|A,C|9780934034388|English Grammar F/ Students Of German (5e 09)|19.95|15.00
+14587|GERMAN|111|B,C|9780077299507|2 P/s Kontakte W/ Quia (6e 09)|187.25|N/UsedPrice
+14587|GERMAN|111|B,C|9780934034388|English Grammar F/ Students Of German (5e 09)|19.95|15.00
+14588|GERMAN|111|B,C|9780077299507|2 P/s KontakteW/ Quia (6e 09)|187.25|N/UsedPrice
+14588|GERMAN|111|B,C|9780934034388|English Grammar F/Students Of German (5e 09)|19.95|15.00
+14590|GERMAN|190|A,B|9780073386164|Film Art (9e10)|95.50|71.65
+14590|GERMAN|190|A,B|9780851703701|M (bfi FilmClassics)|N/NewPrice|11.25
+14592|GERMAN|201|A-C|9780495902850|Stationen (2e 12)|129.75|N/UsedPrice|N/NewPrice|N/UsedPrice
+14593|GERMAN|201|A-C|9780495902850|Stationen (2e12)|129.75|N/UsedPrice
+14594|GERMAN|201|A-C|9780495902850|Stationen (2e12)|129.75|N/UsedPrice|N/NewPrice|N/UsedPrice
+14595|GERMAN|202|A|9780495902850|Stationen (2e12)|129.75|N/UsedPrice
+14595|GERMAN|202|A|9783257230451|Der BesuchDer Alten Dame (diogenes )|19.25|14.45
+14596|GERMAN|203|A|9783522177832|Momo (thienemann)|21.50|16.15
+14597|GERMAN|221|A|9780495902850|Stationen (2e 12)|129.75|N/UsedPrice
+14602|GERMAN|390|A|9780140449273|Symposium (trHamilton )|N/NewPrice|6.75
+14602|GERMAN|390|A|9780374532314|Lovers Discourse|N/NewPrice|N/UsedPrice
+14602|GERMAN|390|A|9780451529626|Sorrows OfYoung Werther & Sel Wrtgs (signet)|N/NewPrice|N/UsedPrice
+14602|GERMAN|390|A|9780451530325|Death InVenice|N/NewPrice|N/UsedPrice
+14602|GERMAN|390|A|9780486270678|Midsummer NightsDream|N/NewPrice|N/UsedPrice
+14602|GERMAN|390|A|9780486419275|Phedra|N/NewPrice|N/UsedPrice
+14602|GERMAN|390|A|9780743294164|Brokeback Mountain: Story To Screenplay|N/NewPrice|N/UsedPrice
+14609|GERMAN|451|A|9781413017731|Intro To Language (8e 07)|N/NewPrice|88.50
+14613|GERMAN|518|A|9780131579064|Communicative Language TeachingIn Action|68.25|51.20
+14628|GREEK|305|A|9780674362505|Greek Grammar|52.50|N/UsedPrice
+14628|GREEK|305|A|9780806113470|Xenophons Anabasis Bks1-4 (oklahoma)|N/NewPrice|N/UsedPrice
+14629|GREEK|422|A|9780929524139|Herodotus Bk.1|N/NewPrice|N/UsedPrice
+14632|GREEK|520|A|9780674991187|Speeches (tr Adam )|N/NewPrice|N/UsedPrice
+14635|GWSS|200|A|9780555045336|V.2 WomenStudies 200 (custom)|N/NewPrice|43.70
+14635|GWSS|200|A|9780558381974|V.1 Women Studies200 (2e 09) Custom|N/NewPrice|59.45
+14635|GWSS|200|A|9780816624355|A Hunger SoWide & So Deep|N/NewPrice|14.65
+14654|GWSS|383|A|9780465024414|Assassins Accomplice|N/NewPrice|N/UsedPrice
+14654|GWSS|383|A|9780679733768|Midwifes Tale|N/NewPrice|12.75
+14654|GWSS|383|A|9780679740759|Murder Of HelenJewett|N/NewPrice|12.75
+14654|GWSS|383|A|9780807855348|Closer To Freedom|19.95|N/UsedPrice
+14656|GWSS|429|A|9780141180410|V.1 Wreath Kristin Lavransdatter|N/NewPrice|N/UsedPrice
+14656|GWSS|429|A|9780143105909|Saga Of Gosta Berling|N/NewPrice|N/UsedPrice
+14656|GWSS|429|A|9780312152475|Blackwater|N/NewPrice|13.50
+14656|GWSS|429|A|9780679743330|Anecdotes Of Destiny & Ehrengard ( Babettes F|N/NewPrice|11.25
+14656|GWSS|429|A|9780802141293|Troll : A Love Story|N/NewPrice|N/UsedPrice
+14656|GWSS|429|A|9780802170774|Purge|14.95|N/UsedPrice
+14656|GWSS|429|A|9780935312386|Women & Appletrees|18.95|N/UsedPrice
+14656|GWSS|429|A|9781559703482|Dinas Book ( Dina's )|N/NewPrice|N/UsedPrice
+14656|GWSS|429|A|9781580051255|Egalias Daughters|N/NewPrice|N/UsedPrice
+14660|GWSS|501|A|9780253212832|Decolonial Imaginary|N/NewPrice|N/UsedPrice
+14660|GWSS|501|A|9780300042283|Grounding OfModern Feminism|N/NewPrice|N/UsedPrice
+14660|GWSS|501|A|9780415912129|Feminist Genealogies|N/NewPrice|29.25
+14660|GWSS|501|A|9780679771265|Blues Legacies& Black Feminism|N/NewPrice|N/UsedPrice
+14688|HCDE|501|A|9780262015554|Divining ADigital Future|N/NewPrice|N/UsedPrice
+14688|HCDE|501|A|9780262042208|Semiotic EngineeringOf Human-computer Intera|N/NewPrice|N/UsedPrice
+14688|HCDE|501|A|9780262513319|Acting W/Technology|N/NewPrice|N/UsedPrice
+14688|HCDE|501|A|9780521895040|Network|N/NewPrice|N/UsedPrice
+14709|HEBR|411|A|9780415700825|Modern Hebrew: An Essential Grammar|35.95|N/UsedPrice
+14709|HEBR|411|A|9780553592238|New BantamMegiddo Hebrew & English Dictionar|18.00|13.50
+14709|HEBR|411|A|9788081700750|Lev.1 IvritMin Hahathala|48.00|N/UsedPrice
+14710|HEBR|421|A|9788081712975|Lev.2 Ivrit MinHahathala|47.00|N/UsedPrice
+14710|HEBR|421|A|9788081713040|Lev.2 Cds T/aIvrit Min Hahathala|48.00|N/UsedPrice
+14710|HEBR|421|A|9789653900035|Multi Dictionary|56.00|N/UsedPrice
+14721|HINDI|311|A|9780071414128|3 P/s TeachYourself Hindi (book & 2 Cd)|N/NewPrice|N/UsedPrice
+14721|HINDI|311|A|9780071419840|Teach Yourself BeginnersHindi Script|N/NewPrice|N/UsedPrice
+14721|HINDI|311|A|9780195638462|Oxford Hindi EnglishDictionary|34.75|N/UsedPrice
+14724|HINDI|321|A|9780195638462|Oxford HindiEnglish Dictionary|34.75|N/UsedPrice
+14724|HINDI|321|A|9780877253518|Intermediate HindiReader|40.00|N/UsedPrice
+14724|HINDI|321|A|9788120805088|Primer OfModern Standard Hindi (motilal Bana|26.50|N/UsedPrice
+14724|HINDI|321|A|9788190411004|English HindiDictionary (catholic Press)|32.50|N/UsedPrice
+14725|HINDI|401|A|9780944613429|Advanced HindiGrammar|40.00|N/UsedPrice
+14728|HIST|111|A|9780804717113|Epic OfGilgamesh|N/NewPrice|10.50
+14728|HIST|111|A|9780872205420|Essential Iliad(tr Lombardo )|N/NewPrice|N/UsedPrice
+14728|HIST|111|A|9780872205895|Trials OfSocrates|N/NewPrice|8.25|N/NewPrice|N/UsedPrice
+14728|HIST|111|A|9781580493888|Antigone|N/NewPrice|3.00
+14738|HIST|207|A|9780393301588|Civilization & ItsDiscontents|N/NewPrice|9.75
+14738|HIST|207|A|9780451531216|Confessions Of StAugustine W/ New Intro (tr|N/NewPrice|N/UsedPrice
+14738|HIST|207|A|9780520256095|Seeing Is ForgettingThe Name Of Thing One Se|N/NewPrice|N/UsedPrice
+14738|HIST|207|A|9780872201361|Republic (tr Grube,Rev Tr Reeve ) (2e 92)|N/NewPrice|8.25
+14742|HIST|245|A|9780140442175|Four Voyages (trCohen )|N/NewPrice|10.50
+14742|HIST|245|A|9780141441436|Travels Of SirJohn Mandeville (tr Moseley )|N/NewPrice|11.25
+14742|HIST|245|A|9780231134262|Sex, Botany &Empire|N/NewPrice|18.00
+14742|HIST|245|A|9780393330915|Pathfinders|18.95|14.25
+14742|HIST|245|A|9780393970142|Oroonoko (ed Lipking) Norton Critical|N/NewPrice|10.35
+14742|HIST|245|A|9780520070639|Castaways|N/NewPrice|N/UsedPrice
+14742|HIST|245|A|9780802715296|Longitude W/ NewForeword|N/NewPrice|N/UsedPrice
+14742|HIST|245|A|9780803280397|Lewis & ClarkJournals|N/NewPrice|13.50
+14742|HIST|245|A|9781848563728|Classic Dan Dare: Safari In Space|N/NewPrice|18.75
+14744|HIST|311|A|9780195002669|Medieval Technology & Social Change|N/NewPrice|N/UsedPrice
+14744|HIST|311|A|9780226482057|Beginnings Of Western Science (2e 08)|N/NewPrice|N/UsedPrice
+14744|HIST|311|A|9780262516150|Islamic Science & Making Of The European Rena|N/NewPrice|N/UsedPrice
+14744|HIST|311|A|9780801863714|Natural Knowledge In Preclassical Antiquity|N/NewPrice|N/UsedPrice
+14752|HIST|358|A|9780521598606|Ploughsares IntoSwords|N/NewPrice|N/UsedPrice
+14752|HIST|358|A|9780674018266|Avengers OfNew World|22.00|16.50
+14754|HIST|388|B|9780140112405|Selling OfThe President|N/NewPrice|N/UsedPrice
+14754|HIST|388|B|9780143034377|American Dream|17.00|12.75
+14754|HIST|388|B|9780393337662|Invisible Hands|N/NewPrice|N/UsedPrice
+14754|HIST|388|B|9780394716282|Voices OfProtest|N/NewPrice|N/UsedPrice
+14754|HIST|388|B|9780809016389|Murdering Mckinley|N/NewPrice|N/UsedPrice
+14755|HIST|388|C|9780140440577|Travels Of MarcoPolo (tr Latham )|N/NewPrice|N/UsedPrice
+14755|HIST|388|C|9780140442816|Persian Letters|N/NewPrice|9.75
+14755|HIST|388|C|9780141441436|Travels Of SirJohn Mandeville (tr Moseley )|N/NewPrice|11.25
+14755|HIST|388|C|9780393970142|Oroonoko (ed Lipking) Norton Critical|N/NewPrice|10.35
+14755|HIST|388|C|9780394740676|Orientalism (w/ NewForward)|N/NewPrice|12.00
+14755|HIST|388|C|9780520082748|Hist Of AVoyage To Land Of Brazil|N/NewPrice|N/UsedPrice
+14755|HIST|388|C|9780679725800|Question Of Hu|N/NewPrice|N/UsedPrice
+14755|HIST|388|C|9780801870903|New Nature OfMaps|N/NewPrice|N/UsedPrice
+14755|HIST|388|C|9780803280397|Lewis & ClarkJournals|N/NewPrice|13.50
+14756|HIST|388|D|9780140441239|Conquest Of New Spain (tr Cohen )|N/NewPrice|12.00
+14756|HIST|388|D|9780292731400|Time, History & Belief In Aztec & Colonial Me|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+14756|HIST|388|D|9780486275697|Codex Borgia (dover)|N/NewPrice|N/UsedPrice
+14756|HIST|388|D|9780521485852|Aztecs|N/NewPrice|N/UsedPrice
+14756|HIST|388|D|9780816518869|History & Mythology Of Aztecs|N/NewPrice|N/UsedPrice
+14756|HIST|388|D|9780826343376|Allure Of Nezahualcoyotl : Prehispanic Histor|N/NewPrice|N/UsedPrice
+14757|HIST|490|A|9780142000427|Focus|N/NewPrice|N/UsedPrice
+14757|HIST|490|A|9780195101126|Antisemitism InAmerica|N/NewPrice|N/UsedPrice
+14757|HIST|490|A|9780231106399|Jews AgainstPrejudice|N/NewPrice|N/UsedPrice
+14757|HIST|490|A|9780520240551|Inside OrganizedRacism|N/NewPrice|N/UsedPrice
+14757|HIST|490|A|9781586481636|Henry Ford& Jews|N/NewPrice|N/UsedPrice
+14758|HIST|490|B|9780140277722|Cafe Europa|15.00|11.25
+14758|HIST|490|B|9780679729525|Aeneid (tr Fitzgerald )|13.00|9.75
+14758|HIST|490|B|9780802143006|Black Skin White Masks|N/NewPrice|10.50
+14758|HIST|490|B|9780802150271|Dying Colonialism|N/NewPrice|10.50
+14758|HIST|490|B|9780805094220|Washington Rules|N/NewPrice|N/UsedPrice
+14758|HIST|490|B|9780872203303|Selected Political Writings|N/NewPrice|10.50
+14758|HIST|490|B|9781400041688|Libertys Exiles|N/NewPrice|N/UsedPrice
+14764|HIST|498|C|9780156148504|Burmese Days|N/NewPrice|N/UsedPrice
+14764|HIST|498|C|9780156196253|Coming Up ForAir|N/NewPrice|N/UsedPrice
+14764|HIST|498|C|9780156421171|Homage To Catalonia(harvest)|N/NewPrice|10.50
+14764|HIST|498|C|9780156767507|Road To WiganPier (harvest)|N/NewPrice|N/UsedPrice
+14768|HIST|563|A|9780226509594|Desiring Arabs|N/NewPrice|N/UsedPrice
+14768|HIST|563|A|9780231106610|Colonial Citizens|N/NewPrice|N/UsedPrice
+14768|HIST|563|A|9780520224742|In TheHouse Of The Law|N/NewPrice|N/UsedPrice
+14768|HIST|563|A|9780520227408|Inventing Home|N/NewPrice|N/UsedPrice
+14768|HIST|563|A|9780520251540|Egypt AsA Woman|N/NewPrice|N/UsedPrice
+14768|HIST|563|A|9780521523035|Istanbul Households|N/NewPrice|N/UsedPrice
+14768|HIST|563|A|9780691123059|Civilizing Women|N/NewPrice|N/UsedPrice
+14768|HIST|563|A|9780804752626|Algeria Cuts|N/NewPrice|N/UsedPrice
+14768|HIST|563|A|9780815630876|Resistance, Repression& Politics In Occupied|N/NewPrice|N/UsedPrice
+14779|HONORS|210|A|9780140449273|Symposium (trHamilton )|N/NewPrice|6.75
+14779|HONORS|210|A|9780374532314|Lovers Discourse|N/NewPrice|N/UsedPrice
+14779|HONORS|210|A|9780451529626|Sorrows OfYoung Werther & Sel Wrtgs (signet)|N/NewPrice|N/UsedPrice
+14779|HONORS|210|A|9780451530325|Death InVenice|N/NewPrice|N/UsedPrice
+14779|HONORS|210|A|9780486270678|Midsummer NightsDream|N/NewPrice|N/UsedPrice
+14779|HONORS|210|A|9780486419275|Phedra|N/NewPrice|N/UsedPrice
+14779|HONORS|210|A|9780743294164|Brokeback Mountain: Story To Screenplay|N/NewPrice|N/UsedPrice
+14786|HONORS|230|A|9780060976248|Lone Ranger& Tonto Fist Fight In Heaven|N/NewPrice|9.75
+14786|HONORS|230|A|9780226777115|Persecution &Art Of Writing|N/NewPrice|N/UsedPrice
+14786|HONORS|230|A|9780316013697|Absolutely TrueDiary Of Part Time Indian|N/NewPrice|9.00
+14786|HONORS|230|A|9780802144898|War Dances|N/NewPrice|N/UsedPrice
+14786|HONORS|230|A|9780803296220|Fugitive Poses|N/NewPrice|N/UsedPrice
+14787|HONORS|230|B|9780787943608|Language OfLeadership|N/NewPrice|N/UsedPrice
+14794|HONORS|391|A|9781400052172|Immortal Life Of Henrietta Lacks|N/NewPrice|N/UsedPrice
+14795|HONORS|394|A|9780062502896|Chalice & TheBlade|N/NewPrice|14.25
+14795|HONORS|394|A|9780679733874|Republic (tr Jowett)|N/NewPrice|8.25
+14804|HSERV|480|A|9781449600228|Essentials Of Public Health 2e12|74.95|N/UsedPrice
+14808|HSERV|511|A&B|9780071496063|Understanding Health Policy (5e 09)|45.95|34.50
+14809|HSERV|511|A&B|9780071496063|Understanding HealthPolicy (5e 09)|45.95|34.50
+14814|HSERV|522|A|9780761918479|Practice Of HealthProgram Evaluation|97.95|N/UsedPrice
+14816|HSERV|522|C|9780395615560|Experimental & Quasi-experimental Design (2e|N/NewPrice|94.35
+14818|HSERV|530|A|9780306465307|Needs AssessmentIn Public Health|N/NewPrice|N/UsedPrice
+14818|HSERV|530|A|9780803952126|Conducting NeedsAssessment|N/NewPrice|N/UsedPrice
+14818|HSERV|530|A|9781449602109|Needs &Capacity Assessment Strategies Health|N/NewPrice|N/UsedPrice
+14855|HSMGMT|505|A,B,C|9780470067437|Core Concepts OfManagement With Errata|N/NewPrice|65.10
+14855|HSMGMT|505|A,B,C|9781591397786|Redefining Health Care|N/NewPrice|N/UsedPrice
+14863|HSMGMT|523|A|9780470387801|Health CareInformation Systems 2e09|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+14867|HSMGMT|567|A|9780974386065|Why Hospitals ShouldFly|25.00|N/UsedPrice
+14867|HSMGMT|567|A|9781567933017|Healthcare Quality Book2e08|100.00|N/UsedPrice
+14868|HSMGMT|568|A|9781567932935|Toyota WayTo Healthcare Excellence Increase|77.00|N/UsedPrice
+14874|HSMGMT|590|A|9780470497524|Financial Management Health Care Organization|N/NewPrice|N/UsedPrice
+14875|HSTAA|101|A|9780742511897|V.1 AmericasPromise|N/NewPrice|33.75
+14875|HSTAA|101|A|9780742511910|V.2 AmericasPromise|N/NewPrice|33.75
+14875|HSTAA|101|A|9780743487771|Narrative OfLife Of Frederick Douglass|N/NewPrice|3.75
+14875|HSTAA|101|A|9781558611580|Yellow Wallpaper(rev) (2e 96)|N/NewPrice|5.25|N/NewPrice|N/UsedPrice
+14880|HSTAA|205|A|9780295952895|America IsIn The Heart|14.95|11.25
+14880|HSTAA|205|A|9780295969695|Quiet Odyssey|18.95|N/UsedPrice|N/NewPrice|N/UsedPrice
+14880|HSTAA|205|A|9780805784374|Asian Americans|29.00|21.75
+14880|HSTAA|205|A|9780816648917|Chains OfBabylon|N/NewPrice|15.00
+14887|HSTAA|221|A|9780520239098|Crimes Against Nature|N/NewPrice|19.50
+14887|HSTAA|221|A|9780803279131|Dust Bowl Diary|N/NewPrice|12.75|N/NewPrice|N/UsedPrice
+14887|HSTAA|221|A|9780806140957|Campo Indian LandfillWar|N/NewPrice|18.75
+14895|HSTAA|301|A|9780809016068|First Generations|N/NewPrice|N/UsedPrice
+14895|HSTAA|301|A|9780882952390|Respectable Army|N/NewPrice|N/UsedPrice
+14900|HSTAA|373|A|9780465024414|Assassins Accomplice|N/NewPrice|N/UsedPrice
+14900|HSTAA|373|A|9780679733768|Midwifes Tale|N/NewPrice|12.75
+14900|HSTAA|373|A|9780679740759|Murder Of Helen Jewett|N/NewPrice|12.75
+14900|HSTAA|373|A|9780807855348|Closer To Freedom|19.95|N/UsedPrice
+14903|HSTAA|481|A,B|9780521567305|Trials Of Nation Making|N/NewPrice|N/UsedPrice
+14903|HSTAA|481|A,B|9780521598613|In Search Of An Inca|N/NewPrice|N/UsedPrice
+14903|HSTAA|481|A,B|9780822340676|Revolution For Our Rights|N/NewPrice|N/UsedPrice
+14903|HSTAA|481|A,B|9780822342793|Indians & Leftists In Making Ecuadors Modern|N/NewPrice|N/UsedPrice
+14903|HSTAA|481|A,B|9780822344698|Ugly Stories Of Peruvian Agrarian Reform|N/NewPrice|N/UsedPrice
+14906|HSTAM|330|A|9780393005844|Augustus|N/NewPrice|N/UsedPrice
+14906|HSTAM|330|A|9780472081240|Power Of ImagesIn Age Of Augustus|N/NewPrice|N/UsedPrice
+14906|HSTAM|330|A|9781853991387|Augustan Rome|N/NewPrice|N/UsedPrice
+14907|HSTAM|370|A|9780140513288|Penguin Historical AtlasOf Vikings|N/NewPrice|15.00
+14907|HSTAM|370|A|9780520232853|Saga Of Volsungs|N/NewPrice|N/UsedPrice
+14907|HSTAM|370|A|9781442601482|Viking Age|N/NewPrice|32.25
+14908|HSTAS|211|A|9780029087527|Chinese Civilization: Sourcebk (2e 93 Rev &|N/NewPrice|16.50
+14908|HSTAS|211|A|9780394722740|Son OfRevolution|16.00|12.00
+14908|HSTAS|211|A|9780521124331|Cambridge IllustratedHistory Of China (2e 10|N/NewPrice|N/UsedPrice
+14908|HSTAS|211|A|9789622093959|3 P/sRuan Ling Yu, Goddess Of Shanghai (bk,d|N/NewPrice|N/UsedPrice
+14910|HSTAS|265|A|9780070180307|Sacred War|N/NewPrice|25.15
+14910|HSTAS|265|A|9780307347381|Last NightI Dreamed Of Peace|N/NewPrice|9.75
+14910|HSTAS|265|A|9780394743097|Vietcong Memoir|N/NewPrice|12.00
+14910|HSTAS|265|A|9780452271685|When Heaven& Earth Changed Places ( Plume)|N/NewPrice|12.75
+14910|HSTAS|265|A|9781574411430|Twenty-five YearCentury|N/NewPrice|24.75
+14920|HSTAS|454|A|9780393973518|Search For Modern China (2e 99)|55.25|41.45
+14920|HSTAS|454|A|9780393973723|Search For Modern China : Documentary History|N/NewPrice|29.45
+14920|HSTAS|454|A|9780804750691|Man Awakened From Dreams|N/NewPrice|14.25
+14921|HSTAS|502|A|9780295987606|Many Lives Of A Rajput Queen|N/NewPrice|N/UsedPrice
+14923|HSTAS|579|A|9780226167220|Rescuing History From The Nation|N/NewPrice|N/UsedPrice
+14923|HSTAS|579|A|9780520064591|Origins Of The Boxer Uprising|N/NewPrice|N/UsedPrice
+14923|HSTAS|579|A|9780674021617|Chinese Medicine Man|N/NewPrice|N/UsedPrice
+14923|HSTAS|579|A|9780674032880|Eating Rice From Bamboo Roots|N/NewPrice|N/UsedPrice
+14923|HSTAS|579|A|9780674035966|Ancestors, Virgins & Friars|N/NewPrice|N/UsedPrice
+14923|HSTAS|579|A|9780674047952|Developmental Fairy Tales|N/NewPrice|N/UsedPrice
+14923|HSTAS|579|A|9780804733373|Awakening China|N/NewPrice|N/UsedPrice
+14923|HSTAS|579|A|9780804773270|Revolution Of The Heart|N/NewPrice|N/UsedPrice
+14923|HSTAS|579|A|9781596915992|Vermeers Hat|N/NewPrice|12.75
+14925|HSTEU|250|A|9780140513295|Penguin HistoricalAtlas Of Ancient Rome|N/NewPrice|12.75|N/NewPrice|N/UsedPrice
+14931|HSTEU|402|A|9780061148477|Protestant Reformation|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+14931|HSTEU|402|A|9780300027600|Age OfReform 1250 - 1550|N/NewPrice|18.75
+14931|HSTEU|402|A|9780415107280|Henry Viii& English Reformation|N/NewPrice|N/UsedPrice
+14931|HSTEU|402|A|9780823214808|Autobiography OfSt Ignatius Loyola|N/NewPrice|15.00
+14931|HSTEU|402|A|9780826477941|Discourse OnFree Will ( Ed Winter )|N/NewPrice|N/UsedPrice
+14935|HSTEU|484|A|9780226647456|King Khama, Emperor Joe & The Great White Que|N/NewPrice|N/UsedPrice
+14935|HSTEU|484|A|9780486248592|Noa Noa|N/NewPrice|N/UsedPrice
+14935|HSTEU|484|A|9780571117420|Translations|N/NewPrice|9.00
+14935|HSTEU|484|A|9780802150844|Black Skin, White Masks|N/NewPrice|N/UsedPrice
+14935|HSTEU|484|A|9780872203303|Selected Political Writings|N/NewPrice|10.50
+15007|HUBIO|543|A|9780071701556|Katzung & Trevor S Pharmacology Examination &|N/NewPrice|N/UsedPrice
+15054|IBUS|330|A|9780195373387|Bottom Billion|N/NewPrice|12.00
+15161|INDE|513|A|9781886529199|Intro To Linear Optimization|N/NewPrice|N/UsedPrice
+15206|INFO|341|A|9780136061274|Computer Networks &Internets (5e 08)|N/NewPrice|N/UsedPrice
+15206|INFO|341|A|9780596101008|Zero Configuration Networking|N/NewPrice|N/UsedPrice
+15210|INFO|360|A,B|9780123740373|Sketching User Experiences|N/NewPrice|37.50
+15211|INFO|360|A,B|9780123740373|Sketching UserExperiences|N/NewPrice|37.50
+15212|INFO|360|C|9780470084113|About Face 3(3e 07)|N/NewPrice|N/UsedPrice
+15215|INFO|470|A|9780470723371|Research MethodsIn Human Computer Interactio|N/NewPrice|N/UsedPrice
+15256|INSC|570|A|9780205353118|Social Research Methods(5e 03)|N/NewPrice|N/UsedPrice
+15256|INSC|570|A|9781412960991|Case Study Research(4e 08)|N/NewPrice|N/UsedPrice
+15267|ITAL|101|A-N|9781605764160|4 P/sSentieri W/ Online Passcode, Wkbk, Answ|192.00|N/UsedPrice
+15268|ITAL|101|A-N|9781605764160|4 P/s Sentieri W/ Online Passcode, Wkbk, Answ|192.00|N/UsedPrice
+15269|ITAL|101|A-N|9781605764160|4 P/s Sentieri W/ Online Passcode, Wkbk, Answ|192.00|N/UsedPrice
+15270|ITAL|101|A-N|9781605764160|4 P/s Sentieri W/ Online Passcode, Wkbk, Answ|192.00|N/UsedPrice
+15271|ITAL|101|A-N|9781605764160|4 P/sSentieri W/ Online Passcode, Wkbk, Answ|192.00|N/UsedPrice
+15272|ITAL|101|A-N|9781605764160|4 P/s SentieriW/ Online Passcode, Wkbk, Answ|192.00|N/UsedPrice|N/NewPrice|N/UsedPrice
+15273|ITAL|101|A-N|9781605764160|4 P/sSentieri W/ Online Passcode, Wkbk, Answ|192.00|N/UsedPrice
+15274|ITAL|101|A-N|9781605764160|4 P/s SentieriW/ Online Passcode, Wkbk, Answ|192.00|N/UsedPrice
+15275|ITAL|101|A-N|9781605764160|4 P/s Sentieri W/ Online Passcode, Wkbk, Answ|192.00|N/UsedPrice
+15276|ITAL|101|A-N|9781605764160|4 P/sSentieri W/ Online Passcode, Wkbk, Answ|192.00|N/UsedPrice
+15277|ITAL|101|A-N|9781605764160|4 P/s Sentieri W/ Online Passcode, Wkbk, Answ|192.00|N/UsedPrice
+15278|ITAL|101|A-N|9781605764160|4 P/s Sentieri W/ Online Passcode, Wkbk, Answ|192.00|N/UsedPrice
+15279|ITAL|101|A-N|9781605764160|4 P/sSentieri W/ Online Passcode, Wkbk, Answ|192.00|N/UsedPrice
+15280|ITAL|101|A-N|9781605764160|4 P/s Sentieri W/ Online Passcode, Wkbk, Answ|192.00|N/UsedPrice
+15281|ITAL|201|A-C|9781413016406|Da Capo(6e 07)|N/NewPrice|71.25
+15282|ITAL|201|A-C|9781413016406|Da Capo (6e 07)|N/NewPrice|71.25
+15283|ITAL|201|A-C|9781413016406|Da Capo (6e07)|N/NewPrice|71.25
+15285|ITAL|250|A|9780140513295|Penguin Historical AtlasOf Ancient Rome|N/NewPrice|12.75
+15290|ITAL|301|A,B|9788845907296|Una Storia Semplice(adelphi)|N/NewPrice|N/UsedPrice
+15291|ITAL|301|A,B|9788845907296|Una Storia Semplice (adelphi)|N/NewPrice|N/UsedPrice
+15302|ITAL|531|A|9780791455463|How The WorldBecame A Stage|N/NewPrice|N/UsedPrice
+15302|ITAL|531|A|9781409406839|Perfect Genre|N/NewPrice|N/UsedPrice
+15302|ITAL|531|A|9781903436608|Midsummer Nights Dream(ed Brooks ) (2e 07)|N/NewPrice|N/UsedPrice
+15302|ITAL|531|A|9788842513612|Laminta (ed Varese) (mursia)|27.00|N/UsedPrice
+15302|ITAL|531|A|9788861580381|Candelaio (exclesior)|N/NewPrice|N/UsedPrice
+15305|JAPAN|111|A-C|9784789014403|L.1 Genki, Integrated Course In Elem Japanese|N/NewPrice|N/UsedPrice
+15305|JAPAN|111|A-C|9784789014410|L.1 Wkbk T/a Genki, Integrated Course In Elem|N/NewPrice|N/UsedPrice
+15313|JAPAN|111|A-C|9784789014403|L.1 Genki, IntegratedCourse In Elem Japanese|N/NewPrice|N/UsedPrice
+15313|JAPAN|111|A-C|9784789014410|L.1 Wkbk T/aGenki, Integrated Course In Elem|N/NewPrice|N/UsedPrice
+15321|JAPAN|111|A-C|9784789014403|L.1 Genki, Integrated Course In Elem Japanese|N/NewPrice|N/UsedPrice
+15321|JAPAN|111|A-C|9784789014410|L.1 Wkbk T/a Genki, Integrated Course In Elem|N/NewPrice|N/UsedPrice
+15341|JAPAN|211|A-C|9784789009829|L.2 Genki, IntegratedCourse In Elem Japanese|39.00|N/UsedPrice
+15341|JAPAN|211|A-C|9784789010023|L.2 Wkbk T/aGenki, Integrated Course In Elem|19.00|N/UsedPrice
+15341|JAPAN|211|A-C|9784789011631|L.2 Cd T/aGenki, Integrated Course In Elem J|N/NewPrice|N/UsedPrice
+15350|JAPAN|211|A-C|9784789009829|L.2 Genki, IntegratedCourse In Elem Japanese|39.00|N/UsedPrice
+15350|JAPAN|211|A-C|9784789010023|L.2 Wkbk T/aGenki, Integrated Course In Elem|19.00|N/UsedPrice
+15350|JAPAN|211|A-C|9784789011631|L.2 Cd T/aGenki, Integrated Course In Elem J|N/NewPrice|N/UsedPrice
+15359|JAPAN|211|A-C|9784789009829|L.2 Genki, IntegratedCourse In Elem Japanese|39.00|N/UsedPrice
+15359|JAPAN|211|A-C|9784789010023|L.2 Wkbk T/aGenki, Integrated Course In Elem|19.00|N/UsedPrice
+15359|JAPAN|211|A-C|9784789011631|L.2 Cd T/aGenki, Integrated Course In Elem J|N/NewPrice|N/UsedPrice
+15373|JAPAN|311|A-C|9784789004541|Dictionary Of Basic Japanese Grammar (japan T|37.75|N/UsedPrice
+15373|JAPAN|311|A-C|9784789013079|An Integrated Approach To Intermediate Japane|41.00|N/UsedPrice
+15373|JAPAN|311|A-C|9784789013086|Wbk T/a Integrated Approach To Intermediate J|19.00|N/UsedPrice
+15380|JAPAN|311|A-C|9784789004541|Dictionary OfBasic Japanese Grammar (japan T|37.75|N/UsedPrice
+15380|JAPAN|311|A-C|9784789013079|An IntegratedApproach To Intermediate Japane|41.00|N/UsedPrice
+15380|JAPAN|311|A-C|9784789013086|Wbk T/aIntegrated Approach To Intermediate J|19.00|N/UsedPrice
+15387|JAPAN|311|A-C|9784789004541|Dictionary Of Basic Japanese Grammar (japan T|37.75|N/UsedPrice
+15387|JAPAN|311|A-C|9784789013079|An Integrated Approach To Intermediate Japane|41.00|N/UsedPrice
+15387|JAPAN|311|A-C|9784789013086|Wbk T/a Integrated Approach To Intermediate J|19.00|N/UsedPrice
+15394|JAPAN|321|A|9780231109918|Early Modern Japanese Literature|N/NewPrice|N/UsedPrice
+15394|JAPAN|321|A|9780231136976|Traditional Japanese Literature|N/NewPrice|N/UsedPrice
+15401|JAPAN|360|A|9780231153119|Curious TaleOf Mandogis Ghost|N/NewPrice|N/UsedPrice
+15401|JAPAN|360|A|9780824834906|Into TheLight|N/NewPrice|N/UsedPrice
+15401|JAPAN|360|A|9780824836177|Living Spirit|N/NewPrice|N/UsedPrice
+15401|JAPAN|360|A|9781557290151|Okinawa, TwoPostwar Novellas|N/NewPrice|N/UsedPrice
+15406|JAPAN|471|A|9780231135245|Classical Japanese :A Grammar|N/NewPrice|N/UsedPrice
+15406|JAPAN|471|A|9780231139908|Reader & EssentialDictionary Classical Japan|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+15409|KOREAN|101|A,B|9780972835602|V.1 You Speak Korean|39.95|30.00
+15409|KOREAN|101|A,B|9780972835619|V.1 Wkbk T/a You Speak Korean|21.00|N/UsedPrice
+15409|KOREAN|101|A,B|9780972835640|Korean Verbs At A Glance ( Laminated Card )|3.50|2.65
+15414|KOREAN|101|A,B|9780972835602|V.1 You SpeakKorean|39.95|30.00
+15414|KOREAN|101|A,B|9780972835619|V.1 Wkbk T/aYou Speak Korean|21.00|N/UsedPrice
+15414|KOREAN|101|A,B|9780972835640|Korean Verbs AtA Glance ( Laminated Card )|3.50|2.65
+15419|KOREAN|201|A|9780972835664|V.3 YouSpeak Korean|49.95|37.50
+15419|KOREAN|201|A|9780972835671|Wkbk T/aV.3 You Speak Korean|25.00|N/UsedPrice
+15419|KOREAN|201|A|9780982185025|Remember TheLittle Guys|N/NewPrice|N/UsedPrice
+15427|LARCH|332|A|9780470067970|Landscape Architectural Graphic Standards (st|N/NewPrice|N/UsedPrice
+15458|LABM|322|A|9780781790451|Clinical Chemistry6e09|N/NewPrice|N/UsedPrice
+15458|LABM|322|A|9781437701791|Mathematics ForClinical Laboratory 2e11|N/NewPrice|N/UsedPrice
+15464|LABM|420|A|9781582558752|Graff S Txbk Urinalysis Body Fluids 2e11|N/NewPrice|N/UsedPrice
+15482|LATIN|101|A-E|9780553590128|Bantam New College Latin & English Dictionary|5.99|4.50
+15482|LATIN|101|A-E|9781585102709|Intro To Latin Rev First Ed|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+15482|LATIN|101|A-E|9781585102945|By Roman Hands|N/NewPrice|N/UsedPrice
+15483|LATIN|101|A-E|9780553590128|Bantam NewCollege Latin & English Dictionary|5.99|4.50
+15483|LATIN|101|A-E|9781585102709|Intro ToLatin Rev First Ed|N/NewPrice|N/UsedPrice
+15483|LATIN|101|A-E|9781585102945|By RomanHands|N/NewPrice|N/UsedPrice
+15484|LATIN|101|A-E|9780553590128|Bantam NewCollege Latin & English Dictionary|5.99|4.50
+15484|LATIN|101|A-E|9781585102709|Intro ToLatin Rev First Ed|N/NewPrice|N/UsedPrice
+15484|LATIN|101|A-E|9781585102945|By RomanHands|N/NewPrice|N/UsedPrice
+15485|LATIN|101|A-E|9780553590128|Bantam New CollegeLatin & English Dictionary|5.99|4.50
+15485|LATIN|101|A-E|9781585102709|Intro To LatinRev First Ed|N/NewPrice|N/UsedPrice
+15485|LATIN|101|A-E|9781585102945|By Roman Hands|N/NewPrice|N/UsedPrice
+15486|LATIN|101|A-E|9780553590128|Bantam New College Latin & English Dictionary|5.99|4.50
+15486|LATIN|101|A-E|9781585102709|Intro To Latin Rev First Ed|N/NewPrice|N/UsedPrice
+15486|LATIN|101|A-E|9781585102945|By Roman Hands|N/NewPrice|N/UsedPrice
+15487|LATIN|305|A,B|9780486448060|Allen & Greenough'sNew Latin Grammar|N/NewPrice|N/UsedPrice
+15487|LATIN|305|A,B|9780582367500|Catullus & Horace|N/NewPrice|N/UsedPrice
+15487|LATIN|305|A,B|9780862920883|Caesar : DeBello Gallico 6|N/NewPrice|N/UsedPrice
+15490|LATIN|447|A|9781853995132|Odes (edQuinn )|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+15525|LAWA|502|A|9780314263186|2011-2012 FederalRules Of Civil Procedure Ed|N/NewPrice|N/UsedPrice
+15525|LAWA|502|A|9780314274380|Students GtFederal Rules Of Civil Procedure|N/NewPrice|N/UsedPrice
+15525|LAWA|502|A|9781599416038|Pleading &Procedure (10e 09)|190.00|N/UsedPrice
+15527|LAWA|502|C|9780735569256|Civil Procedure (7e08)|N/NewPrice|N/UsedPrice
+15527|LAWA|502|C|9780735570337|Civil Procedure :Examples & Explanations (6e|N/NewPrice|N/UsedPrice
+15529|LAWA|503|A|9780735588608|2 P/s Property Law (5e 10) W/ Code|N/NewPrice|N/UsedPrice
+15535|LAWA|504|C|9780314250957|Torts & Compensation (4e 01)|N/NewPrice|N/UsedPrice
+15535|LAWA|504|C|9780314932204|Concise Restatment Of Torts (2e 10)|29.25|N/UsedPrice
+15535|LAWA|504|C|9780735562417|Contracts (5e 07) Examples & Explanations|N/NewPrice|N/UsedPrice
+15535|LAWA|504|C|9780735588745|Law Of Torts Examples & Explanations (4e 10)|N/NewPrice|N/UsedPrice
+15535|LAWA|504|C|9781587784941|Contracts (9e 03)|N/NewPrice|N/UsedPrice
+15535|LAWA|504|C|9781599413198|Contracts Appendix (9e 08)|N/NewPrice|N/UsedPrice
+15535|LAWA|504|C|9788831851527|3 P/s Contracts Restatement Of Law 2nd (5152)|48.25|N/UsedPrice
+15541|LAWA|506|B,C|9780735585164|2 P/sLegal Writing Hbk (5e 10) W/ Code|102.00|N/UsedPrice
+15542|LAWA|506|B,C|9780735585164|2 P/sLegal Writing Hbk (5e 10) W/ Code|102.00|N/UsedPrice
+15549|LAWA|510|A-E|9780314275097|2011 Sel Commercial Statutes F/ Sales & Contr|N/NewPrice|N/UsedPrice
+15549|LAWA|510|A-E|9780735577589|Sales & Leases (5e 09) Examples & Explanation|N/NewPrice|N/UsedPrice
+15549|LAWA|510|A-E|9781594609503|Sales|N/NewPrice|N/UsedPrice
+15550|LAWA|510|A-E|9780314275097|2011 Sel CommercialStatutes F/ Sales & Contr|N/NewPrice|N/UsedPrice
+15550|LAWA|510|A-E|9780735577589|Sales & Leases(5e 09) Examples & Explanation|N/NewPrice|N/UsedPrice
+15550|LAWA|510|A-E|9781594609503|Sales|N/NewPrice|N/UsedPrice
+15551|LAWA|510|A-E|9780314275097|2011 Sel CommercialStatutes F/ Sales & Contr|N/NewPrice|N/UsedPrice
+15551|LAWA|510|A-E|9780735577589|Sales & Leases(5e 09) Examples & Explanation|N/NewPrice|N/UsedPrice
+15551|LAWA|510|A-E|9781594609503|Sales|N/NewPrice|N/UsedPrice
+15552|LAWA|510|A-E|9780314275097|2011 SelCommercial Statutes F/ Sales & Contr|N/NewPrice|N/UsedPrice
+15552|LAWA|510|A-E|9780735577589|Sales &Leases (5e 09) Examples & Explanation|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+15552|LAWA|510|A-E|9781594609503|Sales|N/NewPrice|N/UsedPrice
+15553|LAWA|510|A-E|9780314275097|2011 Sel CommercialStatutes F/ Sales & Contr|N/NewPrice|N/UsedPrice
+15553|LAWA|510|A-E|9780735577589|Sales & Leases(5e 09) Examples & Explanation|N/NewPrice|N/UsedPrice
+15553|LAWA|510|A-E|9781594609503|Sales|N/NewPrice|N/UsedPrice
+15562|LAWA|527|A,B|9780735594302|Environmental Protection(6e 11)|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+15563|LAWA|527|A,B|9780735594302|Environmental Protection(6e 11)|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+15565|LAWA|530|A|9780314266828|2012 Sel FederalTaxation Statutes & Regulati|N/NewPrice|N/UsedPrice
+15565|LAWA|530|A|9780735592513|Federal Income Taxation(3e 11)|N/NewPrice|N/UsedPrice
+15579|LAWA|574|A,B|9780735589179|International Law (3e10)|N/NewPrice|N/UsedPrice
+15581|LAWA|580|A,B|9780314154910|Domestic Relations (7e 10)|N/NewPrice|N/UsedPrice
+15582|LAWA|580|A,B|9780314154910|Domestic Relations(7e 10)|N/NewPrice|N/UsedPrice
+15593|LAWB|503|A|9780327162834|3 P/s LawOf Evidence In Washington (4e 03) L|N/NewPrice|N/UsedPrice
+15593|LAWB|503|A|9781594606021|Evidence (2e 09)|N/NewPrice|N/UsedPrice
+15598|LAWB|510|A|9780314908841|Professional Responsibility|N/NewPrice|N/UsedPrice
+15598|LAWB|510|A|9780314978202|Concise RestatementOf Law Governing Lawyers|N/NewPrice|N/UsedPrice
+15598|LAWB|510|A|9780735508590|2011 LawGoverning Lawyers|40.00|30.00
+15606|LAWB|520|A|9780735594418|Trial Techniques(8e 10)|N/NewPrice|N/UsedPrice
+15607|ME|331|A|9780471457275|Intro To Heat Transfer (5e 07)|210.25|157.70
+15612|ME|395|A|9780072837032|Engineering Design (4e08)|175.25|131.45
+15616|ME|469|A|9780387856049|Analytical SystemDynamics Modeling & Simulat|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+15619|LAWB|523|A|9780140157352|Getting To Yes (2e 92)|N/NewPrice|12.00
+15619|LAWB|523|A|9780553371314|Getting Past No|N/NewPrice|12.75
+15619|LAWB|523|A|9780735570672|Negotiation Theory & Strategy (2e 09)|142.00|N/UsedPrice
+15623|LAWB|528|A|9780735594418|Trial Techniques(8e 10)|N/NewPrice|N/UsedPrice
+15623|LAWB|528|A|9780735599963|Essential LawyeringSkills (4e 11)|N/NewPrice|N/UsedPrice
+15627|LAWB|533|A,B|9781422422939|Practical ApproachTo Client Interviewing Cou|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+15628|LAWB|533|A,B|9781422422939|Practical Approach ToClient Interviewing Cou|N/NewPrice|N/UsedPrice
+15634|ME|501|A,B|9780824799144|Intro To ManufacturingProc & Mtls|N/NewPrice|110.25
+15635|ME|501|A,B|9780824799144|Intro ToManufacturing Proc & Mtls|N/NewPrice|110.25
+15637|LAWB|550|A|9780615361161|Bluebook (19e 10)|32.00|N/UsedPrice
+15637|LAWB|550|A|9780735569539|Legal Reasoning Research & Writing F/ Interna|N/NewPrice|N/UsedPrice
+15656|LAWB|578|A,B|9789087280642|One Billion Rising|N/NewPrice|N/UsedPrice
+15657|LAWB|578|A,B|9789087280642|One Billion Rising|N/NewPrice|N/UsedPrice
+15660|LAWB|596|A,B|9780375760464|World Made New|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+15660|LAWB|596|A,B|9781422411735|International Human Rights(4e 09)|N/NewPrice|N/UsedPrice
+15660|LAWB|596|A,B|9781422472651|Loose Leaf InternationalHuman Rights (4e 09)|N/NewPrice|N/UsedPrice
+15661|LAWB|596|A,B|9780375760464|World Made New|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+15661|LAWB|596|A,B|9781422411735|International Human Rights (4e 09)|N/NewPrice|N/UsedPrice
+15661|LAWB|596|A,B|9781422472651|Loose Leaf International Human Rights (4e 09)|N/NewPrice|N/UsedPrice
+15679|LAWE|509|A-C|9780199562251|Cases & MaterialsOn Eu Law (9e 10)|N/NewPrice|N/UsedPrice
+15679|LAWE|509|A-C|9780314205452|Principles Of EuropeanUnion Law (2e 10)|N/NewPrice|N/UsedPrice
+15680|LAWE|509|A-C|9780199562251|Cases & MaterialsOn Eu Law (9e 10)|N/NewPrice|N/UsedPrice
+15680|LAWE|509|A-C|9780314205452|Principles Of EuropeanUnion Law (2e 10)|N/NewPrice|N/UsedPrice
+15681|LAWE|509|A-C|9780199562251|Cases &Materials On Eu Law (9e 10)|N/NewPrice|N/UsedPrice
+15681|LAWE|509|A-C|9780314205452|Principles OfEuropean Union Law (2e 10)|N/NewPrice|N/UsedPrice
+15682|LAWE|514|A-C|9781599416656|Nonprofit Organizations (4e 10)|N/NewPrice|N/UsedPrice
+15682|LAWE|514|A-C|9781599416717|Suppl T/a Nonprofit Organizations (4e 10)|N/NewPrice|N/UsedPrice
+15683|LAWE|514|A-C|9781599416656|Nonprofit Organizations (4e10)|N/NewPrice|N/UsedPrice
+15683|LAWE|514|A-C|9781599416717|Suppl T/a NonprofitOrganizations (4e 10)|N/NewPrice|N/UsedPrice
+15684|LAWE|514|A-C|9781599416656|Nonprofit Organizations (4e10)|N/NewPrice|N/UsedPrice
+15684|LAWE|514|A-C|9781599416717|Suppl T/a NonprofitOrganizations (4e 10)|N/NewPrice|N/UsedPrice
+15688|LAWE|524|A|9780314235312|Lawyers & Clients|N/NewPrice|N/UsedPrice
+15690|LAWE|544|A-C|9780735576414|Information PrivacyLaw (3e 08)|N/NewPrice|N/UsedPrice
+15691|LAWE|544|A-C|9780735576414|Information Privacy Law(3e 08)|N/NewPrice|N/UsedPrice
+15692|LAWE|544|A-C|9780735576414|Information Privacy Law(3e 08)|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+15712|LAWH|501|A-C|9781567939576|Law Of Healthcare Administration (5e 08)|N/NewPrice|90.00
+15713|LAWH|501|A-C|9781567939576|Law Of Healthcare Administration (5e 08)|N/NewPrice|90.00
+15714|LAWH|501|A-C|9781567939576|Law Of HealthcareAdministration (5e 08)|N/NewPrice|90.00
+15735|LAWH|520|A,B|9780890896211|Genetic Technologies& Law|N/NewPrice|N/UsedPrice
+15736|LAWH|520|A,B|9780890896211|Genetic Technologies& Law|N/NewPrice|N/UsedPrice
+15763|LAWT|515|A,B|9780791379035|2011-2012 Fundamentals Of International Taxat|N/NewPrice|N/UsedPrice
+15763|LAWT|515|A,B|9780791379387|2011 Study Problems T/a Fundamentals Of Inter|N/NewPrice|N/UsedPrice
+15764|LAWT|515|A,B|9780791379035|2011-2012 Fundamentals OfInternational Taxat|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+15764|LAWT|515|A,B|9780791379387|2011 Study ProblemsT/a Fundamentals Of Inter|N/NewPrice|N/UsedPrice
+15765|LAWT|526|A,B|9781422422632|Tax Controversies(3e 08)|N/NewPrice|N/UsedPrice
+15765|LAWT|526|A,B|9781422472637|Loose LeafTax Controversies (3e 08)|N/NewPrice|N/UsedPrice
+15766|LAWT|526|A,B|9781422422632|Tax Controversies(3e 08)|N/NewPrice|N/UsedPrice
+15766|LAWT|526|A,B|9781422472637|Loose LeafTax Controversies (3e 08)|N/NewPrice|N/UsedPrice
+15778|LING|100|A|9780195129847|Discovering Grammar|N/NewPrice|60.00
+15787|LING|200|A|9780814251799|Language Files 11 (11e 12)|N/NewPrice|N/UsedPrice
+15798|LING|400|A|9780814251799|Language Files 11 (11e 12)|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+15800|LING|442|A|9780230232303|Semantics (2e11)|37.00|N/UsedPrice
+15802|LING|449|A|9780340807668|Second LanguageLearning Theories (2e 04)|35.00|N/UsedPrice
+15803|LING|450|A|9781405184113|Introductory Phonology|41.95|31.50
+15803|LING|450|A|9781428231269|2 P/s CourseIn Phonetics W/ Cd (6e 11)|N/NewPrice|N/UsedPrice
+15807|LING|453|A|9780631232704|Phonetic Data Analysis|N/NewPrice|N/UsedPrice
+15807|LING|453|A|9781405194662|Acoustic & AuditoryPhonetics (3e 11)|N/NewPrice|N/UsedPrice
+15808|LING|454|A|9780262532679|Historical Linguistics (2e04)|N/NewPrice|N/UsedPrice
+15809|LING|461|A|9781405133845|Syntax (2e 06)|59.95|N/UsedPrice
+15812|LING|507|A|9780199243709|Core Syntax|N/NewPrice|N/UsedPrice
+15815|LING|534|A|9780521387071|Social Network Analysis|N/NewPrice|N/UsedPrice
+15815|LING|534|A|9780631153146|Language & Social Networks (2e 91)|45.00|N/UsedPrice
+15816|LING|542|A|9780230232303|Semantics (2e11)|37.00|N/UsedPrice
+15817|LING|549|A|9780340807668|Second LanguageLearning Theories (2e 04)|35.00|N/UsedPrice
+15818|LING|550|A-C|9781405184113|Introductory Phonology|41.95|31.50
+15818|LING|550|A-C|9781428231269|2 P/s CourseIn Phonetics W/ Cd (6e 11)|N/NewPrice|N/UsedPrice
+15819|LING|553|A|9780631232704|Phonetic Data Analysis|N/NewPrice|N/UsedPrice
+15819|LING|553|A|9781405194662|Acoustic & Auditory Phonetics (3e 11)|N/NewPrice|N/UsedPrice
+15822|LING|566|A-C|9781575864006|Syntactic Theory (2e03)|N/NewPrice|N/UsedPrice
+15824|LING|570|A-C|9780131873216|Speech & Language Processing (2e 09)|N/NewPrice|100.70
+15840|LIS|510|A,D|9780123694300|Looking F/ Information (2e 06)|N/NewPrice|63.00
+15840|LIS|510|A,D|9781573872300|Theories Of Information Behavior|N/NewPrice|37.15
+15842|LIS|510|C,E|9780123694300|Looking F/ Information (2e 06)|N/NewPrice|63.00
+15842|LIS|510|C,E|9781573872300|Theories Of Information Behavior|N/NewPrice|37.15
+15847|LIS|522|A|9780838909720|Fundamentals Of CollectionDevelopment & Mana|70.00|N/UsedPrice
+15860|LIS|568|A,B|9781555706661|Information LiteracyInstruction (2e 09)|75.00|56.25|N/NewPrice|N/UsedPrice
+15863|LIS|570|A,C,D|9781856045452|Research Methods In Information|N/NewPrice|N/UsedPrice
+15892|LSJ|230|A|9780812924121|No Pity|N/NewPrice|12.75
+15898|LSJ|320|A|9780307387097|Half The Sky|N/NewPrice|12.00
+15898|LSJ|320|A|9780813544618|Peoples History OfEuropean Court Of Human Ri|N/NewPrice|19.50
+15903|IMMUN|441|A|9780815341239|Janeways Immunobiology (7e 08) Janeway S|N/NewPrice|N/UsedPrice
+15968|ME|323|A|9780073305370|Thermodynamics (6e 07)|N/NewPrice|150.40
+15971|ME|354|A|9781256341765|Mechanical BehaviorOf Materials (custom) 201|N/NewPrice|N/UsedPrice
+15977|ME|431|A|9780077422417|Fluid Mechanics W/ Dvd (7e 10)|N/NewPrice|145.70
+15992|ME|498|I|9780521529778|Thin Film Materials|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+16001|ME|503|A,B|9780521405980|Mechanics &Thermodynamics Of Continua|N/NewPrice|N/UsedPrice
+16003|ME|510|A|9780387950013|Linear Operator Theory In Engineering & Scien|N/NewPrice|N/UsedPrice
+16009|ME|530|A|9781439805336|Thermal RadiationHeat Transfer (5e 11)|N/NewPrice|N/UsedPrice
+16011|ME|547|A|9780195117776|Linear SystemTheory & Design|N/NewPrice|N/UsedPrice
+16017|ME|556|A,B|9780979258183|Experimental Solid Mechanics|N/NewPrice|N/UsedPrice
+16019|ME|564|A,B|9780470119167|Advanced Engineering Mathematics (9e 06)|N/NewPrice|N/UsedPrice
+16022|ME|588|A,B|9780023801419|Principles &Techniques Of Vibrations|N/NewPrice|N/UsedPrice
+16031|ME|599|H|9780077422417|Fluid MechanicsW/ Dvd (7e 10)|N/NewPrice|145.70
+16045|MSCI|101|A|9780536563170|Introduction To Leadership|17.75|13.35
+16050|MSCI|201|A|9780536563187|Foundations Of Leadership|23.00|17.25
+16061|MATH|098|A-C|9780618918805|Intermediate Algebra (4e07)|N/NewPrice|111.95|N/NewPrice|N/UsedPrice
+16062|MATH|098|A-C|9780618918805|Intermediate Algebra (4e 07)|N/NewPrice|111.95
+16063|MATH|098|A-C|9780618918805|Intermediate Algebra (4e07)|N/NewPrice|111.95|N/NewPrice|N/UsedPrice
+16200|MATH|134|A|9780470073339|Calculus : OneVariable (10e 07)|N/NewPrice|N/UsedPrice
+16207|MATH|307|A-L|9780470383353|Ssm T/aElementary Differential Equations & B|N/NewPrice|N/UsedPrice
+16207|MATH|307|A-L|9780470735862|Math 307,Ch. 1, 2, 3, 6, Elementary Differnt|53.00|N/UsedPrice
+16208|MATH|307|A-L|9780470383353|Ssm T/a Elementary Differential Equations & B|N/NewPrice|N/UsedPrice
+16208|MATH|307|A-L|9780470735862|Math 307, Ch. 1, 2, 3, 6, Elementary Differnt|53.00|N/UsedPrice
+16209|MATH|307|A-L|9780470383353|Ssm T/aElementary Differential Equations & B|N/NewPrice|N/UsedPrice
+16209|MATH|307|A-L|9780470735862|Math 307,Ch. 1, 2, 3, 6, Elementary Differnt|53.00|N/UsedPrice
+16210|MATH|307|A-L|9780470383353|Ssm T/a Elementary Differential Equations & B|N/NewPrice|N/UsedPrice
+16210|MATH|307|A-L|9780470735862|Math 307, Ch. 1, 2, 3, 6, Elementary Differnt|53.00|N/UsedPrice
+16211|MATH|307|A-L|9780470383353|Ssm T/a Elementary Differential Equations & B|N/NewPrice|N/UsedPrice
+16211|MATH|307|A-L|9780470735862|Math 307, Ch. 1, 2, 3, 6, Elementary Differnt|53.00|N/UsedPrice
+16212|MATH|307|A-L|9780470383353|Ssm T/a Elementary Differential Equations & B|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+16212|MATH|307|A-L|9780470735862|Math 307, Ch. 1, 2, 3, 6, Elementary Differnt|53.00|N/UsedPrice
+16213|MATH|307|A-L|9780470383353|Ssm T/a ElementaryDifferential Equations & B|N/NewPrice|N/UsedPrice
+16213|MATH|307|A-L|9780470735862|Math 307, Ch.1, 2, 3, 6, Elementary Differnt|53.00|N/UsedPrice
+16214|MATH|307|A-L|9780470383353|Ssm T/a Elementary Differential Equations & B|N/NewPrice|N/UsedPrice
+16214|MATH|307|A-L|9780470735862|Math 307, Ch. 1, 2, 3, 6, Elementary Differnt|53.00|N/UsedPrice
+16215|MATH|307|A-L|9780470383353|Ssm T/aElementary Differential Equations & B|N/NewPrice|N/UsedPrice
+16215|MATH|307|A-L|9780470735862|Math 307,Ch. 1, 2, 3, 6, Elementary Differnt|53.00|N/UsedPrice
+16216|MATH|307|A-L|9780470383353|Ssm T/a ElementaryDifferential Equations & B|N/NewPrice|N/UsedPrice
+16216|MATH|307|A-L|9780470735862|Math 307, Ch.1, 2, 3, 6, Elementary Differnt|53.00|N/UsedPrice
+16217|MATH|307|A-L|9780470383353|Ssm T/aElementary Differential Equations & B|N/NewPrice|N/UsedPrice
+16217|MATH|307|A-L|9780470735862|Math 307,Ch. 1, 2, 3, 6, Elementary Differnt|53.00|N/UsedPrice
+16218|MATH|307|A-L|9780470383353|Ssm T/a ElementaryDifferential Equations & B|N/NewPrice|N/UsedPrice
+16218|MATH|307|A-L|9780470735862|Math 307, Ch.1, 2, 3, 6, Elementary Differnt|53.00|N/UsedPrice
+16231|MATH|309|A-D|9780470383353|Ssm T/aElementary Differential Equations & B|N/NewPrice|N/UsedPrice
+16231|MATH|309|A-D|9780470735879|Math 309,Ch. 7, 8, 10, Differential Equation|53.00|N/UsedPrice
+16232|MATH|309|A-D|9780470383353|Ssm T/aElementary Differential Equations & B|N/NewPrice|N/UsedPrice
+16232|MATH|309|A-D|9780470735879|Math 309,Ch. 7, 8, 10, Differential Equation|53.00|N/UsedPrice
+16233|MATH|309|A-D|9780470383353|Ssm T/a ElementaryDifferential Equations & B|N/NewPrice|N/UsedPrice
+16233|MATH|309|A-D|9780470735879|Math 309, Ch.7, 8, 10, Differential Equation|53.00|N/UsedPrice
+16234|MATH|309|A-D|9780470383353|Ssm T/a ElementaryDifferential Equations & B|N/NewPrice|N/UsedPrice
+16234|MATH|309|A-D|9780470735879|Math 309, Ch.7, 8, 10, Differential Equation|53.00|N/UsedPrice
+16240|MATH|326|A|9780471025665|Advanced Calculus(3e 83)|N/NewPrice|140.25
+16244|MATH|380|A|9780471789017|Art &Craft Of Problem Solving (2e 07)|N/NewPrice|N/UsedPrice
+16246|MATH|390|A|9780534467197|Applied Statistics F/ Engineers & Scientists|199.50|149.65
+16251|MATH|394|A|9780136033134|First CourseIn Probability (8e 10)|138.75|N/UsedPrice
+16252|MATH|394|B|9780136033134|First Course InProbability (8e 10)|138.75|N/UsedPrice
+16254|MATH|402|A|9780132413770|Algebra (2e 11)|132.25|N/UsedPrice
+16255|MATH|402|B|9780132413770|Algebra (2e 11)|132.25|N/UsedPrice
+16257|MATH|411|A|9780131019638|Intro To Abstract Algebra|N/NewPrice|N/UsedPrice
+16258|MATH|424|A,B|9780070542358|Principles MathAnalysis (3e 76)|N/NewPrice|N/UsedPrice
+16259|MATH|424|A,B|9780070542358|Principles Math Analysis(3e 76)|N/NewPrice|N/UsedPrice
+16260|MATH|427|A|9781449604455|Complex Analysis ForMath & Engineering (6e 1|N/NewPrice|N/UsedPrice
+16261|MATH|441|A|9780131816299|Topology (2e 00)|144.00|N/UsedPrice
+16262|MATH|461|A|9789812568861|Walk ThroughCombinatorics (2e 06)|N/NewPrice|57.00
+16267|MATH|504|A|9780471433347|Abstract Algebra (3e 04)|96.00|72.00
+16271|MATH|524|A|9780471317166|Real Analysis(2e 99)|N/NewPrice|N/UsedPrice
+16271|MATH|524|A|9780691113869|Real Analysis|N/NewPrice|N/UsedPrice
+16277|MATH|534|A|9780387950693|Complex Analysis|N/NewPrice|N/UsedPrice
+16279|MATH|544|A|9781441979391|Intro ToTopological Manifolds (2e 10)|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+16280|MATH|547|A|9780387983226|Riemannian Manifolds|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+16288|MATH|574|A,B|9780070542358|Principles Math Analysis (3e 76)|N/NewPrice|N/UsedPrice
+16289|MATH|574|A,B|9780070542358|Principles Math Analysis(3e 76)|N/NewPrice|N/UsedPrice
+16293|MATH|581|B|9780521663519|V.1 EnumerativeCombinatorics|N/NewPrice|N/UsedPrice
+16295|MATH|581|D|9780470170205|Probabilistic Method (3e08)|N/NewPrice|N/UsedPrice
+16492|MGMT|200|A|9781256279143|Uw Mgmt 200Law Custom Loose Leaf|N/NewPrice|N/UsedPrice
+16493|MGMT|200|B|9781256279143|Uw Mgmt 200Law Custom Loose Leaf|N/NewPrice|N/UsedPrice
+16494|MGMT|200|C|9781256279143|Uw Mgmt200 Law Custom Loose Leaf|N/NewPrice|N/UsedPrice
+16494|MGMT|200|C|9781400096794|Nine :Inside The Secret World Of The Supreme|N/NewPrice|12.00
+16495|MGMT|300|A,B|9780077907563|2 P/sOrganizational Behavior (2e 11) W/ Conn|N/NewPrice|82.70
+16496|MGMT|300|A,B|9780077907563|2 P/s Organizational Behavior (2e 11) W/ Conn|N/NewPrice|82.70
+16497|MGMT|300|C,D,G|9780077907563|2 P/s OrganizationalBehavior (2e 11) W/ Conn|N/NewPrice|82.70
+16498|MGMT|300|C,D,G|9780077907563|2 P/sOrganizational Behavior (2e 11) W/ Conn|N/NewPrice|82.70
+16499|MGMT|300|E|9780077907563|2 P/s Organizational Behavior (2e 11) W/ Conn|N/NewPrice|82.70
+16501|MGMT|311|A|9780073530475|Human ResourceManagement (7e 10)|N/NewPrice|N/UsedPrice
+16501|MGMT|311|A|9780077405427|Loose LeafHuman Resource Management (7e 10)|N/NewPrice|N/UsedPrice
+16503|MGMT|320|A,B|9780077578695|Business Government& Society ( Custom )|N/NewPrice|N/UsedPrice
+16505|MGMT|320|D|9780077578695|Business Government & Society ( Custom )|N/NewPrice|N/UsedPrice
+16507|MGMT|401|A|9780743269513|7 Habits OfHighly Effective People W/ New Fo|N/NewPrice|12.00
+16510|MGMT|402|A|9780132543866|Mind & Heart Of Negotiator (5e 12)|N/NewPrice|N/UsedPrice
+16511|MGMT|403|A|9781594484803|Drive|N/NewPrice|N/UsedPrice
+16516|MGMT|430|D,E|9780538753098|Strategic Management: Concepts (9e 11)|116.75|87.60
+16557|MICROM|443|A|9780895826565|Photographic Atlas For The Microbiology Labor|N/NewPrice|N/UsedPrice
+16585|MKTG|301|A,B|9781256296621|2 P/s Principles Of Marketing (14e 12) Value|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+16586|MKTG|301|A,B|9781256296621|2 P/s Principles Of Marketing (14e 12) Value|N/NewPrice|N/UsedPrice
+16587|MKTG|301|C-D|9781256296621|2 P/s PrinciplesOf Marketing (14e 12) Value|N/NewPrice|N/UsedPrice
+16588|MKTG|301|C-D|9781256296621|2 P/sPrinciples Of Marketing (14e 12) Value|N/NewPrice|N/UsedPrice
+16589|MKTG|301|C-D|9781256296621|2 P/sPrinciples Of Marketing (14e 12) Value|N/NewPrice|N/UsedPrice
+16591|MKTG|335|B|9780073404844|Abcs Of Relationship Selling (11e 11)|146.75|110.10
+16592|MKTG|340|A|9781111826116|Promo|69.95|N/UsedPrice|N/NewPrice|N/UsedPrice
+16593|MKTG|370|A|9780073530024|Retailing Management (8e12)|N/NewPrice|N/UsedPrice
+16613|MKTG|515|A,B|9780136106814|Strategy &Tactics Of Pricing (5e 11)|N/NewPrice|N/UsedPrice
+16614|MKTG|515|A,B|9780136106814|Strategy & TacticsOf Pricing (5e 11)|N/NewPrice|N/UsedPrice
+16628|MSE|170|A,B|9780470419977|Materials Science& Engineering (8e 10)|182.00|136.50
+16639|MSE|170|A,B|9780470419977|Materials Science &Engineering (8e 10)|182.00|136.50
+16652|MSE|321|A|9780521141291|2 P/s Stoichiometry& Thermodynamics Of Metal|N/NewPrice|N/UsedPrice
+16658|MSE|471|A|9780130181688|Polymer Science &Technology (2e 02)|N/NewPrice|N/UsedPrice
+16659|MSE|475|A|9780471268918|Analysis &Performance Of Fiber Composites|N/NewPrice|N/UsedPrice
+16663|MSE|486|A|9780961672188|Microchip Manufacturing|N/NewPrice|N/UsedPrice
+16672|MSE|510|A|9780198517863|Bonding &Structure Of Molecules & Solids|N/NewPrice|N/UsedPrice
+16672|MSE|510|A|9780471000822|Structure OfMaterials|N/NewPrice|N/UsedPrice
+16672|MSE|510|A|9780521663793|Structure &Bonding In Crystalline Mtls|N/NewPrice|N/UsedPrice
+16686|MUHST|411|A|9780486226491|Complete Song Cycles|16.95|N/UsedPrice
+16691|MUHST|508|A|9780486223612|Complete String Quartets& Grosse Fuge|N/NewPrice|N/UsedPrice
+16694|MUSAP|133|A|9780739012970|First Book OfScales, Chords, Arpeggios & Cad|6.95|N/UsedPrice
+16696|MUSAP|134|A|9780739012970|First Book OfScales, Chords, Arpeggios & Cad|6.95|N/UsedPrice|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+16697|MUSAP|135|A|9780739012970|First BookOf Scales, Chords, Arpeggios & Cad|6.95|N/UsedPrice
+16702|MUSAP|233|A|9780739012970|First Book OfScales, Chords, Arpeggios & Cad|6.95|N/UsedPrice
+16703|MUSAP|234|A|9780739012970|First Book OfScales, Chords, Arpeggios & Cad|6.95|N/UsedPrice
+16704|MUSAP|235|A|9780739012970|First Book OfScales, Chords, Arpeggios & Cad|6.95|N/UsedPrice
+16862|MUSEN|325|A|9780195367959|Complete Collaborator|N/NewPrice|N/UsedPrice
+16895|MUSEN|525|A|9780195367959|Complete Collaborator|N/NewPrice|N/UsedPrice
+16961|MUSIC|113|A-J|9780393911503|New ApproachTo Sight Singing (5e 11)|N/NewPrice|N/UsedPrice
+16961|MUSIC|113|A-J|9789136600940|Rhythm Book(2e 09)|38.75|N/UsedPrice
+16962|MUSIC|113|A-J|9780393911503|New Approach ToSight Singing (5e 11)|N/NewPrice|N/UsedPrice
+16962|MUSIC|113|A-J|9789136600940|Rhythm Book (2e09)|38.75|N/UsedPrice
+16963|MUSIC|113|A-J|9780393911503|New ApproachTo Sight Singing (5e 11)|N/NewPrice|N/UsedPrice
+16963|MUSIC|113|A-J|9789136600940|Rhythm Book(2e 09)|38.75|N/UsedPrice
+16964|MUSIC|113|A-J|9780393911503|New Approach ToSight Singing (5e 11)|N/NewPrice|N/UsedPrice
+16964|MUSIC|113|A-J|9789136600940|Rhythm Book (2e09)|38.75|N/UsedPrice
+16965|MUSIC|113|A-J|9780393911503|New Approach ToSight Singing (5e 11)|N/NewPrice|N/UsedPrice
+16965|MUSIC|113|A-J|9789136600940|Rhythm Book (2e09)|38.75|N/UsedPrice
+16966|MUSIC|113|A-J|9780393911503|New Approach ToSight Singing (5e 11)|N/NewPrice|N/UsedPrice
+16966|MUSIC|113|A-J|9789136600940|Rhythm Book (2e09)|38.75|N/UsedPrice|N/NewPrice|N/UsedPrice
+16967|MUSIC|113|A-J|9780393911503|New ApproachTo Sight Singing (5e 11)|N/NewPrice|N/UsedPrice
+16967|MUSIC|113|A-J|9789136600940|Rhythm Book(2e 09)|38.75|N/UsedPrice
+16968|MUSIC|113|A-J|9780393911503|New Approach ToSight Singing (5e 11)|N/NewPrice|N/UsedPrice
+16968|MUSIC|113|A-J|9789136600940|Rhythm Book (2e09)|38.75|N/UsedPrice|N/NewPrice|N/UsedPrice
+16969|MUSIC|113|A-J|9780393911503|New Approach To Sight Singing (5e 11)|N/NewPrice|N/UsedPrice
+16969|MUSIC|113|A-J|9789136600940|Rhythm Book (2e 09)|38.75|N/UsedPrice
+16970|MUSIC|113|A-J|9780393911503|New Approach To Sight Singing (5e 11)|N/NewPrice|N/UsedPrice
+16970|MUSIC|113|A-J|9789136600940|Rhythm Book (2e 09)|38.75|N/UsedPrice
+16971|MUSIC|116|A,B|9780558826833|2 P/s BasicMaterials In Music Theory W/my Mu|122.50|N/UsedPrice
+16972|MUSIC|116|A,B|9780558826833|2 P/s BasicMaterials In Music Theory W/my Mu|122.50|N/UsedPrice
+16973|MUSIC|117|A|9780390105707|Music In Theory & Practice (custom)|30.75|23.10
+16974|MUSIC|119|A|9780199742783|Complete Musician (w/2Cd's) (3e 11)|N/NewPrice|N/UsedPrice
+17005|MUSIC|250|A|9780195138337|Music In Trinidad|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+17005|MUSIC|250|A|9780415960687|Focus Gamelan Music Of Indonesia (2e 08)|N/NewPrice|N/UsedPrice
+17083|NCLIN|306|A-L|9780323065801|Medical SurgicalNursing 8e11|138.00|N/UsedPrice
+17083|NCLIN|306|A-L|9780323071505|Nursing DiagnosisHandbook 9e11|57.95|N/UsedPrice
+17083|NCLIN|306|A-L|9780323080163|Nursing SkillsOnline 2.0 For Nursing Interve|107.95|N/UsedPrice
+17083|NCLIN|306|A-L|9780803623040|Davis SComprehensive Handbook Laboratory Dia|47.95|N/UsedPrice
+17083|NCLIN|306|A-L|9780803623088|Davis SDrug Guide 12e10 2011|42.95|N/UsedPrice
+17119|NCLIN|500|A&B|9780781780582|Bates GuideTo Physical Examination (10e 09)|111.95|N/UsedPrice
+17128|NCLIN|502|A,B,C|9780781791656|Advanced PediatricAssessment|N/NewPrice|N/UsedPrice
+17132|NCLIN|502|A,B,C|9780781791656|Advanced Pediatric Assessment|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+17156|NEAR E|150|A|9780874519624|Israel In Middle East (2e 08)|N/NewPrice|22.50
+17156|NEAR E|150|A|9781584653271|Jews In Israel (2e 04)|N/NewPrice|26.25
+17161|NEAR E|240|A,B|9780195378405|Old Testament(2e 11)|N/NewPrice|N/UsedPrice
+17166|NEAR E|496|B|9781558761353|Shia Islam|N/NewPrice|N/UsedPrice
+17170|NEAR E|518|A|9780131579064|Communicative Language Teaching In Action|68.25|51.20
+17172|NEAR E|596|B|9781558761353|Shia Islam|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+17244|NMETH|590|B|9780071353977|Transcultural Nursing 3e02|N/NewPrice|N/UsedPrice
+17244|NMETH|590|B|9781412939126|Health Promotion InMulticultural Populations|N/NewPrice|N/UsedPrice
+17244|NMETH|590|B|9781608310753|Transcultural Concepts InNursing Care 6e12|N/NewPrice|N/UsedPrice
+17252|NORW|101|A|9780978698300|Sett IGang 1 Textbook|97.50|73.15
+17252|NORW|101|A|9780978698324|Wkbk T/aSett I Gang 1|21.50|N/UsedPrice
+17252|NORW|101|A|9780978698331|Glossary T/aSett I Gang 1|13.50|N/UsedPrice
+17252|NORW|101|A|9788202256487|Engelsk NorskEngelsk Ordbok (cappelens)|71.75|N/UsedPrice
+17252|NORW|101|A|9788249608171|Enkel NorskGrammatikk (damm)|52.25|N/UsedPrice
+17253|NORW|101|B|9780978698300|Sett I Gang1 Textbook|97.50|73.15
+17253|NORW|101|B|9780978698324|Wkbk T/a SettI Gang 1|21.50|N/UsedPrice
+17253|NORW|101|B|9780978698331|Glossary T/a SettI Gang 1|13.50|N/UsedPrice
+17253|NORW|101|B|9788202256487|Engelsk Norsk EngelskOrdbok (cappelens)|71.75|N/UsedPrice
+17253|NORW|101|B|9788249608171|Enkel Norsk Grammatikk(damm)|52.25|N/UsedPrice
+17254|NORW|201|A|9780415109796|Norwegian : An Essential Grammar|N/NewPrice|N/UsedPrice
+17254|NORW|201|A|9788202256487|Engelsk Norsk Engelsk Ordbok (cappelens)|71.75|N/UsedPrice
+17254|NORW|201|A|9788211004246|Klar For Norge Tekstbok 2|53.00|N/UsedPrice
+17254|NORW|201|A|9788211004253|Klar For Norge Arbeidsbok 2|37.00|N/UsedPrice
+17255|NORW|321|A|9788205348622|Ibsens Beste (gyldendalNorsk)|37.00|N/UsedPrice
+17273|NURS|204|A|9780763757618|Integrative HealthHolistic Approach For Prof|N/NewPrice|N/UsedPrice
+17274|NURS|301|A&B|9781437702729|Netter S ClinicalAnatomy 2e10|N/NewPrice|N/UsedPrice
+17280|NURS|304|A|9780323065849|Pathophysiology 6e10|N/NewPrice|N/UsedPrice
+17285|NURS|417|A&C|9780323052566|Psychiatric Nursing (9e09) Principles & Prac|N/NewPrice|N/UsedPrice
+17285|NURS|417|A&C|9780803618534|Psych Notes (2e08)|N/NewPrice|N/UsedPrice
+17300|NURS|529|A|9781581102239|Bright Futures(3e 07)|N/NewPrice|N/UsedPrice
+17302|NURS|547|A|9780205666270|Physiology Of Behavior(10e 10)|N/NewPrice|N/UsedPrice
+17302|NURS|547|A|9780521673761|Stahl S EssentialPsychopharmacology (3e 08)|N/NewPrice|N/UsedPrice
+17307|NURS|578|A|9780195384062|Social Injustice &Public Health|N/NewPrice|N/UsedPrice
+17307|NURS|578|A|9780198565895|Social Determinants OfHealth (2e 05)|N/NewPrice|N/UsedPrice
+17318|NUTR|300|A|9780321643162|Science OfNutrition (2e 11)|N/NewPrice|103.70
+17329|NUTR|538|A|9780195122978|Nutritional Epidemiology (2e98)|N/NewPrice|N/UsedPrice
+17404|OCEAN|101|B|9780073376707|Intro To WorldsOceans (10e 08)|N/NewPrice|130.15
+17422|OCEAN|115|A|9780321687678|Life In TheUniverse (3e 12)|N/NewPrice|N/UsedPrice
+17433|OCEAN|250|B,D|9780805345827|Marine Biology|139.25|N/UsedPrice
+17447|OCEAN|430|A|9780750633840|Biological Oceanography(2e 92)|N/NewPrice|N/UsedPrice
+17460|OCEAN|497|C,D|9780110006000|Selling Science (uwcs)|13.00|N/UsedPrice
+17460|OCEAN|497|C,D|9780195174991|Field Guide F/ Science Writers (2e 05)|N/NewPrice|N/UsedPrice
+17460|OCEAN|497|C,D|9780813814247|News & Numbers|N/NewPrice|N/UsedPrice
+17467|OCEAN|506|A|9780110006000|Selling Science(uwcs)|13.00|N/UsedPrice
+17467|OCEAN|506|A|9780195174991|Field GuideF/ Science Writers (2e 05)|N/NewPrice|N/UsedPrice
+17467|OCEAN|506|A|9780813814247|News &Numbers|N/NewPrice|N/UsedPrice
+17469|OCEAN|511|A|9780123737359|Fluid Mechanics (4e 08)|N/NewPrice|75.00|N/NewPrice|N/UsedPrice
+17470|OCEAN|520|A|9780521833134|Chemical Oceanography & Marine Carbon Cycle|N/NewPrice|N/UsedPrice
+17512|ORALB|521|A|9780323054706|Medical Microbiology6e09|N/NewPrice|N/UsedPrice
+17522|ORALB|572|A|9781416034353|Oral &Maxillofacial Pathology (3e 09)|N/NewPrice|N/UsedPrice
+17618|PBIO|505|A|9780321559395|Human Physiology (w/ Ip Cd) (5e 10)|N/NewPrice|134.25
+17684|PBAF|516|A|9780131392632|Microeconomics (6e 12)|194.75|N/UsedPrice
+17687|PBAF|516|B|9780131392632|Microeconomics (6e12)|194.75|N/UsedPrice
+17695|PBAF|522|A-C|9780558728557|Financial Management (custom)|N/NewPrice|59.25
+17698|PBAF|522|A-C|9780558728557|Financial Management(custom)|N/NewPrice|59.25
+17701|PBAF|522|A-C|9780558728557|Financial Management (custom)|N/NewPrice|59.25
+17705|PBAF|526|B|9780761908944|Evaluation (7e 04)|N/NewPrice|86.25
+17705|PBAF|526|B|9781412958615|Utilization Focused Evaluation (4e 08)|N/NewPrice|60.75
+17712|PBAF|576|A|9780871543103|Changing Poverty Changing Policies|N/NewPrice|N/UsedPrice
+17712|PBAF|576|A|9780871545404|Colors Of Poverty|24.95|N/UsedPrice
+17944|PHG|523|A|9780890896211|Genetic Technologies& Law|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+17953|PHIL|100|A|9780205639472|Philosophical Problems (2e08)|N/NewPrice|80.85
+17962|PHIL|102|A|9780195388725|Disputed MoralIssues (2e 11)|N/NewPrice|60.00
+17973|PHIL|120|A|9780071755467|Schaums Outline Of Logic (2e Rev 11)|19.00|14.25
+17984|PHIL|240|A|9780872201668|Grounding ForMetaphysics Of Morals (ed Ellin|N/NewPrice|N/UsedPrice
+17984|PHIL|240|A|9780872206496|Classical Utilitarians|N/NewPrice|N/UsedPrice
+17984|PHIL|240|A|9780872208094|Practice OfVirtue|N/NewPrice|N/UsedPrice
+17991|PHIL|267|A|9781551118031|Readings InThe Philosophy Of Religion|N/NewPrice|N/UsedPrice
+17996|PHIL|301|A|9780061768248|Essential Schopenhauer|N/NewPrice|N/UsedPrice
+17996|PHIL|301|A|9780199297221|Two FundamentalProblems Of Ethics|N/NewPrice|N/UsedPrice
+17996|PHIL|301|A|9780521016889|Anti-christ, EcceHomo, Twilight Of The Idols|N/NewPrice|N/UsedPrice
+17996|PHIL|301|A|9780521626958|Groundwork OfThe Metaphysics Of Morals (ed:|N/NewPrice|N/UsedPrice
+17996|PHIL|301|A|9780521636452|Gay ScienceW/ Prelude|N/NewPrice|N/UsedPrice
+17996|PHIL|301|A|9780679724650|Beyond Good& Evil (vintage )|N/NewPrice|N/UsedPrice
+17996|PHIL|301|A|9780872202832|On GenealogyOf Morality (tr Clark )|N/NewPrice|11.25
+17997|PHIL|332|A|9780195101737|Classics OfModern Political Theory|N/NewPrice|N/UsedPrice
+17998|PHIL|335|A|9780140445923|Iliad (trFagles )|15.00|11.25
+17998|PHIL|335|A|9780872207363|Republic (introBy Reeve )|N/NewPrice|8.25
+18001|PHIL|360|A|9780262581691|Space From ZenoTo Einstein|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+18001|PHIL|360|A|9780393971750|Philosophy Of Science|N/NewPrice|48.20
+18001|PHIL|360|A|9780684836379|Origins Of ModernScience|N/NewPrice|14.25
+18004|PHIL|412|A|9780073407425|Morality & TheGood Life|N/NewPrice|70.50
+18004|PHIL|412|A|9780495502371|Conduct & CharacterReadings In Moral Theory|N/NewPrice|N/UsedPrice
+18004|PHIL|412|B|9780073407425|Morality & TheGood Life|N/NewPrice|70.50
+18004|PHIL|412|B|9780534589097|Conduct & Character(5e 06)|N/NewPrice|N/UsedPrice
+18005|PHIL|415|A|9780415775397|Animal Ethics Reader (2e 08)|N/NewPrice|N/UsedPrice
+18005|PHIL|415|A|9780521717731|Ethics & Animals|N/NewPrice|N/UsedPrice
+18008|PHIL|446|A|9780226348124|Philosophies OfArt & Beauty|N/NewPrice|19.50
+18008|PHIL|446|A|9780817366230|Aesthetics FromClassical Greece To Present|N/NewPrice|N/UsedPrice
+18009|PHIL|456|A|9780198752530|Survey Of Metaphysics|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+18010|PHIL|460|A|9780226458083|Structure Of Scientific Revolutions (3e 96)|N/NewPrice|9.75
+18011|PHIL|470|A|9780195014914|Elementary Logic(2e 72)|N/NewPrice|N/UsedPrice
+18011|PHIL|470|A|9780393327601|Incompleteness|N/NewPrice|N/UsedPrice
+18011|PHIL|470|A|9780743422994|Mystery OfThe Aleph|17.99|13.50
+18017|PHIL|520|A|9780872203495|Complete Works|N/NewPrice|N/UsedPrice
+18028|PHYS|114|A-C|9780558385040|V.1 Physics(custom) (4e 09)|86.25|64.70
+18029|PHYS|114|A-C|9780558385040|V.1 Physics (custom) (4e 09)|86.25|64.70
+18030|PHYS|114|A-C|9780558385040|V.1 Physics(custom) (4e 09)|86.25|64.70
+18031|PHYS|115|A|9780558385026|V.2 Physics(4e 09) (custom)|55.00|41.25
+18032|PHYS|116|A|9780558385033|V.3 Physics (custom) (4e 09)|55.00|41.25
+18188|PHYS|210|A|9780471548706|V.1, V.2 PhysicsBy Inquiry|136.25|N/UsedPrice|N/NewPrice|N/UsedPrice
+18196|PHYS|321|A|9780138053260|Intro To Electrodynamics (3e 99)|159.25|N/UsedPrice
+18200|PHYS|324|A|9780131118928|Intro To QuantumMechanics (2e 05)|149.25|N/UsedPrice
+18204|PHYS|331|A|9780805385663|Optics (4e02)|N/NewPrice|N/UsedPrice
+18212|PHYS|405|A|9780471548706|V.1, V.2 Physics By Inquiry|136.25|N/UsedPrice
+18213|PHYS|407|A|9780471548706|V.1, V.2Physics By Inquiry|136.25|N/UsedPrice
+18216|PHYS|422|A|9783527406012|Intro ToElementary Particles (rev) (2e 08)|N/NewPrice|N/UsedPrice
+18227|PHYS|513|A|9780471309321|Classical Electrodynamics (3e99)|106.25|N/UsedPrice
+18227|PHYS|513|A|9780486691930|Mathematics For Physicists|N/NewPrice|N/UsedPrice
+18228|PHYS|517|A|9780201539295|Modern Quantum Mechanics (2e 94)|N/NewPrice|108.95
+18237|PHYS|570|A|9780521864497|Quantum Field Theory|75.00|N/UsedPrice
+18267|POLS|202|A|9780300095241|How Democratic IsThe American Constitution ?|15.00|11.25
+18289|POLS|204|A|9780060920463|Life In AMedieval Village|N/NewPrice|11.25
+18289|POLS|204|A|9780521708401|Comparative Politics (3e08)|N/NewPrice|59.25
+18289|POLS|204|A|9781412992565|How Societies Change(2e 11)|N/NewPrice|N/UsedPrice
+18314|POLS|301|A|9780142003343|Blank Slate|N/NewPrice|N/UsedPrice
+18314|POLS|301|A|9780316017930|Outliers :The Story Of Success|16.99|N/UsedPrice|N/NewPrice|N/UsedPrice
+18314|POLS|301|A|9780393317558|Guns Germs& Steel|N/NewPrice|14.25
+18359|POLS|368|A|9780307387097|Half The Sky|N/NewPrice|12.00
+18359|POLS|368|A|9780813544618|Peoples History OfEuropean Court Of Human Ri|N/NewPrice|19.50
+18377|POLS|398|A|9780195133547|Power Elite|N/NewPrice|15.00
+18377|POLS|398|A|9780679724179|When WorkDisappears|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+18377|POLS|398|A|9780871548955|Punishment &Inequality In America|N/NewPrice|N/UsedPrice
+18387|POLS|430|A|9780674817364|Soldier & State|N/NewPrice|N/UsedPrice
+18387|POLS|430|A|9780801872419|Foxholes & ColorLines|N/NewPrice|N/UsedPrice
+18387|POLS|430|A|9780878408634|Women In Combat: Civic Duty Or Military Liab|N/NewPrice|N/UsedPrice
+18406|POLS|500|A|9780520219786|Damned Lies& Statistics|N/NewPrice|15.00
+18406|POLS|500|A|9780691034713|Designing SocialInquiry|N/NewPrice|N/UsedPrice
+18406|POLS|500|A|9780716755197|Research MethodsIn Social Science W/ Cd (7e|N/NewPrice|N/UsedPrice
+18406|POLS|500|A|9780761988557|Dictionary OfStatistics & Methodology (3e 05|N/NewPrice|N/UsedPrice
+18406|POLS|500|A|9781412924238|Proposals ThatWork (5e 07)|N/NewPrice|N/UsedPrice
+18426|PORT|110|A,B|9780060936945|Portuguese Concise Dictionary|15.00|N/UsedPrice
+18426|PORT|110|A,B|9780131894051|Ponto De Encontro|100.25|N/UsedPrice
+18426|PORT|110|A,B|9780131894082|Activity Man T/a Ponto De Encontro|72.25|54.20
+18427|PORT|110|A,B|9780060936945|Portuguese ConciseDictionary|15.00|N/UsedPrice
+18427|PORT|110|A,B|9780131894051|Ponto DeEncontro|100.25|N/UsedPrice
+18427|PORT|110|A,B|9780131894082|Activity ManT/a Ponto De Encontro|72.25|54.20
+18428|PORT|202|A|9780942566352|Wkbk T/a Brasil Lingua E Cultura|N/NewPrice|N/UsedPrice
+18428|PORT|202|A|9780942566437|Brasil ! Lingua E Cultura (3e 06) Corrected|68.25|N/UsedPrice
+18428|PORT|202|A|9781585103447|Viajando Atraves|26.95|N/UsedPrice
+18433|PPM|506|A|9780321079169|Advanced MicroeconomicTheory (2e 01)|N/NewPrice|N/UsedPrice
+18433|PPM|506|A|9780324585070|Microeconomic Theory(10e 08)|N/NewPrice|N/UsedPrice
+18446|PRSAN|411|A,B|9780936347295|Intro To Persian|N/NewPrice|33.75
+18447|PRSAN|411|A,B|9780936347295|Intro To Persian|N/NewPrice|33.75
+18448|PRSAN|421|A|9780936347295|Intro ToPersian|N/NewPrice|33.75
+18448|PRSAN|421|A|9780974801810|Bk 2Proficiency In Persian|N/NewPrice|N/UsedPrice
+18453|PSYCH|101|B,E,I|9780077472801|Psychology (5e 11) (custom)|119.25|89.45
+18453|PSYCH|101|B,E,I|9780555054277|Psychology : Lectures & Study Guide (7e 09)|N/NewPrice|53.10
+18453|PSYCH|101|B,E,I|9781934931400|Response Card Rf Lcd Radio Frequency|42.00|31.50
+18456|PSYCH|101|B,E,I|9780077472801|Psychology (5e11) (custom)|119.25|89.45
+18456|PSYCH|101|B,E,I|9780555054277|Psychology :Lectures & Study Guide (7e 09)|N/NewPrice|53.10
+18456|PSYCH|101|B,E,I|9781934931400|Response CardRf Lcd Radio Frequency|42.00|31.50
+18460|PSYCH|101|B,E,I|9780077472801|Psychology (5e11) (custom)|119.25|89.45
+18460|PSYCH|101|B,E,I|9780555054277|Psychology :Lectures & Study Guide (7e 09)|N/NewPrice|53.10
+18460|PSYCH|101|B,E,I|9781934931400|Response CardRf Lcd Radio Frequency|42.00|31.50
+18462|PSYCH|202|A|9780205832569|Biopsychology (8e11)|N/NewPrice|N/UsedPrice
+18462|PSYCH|202|A|9781256334910|2 P/sBiopsychology|N/NewPrice|N/UsedPrice
+18480|PSYCH|209|A|9780470522783|Research In Psychology(6e 10)|148.00|111.00
+18495|PSYCH|300|A|9780878932252|Animal Behavior (9e10)|N/NewPrice|66.00
+18500|PSYCH|305|A|9780495599838|Essentials Of Abnormal Psychology (5e 10)|N/NewPrice|110.45
+18500|PSYCH|305|A|9780495604389|Casebook In Abnormal Psychology (4e 10)|100.00|75.00
+18500|PSYCH|305|A|9781934931400|Response Card Rf Lcd Radio Frequency|42.00|31.50
+18509|PSYCH|306|A|9780205775385|2 P/s Child Development (rev) (8e 09) (loose-|105.75|N/UsedPrice
+18514|PSYCH|315|A|9780470643822|Statistical Reasoning InBehavioral Sciences|N/NewPrice|130.50
+18520|PSYCH|317|A|9780495811251|Fund StatisticsF/ Behavioral Sci (7e 10) Sci|N/NewPrice|120.20
+18546|PSYCH|408|A|9780199208302|Behavioral Neurobiology(2e 10)|N/NewPrice|N/UsedPrice
+18556|PSYCH|480|A|9780136475873|Ideas OfHuman Nature|N/NewPrice|N/UsedPrice
+18585|PSYCH|548|A|9781606238769|Principles & PracticeOf Structural Equation|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+18629|QSCI|291|A|9780321644688|Calculus For Biology & Medicine (3e 11)|158.25|118.70
+18630|QSCI|381|A|9780134888019|Applied Statistics F/ Engineers & Scientists|N/NewPrice|62.10
+18632|QSCI|381|C|9780321759986|Elementary Statistics (w/ Mymathlab & Mystatl|N/NewPrice|N/UsedPrice
+18634|QSCI|482|A|9780131008465|Biostatistical Analysis (5e 10)|N/NewPrice|N/UsedPrice
+18713|REHAB|504|A&C|9780721605715|Orthopedic Physical Assessment (5e 08)|N/NewPrice|N/UsedPrice
+18713|REHAB|504|A&C|9780781740616|Joint Motion & Function Assessment|N/NewPrice|N/UsedPrice
+18713|REHAB|504|A&C|9781416023500|Daniels & Worthinghams Muscle Testing (8e 07)|N/NewPrice|N/UsedPrice
+18716|REHAB|509|A-D|9781416031192|Principles &Techniques Of Patient Care (4e 0|N/NewPrice|N/UsedPrice
+18716|REHAB|509|A-D|9781416062219|Documentatoin ForRehabilitation 2e10|45.95|N/UsedPrice
+18717|REHAB|509|A-D|9781416031192|Principles & Techniques Of Patient Care (4e 0|N/NewPrice|N/UsedPrice
+18717|REHAB|509|A-D|9781416062219|Documentatoin For Rehabilitation 2e10|45.95|N/UsedPrice
+18730|REHAB|544|A&B|9781416049807|Hollinshead S Functional Anatomy Limbs Back 9|N/NewPrice|N/UsedPrice
+18736|REHAB|566|A|9780781763127|Occupational Therapy ForPhysical Dysfunction|N/NewPrice|N/UsedPrice
+18743|REHAB|570|A|9780781760041|Willard &Spackmans Occupational Therapy (11e|N/NewPrice|N/UsedPrice
+18745|REHAB|581|A|9780323056588|Occupational Therapy ForChildren 6e10|N/NewPrice|N/UsedPrice
+18771|RELIG|240|A,B|9780195378405|Old Testament (2e 11)|N/NewPrice|N/UsedPrice
+18811|RUSS|101|A-F|9780471309444|Wkbk LabMan T/a Troika|59.00|44.25
+18811|RUSS|101|A-F|9780471309451|Troika|N/NewPrice|120.75
+18811|RUSS|101|A-F|9780934034210|English GrammarFor Students Of Russian (2e 9|19.95|N/UsedPrice
+18812|RUSS|101|A-F|9780471309444|Wkbk Lab ManT/a Troika|59.00|44.25
+18812|RUSS|101|A-F|9780471309451|Troika|N/NewPrice|120.75
+18812|RUSS|101|A-F|9780934034210|English Grammar ForStudents Of Russian (2e 9|19.95|N/UsedPrice
+18813|RUSS|101|A-F|9780471309444|Wkbk LabMan T/a Troika|59.00|44.25
+18813|RUSS|101|A-F|9780471309451|Troika|N/NewPrice|120.75
+18813|RUSS|101|A-F|9780934034210|English GrammarFor Students Of Russian (2e 9|19.95|N/UsedPrice
+18814|RUSS|101|A-F|9780471309444|Wkbk LabMan T/a Troika|59.00|44.25
+18814|RUSS|101|A-F|9780471309451|Troika|N/NewPrice|120.75
+18814|RUSS|101|A-F|9780934034210|English GrammarFor Students Of Russian (2e 9|19.95|N/UsedPrice
+18815|RUSS|101|A-F|9780471309444|Wkbk Lab Man T/a Troika|59.00|44.25
+18815|RUSS|101|A-F|9780471309451|Troika|N/NewPrice|120.75
+18815|RUSS|101|A-F|9780934034210|English Grammar For Students Of Russian (2e 9|19.95|N/UsedPrice
+18816|RUSS|101|A-F|9780471309444|Wkbk Lab ManT/a Troika|59.00|44.25
+18816|RUSS|101|A-F|9780471309451|Troika|N/NewPrice|120.75
+18816|RUSS|101|A-F|9780934034210|English Grammar ForStudents Of Russian (2e 9|19.95|N/UsedPrice
+18817|RUSS|110|A,B|9780813343952|Russia & Soviet Union (6e 00)|N/NewPrice|N/UsedPrice
+18818|RUSS|110|A,B|9780813343952|Russia & Soviet Union (6e 00)|N/NewPrice|N/UsedPrice
+18820|RUSS|301|A|9780470577745|Focus OnRussian (2e 96) W/ Cd|105.00|N/UsedPrice|N/NewPrice|N/UsedPrice
+18821|RUSS|321|A|9780143105633|Hero OfOur Time|N/NewPrice|10.50
+18821|RUSS|321|A|9780195153927|V.1 HistoryOf Russia, To 1855|N/NewPrice|37.50
+18821|RUSS|321|A|9780253205490|Cavalry Maiden|N/NewPrice|18.75
+18821|RUSS|321|A|9780375405495|Pushkin CollectedStories|N/NewPrice|N/UsedPrice
+18821|RUSS|321|A|9780452010864|Medieval RussiasEpics, Chronicles & Tales (|N/NewPrice|N/UsedPrice
+18821|RUSS|321|A|9780801496899|Domostroi|N/NewPrice|15.00
+18821|RUSS|321|A|9780812969870|Memoirs OfCatherine The Great|N/NewPrice|N/UsedPrice
+18821|RUSS|321|A|9780822316213|Memoirs OfPrincess Dashkova|N/NewPrice|19.50
+18821|RUSS|321|A|9789057550232|Two ComediesBy Catherine The Great, Empress|N/NewPrice|N/UsedPrice
+18834|SCAND|190|A,B|9780073386164|Film Art (9e10)|95.50|71.65
+18834|SCAND|190|A,B|9780851703701|M (bfi FilmClassics)|N/NewPrice|11.25
+18835|SCAND|230|A|9780299227142|Bloodstoppers &Bearwalkers|24.95|18.75
+18835|SCAND|230|A|9780874211283|Folk Groups& Folklore Genres|29.95|N/UsedPrice|N/NewPrice|N/UsedPrice
+18836|SCAND|312|A|9780141180670|Pan : From Papers Of Lieutenant Thomas Glahn|N/NewPrice|10.50
+18836|SCAND|312|A|9780199538041|Miss Julie & Other Plays|N/NewPrice|N/UsedPrice
+18836|SCAND|312|A|9780307454546|Girl With The Dragon Tattoo|N/NewPrice|11.25
+18836|SCAND|312|A|9780451530226|V.1 Four Major Plays|6.95|5.25
+18836|SCAND|312|A|9780679743330|Anecdotes Of Destiny & Ehrengard ( Babettes F|N/NewPrice|11.25
+18838|SCAND|370|A|9780140513288|Penguin Historical AtlasOf Vikings|N/NewPrice|15.00
+18838|SCAND|370|A|9780520232853|Saga Of Volsungs|N/NewPrice|N/UsedPrice
+18838|SCAND|370|A|9781442601482|Viking Age|N/NewPrice|32.25
+18839|SCAND|427|A|9780141180410|V.1 WreathKristin Lavransdatter|N/NewPrice|N/UsedPrice
+18839|SCAND|427|A|9780143105909|Saga OfGosta Berling|N/NewPrice|N/UsedPrice
+18839|SCAND|427|A|9780312152475|Blackwater|N/NewPrice|13.50
+18839|SCAND|427|A|9780679743330|Anecdotes OfDestiny & Ehrengard ( Babettes F|N/NewPrice|11.25
+18839|SCAND|427|A|9780802141293|Troll :A Love Story|N/NewPrice|N/UsedPrice
+18839|SCAND|427|A|9780802170774|Purge|14.95|N/UsedPrice
+18839|SCAND|427|A|9780935312386|Women &Appletrees|18.95|N/UsedPrice|N/NewPrice|N/UsedPrice
+18839|SCAND|427|A|9781559703482|Dinas Book( Dina's )|N/NewPrice|N/UsedPrice
+18839|SCAND|427|A|9781580051255|Egalias Daughters|N/NewPrice|N/UsedPrice
+18844|SCAND|518|A|9780131579064|Communicative Language TeachingIn Action|68.25|51.20
+18873|SIS|150|A|9780874519624|Israel InMiddle East (2e 08)|N/NewPrice|22.50
+18873|SIS|150|A|9781584653271|Jews InIsrael (2e 04)|N/NewPrice|26.25
+18882|SPAN|102|A,B|9780073513164|Sabias Que Text(5e 08)|161.50|121.15
+18882|SPAN|102|A,B|9780078149863|3 P/s EspanolNivel 100 (6e 05) W/ Quia 1 & 2|168.50|N/UsedPrice
+18883|SPAN|102|A,B|9780073513164|Sabias QueText (5e 08)|161.50|121.15
+18883|SPAN|102|A,B|9780078149863|3 P/sEspanol Nivel 100 (6e 05) W/ Quia 1 & 2|168.50|N/UsedPrice
+18884|SPAN|103|A-E|9780073513164|Sabias Que Text(5e 08)|161.50|121.15
+18884|SPAN|103|A-E|9780078178504|2 P/s EspanolNivel 103 (7e 08) W/ Quia 2|98.00|N/UsedPrice
+18919|SPAN|110|A,B|9780073513164|Sabias Que Text (5e 08)|161.50|121.15
+18919|SPAN|110|A,B|9780078149863|3 P/s Espanol Nivel 100 (6e 05) W/ Quia 1 & 2|168.50|N/UsedPrice
+18920|SPAN|110|A,B|9780073513164|Sabias QueText (5e 08)|161.50|121.15
+18920|SPAN|110|A,B|9780078149863|3 P/sEspanol Nivel 100 (6e 05) W/ Quia 1 & 2|168.50|N/UsedPrice
+18921|SPAN|121|A,B|9780072497083|Destinos W/oCds Alternative Ed (2e 02)|N/NewPrice|112.15
+18921|SPAN|121|A,B|9780072497113|V.1 WkbkT/a Destinos (2e 02)|68.25|N/UsedPrice
+18921|SPAN|121|A,B|9780072497120|V.2 WkbkT/a Destinos (2e 02)|68.25|N/UsedPrice
+18922|SPAN|121|A,B|9780072497083|Destinos W/o CdsAlternative Ed (2e 02)|N/NewPrice|112.15
+18922|SPAN|121|A,B|9780072497113|V.1 Wkbk T/aDestinos (2e 02)|68.25|N/UsedPrice
+18922|SPAN|121|A,B|9780072497120|V.2 Wkbk T/aDestinos (2e 02)|68.25|N/UsedPrice|N/NewPrice|N/UsedPrice
+18962|SISEA|454|A|9780393973518|Search ForModern China (2e 99)|55.25|41.45
+18962|SISEA|454|A|9780393973723|Search ForModern China : Documentary History|N/NewPrice|29.45
+18962|SISEA|454|A|9780804750691|Man AwakenedFrom Dreams|N/NewPrice|14.25
+18974|SISEA|579|A|9780226167220|Rescuing HistoryFrom The Nation|N/NewPrice|N/UsedPrice
+18974|SISEA|579|A|9780520064591|Origins OfThe Boxer Uprising|N/NewPrice|N/UsedPrice
+18974|SISEA|579|A|9780674021617|Chinese MedicineMan|N/NewPrice|N/UsedPrice
+18974|SISEA|579|A|9780674032880|Eating RiceFrom Bamboo Roots|N/NewPrice|N/UsedPrice
+18974|SISEA|579|A|9780674035966|Ancestors, Virgins& Friars|N/NewPrice|N/UsedPrice
+18974|SISEA|579|A|9780674047952|Developmental FairyTales|N/NewPrice|N/UsedPrice
+18974|SISEA|579|A|9780804733373|Awakening China|N/NewPrice|N/UsedPrice
+18974|SISEA|579|A|9780804773270|Revolution OfThe Heart|N/NewPrice|N/UsedPrice
+18974|SISEA|579|A|9781596915992|Vermeers Hat|N/NewPrice|12.75
+18983|SISJE|490|B|9780142000427|Focus|N/NewPrice|N/UsedPrice
+18983|SISJE|490|B|9780195101126|Antisemitism InAmerica|N/NewPrice|N/UsedPrice
+18983|SISJE|490|B|9780231106399|Jews AgainstPrejudice|N/NewPrice|N/UsedPrice
+18983|SISJE|490|B|9780520240551|Inside OrganizedRacism|N/NewPrice|N/UsedPrice
+18983|SISJE|490|B|9781586481636|Henry Ford& Jews|N/NewPrice|N/UsedPrice
+18993|SISME|480|A|9781405155021|Modern StandardArabic|N/NewPrice|N/UsedPrice
+18993|SISME|480|A|9789774161087|Media Arabic|N/NewPrice|N/UsedPrice
+19011|SISSA|510|A|9780295987606|Many LivesOf A Rajput Queen|N/NewPrice|N/UsedPrice
+19015|SISSE|265|A|9780070180307|Sacred War|N/NewPrice|25.15
+19015|SISSE|265|A|9780307347381|Last NightI Dreamed Of Peace|N/NewPrice|9.75
+19015|SISSE|265|A|9780394743097|Vietcong Memoir|N/NewPrice|12.00
+19015|SISSE|265|A|9780452271685|When Heaven& Earth Changed Places ( Plume)|N/NewPrice|12.75
+19015|SISSE|265|A|9781574411430|Twenty-five YearCentury|N/NewPrice|24.75
+19028|SLAV|401|A|9780226104201|Chicago ManualOf Style (16e 10)|65.00|48.75
+19029|SLAV|420|A|9780060927516|Testaments Betrayed|N/NewPrice|N/UsedPrice
+19029|SLAV|420|A|9780060932145|Book Of Laughter& Forgetting|N/NewPrice|10.50
+19029|SLAV|420|A|9780140127737|Lost In Translation|N/NewPrice|N/UsedPrice
+19029|SLAV|420|A|9780140186246|This Way ForGas Ladies & Gentlemen|N/NewPrice|10.50
+19029|SLAV|420|A|9780156904582|Too Loud Solitude|N/NewPrice|N/UsedPrice
+19029|SLAV|420|A|9780810117808|Border State|N/NewPrice|N/UsedPrice
+19029|SLAV|420|A|9780811213066|On Edge OfReason|17.95|13.50
+19029|SLAV|420|A|9781400078622|Kaddish For AnUnborn Child|N/NewPrice|N/UsedPrice
+19029|SLAV|420|A|9781564782731|Tomb For BorisDavidovich (tr Mikic-mitchell|N/NewPrice|N/UsedPrice
+19030|SLAV|470|A|9780631219378|Multiple Voices: Intro Bilingualism|N/NewPrice|N/UsedPrice
+19030|SLAV|470|A|9781853598722|Bilingual Minds:Emotional Experience, Expres|49.95|N/UsedPrice
+19034|SLAV|501|A|9780226104201|Chicago Manual Of Style (16e 10)|65.00|48.75
+19035|SLAV|518|A|9780131579064|Communicative LanguageTeaching In Action|68.25|51.20
+19037|SLAV|570|A|9780631219378|Multiple Voices: Intro Bilingualism|N/NewPrice|N/UsedPrice
+19037|SLAV|570|A|9781853598722|Bilingual Minds:Emotional Experience, Expres|49.95|N/UsedPrice
+19042|SLVN|401|A|9788634109849|Slovensko Angleski Slovar Slovene English Dic|N/NewPrice|N/UsedPrice
+19042|SLVN|401|A|9789616200806|Slovenska Beseda V Zivo, Text Only|52.50|39.40
+19043|SLVN|406|A|9789612372835|3, SlovenskaBeseda V Zivo|N/NewPrice|N/UsedPrice
+19060|SNKRT|301|A|9780944613405|Devavanipravesika (3e 99),Introduction To Sa|55.00|N/UsedPrice
+19061|SNKRT|401|A|9788120804852|Roots Verb Forms & Primary Derivatives Of San|12.50|N/UsedPrice
+19061|SNKRT|401|A|9788120806214|Sanskrit Grammar|21.50|N/UsedPrice
+19061|SNKRT|401|A|9788120813632|Sanskrit Reader|16.00|N/UsedPrice
+19061|SNKRT|401|A|9788124600955|Sanskrit Grammar For Students|9.00|N/UsedPrice
+19073|SOC|212|A|9780393317558|Guns Germs &Steel|N/NewPrice|14.25
+19073|SOC|212|A|9781412992565|How Societies Change(2e 11)|N/NewPrice|N/UsedPrice
+19073|SOC|212|A|9781594518805|Human Societies (11e10) Revised & Expanded|72.95|54.75
+19080|SOC|221|A|9781429224253|Basic Practice Of Statistics W/ Cd (5e 10)|N/NewPrice|94.35
+19103|SOC|287|A,B|9780195389494|Speaking OfSexuality (3e 10)|N/NewPrice|48.75
+19103|SOC|287|A,B|9780803990425|Gender OfSexuality (2e 98)|N/NewPrice|24.75
+19111|SOC|316|A|9780195082081|Four Sociological Traditions(rev & Expd)|39.95|30.00
+19111|SOC|316|A|9780195087024|Four Sociological Traditions,Selected Readin|39.95|30.00
+19111|SOC|316|A|9780881334579|Sociological Theory :Book Of Readings (5e 89|N/NewPrice|28.50
+19180|SOC|504|A|9780130272959|Statistical MethodsF/ Social Sciences (4e 09|N/NewPrice|N/UsedPrice
+19181|SOC|510|A|9780521596879|Social Mechanisms|N/NewPrice|N/UsedPrice
+19181|SOC|510|A|9780830411238|Developing SociologicalKnowledge|N/NewPrice|N/UsedPrice
+19184|SOC|562|A|9780393314250|Mismeasure Of Man( Rev & Expd 96 )|N/NewPrice|N/UsedPrice
+19184|SOC|562|A|9780691116525|Racism|N/NewPrice|N/UsedPrice
+19184|SOC|562|A|9780691127927|Race In AnotherAmerica : Skin Color In Brazi|N/NewPrice|N/UsedPrice
+19221|SOCW|526|A|9780801894923|New PoliticsOf Old Age Policy (2e 10)|N/NewPrice|N/UsedPrice
+19228|SOCW|540|A|9780826121417|End-of-life Care & Addiction|N/NewPrice|N/UsedPrice
+19239|SOCW|571|B|9780765704320|Inside Out &Outside In (2e 08)|59.95|N/UsedPrice
+19239|SOCW|571|B|9780890420256|Dsm Iv (4e00)|115.00|N/UsedPrice
+19272|SOCWF|390|A|9780981510057|Research Methods F/Social Workers (9e 11)|N/NewPrice|N/UsedPrice
+19275|SOCWF|402|A|9780205520978|Human Behavior& Social Environment (5e 11)|N/NewPrice|N/UsedPrice
+19275|SOCWF|402|A|9781616200152|Girl WhoFell From The Sky|N/NewPrice|N/UsedPrice
+19356|SPAN|301|A-D|9781600078569|Revista W/ SupersitePasscode (3e 10)|98.50|73.90
+19356|SPAN|301|A-D|9782035402219|Gran Diccionario Espanol-inglesLarousse|64.50|N/UsedPrice
+19356|SPAN|301|A-D|9788477117179|Curso Practico Gramatica(edelsa)|41.75|N/UsedPrice
+19356|SPAN|301|A-D|9789702200277|Sinonimos & Antonimos(larousse )|5.50|4.15
+19357|SPAN|301|A-D|9781600078569|Revista W/ Supersite Passcode (3e 10)|98.50|73.90
+19357|SPAN|301|A-D|9782035402219|Gran Diccionario Espanol-ingles Larousse|64.50|N/UsedPrice
+19357|SPAN|301|A-D|9788477117179|Curso Practico Gramatica (edelsa)|41.75|N/UsedPrice
+19357|SPAN|301|A-D|9789702200277|Sinonimos & Antonimos (larousse )|5.50|4.15
+19358|SPAN|301|A-D|9781600078569|Revista W/ SupersitePasscode (3e 10)|98.50|73.90
+19358|SPAN|301|A-D|9782035402219|Gran Diccionario Espanol-inglesLarousse|64.50|N/UsedPrice
+19358|SPAN|301|A-D|9788477117179|Curso Practico Gramatica(edelsa)|41.75|N/UsedPrice
+19358|SPAN|301|A-D|9789702200277|Sinonimos & Antonimos(larousse )|5.50|4.15
+19359|SPAN|301|A-D|9781600078569|Revista W/ Supersite Passcode (3e 10)|98.50|73.90
+19359|SPAN|301|A-D|9782035402219|Gran Diccionario Espanol-ingles Larousse|64.50|N/UsedPrice
+19359|SPAN|301|A-D|9788477117179|Curso Practico Gramatica (edelsa)|41.75|N/UsedPrice
+19359|SPAN|301|A-D|9789702200277|Sinonimos & Antonimos (larousse )|5.50|4.15
+19394|SPAN|598|A|9788433972712|Plata Quemada (anagrama)|N/NewPrice|N/UsedPrice
+19394|SPAN|598|A|9789682708954|El Complot Mongol(joaquin Mortiz)|N/NewPrice|N/UsedPrice
+19394|SPAN|598|A|9789682710155|Las Muertas (booket)|N/NewPrice|N/UsedPrice
+19394|SPAN|598|A|9789707102507|Cementerio De Papel(byblos)|N/NewPrice|N/UsedPrice
+19394|SPAN|598|A|9789708105514|Ensayo De UnCrimen (delbolsillo)|N/NewPrice|N/UsedPrice
+19394|SPAN|598|A|9789870412762|La Pregunta DeSus Ojos (alfaguara)|N/NewPrice|N/UsedPrice
+19401|SPHSC|100|A|9780072486964|Speaking Clearly W/ 4 Cds (6e 02)|94.25|70.70
+19402|SPHSC|100|A|9780072486964|Speaking Clearly W/4 Cds (6e 02)|94.25|70.70
+19403|SPHSC|100|A|9780072486964|Speaking Clearly W/4 Cds (6e 02)|94.25|70.70
+19404|SPHSC|100|A|9780072486964|Speaking Clearly W/4 Cds (6e 02)|94.25|70.70
+19516|STAT|220|A|9780393929720|Statistics (4e 07)|138.75|104.10
+19525|STAT|221|A|9781429224253|Basic PracticeOf Statistics W/ Cd (5e 10)|N/NewPrice|94.35
+19541|STAT|340|A|9780131867932|Intro To MathematicalStatistics & Its Applic|145.25|108.95
+19542|STAT|390|A|9780534467197|Applied Statistics F/ Engineers & Scientists|199.50|149.65
+19547|STAT|394|A|9780136033134|First CourseIn Probability (8e 10)|138.75|N/UsedPrice
+19548|STAT|394|B|9780136033134|First Course In Probability (8e 10)|138.75|N/UsedPrice
+19551|STAT|481|A|9780062731029|Cartoon GtStatistics|N/NewPrice|N/UsedPrice
+19551|STAT|481|A|9780131427068|John EFreunds Mathematical Statistics (7e 04|N/NewPrice|N/UsedPrice
+19551|STAT|481|A|9780534399429|Mathematical Statistics& Data Analysis (3e 0|N/NewPrice|N/UsedPrice
+19551|STAT|481|A|9780674175440|Course InEconometrics|N/NewPrice|N/UsedPrice
+19551|STAT|481|A|9780691120355|Mostly Harmless& Econometrics|N/NewPrice|N/UsedPrice
+19558|STAT|512|A|9780534243128|Statistical Inference (2e00)|N/NewPrice|N/UsedPrice
+19566|STAT|578|A|9781420066562|Measurement Error Models Methods Applications|N/NewPrice|N/UsedPrice
+19566|STAT|578|A|9781584886334|Measurement Error In Nonlinear Models|N/NewPrice|N/UsedPrice
+19574|STAT|581|A|9780387985022|Theory Of Point Estimation (2e 98)|N/NewPrice|N/UsedPrice
+19632|SWED|101|A,B|9789127666856|Textbok, RivstartA1 + A2|61.50|N/UsedPrice
+19632|SWED|101|A,B|9789127666863|Ovningsbok, RivstartA1 + A2|40.00|N/UsedPrice
+19633|SWED|101|A,B|9789127666856|Textbok, Rivstart A1 + A2|61.50|N/UsedPrice
+19633|SWED|101|A,B|9789127666863|Ovningsbok, Rivstart A1 + A2|40.00|N/UsedPrice
+19634|SWED|201|A|9789127666870|Textbok, Rivstart B1 + B2|63.75|N/UsedPrice
+19634|SWED|201|A|9789127666887|Ovningsbok, Rivstart B1 + B2|42.75|N/UsedPrice
+19879|TAGLG|101|A|9780781809603|Tagalog English EnglTagalog Standard Diction|27.95|N/UsedPrice
+19882|TAGLG|201|A|9780781809603|Tagalog EnglishEngl Tagalog Standard Diction|27.95|N/UsedPrice
+20144|UCONJ|515|A&B|9780195380408|Health BehaviorChange & Treatment Adherence|N/NewPrice|N/UsedPrice
+20144|UCONJ|515|A&B|9780702031533|Health BehaviorChange 2e10|N/NewPrice|N/UsedPrice
+20157|URBDP|466|A|9780873261425|Management PoliciesIn Local Government Finan|N/NewPrice|N/UsedPrice
+20157|URBDP|466|A|9780873261883|Capital Budgeting& Finance|N/NewPrice|N/UsedPrice
+20169|URBDP|585|A|9780471473770|Keeping Time|N/NewPrice|N/UsedPrice
+20174|URBDP|590|C|9781597266352|Floodplain Management|N/NewPrice|N/UsedPrice
+20178|URBDP|598|G|9780873261425|Management Policies InLocal Government Finan|N/NewPrice|N/UsedPrice
+20178|URBDP|598|G|9780873261883|Capital Budgeting &Finance|N/NewPrice|N/UsedPrice
+20187|URDU|311|A|9780300114003|Course : Let's Study Urdu (w/ Dvd)|53.00|N/UsedPrice
+20187|URDU|311|A|9780300120608|Script : Let's Study Urdu W/ Cd ( Lets )|27.00|N/UsedPrice
+20188|URDU|321|A|9780415163811|An EssentialUrdu Grammar|N/NewPrice|N/UsedPrice
+20188|URDU|321|A|9780836465419|Readings InLiterary Urdu Prose|18.50|N/UsedPrice
+20188|URDU|321|A|9788175841741|V.2 IntroductoryUrdu|28.50|N/UsedPrice
+20188|URDU|321|A|9789883861045|V.1 IntroductoryUrdu|28.50|N/UsedPrice
+20204|VIET|111|A|9780781809917|Vietnamese Dictionary &Phrasebook|N/NewPrice|N/UsedPrice
+20204|VIET|111|A|9780781812443|Vietnamese Practical Dictionary|N/NewPrice|N/UsedPrice
+20204|VIET|111|A|9788140501144|Conversational Vietnamese (7e10)|N/NewPrice|N/UsedPrice
+20205|VIET|211|A|9780295980898|Chung TaNoi - Intermediate Text|N/NewPrice|N/UsedPrice
+20296|SCAND|150|A|9780060931933|Giants In TheEarth|N/NewPrice|N/UsedPrice
+20296|SCAND|150|A|9780140441673|Peer Gynt|11.00|8.25
+20296|SCAND|150|A|9780141180649|Hunger|N/NewPrice|11.25
+20296|SCAND|150|A|9780312427085|Out Stealing Horses|N/NewPrice|10.50
+20296|SCAND|150|A|9780451530226|V.1 Four MajorPlays|6.95|5.25
+20296|SCAND|150|A|9788047507027|Erasmus Montanus|N/NewPrice|2.25
+20296|SCAND|150|A|9788047570267|V.1 Norwegian ShortStories (wits Ii, #3) Fro|N/NewPrice|3.00|N/NewPrice|N/UsedPrice
+20301|HUM|596|B|9780231114494|After Last Sky|N/NewPrice|N/UsedPrice
+20301|HUM|596|B|9780262013420|Lacan At Scene|N/NewPrice|N/UsedPrice
+20301|HUM|596|B|9780374563233|Camera Lucida|N/NewPrice|N/UsedPrice
+20301|HUM|596|B|9780802150622|Stories & Texts For Nothing|N/NewPrice|N/UsedPrice
+20301|HUM|596|B|9780811214131|Rings Of Saturn|N/NewPrice|N/UsedPrice
+20301|HUM|596|B|9780819569295|Seven Controlled Vocabularies|N/NewPrice|N/UsedPrice
+20302|REHAB|522|A&B|9780071701204|Cardiovascular Physiology 7e10|N/NewPrice|N/UsedPrice
+20302|REHAB|522|A&B|9780781767019|Pulmonary Physiology &Pathophysiology (2e 07|N/NewPrice|N/UsedPrice
+20302|REHAB|522|A&B|9781416025788|Neuroscience Fundamentals ForRehabilitation|N/NewPrice|N/UsedPrice
+20344|COM|440|B|9780073511979|Mass Media Law(17e 11)|122.50|91.90
+20344|COM|440|B|9780143113041|Supreme Conflict|N/NewPrice|12.00
+20345|POLS|461|B|9780073511979|Mass Media Law (17e 11)|122.50|91.90
+20345|POLS|461|B|9780143113041|Supreme Conflict|N/NewPrice|12.00
+20350|BIOST|578|A|9781420066562|Measurement Error ModelsMethods Applications|N/NewPrice|N/UsedPrice
+20350|BIOST|578|A|9781584886334|Measurement Error InNonlinear Models|N/NewPrice|N/UsedPrice
+20359|QSCI|190|A|9780321746153|Precalculus (w/Mymathlab & Mystatlab) (4e 10|N/NewPrice|N/UsedPrice
+20363|CSE|344|A|9780138155049|2 P/sDatabase Systems W/ Goal Student Access|N/NewPrice|N/UsedPrice
+20380|HSMGMT|518|A|9780071634144|Clinical Ethics7e10|N/NewPrice|N/UsedPrice
+20380|HSMGMT|518|A|9780374532505|Justice: What'sThe Right Thing To Do?|15.00|N/UsedPrice
+20380|HSMGMT|518|A|9781555720643|Developing OrganizationalEthics In Healthcar|N/NewPrice|N/UsedPrice
+20381|ME|599|I|9780521529778|Thin FilmMaterials|N/NewPrice|N/UsedPrice
+20382|EE|502|A|9780131472860|Foundations OfMems (11e 05)|N/NewPrice|N/UsedPrice
+20397|MSE|504|A|9780131472860|Foundations OfMems (11e 05)|N/NewPrice|N/UsedPrice
+20398|ME|504|A|9780131472860|Foundations OfMems (11e 05)|N/NewPrice|N/UsedPrice
+20402|MGMT|320|A,B|9780077578695|Business Government& Society ( Custom )|N/NewPrice|N/UsedPrice
+20405|MGMT|430|D,E|9780538753098|Strategic Management :Concepts (9e 11)|116.75|87.60
+20406|MGMT|300|C,D,G|9780077907563|2 P/s Organizational Behavior (2e 11) W/ Conn|N/NewPrice|82.70
+20407|NURS|514|A&B|9781416029441|Maternal Fetal &Neonatal Physiology (3e 07)|N/NewPrice|N/UsedPrice|N/NewPrice|N/UsedPrice
+20409|ENGL|325|A|9780393927184|V.b Norton AnthologyOf English Literature (8|N/NewPrice|31.50|N/NewPrice|N/UsedPrice
+20409|ENGL|325|A|9780393978193|Tempest|N/NewPrice|10.35
+20409|ENGL|325|A|9780713668841|Changeling|N/NewPrice|N/UsedPrice
+20410|ENGL|556|B|9780231114494|After Last Sky|N/NewPrice|N/UsedPrice
+20410|ENGL|556|B|9780262013420|Lacan At Scene|N/NewPrice|N/UsedPrice
+20410|ENGL|556|B|9780374563233|Camera Lucida|N/NewPrice|N/UsedPrice
+20410|ENGL|556|B|9780802150622|Stories & TextsFor Nothing|N/NewPrice|N/UsedPrice
+20410|ENGL|556|B|9780811214131|Rings Of Saturn|N/NewPrice|N/UsedPrice
+20410|ENGL|556|B|9780819569295|Seven Controlled Vocabularies|N/NewPrice|N/UsedPrice
+20427|PHIL|437|A|9780198751724|Treatise Of Human Nature|N/NewPrice|22.50
+20447|SOC|270|A|9780697778642|Social ProblemsSoc 270 Reader (custom)|89.25|66.95|N/NewPrice|N/UsedPrice
+20458|EE|553|A|9780471586999|Power GenerationOperation & Control (2e 96)|N/NewPrice|N/UsedPrice
+20472|PBAF|564|A|9780415802345|Housing Policy In The United States (2e 10)|N/NewPrice|N/UsedPrice
+20472|PBAF|564|A|9780801447723|Foreclosed|N/NewPrice|N/UsedPrice
+20472|PBAF|564|A|9780815708735|Geography Of Opportunity|N/NewPrice|22.50
+20472|PBAF|564|A|9781592134328|Right To Housing|N/NewPrice|N/UsedPrice
+20490|SOC|287|A,B|9780195389494|Speaking OfSexuality (3e 10)|N/NewPrice|48.75
+20490|SOC|287|A,B|9780803990425|Gender OfSexuality (2e 98)|N/NewPrice|24.75
+20503|BIOA|101|A,B|9780195387407|Human Biological Variation(2e 11)|N/NewPrice|N/UsedPrice
+20504|GERMAN|190|A,B|9780073386164|Film Art (9e10)|95.50|71.65
+20504|GERMAN|190|A,B|9780851703701|M (bfi FilmClassics)|N/NewPrice|11.25
+20511|CFR|510|A|9780135014332|Elements Of Nature & Properties Of Soils (3e|N/NewPrice|N/UsedPrice
+20521|HONORS|394|B|9780140277722|Cafe Europa|15.00|11.25
+20521|HONORS|394|B|9780679729525|Aeneid (tr Fitzgerald )|13.00|9.75
+20521|HONORS|394|B|9780802143006|Black Skin White Masks|N/NewPrice|10.50
+20521|HONORS|394|B|9780802150271|Dying Colonialism|N/NewPrice|10.50
+20521|HONORS|394|B|9780805094220|Washington Rules|N/NewPrice|N/UsedPrice
+20521|HONORS|394|B|9780872203303|Selected Political Writings|N/NewPrice|10.50
+20521|HONORS|394|B|9781400041688|Libertys Exiles|N/NewPrice|N/UsedPrice
+20524|FISH|250|B,D|9780805345827|Marine Biology|139.25|N/UsedPrice
+20525|OCEAN|250|B,D|9780805345827|Marine Biology|139.25|N/UsedPrice
+20526|BIOL|250|B,D|9780805345827|Marine Biology|139.25|N/UsedPrice
+20532|NEAR E|240|A,B|9780195378405|Old Testament(2e 11)|N/NewPrice|N/UsedPrice
+20534|CHEM E|530|A|9780470115398|Transport Phenomena Rev 2nd|N/NewPrice|136.35
+20545|C LIT|323|A|9780140455182|Tale Of FourDervishes|N/NewPrice|N/UsedPrice
+20545|C LIT|323|A|9780231110556|Mahabharata|29.00|21.75
+20545|C LIT|323|A|9780393331660|Arabian Nights|N/NewPrice|N/UsedPrice
+20571|HIST|498|E|9780140150803|Portable Thomas Jefferson|N/NewPrice|N/UsedPrice
+20571|HIST|498|E|9780143035282|Americanization Of BenjaminFranklin|N/NewPrice|N/UsedPrice
+20571|HIST|498|E|9780374530235|John Adams|N/NewPrice|N/UsedPrice
+20571|HIST|498|E|9780451528100|Autobiography (lemisch Ed)|N/NewPrice|N/UsedPrice
+20571|HIST|498|E|9780679764410|American Sphinx|N/NewPrice|N/UsedPrice
+20571|HIST|498|E|9780813918334|Thomas Jefferson &Sally Hemings|N/NewPrice|N/UsedPrice
+20573|POLS|270|C|9780226902258|Trade Offs|N/NewPrice|11.25
+20573|POLS|270|C|9780520244931|Markets & StatesIn Tropical Africa (2e 04)|N/NewPrice|18.75
+20573|POLS|270|C|9780674276604|Exit Voice &Loyalty|N/NewPrice|17.25
+20573|POLS|270|C|9780691150093|Invisible Hook|N/NewPrice|12.75
+20573|POLS|270|C|9780804748544|Not So Wild, Wild West|N/NewPrice|21.75
+20573|POLS|270|C|9780817948528|Greener Than Thou|N/NewPrice|11.25
+20580|HSTEU|452|A|9780060995058|Joke (definitive Edition)|N/NewPrice|N/UsedPrice
+20580|HSTEU|452|A|9780195094466|From Stalinism ToPluralism (2e 96)|N/NewPrice|N/UsedPrice
+20580|HSTEU|452|A|9780520217607|Letters From Freedom|N/NewPrice|N/UsedPrice
+20580|HSTEU|452|A|9781586485245|Shtetl|N/NewPrice|N/UsedPrice
+20600|CHEM E|512|A|9780130111890|Advanced CalculusFor Applications (2e 76)|N/NewPrice|N/UsedPrice
+20604|LAWA|501|A|9780820570297|Contract Law &Theory (4e 07)|N/NewPrice|N/UsedPrice
+20604|LAWA|501|A|9781422411698|Documentary Suppl T/aContract Law & Theory (|N/NewPrice|N/UsedPrice
+20604|LAWA|501|A|9781422425824|Contract Law &Theory (4e 07) Loose Leaf|N/NewPrice|N/UsedPrice
+20605|LAWA|501|B|9782222222224|See Instructor ForCourse Materials|N/NewPrice|N/UsedPrice
+20610|LAWA|561|A|9780674011557|Foundations Of EconomicAnalysis Of Law|83.00|62.25
+20610|LAWA|561|A|9782222233336|See Instructor ForAdditional Materials|N/NewPrice|N/UsedPrice
+20611|LAWA|566|A|9780195335125|Justice :A Reader|N/NewPrice|26.25
+20614|LAWA|592|A|9780314184450|Constitutional Law: Themes F/ Constitutions|N/NewPrice|N/UsedPrice
+20615|HSTEU|368|A|9780131786875|Jews :History|N/NewPrice|N/UsedPrice
+20615|HSTEU|368|A|9780195389067|Jew InModern World (3e 11)|N/NewPrice|N/UsedPrice
+20616|SISJE|368|A|9780131786875|Jews :History|N/NewPrice|N/UsedPrice
+20616|SISJE|368|A|9780195389067|Jew InModern World (3e 11)|N/NewPrice|N/UsedPrice
+20620|ESS|471|A|9780521457149|Intro To SpacePhysics|N/NewPrice|N/UsedPrice
+20621|ESS|503|A|9780521457149|Intro To Space Physics|N/NewPrice|N/UsedPrice
+20622|ESS|595|C|9780205309023|Elements Of Style(4e 99)|9.95|7.50
+20622|ESS|595|C|9780387947662|Craft Of ScientificWriting|N/NewPrice|33.75
+20622|ESS|595|C|9780963488411|Elements Of GraphingData (2e 94)|N/NewPrice|N/UsedPrice
+20622|ESS|595|C|9781878220912|Eloquent Science|N/NewPrice|N/UsedPrice
+20624|LAWE|530|A|9781594608889|Disproportionate Minority Contact|N/NewPrice|N/UsedPrice
+20627|LAWA|574|A,B|9780735589179|International Law(3e 10)|N/NewPrice|N/UsedPrice
+20639|AMATH|512|A|9780130111890|Advanced Calculus ForApplications (2e 76)|N/NewPrice|N/UsedPrice
+20646|EE|440|A|9780131687288|Digital Image Processing (3e 07)|N/NewPrice|119.65
+20659|REHAB|585|A|9780135146521|Health Services2e09 Policy & Systems|N/NewPrice|N/UsedPrice
+20699|LATIN|503|A|9780521290012|Adelphoe (edMartin )|N/NewPrice|N/UsedPrice
+20699|LATIN|503|A|9780521349703|Menaechmi (edGratwick )|N/NewPrice|N/UsedPrice
+20699|LATIN|503|A|9780521459976|Amphitruo (edChristenson)|N/NewPrice|N/UsedPrice
+20720|OCEAN|497|C,D|9780110006000|Selling Science (uwcs)|13.00|N/UsedPrice
+20720|OCEAN|497|C,D|9780195174991|Field Guide F/Science Writers (2e 05)|N/NewPrice|N/UsedPrice
+20720|OCEAN|497|C,D|9780813814247|News & Numbers|N/NewPrice|N/UsedPrice
+20740|C LIT|250|A|9780143035008|Anna Karenina (tr Pevear )|N/NewPrice|N/UsedPrice
+20740|C LIT|250|A|9780393926644|King Lear|N/NewPrice|8.85
+20740|C LIT|250|A|9780393975420|Jane Eyre (3e 00)|N/NewPrice|11.25
+20740|C LIT|250|A|9780393979534|Scarlet Letter & Other Writings|N/NewPrice|11.25
+20756|BIOA|487|A|9780123741349|Human Osteology (3e11)|N/NewPrice|N/UsedPrice
+20756|BIOA|487|A|9780943414812|Human Osteology :Lab & Field Manual (4e95)|N/NewPrice|N/UsedPrice
+20901|ENGL|528|A|9780393093322|Bleak House (critical)|N/NewPrice|N/UsedPrice
+20901|ENGL|528|A|9780393965957|Vanity Fair|N/NewPrice|N/UsedPrice
+20901|ENGL|528|A|9780393974522|Middlemarch|N/NewPrice|N/UsedPrice

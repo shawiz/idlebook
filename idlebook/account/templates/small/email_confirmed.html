@@ -1,0 +1,15 @@
+{% extends "small_base.html" %}
+
+{% block message %}
+<div id="message">
+    {% if profile %}
+        <p>You have confirmed that {{profile.user.email}} is an email address for user {{profile.user}}.</p>
+    {% else %}
+        <p>Invalid confirmation key.</p>
+    {% endif %}
+</div>
+{% endblock %}
+
+{% block buttons %}
+<a href="/" title="Home page"><button class="active">Home</button></a>
+{% endblock %}

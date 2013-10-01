@@ -1,0 +1,62 @@
+{% extends "profile/profile_base.html" %}
+
+{% load name_format %}
+
+{% block modals %}
+{% include "edit_copy_modal.html" %}
+{% endblock %}
+
+{% block scripts %}
+<script src="{{STATIC_URL}}scripts/profile.overview.js" type="text/javascript"></script>
+<script src="{{STATIC_URL}}scripts/profile.listings.js" type="text/javascript"></script>
+<script src="{{STATIC_URL}}scripts/edit.copy.js" type="text/javascript"></script>
+{% endblock %}
+
+{% block profile_main %}
+<div id="main">
+	<div class="main-block">
+		<h2>Reviews {{person|name:user}} received</h2>
+		<ul class="sub-tabs">
+			<li class="active" id="tab-buyer">As Buyer</li>
+			<li id="tab-seller">As Seller</li>
+		</ul>
+		<div class="clear"></div>
+		{% for review in reviews_as_buyer %}
+		<div class="message reviews-buyer">
+			<img class="sender-image" src="{{MEDIA_URL}}{{review.sender.profile.thumb}}" />
+			<div class="message-main">
+				<div class="message-info">
+					<a href="/person/{{review.sender.profile.username}}">{{ review.sender|name:user }}</a>
+					<span class="message-time">{{review.add_time}}</span>
+				</div>
+				<div class="message-body">{{review.content}}</div>
+			</div>
+			<div class="clear"></div>
+		</div>
+		{% empty %}
+		<div class="message reviews-buyer">
+			<p>No reviews yet. You can get reviews by trading with other members.</p>
+		</div>
+		{% endfor %}
+		
+		{% for review in reviews_as_seller %}
+		<div class="message reviews-seller">
+			<img class="sender-image" src="{{MEDIA_URL}}{{review.sender.profile.thumb}}" />
+			<div class="message-main">
+				<div class="message-info">
+					<a href="/person/{{review.sender.profile.username}}">{{review.sender|name:user}}</a>
+					<span class="message-time">{{review.add_time}}</span>
+				</div>
+				<div class="message-body">{{review.content}}</div>
+			</div>
+			<div class="clear"></div>
+		</div>
+		{% empty %}
+		<div class="message reviews-seller">
+			<p>No reviews yet. You can get reviews by trading with other members.</p>
+		</div>
+		{% endfor %}
+		
+	</div>
+</div>
+{% endblock %}

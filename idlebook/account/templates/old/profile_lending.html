@@ -1,0 +1,19 @@
+{% extends "profile_base.html" %}
+
+{% load name_format %}
+
+{% block profile_main %}
+<h2>All books {{person|name:user}} currently lending to others</h2>
+<div id="main" class="wide">
+	<div class="main-block">
+		<ul class="book-detail-list">
+			{% for item in lendings %}
+			    {% include "book_block_others.html" %}
+			{% empty %}
+			<p>No books currently lending.</p>
+			{% endfor %}
+		</ul>
+		<div class="clear"></div>	
+	</div>
+</div>
+{% endblock %}

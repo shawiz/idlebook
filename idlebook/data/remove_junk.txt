@@ -1,0 +1,131 @@
+9780470925973|Fundamentals OfEngineering Thermodynamics (7|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780136070825|Cost Accounting (13e09)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780132552639|Accounting Information Systems(12e 12)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780136085171|Auditing And Assurance Services (13e 10)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780132138604|2011 FederalTaxation Comprehensive|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780470415580|Government & Not For Profit Accounting (5e 11|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780324749861|Fraud Examination (3e09)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9781111547295|Business Law(12e 12)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780077319120|From Slavery ToFreedom (9e 10)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9781439025840|Archaeology (5e 10)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780321598165|Essential Cosmic Perspective(5e 09)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780321697530|Foundations OfAstrophysics|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780321681256|Earth System (3e10)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780077271565|Matching Supply W/Demand (2e 09)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780077447830|Macroeconomics (11e11)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780077271879|International Financial Management (5e 09)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780321612069|Essentials Of Anatomy& Physiology (5e 10)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780321696953|Human Physiology (5e10)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780470564851|Cell &Molecular Biology (6e 10)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780077329945|Film Art(9e 10)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780470496930|Principles Highway EngineeringTraffic Anal (|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780136075875|Fundamentals Of HydraulicEngineering Systems|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780558635992|Fundamentals Of HydraulicEngineering Systems|UnknownException|N/Edition|N/Author|88.25|N/UsedPrice
+9780132496360|Intro ToGeotechnical Engineering (2e 11)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780080555836|Fluid Mechanics(4e 08)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9784444444002|Xs LabCoat - Select One Size|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9784444444224|Xxxl LabCoat - Select One Size|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9784444455558|Lab GogglesFutura 9301|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9784444466660|Small LabCoat - Select One Size|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9784444477772|Medium LabCoat - Select One Size|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9784444488884|Large LabCoat - Select One Size|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9784444499996|Xl LabCoat - Select One Size|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780470266823|Organic Chemistry(9e 08)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780470266830|Sg T/aOrganic Chemistry (9e 08)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780321632210|Quantum Chemistry &Spectroscopy (2e 10)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780321632227|Thermodynamics, Statistical Thermodynamics&|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780321632647|Physical Chemistry (2e10)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780470508770|Elementary Principles Of Chemical Processes (|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780205786190|Occupied America (7e11)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9781111051891|Legal AspectsOf Architecture Engineering & C|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9781439025338|Communication Research, Strategies & Resource|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780205644889|Voices Of ANation (5e 09)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780205644834|Nonverbal Communication|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780077331566|Mass MediaLaw (7e 11)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780132130974|Fluency 4W/ Information Technology|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780132131353|Building JavaPrograms (2e 11)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780132130660|Computer Systems|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780470284209|Operating System Concepts(8e 08)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780321557858|Interactive ComputerGraphics (5e 09)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780132127028|Computer Networks (5e 11)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780080475028|Computer Architecture (4e06)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780131873247|Speech & Language Processing (2e 09)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780136067337|Artificial Intelligence(3e 10)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780132132121|Electric Circuits(9e 11)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780077330040|Microelectronic Circuit Design(4e 11)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780136080848|Computer Networking(5e 10)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780470282885|Embedded Systems|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9781427527127|Wall Street Journal Print & Online Subscripti|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780324794014|Principles Of Microeconomics (5e 09)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780324794021|Principles Of Macroeconomics(5e 09)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9781111548001|Brief Principles Of Macroeconomics (6e 12)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780321551153|Environmental & NaturalResource Economics (8|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9781429250009|Public Finance &Public Policy (3e 10)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780137002702|Cost Benefit Analysis(4e 11)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9781439088012|Understanding Statistics In Behavioral Scienc|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780132081542|Educational Research (9e 09)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780135041796|Development OfLanguage (7e 09)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780312651671|Everyday Writer W/Mla & Apa Updates (4e 10)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780205644865|History &Theory Of Rhetoric (4e 09)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780495584391|Language (5e07)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780470282786|Essential Environmental Science|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780321675743|Principles Of Sedimentology & Stratigraphy (5|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780558918064|3 P/s FundamentalsOf Corporate Finance (bind|UnknownException|N/Edition|N/Author|120.75|N/UsedPrice
+9780077316150|Investments (9e11)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780077470609|Investments (9e11) Loose Leaf|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780136103233|Fundamentals Of Futures & Options Markets (7e|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780136102977|Risk Management& Financial Institutions (2e|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780077272715|Biology OfInvertebrates (6e 10)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780470282700|Realms, Regions &Concepts (13e 08)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780321741370|Geosystems (8e12)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780495587118|Stationen|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780077245603|Intro ToSystems Analysis & Design|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9781449606770|Aids : Science & Society|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780077394660|Your Health Today(3e 11)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780077319601|V.2 Unfinished Nation,History American Peopl|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780878935024|Neuroanatomy Through ClinicalCases|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780136078951|Management InformationSystems (11e 10)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780077259525|Programming In VisualBasic 2008 (7e 09)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780470415511|Business Data Communications & Networking (10|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780470415481|Systems Analysis &Design W/ Uml (3e 09)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9781111547523|Microsoft Access 2010, Complete|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780132122511|Web Development &Design Foundations W/ Xhtml|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780324792331|Guide ToSql (8e 09)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9781428202795|Da Capo (6e 07)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780470508817|Intro ToHeat Transfer (5e 07)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780136043706|Manufacturing ProcessesF/ Engineering Materi|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780077272500|Engineering Design(4e 08)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780136043669|Finite Element Analysis (3e 08)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780321654922|Intermediate Algebra (4e 11)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780321600141|First CourseIn Probability (8e 10)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780077272029|Business Government& Society (12e 09)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780077269371|Compensation (10e 11)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780495964353|2 P/s Strategic Management Concepts (9e 11) W|UnknownException|N/Edition|N/Author|N/NewPrice|87.60
+9781111257798|Strategic Management, Concepts (9e 11)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780077265434|Abcs OfRelationship Selling|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780077272180|Retailing Management (7e 09)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780470415429|Dalrymples Sales Management(10e 09)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9781111599768|Cb2 (2e 11)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780470566404|Marketing Research(10e 10)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780470564776|Materials Science& Engineering (8e 10)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780077272791|Intro To WorldsOceans (10e 09)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780205781263|Policy Analysis (5e11)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780077272227|Urban Economics(7e 09)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780136025849|Essentials OfManagement Information Systems|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780077253240|Feminist Philosophy Reader|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780077285814|Ethical IssuesIn Modern Medicine|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780077348212|Psychology (5e 11)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780077472801|Psychology (5e 11)(custom)|UnknownException|N/Edition|N/Author|119.25|N/UsedPrice
+9780077448738|2 P/sPsychology (5e 11) W/ Access Code|UnknownException|N/Edition|N/Author|163.25|N/UsedPrice
+9780878935567|Biological Psychology (6e 10)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780205615346|Biopsychology (7e 09)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780470566084|Research InPsychology (6e 11)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780077285227|New Testament, StudentsIntro (6e 09)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780393117639|American Foreign Policy (4e 11)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780205492886|Social ResearchMethods (6e 06)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780495587811|Addiction Treatment(2e 08)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9781439025499|Intro To Profession Of Social Work (3e 10)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780205614592|Language Development(7e 08)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9780495963349|3 P/s IntroTo Probability & Statistics W/ Te|UnknownException|N/Edition|N/Author|149.25|N/UsedPrice
+9780077354909|An IntroTp Business Ethics (4e 11)|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice
+9781429250641|( E-book ) Reconceptualizing Mathematics|UnknownException|N/Edition|N/Author|N/NewPrice|N/UsedPrice

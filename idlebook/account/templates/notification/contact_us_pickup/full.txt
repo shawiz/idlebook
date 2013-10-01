@@ -1,0 +1,5 @@
+Your book has been idle at idlebook dropbox for too long. Please contact us through help@idlebook.com to get back your book {{book_title}}.
+
+You can view the book request at:
+
+http://{{current_site}}/requests/{{trade_id}}

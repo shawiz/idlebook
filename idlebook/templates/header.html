@@ -1,0 +1,50 @@
+{% load money_format %}
+
+<div id="header-wrap">
+	<div id="header">
+		<div id="site-logo"><a href="/"><img src="{{STATIC_URL}}images/site-logo.png" /></a></div>
+		<div id="search">
+			<form id="nav-search-form" action="/search/" method="get">
+			    <input id="nav-search-box" title="Search book title or course name (i.e. math124)" class="ac-input" type="text" name="q" value="Find a book..."  />
+			</form>
+		</div>
+		<ul id="site-nav">
+			{% if user.is_authenticated %}
+			<li><a href="/profile/">Profile</a></li>
+			{% else %}
+			<li><a href="/howitworks/">How it works</a></li>
+			{% endif %}
+			<li><a href="/library/">Library</a></li>
+			{% if user.is_authenticated %}
+			    {% if unread_requests == 0 %}
+				    <li><a href="/requests/">Requests</a></li>
+				{% else %}
+				    <li><a href="/requests/">Requests</a><span class="notification-count">{{unread_requests}}</span></li>
+				{% endif %}
+				{% if unread_wallet %}
+			        <li><a href="/wallet/">Wallet</a><span class="notification-count">$</span></li>
+			    {% else %}
+			        <li><a href="/wallet/">Wallet</a></li>
+		        {% endif %}
+		    {% endif %}
+		</ul>
+        {% if user.is_authenticated %}
+		<ul id="meta-nav">
+		    <li class="dropdown-top">
+		        <a href="/person/{{user.profile.username}}/" title="My Profile">
+		            <img src="{{MEDIA_URL}}{{user.profile.thumb}}" />
+                    <span class="user-full-name">{{user.first_name}} {{user.last_name}}</span>
+                </a>
+                <div class="clear"></div>
+            </li>
+			<li class="dropdown"><a href="/settings/">Settings</a></li>
+		    <li class="dropdown"><form action="{% url idlebook.account.views.logout %}" id="logout-form" method="post">{% csrf_token %}<input id="logout" type="submit" name="logout" value="Logout" /></form></li>
+			<div class="clear"></div>
+		</ul>
+		{% else %}
+		<ul id="meta-nav-unauthorized">
+			<li><a href="/login/?next={{request.path}}">Sign up / Login</a></li>
+		</ul>
+		{% endif %}
+	</div>
+</div>

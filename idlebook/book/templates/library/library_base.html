@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+
+{% block title %}Library - Idlebook{% endblock %}
+
+{% block css %}
+<link href="{{STATIC_URL}}css/book.css" rel="stylesheet" type="text/css" />
+{% endblock %}
+
+{% block content %}
+<div id="content">
+	<div id="container">
+		{% block library_main %}		
+		{% endblock %}
+		
+		{% block library_side %}
+		{% endblock %}
+		<div class="clear"></div>
+	</div>
+</div>
+{% endblock %}

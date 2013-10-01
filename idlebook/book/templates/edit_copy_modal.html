@@ -1,0 +1,43 @@
+<div class="modal-box-outer" id="copy-edit-modal">
+	<div class="modal-box-inner">
+		<div class="modal-box-header">
+			<div class="close">×</div>
+			<h3>Edit Book Copy</h3>
+		</div>
+		<div class="modal-box-body">
+		    <p id="modal-info"></p>
+			<form action="." method="post" id="copy-edit-form">
+				<div id="price-input">
+					<p class="modal-list-price">Book list price: <span id="list-price"></span></p>
+					<div class="modal-half">
+						<p class="lease-label">Rental Price</p>
+						<p>$ <input type="text" name="lease_price" id="lease-price" /><span id="actual-lease-price"></span> <span class="help" id="lease-price-help"><a href='#' title="Enter the amount you want to earn for this rental. The actual price for the renter will be slightly higher in order to cover transaction fees." rel="tipsy">?</a></span></p>
+						<p class="modal-sug-lease">we suggest <span id="sug-lease-low"></span> to <span id="sug-lease-high"></span></p>
+					</div>
+					<div class="modal-half">
+						<p class="sale-label">Sale Price</p>
+						<p>$ <input type="text" name="sale_price" id="sale-price" /><span id="actual-sale-price"></span> <span class="help" id="sale-price-help"><a href='#' title="Enter the amount you want to earn for this sale. The actual price for the buyer will be slightly higher in order to cover transaction fees." rel="tipsy">?</a></span></p>
+						<p class="modal-sug-sale">we suggest <span id="sug-sale-low"></span> to <span id="sug-sale-high"></span></p>
+					</div>
+					<div class="clear"></div>
+				</div>
+				<select id="modal-condition" name="condition" class="modal-select">
+					<option value="0">-- Condition --</option>
+					<option value="1">New</option>
+					<option value="2">Used - Like New</option>
+					<option value="3">Used - Very Good</option>
+					<option value="4">Used - Good</option>
+					<option value="5">Used - Acceptable</option>
+				</select>
+				<label><input type="checkbox" id="show-notes" /> Rental conditions specific to this book</label>
+				<textarea class="modal-message" name="notes" id="modal-notes"></textarea>
+				<input type="hidden" name="copy_id" value="" id="copy_id" />
+				<div class="modal-controls">
+					<input type="submit" name="send" class="active" value="Save Book Info" />
+					<button class="cancel-button close">Cancel</button>
+				</div>
+			</form>
+			<div class="clear"></div>
+		</div>
+	</div>
+</div>

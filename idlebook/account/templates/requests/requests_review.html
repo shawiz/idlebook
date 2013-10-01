@@ -1,0 +1,91 @@
+{% extends "requests/requests_base.html" %}
+
+{% load switch_tag %}
+{% load humanize %}
+
+{% block requests_tabs %}
+<div id="settings-tabs">
+	<ul class="tabs">
+		{% if role == 'seller' %}
+		<li class="active"><a href="/requests/">Requests received <span class="count">{{unread_requests_received}}</span></a></li>
+		<li><a href="/requests/sent/">Requests sent <span class="count">{{unread_requests_sent}}</span></a></li>
+		{% else %}
+		<li><a href="/requests/">Requests received <span class="count">{{unread_requests_received}}</span></a></li>
+		<li class="active"><a href="/requests/sent/">Requests sent <span class="count">{{unread_requests_sent}}</span></a></li>
+		{% endif %}
+	</ul>
+</div>
+{% endblock %}
+
+{% block requests_main %}
+<div id="main">
+    {% if role == 'buyer' %}
+        <div class="other-review">
+            <h2>Owner <a href="/person/{{seller_username}}/">{{seller_fullname}}</a>'s review for you:</h2>
+            <div class="clear"></div>
+            {% if seller_review %}
+                <blockquote class="review">{{seller_review}}</blockquote>
+            {% else %}
+                <p>{{seller_fullname}} has not yet written a review for you about this trade.</p>
+            {% endif %}
+        </div>
+        <div class="own-review">
+            {% if buyer_review %}
+                <h2>Your review for {{seller_fullname}}</h2>
+                <blockquote class="review">{{buyer_review}}</blockquote>
+            {% else %}
+                {% if writable %}
+                    <h2>Write a review for {{seller_fullname}}</h2>
+                    <form action='.' method='post'>
+                        {% csrf_token %}
+        				<textarea id="review-content" name="content"></textarea>
+        				<input type="submit" class="active" id="post-review" value="Post Review" />
+                    	<div class="tip">Warning: review cannot be changed after posting</div>
+                    </form>
+                {% else %}
+                    <h2>Please write a review when is trade is ended</h2>
+                {% endif %}
+            {% endif %}
+        </div>
+	{% else %}
+	    <div class="other-review">
+            <h2>Renter <a href="/person/{{buyer_username}}/">{{buyer_fullname}}</a>'s review for you:</h2>
+            <div class="clear"></div>
+            {% if buyer_review %}
+                <blockquote class="review">{{buyer_review}}</blockquote>
+            {% else %}
+                <p>{{buyer_fullname}} has not yet written a review for you about this trade.</p>
+            {% endif %}
+        </div>
+        <div class="own-review">
+            {% if seller_review %}
+                <h2>Your review for {{buyer_fullname}}</h2>
+                <blockquote class="review">{{seller_review}}</blockquote>
+            {% else %}
+                {% if writable %}
+                    <h2>Write a review for {{buyer_fullname}}</h2>
+                    <form action='.' method='post'>
+                        {% csrf_token %}
+                        <textarea id="review-content" name="content"></textarea>
+        				<input type="submit" class="active" id="post-review" value="Post Review" />
+        				<div class="tip">Warning: review cannot be changed after posting</div>
+                    </form>
+                {% else %}
+                    <h2>Please write a review when is trade is ended</h2>
+                {% endif %}
+            {% endif %}
+        </div>
+    {% endif %}
+</div>
+
+<div id="aside">
+    <div class="side-item" id="request-link">
+        <a href="/requests/{{trade_id}}/">back to request</a>
+	</div>
+	<div class="side-block tip">
+		<h3>Tips:</h3>
+		<p>Review is about your experience borrowing/lending the book, how fast did he/she respond, how well the renter take care of your book, etc.</p>
+	</div>
+</div>
+<div class="clear"></div>
+{% endblock %}

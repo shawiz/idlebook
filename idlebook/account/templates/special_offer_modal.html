@@ -1,0 +1,28 @@
+<div class="modal-box-outer" id="special-offer-modal">
+	<div class="modal-box-inner">
+		<div class="modal-box-header">
+			<div class="close">×</div>
+			<h3>Offer new price</h3>
+		</div>
+		<div class="modal-box-body">
+			<form action="{% url idlebook.account.views.special_offer %}" method="post" id="special-offer-form">
+				{% csrf_token %}
+                <p class="modal-error" id="special-offer-error"></p>
+				<p>The buyer/renter will have to confirm with your new price to continue.</p>
+				<p>Type: <span id="type"></span></p>
+				<p>Current Price: <span id="current-price"></span></p>
+				<p>New price:</p>
+				<p><label><input type="radio" name="free" value="yes" />Free</label></p>
+				<p><label><input type="radio" name="free" value="no" />$ </label><input type="text" name="special_offer_price" id="special-offer-price" /><span id="actual-special-offer-price"></span></p>
+				<p>Send a message: (optional)</p>
+				<textarea class="modal-message" name="so_message" id="modal-so-message"></textarea>
+				<input type="hidden" name="trade_id" value="" id="trade-id" />
+				<div class="modal-controls">
+					<input type="submit" name="send" class="active" value="Update Price" />
+					<button class="cancel-button close">Cancel</button>
+				</div>
+			</form>
+			<div class="clear"></div>
+		</div>
+	</div>
+</div>

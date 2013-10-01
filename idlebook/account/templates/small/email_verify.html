@@ -1,0 +1,13 @@
+{% extends "small_base.html" %}
+
+{% block message %}
+<div id="message">
+    {% if user.profile.email_verified %}
+    <p>Your email {{user.email}} is already verified.</p>
+    {% else %}
+    <p>Please verify your email before doing this action.</p>
+    <p class="action">Check your email <strong>{{user.email}}</strong> (<a target="_blank" href="http://gmail.uw.edu" title="Quick link to your Gmail inbox">gmail.uw.edu</a> &#8226; <a target="_blank" href="http://www.outlook.com/" title="Quick link to your Windows Live inbox">outlook.com</a>) and click on the link from the email to verify. <strong>Please don't forget to check your spam box.</strong></p>
+    <p class="tip">(<a href="#" id="send-confirmation">resend confirmation email</a>)</p>
+    {% endif %}
+</div>
+{% endblock %}

@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+
+{% block title %}{{ flatpage.title }} - idlebook{% endblock %}
+
+{% block css %}
+<link href="{{STATIC_URL}}css/flatpage.css" rel="stylesheet" type="text/css" />
+{% endblock %}
+
+{% block content %}
+<div id="content" class="dark">
+	<div id="container">
+		<div id="main">
+		    <h1 class="title">{{ flatpage.title }}</h1>
+        	{{ flatpage.content|linebreaks }}
+        </div>
+        <div class="clear"></div>
+	</div>
+</div>
+{% endblock %}

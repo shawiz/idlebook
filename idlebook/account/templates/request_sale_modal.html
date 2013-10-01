@@ -1,0 +1,29 @@
+<div class="modal-box-outer" id="sale-modal">
+	<div class="modal-box-inner">
+		<div class="modal-box-header">
+			<div class="close">×</div>
+			<h3><span id="sale-title"></span></h3>
+		</div>
+		<div class="modal-box-body" id="request-sale-body">
+			<form id="request-sale-form" action="{% url idlebook.account.views.request_book %}" method="post">
+				{% csrf_token %}
+				<p class="label">
+				    <span class="request-price-notes">Price</span>
+				    <span class="request-price" id="request-sale-price"></span>
+				</p>
+				<p class="label">Leave a message (optional)</p>
+				<textarea class="modal-message" id="sale-message" name="message"></textarea>
+				<input type="hidden" name="copy_id" id="sale-copy-id" value="" />
+				<input type="hidden" name="type" value="sale" />
+				<input type="submit" name="send" class="request-submit active" value="Request" />
+				<button class="cancel-button close">Cancel</button>
+			</form>
+			<div class="request-sent">
+				<p>Your request has been sent.</p>
+				<p>You can view your outgoing requests at <a href="/requests/sent">Requests / Sent</a></p>
+				<p>Closing...</p>
+			</div>
+			<div class="clear"></div>
+		</div>
+	</div>
+</div>

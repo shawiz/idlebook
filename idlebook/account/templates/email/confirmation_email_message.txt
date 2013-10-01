@@ -1,0 +1,3 @@
+Thank you for signing up with Idlebook! Please click on the link below to verify that you're a real UW student :)
+
+To confirm this is correct, go to {{ activate_url }}

@@ -1,0 +1,5 @@
+{{writer}} has failed to return the book {{book_title}} before due date. Please contact us through help@idlebook.com to get the refund for your book.
+
+You can view the book request at:
+
+http://{{current_site}}/requests/{{trade_id}}

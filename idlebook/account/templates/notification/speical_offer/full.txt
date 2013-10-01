@@ -1,0 +1,3 @@
+{{writer}} has made a special offer for the book {{book_title}} you requested. You can view the new price at:
+
+http://{{current_site}}/requests/{{trade_id}}

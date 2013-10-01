@@ -1,0 +1,105 @@
+{% extends "base.html" %}
+
+{% load name_format %}
+
+{% block title %}{{person|name:user}} - Idlebook{% endblock %}
+
+{% block facebook_meta %}
+<meta property="og:title" content="{{person.first_name}} {{person.last_name}}'s used textbooks for sale or rent" />
+<meta property="og:type" content="book" />
+<meta property="og:url" content="http://www.idlebook.com/person/{{profile.username}}/" />
+<meta property="og:image" content="{{STATIC_URL}}images/facebook-link-logo.png" />
+<meta property="og:site_name" content="Idlebook" />
+<meta property="fb:admins" content="1146120396" />
+{% endblock %}
+
+{% block css %}
+<link href="{{STATIC_URL}}css/book.css" rel="stylesheet" type="text/css" />
+<link href="{{STATIC_URL}}css/message.css" rel="stylesheet" type="text/css" />
+<link href="{{STATIC_URL}}css/profile.css" rel="stylesheet" type="text/css" />
+{% endblock %}
+
+{% block content %}
+<div id="content">	
+	<div id="board-wrap">
+		<div id="board">
+			<h1>{{ person|name:user }}</h1>
+			<p id="profile-desc">Member since {{ person.date_joined|date:"M j, Y" }}
+				{% for dept in departments %}	
+				&#8226; {{dept.name}}
+				{% endfor %}
+			</p>
+			<div id="profile-tabs">
+            	<ul class="tabs">
+            		<li{{own_tab_class}}><a href="/person/{{ profile.username }}/">Owned <span class="count">{{own_count}}</span></a></li>
+            		<li{{wish_tab_class}}><a href="/person/{{ profile.username }}/wishlist/">Wishlist <span class="count">{{wish_count}}</span></a></li>
+            		<li{{reviews_tab_class}}><a href="/person/{{ profile.username }}/reviews/">Reviews</a></li>
+            	</ul>
+            </div>
+		</div>
+	</div>
+	<div id="container">
+		{% block profile_main %}
+		{% endblock %}
+		
+		<div id="aside">
+        	<div id="profile-details">
+        		<div class="profile-side-block" id="profile-picture">
+        			<img src="{{MEDIA_URL}}{{profile.photo}}" />
+        			<div class="promote">promote my books:
+        			    <iframe src="http://www.facebook.com/plugins/like.php?app_id=138181279606613&amp;href=http%3A%2F%2Fidlebook.com%2Fperson%2F{{profile.username}}&amp;send=false&amp;layout=button_count&amp;width=80&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:80px; height:21px;" allowTransparency="true"></iframe>
+        			</div>
+        			
+        			<div class="clear"></div>
+        		</div>
+        		<div class="profile-side-block" id="profile-stats">
+        			<div class="profile-count first"><strong><span title="{{person.first_name}}'s rate of reply to requests" rel="tipsy">{{response_rate}}%</strong><br />reply rate</span></div>
+        			<div class="profile-count"><strong><span title="Number of books {{person.first_name}} owns" rel="tipsy">{{own_count}}</strong><br />owned</span></div>
+        			<div class="profile-count"><strong><span title="Number of books {{person.first_name}} has borrowed" rel="tipsy">{{borrowed_count}}</strong><br />borrowed</span></div>
+        			<div class="profile-count"><strong><span title="Number of books {{person.first_name}} has lent" rel="tipsy">{{lent_count}}</strong><br />lent</span></div>
+        			<div class="clear"></div>
+        		</div>
+        		{% if is_myself %}
+                <div class="profile-side-block">
+                    <a class="profile-edit-button" href="/settings/profile/#id_about" title="Edit About Me">edit</a>
+                    <h3>About Me</h3>
+                    {{profile.about|linebreaks}}
+                </div>
+                {% else %}
+                    {% if profile.about %}
+                    <div class="profile-side-block">
+                        <h3>About Me</h3>
+                        {{profile.about|linebreaks}}
+                    </div>
+                    {% endif %}
+                {% endif %}
+        		<div class="profile-side-block">
+        		    {% if is_myself %}
+        	            <a class="profile-edit-button" href="/settings/profile/#id_rules" title="Edit Rules">edit</a>
+                        <h3>Rental Conditions</h3>
+            		    {% if profile.rules %}
+                	        {{ profile.rules|linebreaks }}
+                	    {% else %}
+                	        <p>(You haven't listed any rental conditions)</p>
+                	    {% endif %}
+                    {% else %}
+                        <h3>Rental Conditions</h3>
+            		    {% if profile.rules %}
+                	        {{ profile.rules|linebreaks }}
+                	    {% else %}
+                	        <p>No condition specified</p>
+                	    {% endif %}
+                    {% endif %}
+        	    </div>
+        		{% if facebook_id %}
+        		<div class="profile-side-block" id="profile-links">
+        			<img src="{{STATIC_URL}}images/facebook.gif" /><a class="facebook-link" href="http://www.facebook.com/profile.php?id={{ facebook_id }}" target="blank">Facebook</a><br />
+        		</div>
+        		{% endif %}
+        		<div class="clear"></div>
+        	</div>
+        </div>
+		<div class="clear"></div>
+	</div>
+</div>
+{% endblock %}

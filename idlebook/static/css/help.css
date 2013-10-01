@@ -1,0 +1,53 @@
+h3 {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+strong {
+    font-weight: bold;
+}
+
+ol {
+    list-style: decimal;
+}
+
+ol li img {
+    width: 400px;
+    margin-bottom: 20px;
+}
+
+ol li img.end {
+    width: 600px;
+}
+
+#main {
+    background-color: #fff;
+    padding-top: 40px;
+}
+
+#content h1.title {
+    font-size: 28px;
+    text-align: center;
+    font-weight: bold;
+    line-height: 30px;
+    margin-bottom: 30px;
+}
+
+.help-block {
+    margin: 0 auto;
+    width: 600px;
+}
+
+.help-block p, li {
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.help-block p {
+    margin-bottom: 20px;
+}
+
+.help-block p.tip {
+    color: #666;
+    margin-bottom: 30px;
+}

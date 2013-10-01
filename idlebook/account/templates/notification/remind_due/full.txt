@@ -1,0 +1,5 @@
+The book {{book_title}} is due in 3 days. Please drop off the book at our dropbox (Ave Copy Center) before the due day passes.
+
+You can view the book request at:
+
+http://{{current_site}}/requests/{{trade_id}}

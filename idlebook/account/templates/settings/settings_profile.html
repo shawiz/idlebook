@@ -1,0 +1,60 @@
+{% extends "settings/settings_base.html" %}
+
+{% block settings_tabs %}
+<div id="settings-tabs">
+	<ul class="tabs">
+		<li><a href="/settings/">Account</a></li>
+		<li class="active"><a href="/settings/profile/">Profile</a></li>
+		<li><a href="/settings/network/">Network</a></li>
+		<li><a href="/settings/notifications/">Notifications</a></li>
+	</ul>
+</div>
+{% endblock %}
+
+{% block settings_main %}
+<div id="main" class="wide">
+	<form action="{% url idlebook.account.views.settings_tab 'profile' %}" method="post">
+		{% csrf_token %}
+		{% if form.non_field_errors %}
+			{% for error in form.non_field_errors %}
+			<p class="account-error">{{error}}</p>
+			{% endfor %}
+		{% endif %}
+		<div class="account-row">
+			<div class="label">{{form.about.label_tag}}</div>
+			<div class="input">
+				{{form.about}}
+				{% if form.about.errors %}
+				<p class="account-error">{{ form.about.errors }}</p>
+				{% endif %}
+				<p class="account-desc">Briefly tell us about yourself</p>
+			</div>
+		</div>
+		<div class="account-row last">
+			<div class="label"><label for="rules">{{form.rules.label}}</label></div>
+			<div class="input">
+			    <div class="extra">
+			        <div class="tip">
+			            <p><em>Example:</em></p>
+			            <p>No highlighting</p>
+			        </div>
+			    </div>
+				{{form.rules}}
+				{% if form.rules.errors %}
+				<p class="account-error">{{ form.rules.errors }}</p>
+				{% endif %}
+				<p class="account-desc">Any special requirements when people rent your book?</p>
+				<p class="account-desc">(You can also edit this for individual books)</p>
+			</div>
+		</div>
+		<div class="account-row last">
+			<div class="input">
+				<input type="hidden" name="next" value="{{next}}" />
+				<input type="submit" name="submit" class="active" value="Save" />
+			</div>
+		</div>
+	</form>
+</div>
+<div id="aside">
+</div>
+{% endblock %}

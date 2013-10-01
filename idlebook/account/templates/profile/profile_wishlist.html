@@ -1,0 +1,30 @@
+{% extends "profile/profile_base.html" %}
+
+{% load name_format %}
+
+{% block scripts %}
+<script src="{{STATIC_URL}}scripts/profile.wish.js" type="text/javascript"></script>
+<script src="{{STATIC_URL}}scripts/lookup.js" type="text/javascript"></script>
+{% endblock %}
+
+{% block profile_main %}
+<div id="main">
+	<div class="main-block">
+        <h2>All books in {{person|name:user}}'s wishlist</h2>
+		{% if is_myself %}
+        <p class="tip">Click on a book title to view available copies.</p>
+		<div id="search-bar">
+			<input type="text" name="q" class="ac-input" id="search-box" value="Add a book to your wishlist (enter book title or course name)" />
+		</div>
+		{% endif %}
+		<ul class="book-detail-list">
+		    {% for item in wish_books %}
+			    {% include 'profile/book_block_wishlist.html' %}
+			{% empty %}
+			<p>No books in wishlist.</p>
+			{% endfor %}
+		</ul>
+		<div class="clear"></div>	
+	</div>
+</div>
+{% endblock %}

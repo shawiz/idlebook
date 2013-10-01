@@ -1,0 +1,64 @@
+{% extends "settings/settings_base.html" %}
+
+{% block settings_tabs %}
+<div id="settings-tabs">
+	<ul class="tabs">
+		<li><a href="/settings/">Account</a></li>
+		<li><a href="/settings/profile/">Profile</a></li>
+		<li><a href="/settings/network/">Network</a></li>
+		<li class="active"><a href="/settings/notifications/">Notifications</a></li>
+	</ul>
+</div>
+{% endblock %}
+
+{% block settings_main %}
+<div id="main">
+	<form action="{% url idlebook.account.views.settings_tab 'notifications' %}" method="post">
+		{% csrf_token %}
+		{% if form.non_field_errors %}
+			{% for error in form.non_field_errors %}
+			<p class="account-error">{{error}}</p>
+			{% endfor %}
+		{% endif %}
+		<div class="account-row">
+			<div class="label">As seller</div>
+			<div class="input">
+				<p class="account-title">Send me an email when:</p>
+				<label for="id_request_received">{{form.request_received}} A new book request is received</label>
+				<label for="id_request_canceled">{{form.request_canceled}} The request for your book has been canceled</label>
+<!--			<label for="id_request_renew">{{form.request_renew}} The renter wants to renew a book</label> -->
+				<label for="id_dropoff_confirm">{{form.dropoff_confirm}} Your book has been received at the dropbox</label>
+				<label for="id_pickup_notice">{{form.pickup_notice}} Your book has been picked up by the buyer/renter</label>
+			    <label for="id_pickup_reject">{{form.pickup_reject}} Your book has been declined by the buyer/renter</label>
+			    <label for="id_request_expired_pickup">{{form.request_expired_pickup}} The buyer/renter doesn't show up at the dropbox to pick up your book</label>
+			</div>
+		</div>
+		<div class="account-row">
+			<div class="label">As buyer or renter</div>
+			<div class="input">
+				<label for="id_request_accepted">{{form.request_accepted}} Your book request has been accepted</label>
+				<label for="id_request_rejected">{{form.request_rejected}} Your book request has been rejected</label>
+				<label for="id_dropoff_notice">{{form.dropoff_notice}} A book has been dropped off at our dropbox, book is ready for pick up</label>
+				<label for="id_price_updated">{{form.price_updated}} The price of a requested book has been updated by seller</label>
+				<label for="id_remind_due">{{form.remind_due}} A book you rented is due in 3 days</label>
+			</div>
+		</div>
+		
+		<div class="account-row last">
+			<div class="label">Other</div>
+			<div class="input">
+				<label for="id_request_expired">{{form.request_expired}} A book request you sent or received has expired</label>
+				<label for="id_review_received">{{form.review_received}} You have received a review from someone</label>
+			</div>
+		</div>
+		<div class="account-row last">
+			<div class="input">
+				<input type="hidden" name="next" value="{{next}}" />
+				<input type="submit" name="submit" class="active" value="Save" />
+			</div>
+		</div>
+	</form>
+</div>
+<div id="aside">
+</div>
+{% endblock %}

@@ -1,0 +1,77 @@
+.ac-input {
+}
+
+.ac-results {
+	padding: 0px;
+	border-top: 1px solid #ccc;
+	border-left: 1px solid #ccc;
+	border-right: 1px solid #aaa;
+	border-bottom: 1px solid #aaa;
+	overflow: hidden;
+	background-color: #fff;
+	-moz-box-shadow: 0 3px 8px rgba(0, 0, 0, 0.3);
+	-webkit-box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.ac-results ul {
+	width: 100%;
+	list-style-position: outside;
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+.ac-results li {
+	margin: 0px;
+	padding: 3px 5px;
+	cursor: pointer;
+	display: block;
+	width: 100%;
+	font-size: 13px;
+	line-height: 18px;
+	overflow: hidden;
+	border-bottom: 1px solid #f3f3f3;
+	height: 36px;
+}
+
+.ac-results li .result-row {
+	height: 30px;
+}
+
+.ac-loading {
+	background : url('../images/loader.gif') 585px center no-repeat;
+}
+
+.ac-select {
+/*	background-color: #d6e9f8; */
+	background-color: Highlight;
+	color: HighlightText;
+}
+
+.ac-results em {
+	font-weight: bold;
+	font-style: normal;
+}
+
+/* course class. prevent match class name so name it to something weird */
+.result-row .x-8q {
+	background-color: #eee;
+	color: #555;
+	padding: 2px 6px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	margin-left: 2px;
+	font-size: 12px;
+	border: 1px solid #ddd;
+}
+
+.search-all {
+	color: #1a8f5b;
+	font-size: 13px;
+}
+
+.ac-select .search-all {
+	color: #fff;
+}

@@ -1,0 +1,6 @@
+<form action="." enctype="multipart/form-data" method="post">
+	{{ form.photo }}	
+	<input type="submit" name="submit" value="Submit" />
+</form>
+<img src="{{ MEDIA_URL }}{{ photo }}" />
+<img src="{{ MEDIA_URL }}{{ thumbnail }}" />

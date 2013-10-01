@@ -1,0 +1,44 @@
+<div class="modal-box-outer" id="lease-modal">
+	<div class="modal-box-inner">
+		<div class="modal-box-header">
+			<div class="close">×</div>
+			<h3><span id="lease-title"></span></h3>
+		</div>
+		<div class="modal-box-body">
+			<form id="request-lease-form" action="{% url idlebook.account.views.request_book %}" method="post">
+				{% csrf_token %}
+				<p class="label">
+				    <span class="request-price-notes">Rental</span><span class="request-price" id="request-lease-price"></span>
+				    <span class="request-price-notes last">Deposit</span><span class="request-price-small" id="request-deposit"></span>
+				    (<a rel="tipsy" title="To ensure books to be returned, each rental over $50 requires a deposit. When the book is successfully returned, the deposit will be automatically refunded.">refundable</a>)
+				</p>
+				<p class="label">
+			        <span class="request-price-notes">Total</span><span class="request-price" id="request-lease-total"></span>
+				</p>
+                <p class="label">Rental Conditions can be found at owner's profile page</p>
+				<p class="rules"><span id="lease-rules"></span></p>
+				<div class="modal-half">
+				    <p class="label">Date requested</p>
+    			    <input type="text" id="lease-start-date" class="date-picker" name="start_date" />
+				</div>
+				<div class="modal-half">
+                    <p class="label">Date to be returned</p>
+				    <input type="text" id="lease-end-date" class="date-picker" name="end_date" />
+				</div>
+				<div class="clear"></div>
+				<p class="label">Leave a message (optional)</p>
+				<textarea class="modal-message" id="lease-message" name="message"></textarea>
+				<input type="hidden" name="copy_id" id="lease-copy-id" value="" />
+				<input type="hidden" name="type" value="lease" />
+				<input type="submit" name="send" class="request-submit active" value="Request" />
+				<button class="cancel-button close">Cancel</button>
+			</form>
+			<div class="request-sent">
+				<p>Your request has been sent.</p>
+				<p>You can view your outgoing requests at <a href="/requests/sent">Requests / Sent</a></p>
+				<p>Closing...</p>
+			</div>
+			<div class="clear"></div>
+		</div>
+	</div>
+</div>

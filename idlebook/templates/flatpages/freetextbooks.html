@@ -1,0 +1,79 @@
+{% extends "base.html" %}
+
+{% block title %}{{ flatpage.title }} - idlebook{% endblock %}
+
+{% block facebook_meta %}
+<meta property="og:title" content="Idlebook - Free UW Textbooks for Fall quarter" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://www.idlebook.com/freetextbooks/" />
+<meta property="og:image" content="{{STATIC_URL}}images/facebook-link-logo.png" />
+<meta property="og:site_name" content="Idlebook" />
+<meta property="fb:admins" content="1146120396" />
+<meta property="fb:app_id" content="206779069338929"/>
+{% endblock %}
+
+{% block css %}
+<link href="{{STATIC_URL}}css/freetextbooks.css" rel="stylesheet" type="text/css" />
+<link href="{{STATIC_URL}}css/help.css" rel="stylesheet" type="text/css" />
+{% endblock %}
+
+{% block scripts %}
+<script src="{{STATIC_URL}}scripts/freetextbooks.js" type="text/javascript"></script>
+{% endblock %}
+
+{% block modals %}
+{% include 'signup_modal.html' %}
+{% endblock %}
+
+{% block content %}
+<div id="content" class="dark">
+	<div id="container">
+		<div id="main" class="wide">
+		    <h1 class="title">{{ flatpage.title }}</h1>
+		    <div class="help-block">
+		        <h1>This event has expired. Winner is selected and awarded.</h1>
+            	<h3>Two ways to win:</h3>
+            	<ol class="winners">
+            	    <li> One lucky winner: if you are a current student, you will get fall quarter textbooks worth up to <strong>$300</strong>; if you are a alumnus, you will get a <strong>$300</strong> VISA gift card.</li>
+        	        <li>First person that invited our winner wins free textbooks worth up to <strong>$150</strong>.</li>
+            	</ol>
+            	<p class="tip">(the more people you invite the better your chances are of winning!)</p>
+        	    
+            	<h3>Eligibility:</h3>
+            	<ol class="eligibility">
+            	    <li>You are a UW student or alumnus.</a></li>
+            	    <li>You must be "Attending" this <a target="_blank" href="http://www.facebook.com/event.php?eid=258924084131367">Facebook Event.</a></li>
+                    <li>You must invite at least 15 UW students to the Event to be eligible for our $300 grand prize!</li>
+                    <li>Own and set price for at least one "eligible textbook" on idlebook.com (for instructions, see below).</li>
+            	</ol>
+            	<p class="tip">(If you are a current user of Idlebook, you are still eligible if you do 2, 3, 4)</p>
+                
+            	<h3>What is an eligible textbook:</h3>
+                <ol class="eligibility">
+                    <li>This textbook must be currently in used at UW (If you own a previous edition, it must be accepted in class).</li>
+                    <li>You own this book. If you claim to own books that you don't actually have, you are not eligible for this event.</li>
+                </ol>
+                <p class="tip"></p>
+                
+            	<p>The cutoff time is midnight, September 14, 2011. There is a minimum requirement of 150 participants for this event to be in effect.</p>
+                <p>And... that's it! We will contact the winner on September 15, 2011 through Facebook. Once the winner confirmed, we'll announce our winner and whoever invited the winner on the Idlebook Fan Page.</p>
+                <p>Winners will be randomly drawn. Each idlebook account has its own user account; we will make a short video to show how we use a simple programming function to draw that winning user account. All Idlebook employees are excluded from this drawing.</p>
+                
+                <h3>What is Idlebook?</h3>
+                <p>Avoid the long buyback lines and low buyback price, and make money with just a few clicks on your computer. Idlebook is a peer to peer way to buy, rent and sell your books. You can find out what books your friends have, and lend your books to others while making extra bucks. Find out more at <a target="_blank" href="/howitworks/">how it works</a>.</p>
+                
+                <h3>Who are we?</h3>
+                <p>Idlebook was founded by former UW students Sean Ren from Computer Science and Tommy Yang from Foster School of Business. We saw a need for cheap and accessible peer to peer textbook options for college students and we're trying to make it easy.</p>
+                
+                <p>Instructions on <a target="_blank" href="/help/selling/">how to own and set price for a book.</a></p>
+                <p><button class="attend active facebook-attend-button">Attend now!</button></p>
+                <p class="tip">(Facebook account and UW email required)</p>
+                <div id="fb-root"></div><fb:like href="http://www.idlebook.com/freetextbooks/" send="true" layout="button_count" width="200" show_faces="true" action="like" font=""></fb:like>
+                <p class="tip"></p>
+                <div id="fb-root"></div><fb:comments href="http://idlebook.com/freetextbooks/" num_posts="5" width="600"></fb:comments>
+            </div>
+        </div>
+        <div class="clear"></div>
+	</div>
+</div>
+{% endblock %}

@@ -1,0 +1,72 @@
+#copy-edit-modal .modal-half input[type='text'] {
+	width: 60px;
+}
+
+#copy-edit-modal #modal-notes,
+#copy-edit-modal .modal-list-price,
+#copy-edit-modal .modal-sug-lease,
+#copy-edit-modal .modal-sug-sale {
+	display: none;
+}
+
+#copy-edit-modal label {
+	font-size: 13px;
+	display: block;
+	margin-top: 3px;
+}
+
+#modal-condition {
+	margin-top: 10px;
+	margin-left: 5px;
+}
+
+#lease-price-help, #sale-price-help {
+/*	display: none; */
+}
+
+#order-check-modal .error {
+	color: #dd0000;
+	display: none;
+}
+
+#order-check-modal #realname-input {
+	display: none;
+}
+
+#order-check-modal #amount {
+	width: 100px;
+}
+
+#order-check-modal .name {
+	font-size: 16px;
+}
+
+#order-check-modal #address {
+	width: 370px;
+	margin-top: 5px;
+}
+
+#order-check-modal #city {
+	width: 160px;
+	margin-top: 5px;
+	margin-bottom: 20px;
+}
+
+#order-check-modal #state {
+	width: 100px;
+	margin-right: 10px;
+}
+
+#order-check-modal #zipcode {
+	width: 65px;
+}
+
+#order-check-modal input[type="text"].tip {
+	color: #666;
+}
+
+#modal-so-message {
+	margin: 5px 10px;
+	color: #444;
+	font-size: 13px;
+}

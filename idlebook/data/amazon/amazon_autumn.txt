@@ -1,0 +1,664 @@
+9780521405980|The Mechanics and Thermodynamics of Continua|1|Morton E. Gurtin|12500|Cambridge University Press|2010-04-19|http://ecx.images-amazon.com/images/I/31S3aDFbAoL.jpg|N/NewPrice|N/UsedPrice
+9780387950013|Linear Operator Theory in Engineering and Science (Applied Mathematical Sciences)|N/Edition|Arch W. Naylor|8995|Springer|2000-02-23|http://ecx.images-amazon.com/images/I/4108aj6smTL.jpg|N/NewPrice|N/UsedPrice
+9780195117776|Linear System Theory and Design (Oxford Series in Electrical and Computer Engineering)|3|Chi-Tsong Chen|14400|Oxford University Press, USA|1998-09-10|http://ecx.images-amazon.com/images/I/414DHKSHHBL.jpg|N/NewPrice|N/UsedPrice
+9780295952895|Panama Fever: The Epic Story of One of the Greatest Human Achievements of All Time-- the Building of the Panama Canal|1|Matthew Parker|2995|Doubleday|2008-03-18|http://ecx.images-amazon.com/images/I/51xdUbaaUUL.jpg|14.95|11.25
+9780295969695|Quiet Odyssey|N/Edition|Mary Paik Lee|1895|University of Washington Press|1990-05|http://ecx.images-amazon.com/images/I/41397C6QMHL.jpg|N/NewPrice|14.25
+9780805784374|Asian Americans: An Interpretive History (Immigrant Heritage of America Series)|1|Sucheng Chan|2900|Twayne Publishers|1991-01-01|http://ecx.images-amazon.com/images/I/614REB0RKBL.jpg|29.00|N/UsedPrice
+9780816648917|Chains of Babylon: The Rise of Asian America (Critical American Studies)|N/Edition|Daryl J. Maeda|2000|Univ Of Minnesota Press|2009-10-20|http://ecx.images-amazon.com/images/I/512WlTjndkL.jpg|N/NewPrice|N/UsedPrice
+9780295958330|The Chickencoop Chinaman / The Year of the Dragon: Two Plays|N/Edition|Frank Chin|2000|University of Washington Press|1982-03|http://ecx.images-amazon.com/images/I/41S5S173K7L.jpg|N/NewPrice|15.00
+9780295974330|Fish Head Soup and Other Plays|N/Edition|Philip Kan Gotanda|2595|University of Washington Press|2000-09-05|http://ecx.images-amazon.com/images/I/31orZ2dABAL.jpg|N/NewPrice|19.50
+9780452272590|M. Butterfly: With an Afterword by the Playwright|N/Edition|David Henry Hwang|1200|Plume|1993-10-01|http://ecx.images-amazon.com/images/I/51q%2BMaIKg0L.jpg|N/NewPrice|9.00
+9780802135001|Porcelain and A Language of Their Own: Two Plays|1|Chay Yew|1895|Grove Press|1997-04-11|http://ecx.images-amazon.com/images/I/31B66BD37GL.jpg|N/NewPrice|N/UsedPrice
+9780870238567|Unbroken Thread: An Anthology of Plays by Asian American Women|N/Edition|Genny Lim|2295|University of Massachusetts Press|1993-09|http://ecx.images-amazon.com/images/I/418WH0R38AL.jpg|N/NewPrice|17.25
+9780300078732|Children of Cambodia's Killing Fields: Memoirs by Survivors|N/Edition|Dith Pran|1950|Yale University Press|1999-04-10|http://ecx.images-amazon.com/images/I/415MY8sSOSL.jpg|N/NewPrice|N/UsedPrice
+9780374525644|The Spirit Catches You and You Fall Down|1|Anne Fadiman|1500|Farrar, Straus and Giroux|1998-09-28|http://ecx.images-amazon.com/images/I/41RDYMZutnL.jpg|15.00|11.25
+9780375700026|The Gangster We Are All Looking For|N/Edition|Thi Diem Thuy Le|1495|Anchor|2004-05-11|http://ecx.images-amazon.com/images/I/41KCJ3RHBCL.jpg|N/NewPrice|11.25
+9780691021157|Family Tightrope|N/Edition|Nazli Kibria|3195|Princeton University Press|1995-03-06|http://ecx.images-amazon.com/images/I/51ehl3uyPVL.jpg|N/NewPrice|N/UsedPrice
+9780807745748|Up Against Whiteness: Race, School And Immigrant Youth|N/Edition|Stacey J. Lee|2395|Teachers College Press|2005-07-15|http://ecx.images-amazon.com/images/I/41RQ7PDTD8L.jpg|23.95|N/UsedPrice
+9781566391634|Hmong Means Free (Asian American History & Cultu)|N/Edition|Sucheng Chan|2695|Temple University Press|1994-04-27|http://ecx.images-amazon.com/images/I/51UTzzSAUpL.jpg|N/NewPrice|20.25
+9781566891677|Crossing Three Wildernesses|N/Edition|U Sam Oeur|1600|Coffee House Press|2005-10-01|http://ecx.images-amazon.com/images/I/51Qxwkx5xsL.jpg|N/NewPrice|12.00
+9780077520649|2 P/s FinancialAccounting (2e 11) W/ Connect|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|123.25|N/UsedPrice
+9780077559977|2 P/s Managerial Accounting (14e 12) W/ Conne|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|N/NewPrice|N/UsedPrice
+9780077958015|2 P/s IntermediateAccounting (6e 11) W/ Conn|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|152.00|N/UsedPrice
+9780132795166|2 P/sCost Accounting (14e 12) W/ My Accounti|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|N/NewPrice|N/UsedPrice
+9780132552622|Accounting Information Systems (12th Edition)|12|Marshall B. Romney|22133|Prentice Hall|2011-01-13|http://ecx.images-amazon.com/images/I/41XP9te5l4L.jpg|198.50|N/UsedPrice
+9780912503271|Systems Understanding Aid (Instructions, Flowcharts and Ledgers, Journal, Complete packet)|7th|Alvin A.; Ward, D. Dewey Arens|N/Price|Armond Dalton Publishers, Inc.|2008|N/Image|55.20|N/UsedPrice
+9780974067995|2012 Intro To Taxation|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|N/NewPrice|N/UsedPrice
+9780136084730|Auditing and Assurance Services: An Integrated Approach (13th Edition)|13|Alvin A Arens|22133|Prentice Hall|2009-02-08|http://ecx.images-amazon.com/images/I/51wuTXawu4L.jpg|212.75|159.60
+9782222222224|Poissons De Guyane Guide Ecologique De L'Approuague Et De La Reserve Desnouragues (Scholastic Junior Classics)|N/Edition|Robert L. Irvine Subhas K. Sikdar|N/Price|Centre National de la Recherche|1991|N/Image|N/NewPrice|N/UsedPrice
+9781111004897|Financial Accounting: An Introduction to Concepts, Methods and Uses|N/Edition|Clyde; Weil, Roman; Schipper, Katherine; Francis, Jennifer Stickney|N/Price|Cengage Learning|2009|N/Image|N/NewPrice|N/UsedPrice
+9780078110863|Financial Reporting and Analysis|5|Lawrence Revsine|N/Price|McGraw-Hill/Irwin|2011-01-21|http://ecx.images-amazon.com/images/I/51%2By5RtAz0L.jpg|N/NewPrice|N/UsedPrice
+9781439078198|Contemporary Auditing: Real Issues & Cases, Update|7|Michael C. Knapp|11595|South-Western College Pub|2009-03-17|http://ecx.images-amazon.com/images/I/51dCU3tdv5L.jpg|N/NewPrice|N/UsedPrice
+9780132567244|Effective Writing (9th Edition)|9|Claire B. May|5600|Prentice Hall|2011-03-19|http://ecx.images-amazon.com/images/I/515LVuqjAEL.jpg|N/NewPrice|N/UsedPrice
+9780808027034|6 P/sInternal Revenue Regulations July 2011|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|N/NewPrice|N/UsedPrice
+9780808027089|2 P/sInternal Revenue Code July 2011|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|N/NewPrice|N/UsedPrice
+9780791378137|2 P/s FederalIncome Taxation Of Corporations|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|N/NewPrice|N/UsedPrice
+9780226104201|The Chicago Manual of Style, 16th Edition|16|University of Chicago Press Staff|6500|University Of Chicago Press|2010-08-01|http://ecx.images-amazon.com/images/I/31InmkgEXxL.jpg|65.00|48.75
+9780072963786|From Slavery to Freedom|9|John Hope Franklin|N/Price|McGraw-Hill Humanities/Social Sciences/Languages|2010-01-15|http://ecx.images-amazon.com/images/I/51D4x-FO9xL.jpg|N/NewPrice|N/UsedPrice
+9780143119289|Harvest of Empire: A History of Latinos in America|Revised|Juan Gonzalez|1800|Penguin (Non-Classics)|2011-05-31|http://ecx.images-amazon.com/images/I/51T23zsCRDL.jpg|N/NewPrice|N/UsedPrice
+9780316022361|A Different Mirror: A History of Multicultural America|Revised|Ronald Takaki|1799|Back Bay Books|2008-12-08|http://ecx.images-amazon.com/images/I/51hZB%2Bhxz8L.jpg|N/NewPrice|13.50
+9780805086843|Bury My Heart at Wounded Knee: An Indian History of the American West|1st|Dee Brown|1700|Holt Paperbacks|2007-05-15|http://ecx.images-amazon.com/images/I/51-%2BoBm-asL.jpg|N/NewPrice|12.75
+9780123737359|Fluid Mechanics, Fourth Edition|4|Ira M. Cohen|9995|Academic Press|2007-12-05|http://ecx.images-amazon.com/images/I/51cgornTpVL.jpg|N/NewPrice|75.00
+9780140445688|V.1 Capital|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|N/NewPrice|N/UsedPrice
+9780140445756|Grundrisse: Foundations of the Critique of Political Economy (Penguin Classics)|N/Edition|Karl Marx|2000|Penguin Classics|1993-11-07|http://ecx.images-amazon.com/images/I/415AEIu3RrL.jpg|N/NewPrice|N/UsedPrice
+9780674060289|Commonwealth|N/Edition|Michael Hardt|2195|Belknap Press of Harvard University Press|2011-04-15|http://ecx.images-amazon.com/images/I/41lHH%2BjPVqL.jpg|N/NewPrice|N/UsedPrice
+9780936756257|Marx Beyond Marx: Lessons on the Grundrisse|N/Edition|Antonio Negri|1200|Autonomedia|1989-06-01|http://ecx.images-amazon.com/images/I/51eh028xGHL.jpg|N/NewPrice|N/UsedPrice
+9781570270598|Caliban and the Witch: Women, The Body, and Primitive Accumulation|N/Edition|Silvia Federici|1595|Autonomedia|2004-10-01|http://ecx.images-amazon.com/images/I/51ZC7R75XPL.jpg|N/NewPrice|N/UsedPrice
+9781902593296|Reading Capital Politically|1st|Harry Cleaver|1500|AntiThesis|2000-08-01|http://ecx.images-amazon.com/images/I/51JvAqIZWwL.jpg|N/NewPrice|N/UsedPrice
+9780140513295|The Penguin Historical Atlas of Ancient Rome (Hist Atlas)|N/Edition|Chris Scarre|1800|Penguin (Non-Classics)|1995-09-01|http://ecx.images-amazon.com/images/I/516D6S66AHL.jpg|N/NewPrice|12.75
+9780824817176|Tea in Japan: Essays on the History of Chanoyu|N/Edition|Paul H. Varley|2500|University of Hawaii Press|1995-02-01|http://ecx.images-amazon.com/images/I/41mhUzXUmdL.jpg|N/NewPrice|N/UsedPrice
+9780767919388|At Home: A Short History of Private Life|First Edition|Bill Bryson|2895|Doubleday|2010-10-05|http://ecx.images-amazon.com/images/I/61RRCtkLxZL.jpg|N/NewPrice|N/UsedPrice
+9780140298666|Ramayana|N/Edition|Valmiki|4000|Penguin Global|2000-01-01|http://ecx.images-amazon.com/images/I/4146XJ5VRVL.jpg|N/NewPrice|N/UsedPrice
+9780140444025|The Rig Veda: An Anthology of One Hundred Eight Hymns (Penguin Classics)|N/Edition|Anonymous|1295|Penguin Classics|1982-01-28|http://ecx.images-amazon.com/images/I/51vhSh9gslL.jpg|N/NewPrice|N/UsedPrice
+9780192839886|Pancatantra: The Book of India's Folk Wisdom (Oxford World's Classics)|N/Edition|Patrick Olivelle|1295|Oxford University Press, USA|2002-10|http://ecx.images-amazon.com/images/I/51m5FKRZcfL.jpg|N/NewPrice|9.75
+9780231156554|Sakuntala: Texts, Readings, Histories|N/Edition|Romila Thapar|2750|Columbia University Press|2011-04-19|http://ecx.images-amazon.com/images/I/41%2Bqd3owAtL.jpg|N/NewPrice|N/UsedPrice
+9780814707296|The Little Clay Cart (Clay Sanskrit Library)|N/Edition|Shudraka|2200|NYU Press|2009-04-01|http://ecx.images-amazon.com/images/I/41qEXu4YlVL.jpg|N/NewPrice|N/UsedPrice
+9780205770779|Film: A Critical Introduction (3rd Edition) (MyCommunicationKit Series)|3|Maria T. Pramaggiore|11980|Allyn & Bacon|2011-02-27|http://ecx.images-amazon.com/images/I/516EFy8DzZL.jpg|N/NewPrice|N/UsedPrice
+9780140455182|Tale Of Four Dervishes|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|N/NewPrice|N/UsedPrice
+9780231110556|The Mahabharata|Rev Sub|Chakravarthi V. Narasimhan|2900|Columbia University Press|1997-04-15|http://ecx.images-amazon.com/images/I/41Ugj8Ty1jL.jpg|29.00|N/UsedPrice
+9780393331660|The Arabian Nights (New Deluxe Edition)|New Deluxe Edition|Muhsin Mahdi|1795|W. W. Norton & Company|2008-05-17|http://ecx.images-amazon.com/images/I/51dByaXh8RL.jpg|N/NewPrice|N/UsedPrice
+9780521004404|Methodology in Language Teaching: An Anthology of Current Practice|N/Edition|Jack C. Richards|4300|Cambridge University Press|2002-04-08|http://ecx.images-amazon.com/images/I/51ERT6VXPXL.jpg|N/NewPrice|N/UsedPrice
+9781881133209|Master ASL - Level One (with DVD)|N/Edition|Jason E. Zinza|11995|Sign Media Inc|2006-02-15|http://ecx.images-amazon.com/images/I/51MG%2BTr7kvL.jpg|155.75|N/UsedPrice
+9780674022522|Inside Deaf Culture|N/Edition|Carol A. Padden|1950|Harvard University Press|2006-10-31|http://ecx.images-amazon.com/images/I/41Q8hZFWAEL.jpg|N/NewPrice|N/UsedPrice
+9781581211313|Signing Naturally, Level 2 (Workbook & DVD)|N/Edition|Ken Mikos|6995|Dawn Sign Pr|1992-05-30|N/Image|N/NewPrice|N/UsedPrice
+9780321687678|Life in the Universe (3rd Edition)|3|Jeffrey O. Bennett|13260|Benjamin Cummings|2011-01-17|http://ecx.images-amazon.com/images/I/51eKxd5OUcL.jpg|N/NewPrice|N/UsedPrice
+9780471827597|Radiative Processes in Astrophysics|N/Edition|George B. Rybicki|16300|Wiley-VCH|1985-03-26|http://ecx.images-amazon.com/images/I/41pXg74aMnL.jpg|N/NewPrice|N/UsedPrice
+9780495115588|Essentials of Meteorology (with CengageNOW Printed Access Card)|5|C. Donald Ahrens|14295|Brooks Cole|2007-01-31|http://ecx.images-amazon.com/images/I/415s-s6CkNL.jpg|N/NewPrice|N/UsedPrice
+9781111031404|Weather (5e08) (custom)|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|N/NewPrice|75.40
+9780321597793|Earth System, The (3rd Edition)|3|Lee R. Kump|13280|Prentice Hall|2009-08-10|http://ecx.images-amazon.com/images/I/51bhQtoBXjL.jpg|125.25|93.95
+9780127329512|Atmospheric Science, Second Edition: An Introductory Survey (International Geophysics)|2|John M. Wallace|7295|Academic Press|2006-02-15|http://ecx.images-amazon.com/images/I/51Sw7YaMtxL.jpg|72.95|54.75
+9780120593545|Introduction to Micrometeorology, Volume 79, Second Edition (International Geophysics)|2|S. Pal Arya|11800|Academic Press|2001-05-10|http://ecx.images-amazon.com/images/I/41fzbb8xIxL.jpg|N/NewPrice|N/UsedPrice
+9780123540157|An Introduction to Dynamic Meteorology, Fourth Edition (The International Geophysics Series, Vol 88)|4|James R. Holton|7995|Academic Press|2004-04-14|http://ecx.images-amazon.com/images/I/51ahGufdZxL.jpg|N/NewPrice|60.00
+9780691001852|Introduction to Atmospheric Chemistry|N/Edition|Daniel Jacob|7500|Princeton University Press|1999-12-21|http://ecx.images-amazon.com/images/I/41EO9-aaTsL.jpg|N/NewPrice|N/UsedPrice
+9780470864654|Mid-Latitude Atmospheric Dynamics: A First Course|1|Jonathan E. Martin|7995|Wiley|2006-07-04|http://ecx.images-amazon.com/images/I/51H7MKBH2JL.jpg|N/NewPrice|N/UsedPrice
+9780124514515|An Introduction to Atmospheric Radiation, Volume 84, Second Edition (International Geophysics)|2|K. N. Liou|11800|Academic Press|2002-05-13|http://ecx.images-amazon.com/images/I/51OK5YCZNIL.jpg|N/NewPrice|N/UsedPrice
+9780471237662|Introduction to Biomedical Imaging (IEEE Press Series on Biomedical Engineering)|1|Andrew G. Webb|15599|Wiley-IEEE Press|2002-12-26|http://ecx.images-amazon.com/images/I/41K4PAZAKGL.jpg|N/NewPrice|N/UsedPrice
+9780125824637|Biomaterials Science, Second Edition: An Introduction to Materials in Medicine|2|Buddy D. Ratner|11900|Academic Press|2004-08-12|http://ecx.images-amazon.com/images/I/51M0H8GYMSL.jpg|N/NewPrice|N/UsedPrice
+9780130653536|Medical Imaging Signals and Systems|1|Jerry L. Prince|14200|Prentice Hall|2005-04-25|http://ecx.images-amazon.com/images/I/5164216T4CL.jpg|N/NewPrice|N/UsedPrice
+9780321575548|Essentials of Anatomy & Physiology with Interactive Physiology 10-System Suite (5th Edition)|5|Frederic H. Martini|16100|Benjamin Cummings|2009-01-18|http://ecx.images-amazon.com/images/I/514dD6LI2IL.jpg|N/NewPrice|117.60
+9781934931400|Response Card RfLcd Radio Frequency|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|42.00|31.50
+9780321561688|Study Guide for Biological Science|4|Scott Freeman|5380|Benjamin Cummings|2010-08-01|http://ecx.images-amazon.com/images/I/51yQ2aU8VSL.jpg|N/NewPrice|38.65
+9780321597960|Biological Science with MasteringBiology® (4th Edition)|4|Scott Freeman|20267|Benjamin Cummings|2010-02-13|http://ecx.images-amazon.com/images/I/51VbDxJo50L.jpg|194.75|146.10
+9781889899091|Molecular Biology made simple and fun, 4th edition|Fourth|David P. Clark|4995|Cache River Pr|2010-02-01|http://ecx.images-amazon.com/images/I/51nG6cFf6gL.jpg|N/NewPrice|N/UsedPrice
+9780309100618|Out of Thin Air: Dinosaurs, Birds, and Earth's Ancient Atmosphere|1st Edition.|Peter Ward|2795|Joseph Henry Press|2006-09-26|http://ecx.images-amazon.com/images/I/21ZfeiCSEoL.jpg|N/NewPrice|N/UsedPrice
+9780393307009|Wonderful Life: The Burgess Shale and the Nature of History|N/Edition|Stephen Jay Gould|1795|W. W. Norton & Company|1990-09-17|http://ecx.images-amazon.com/images/I/51j2ACKKK-L.jpg|N/NewPrice|N/UsedPrice
+9780878933174|Animal Physiology, Second Edition|2nd|Richard W. Hill|13295|Sinauer Associates, Inc.|2008-04-16|http://ecx.images-amazon.com/images/I/51kS7ETp9ML.jpg|N/NewPrice|N/UsedPrice
+9780879696849|Evolution|1st|Nicholas H. Barton|11000|Cold Spring Harbor Laboratory Press|2007-06-30|http://ecx.images-amazon.com/images/I/41ZF4XNR90L.jpg|N/NewPrice|N/UsedPrice
+9780470483374|Cell and Molecular Biology: Concepts and Experiments|6|Gerald Karp|N/Price|Wiley|2009-11-24|http://ecx.images-amazon.com/images/I/61LmtFTJ9yL.jpg|N/NewPrice|N/UsedPrice
+9780073383224|Ecology: Concepts and Applications|5|Manuel Molles|N/Price|McGraw-Hill Science/Engineering/Math|2009-01-27|http://ecx.images-amazon.com/images/I/61wpS9D22pL.jpg|N/NewPrice|108.00
+9780716738633|Eckert Animal Physiology|Fifth Edition|David Randall|N/Price|W. H. Freeman|2001-11-09|http://ecx.images-amazon.com/images/I/51AS9PZGVCL.jpg|N/NewPrice|112.50
+9780878933846|Developmental Biology, Ninth Edition (Developmental Biology Developmental Biology)|Ninth|Scott F. Gilbert|12995|Sinauer Associates, Inc.|2010-03-31|http://ecx.images-amazon.com/images/I/519vJLN0mSL.jpg|N/NewPrice|93.75
+9780716710073|Biology of Plants|Seventh Edition|Peter H. Raven|N/Price|W. H. Freeman|2004-12-17|http://ecx.images-amazon.com/images/I/51aKQESkTOL.jpg|N/NewPrice|N/UsedPrice
+9780030223693|Functional Anatomy of the Vertebrates: An Evolutionary Perspective|3|Karel Liem|21995|Brooks Cole|2000-12-18|http://ecx.images-amazon.com/images/I/41VAESVRN1L.jpg|N/NewPrice|N/UsedPrice
+9780895827487|Comparative Anatomy|2nd|Dale W Fishbeck|6795|Morton Publishing Company|2008-06-01|http://ecx.images-amazon.com/images/I/51akcZKLihL.jpg|N/NewPrice|N/UsedPrice
+9780120887682|Vertebrate Endocrinology, Fourth Edition|4|David O. Norris|9895|Academic Press|2006-12-11|http://ecx.images-amazon.com/images/I/51dLf%2BQmjaL.jpg|N/NewPrice|N/UsedPrice
+9780321559395|Human Physiology: An Integrated Approach with IP-10 (5th Edition)|5|Dee Unglaub Silverthorn|18667|Benjamin Cummings|2009-02-01|http://ecx.images-amazon.com/images/I/61YKuaqRJfL.jpg|N/NewPrice|134.25
+9780787965679|Tools for Teaching|2nd|Barbara Gross Davis|5000|Jossey-Bass|2009-02-03|http://ecx.images-amazon.com/images/I/41sMOw0YLFL.jpg|N/NewPrice|N/UsedPrice
+9780299227142|Bloodstoppers and Bearwalkers: Folk Traditions of Michigan's Upper Peninsula|3|Richard M. Dorson|2495|University of Wisconsin Press|2008-05-30|http://ecx.images-amazon.com/images/I/51dBMJDH7mL.jpg|N/NewPrice|N/UsedPrice
+9780874211283|Folk Groups And Folklore Genres: An Introduction|1|Elliott Oring|2995|Utah State University Press|1986-08-01|http://ecx.images-amazon.com/images/I/41%2Bw3xceG7L.jpg|N/NewPrice|22.50
+9780142437612|Seize the Day (Penguin Classics)|N/Edition|Saul Bellow|1400|Penguin Classics|2003-05-27|http://ecx.images-amazon.com/images/I/41m8pu8zfYL.jpg|N/NewPrice|10.50
+9780205668946|Short Guide to Writing about Film, A (7th Edition)|7|Timothy Corrigan|4567|Longman|2009-02-05|http://ecx.images-amazon.com/images/I/415dy02RT6L.jpg|N/NewPrice|33.75
+9780374530259|Gimpel the Fool: And Other Stories|First Edition|Isaac Bashevis Singer|1400|Farrar, Straus and Giroux|2006-01-10|http://ecx.images-amazon.com/images/I/512gHfYwtuL.jpg|N/NewPrice|10.50
+9780393967975|The Metamorphosis (Norton Critical Editions)|N/Edition|Franz Kafka|N/Price|W. W. Norton & Company|1996-02-17|http://ecx.images-amazon.com/images/I/41AgGbQGzRL.jpg|N/NewPrice|11.25
+9780679748267|Goodbye, Columbus : And Five Short Stories (Vintage International)|N/Edition|Philip Roth|1500|Vintage|1993-01-13|http://ecx.images-amazon.com/images/I/41ZNCZY7K4L.jpg|15.00|N/UsedPrice
+9781567923919|Badenheim 1939|N/Edition|Aharon Appelfeld|1495|David R Godine|2009-05-01|http://ecx.images-amazon.com/images/I/51sLVUAnxZL.jpg|14.95|11.25
+9788433972712|Plata quemada (Spanish Edition)|N/Edition|Ricardo Piglia|1495|Anagrama|2006-01-01|http://ecx.images-amazon.com/images/I/51ft%2BJnF77L.jpg|N/NewPrice|N/UsedPrice
+9789682708954|El complot mongol (Spanish Edition)|N/Edition|Rafael Bernal|1095|Joaquin Mortiz|2008-01-01|http://ecx.images-amazon.com/images/I/5179xCkOT8L.jpg|N/NewPrice|N/UsedPrice
+9789682710155|Las muertas (Spanish Edition)|N/Edition|Jorge Ibarguengoitia|1395|Booket|2009-01-01|http://ecx.images-amazon.com/images/I/41rhEuoki-L.jpg|N/NewPrice|N/UsedPrice
+9789707102507|Cementerio De Papel/ Cementery of Paper (Byblos Narrativa) (Spanish Edition)|Tra|Fritz Glockner|795|Ediciones B|2007-04-01|N/Image|N/NewPrice|N/UsedPrice
+9789708105514|Ensayo de un crimen (Spanish Edition)|N/Edition|Rodolfo Usigli|1295|Debolsillo|2008-08-01|http://ecx.images-amazon.com/images/I/51PAyz0tqyL.jpg|N/NewPrice|N/UsedPrice
+9789870412762|PREGUNTA DE SUS OJOS, LA (Spanish Edition)|N/Edition|SACHERI EDUARDO|N/Price|ALFAGUARA|2009|http://ecx.images-amazon.com/images/I/21o8tw1P-SL.jpg|N/NewPrice|N/UsedPrice
+9780138135966|Managing the Construction Process (4th Edition)|4|Frederick Gould|11520|Prentice Hall|2011-01-08|http://ecx.images-amazon.com/images/I/51Kwiv-iDZL.jpg|N/NewPrice|N/UsedPrice
+9780132554343|Elementary Surveying: An Introduction to Geomatics (13th Edition)|13|Charles D. Ghilani|17900|Prentice Hall|2011-01-08|http://ecx.images-amazon.com/images/I/51G7esyh0JL.jpg|N/NewPrice|N/UsedPrice
+9780470290750|Principles of Highway Engineering and Traffic Analysis|4|Fred L. Mannering|N/Price|Wiley|2008-09-09|http://ecx.images-amazon.com/images/I/51btA3We8HL.jpg|N/NewPrice|108.95
+9780470262849|Fundamentals of Fluid Mechanics|6|Bruce R. Munson|N/Price|Wiley|2009-01-09|http://ecx.images-amazon.com/images/I/51leFPP4n3L.jpg|N/NewPrice|N/UsedPrice
+9780072423327|Urban Transportation Planning|2|Michael Meyer|N/Price|McGraw-Hill Science/Engineering/Math|2000-12-20|http://ecx.images-amazon.com/images/I/51O4zKA95%2BL.jpg|N/NewPrice|N/UsedPrice
+9780135897065|Foundation Design: Principles and Practices (2nd Edition)|2|Donald P. Coduto|18600|Prentice Hall|2000-07-20|http://ecx.images-amazon.com/images/I/51H6WHK23TL.jpg|181.00|135.75
+9780132281416|Reinforced Concrete: Mechanics and Design (5th Edition)|5|James K. Wight|19200|Prentice Hall|2008-06-27|http://ecx.images-amazon.com/images/I/51FPnCbUJqL.jpg|187.00|N/UsedPrice
+9780495668251|A First Course in the Finite Element Method|5|Daryl L. Logan|22095|CL-Engineering|2011-01-01|http://ecx.images-amazon.com/images/I/51TmeibTbJL.jpg|209.50|N/UsedPrice
+9780415429900|Pollutant Effects in Freshwater: Applied Limnology|3|Jacoby/Welch|6300|Taylor & Francis|2007-11-01|http://ecx.images-amazon.com/images/I/51gki7T8ZVL.jpg|N/NewPrice|N/UsedPrice
+9781577665618|Physical Hydrology|2|S. Lawrence Dingman|8595|Waveland Pr Inc|2008-01-31|http://ecx.images-amazon.com/images/I/51F5XaT2DYL.jpg|N/NewPrice|N/UsedPrice
+9780471331193|Probability, Reliability, and Statistical Methods in Engineering Design|1|Achintya Haldar|N/Price|Wiley|1999-11-01|http://ecx.images-amazon.com/images/I/4111CHH6Y3L.jpg|N/NewPrice|N/UsedPrice
+9780133749359|Experimental Soil Mechanics|1|Jean-Pierre Bardet|14300|Prentice Hall|1997-02-10|http://ecx.images-amazon.com/images/I/41ESX21V52L.jpg|N/NewPrice|N/UsedPrice
+9780140178241|Cadillac Desert: The American West and Its Disappearing Water, Revised Edition|Revised|Marc Reisner|1800|Penguin (Non-Classics)|1993-01-01|http://ecx.images-amazon.com/images/I/51-elHdL5EL.jpg|N/NewPrice|N/UsedPrice
+9781559632300|Fire Ecology of Pacific Northwest Forests|1|James Agee|5000|Island Press|1996-03-01|http://ecx.images-amazon.com/images/I/41CJFE3BS7L.jpg|N/NewPrice|N/UsedPrice
+9781597261838|Fire Ecology in Rocky Mountain Landscapes|1|William L. Baker|6000|Island Press|2009-07-09|http://ecx.images-amazon.com/images/I/41dpGh5yK7L.jpg|N/NewPrice|N/UsedPrice
+9780538736404|Study Guide for Zumdahl/DeCoste's Introductory Chemistry, 7th|7|Steven S. Zumdahl|7495|Brooks Cole|2010-01-01|http://ecx.images-amazon.com/images/I/51-mt4-EM5L.jpg|N/NewPrice|N/UsedPrice
+9781439049402|Introductory Chemistry: A Foundation|7|Steven S. Zumdahl|19195|Brooks Cole|2010-01-01|http://ecx.images-amazon.com/images/I/51%2BdLvgEPAL.jpg|165.75|124.35
+9780136054542|General, Organic, and Biological Chemistry: Structures of Life (3rd Edition)|3|Karen C. Timberlake|19520|Prentice Hall|2009-02-09|http://ecx.images-amazon.com/images/I/51vHsuPyXyL.jpg|N/NewPrice|138.20
+9780321587558|Study Guide for General, Organic and Biological Chemistry: Structures of Life|3|Karen C. Timberlake|7180|Prentice Hall|2009-05-02|http://ecx.images-amazon.com/images/I/41O%2BG5AgizL.jpg|68.50|51.40
+9780738041629|General ChemistryLab Notebook|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|14.25|N/UsedPrice
+9780547154695|Zumdahl Chemistry Principles Plus Chemistryspace Web Booklet Forpackages Sixth Edition|6|N/Author|N/Price|Houghton Mifflin Company|2008-01-16|N/Image|214.00|160.50
+9780618946587|Study Guide for Zumdahl's Chemical Principles|6|Steven S. Zumdahl|7695|Brooks Cole|2008-01-22|http://ecx.images-amazon.com/images/I/51JKKC608DL.jpg|78.25|58.70
+9780738038759|General Chemistry 142 Lab Manual 2010-2011|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|12.50|N/UsedPrice
+9781111020439|General Chemistry 142 UW Edition|N/Edition|Zumdahl|N/Price|N/Publisher|2010|N/Image|117.00|N/UsedPrice
+9780030353734|Principles of Modern Chemistry|5|David W. Oxtoby|17695|Brooks Cole|2002-08-02|http://ecx.images-amazon.com/images/I/51LOMpQwJDL.jpg|N/NewPrice|37.50
+9780534402662|Student Solutions Manual for Oxtoby, Gillis, and Nachtrieb's Principles of Modern Chemistry|5th|Wade Freeman|N/Price|N/Publisher|2003|N/Image|N/NewPrice|N/UsedPrice
+9780738043593|General Chemistry 152Lab Manual 2011-2012|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|N/NewPrice|N/UsedPrice
+9781111004989|General Chemistry 152: CUSTOM EDITION for University of Washington|N/Edition|Steven S. Zumdahl|N/Price|Cengage Learning|2009|http://ecx.images-amazon.com/images/I/51QvXbjkC1L.jpg|67.00|50.25
+9780738046006|General Chemistry162 Lab Manual 2011-2012|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|N/NewPrice|N/UsedPrice
+9781111005207|General Chemistry162 (custom)|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|52.50|N/UsedPrice
+9780495012030|Fundamentals of Organic Chemistry|6|John E. McMurry|24995|Brooks Cole|2006-03-29|http://ecx.images-amazon.com/images/I/41jIAJiLu2L.jpg|N/NewPrice|112.50
+9780495019329|Study Guide/Solutions Manual for McMurry/Simanek's Fundamentals of Organic Chemistry, 6th|6|John E. McMurry|9695|Brooks Cole|2006-03-30|N/Image|94.00|N/UsedPrice
+9780073293974|Solutions Manual Organic Chemistry|8|Francis Carey|N/Price|McGraw-Hill Science/Engineering/Math|2010-02-24|http://ecx.images-amazon.com/images/I/510L1TYpwbL.jpg|119.25|N/UsedPrice
+9780077964153|Organic Chemistry (8e10)|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|135.00|N/UsedPrice
+9780205081363|Prentice Hall Molecular Model Set For Organic Chemistry|N/Edition|L. Pearson|6300|Prentice Hall|1983-08-29|http://ecx.images-amazon.com/images/I/51KO3YthHXL.jpg|60.00|45.00
+9780495016304|Introduction to Organic Laboratory Techniques: A Microscale Approach (Brooks/Cole Laboratory Series for Organic Chemistry)|4|Donald L. Pavia|25295|Brooks Cole|2006-02-01|http://ecx.images-amazon.com/images/I/41Kk1ff%2B40L.jpg|224.50|168.40
+9780471385868|Engineering and Chemical Thermodynamics|1|Milo D. Koretsky|N/Price|Wiley|2003-11-12|http://ecx.images-amazon.com/images/I/41QY9DCN9RL.jpg|N/NewPrice|N/UsedPrice
+9780954452933|Sustainable Energy - Without the Hot Air|1|David JC MacKay|4995|UIT Cambridge Ltd.|2009-02-20|http://ecx.images-amazon.com/images/I/51xpAH2tTOL.jpg|N/NewPrice|N/UsedPrice
+9780470481837|Separation Process Principles|3|J. D. Seader|N/Price|Wiley|2010-11-23|http://ecx.images-amazon.com/images/I/51t9-JUmdbL.jpg|N/NewPrice|N/UsedPrice
+9789814299824|An Introduction to Interfaces and Colloids: The Bridge to Nanoscience|N/Edition|John C Berg|6800|World Scientific|2009-11-18|http://ecx.images-amazon.com/images/I/51X%2BxmaopwL.jpg|68.00|N/UsedPrice
+9780137146123|Essentials of Chemical Reaction Engineering (Prentice Hall International Series in the Physical and Chemical Engineering Sciences)|1|H. Scott Fogler|12000|Prentice Hall|2010-11-12|http://ecx.images-amazon.com/images/I/51AfsWNdXuL.jpg|N/NewPrice|N/UsedPrice
+9780393301588|Civilization and Its Discontents|The Standard Edition|Sigmund Freud|1295|W. W. Norton & Company|1989-09-17|http://ecx.images-amazon.com/images/I/51OR9ZgscAL.jpg|N/NewPrice|9.75
+9780451531216|The Confessions of Saint Augustine (Signet Classics)|N/Edition|Rex Warner|695|Signet Classics|2009-03-03|http://ecx.images-amazon.com/images/I/51EUzlSrBAL.jpg|N/NewPrice|N/UsedPrice
+9780520256095|Seeing Is Forgetting the Name of the Thing One Sees: Expanded Edition, Over Thirty Years of Conversations with Robert Irwin|1|Lawrence Weschler|2495|University of California Press|2009-02-02|http://ecx.images-amazon.com/images/I/41u8MNc1v4L.jpg|N/NewPrice|N/UsedPrice
+9780872201361|Republic (tr Grube,Rev Tr Reeve ) (2e 92)|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|N/NewPrice|8.25
+9780226647456|King Khama, Emperor Joe, and the Great White Queen: Victorian Britain through African Eyes|1|Neil Parsons|2500|University Of Chicago Press|1998-02-03|http://ecx.images-amazon.com/images/I/512VPJ7QKYL.jpg|N/NewPrice|N/UsedPrice
+9780486248592|Noa Noa|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|N/NewPrice|N/UsedPrice
+9780571117420|Translations: A Play (Faber Paperbacks)|First Thus|Brian Friel|1300|Faber & Faber|1995-03-16|http://ecx.images-amazon.com/images/I/41R8NOjwXQL.jpg|N/NewPrice|9.00
+9780802150844|Black Skin, White Masks|N/Edition|Frantz Fanon|1250|Grove Press|1994-01-07|http://ecx.images-amazon.com/images/I/41ijgfsqRhL.jpg|N/NewPrice|N/UsedPrice
+9780872203303|Mahatma Gandhi: Selected Political Writings|N/Edition|Mahatma Gandhi|1395|Hackett Pub Co|1996-09-01|http://ecx.images-amazon.com/images/I/31J6qQd6xLL.jpg|N/NewPrice|N/UsedPrice
+9780520236943|This Is Not a Pipe: 25th Anniversary Edition (Quantum Books)|2|Michel Foucault|1695|University of California Press|2008-07-01|http://ecx.images-amazon.com/images/I/41SI-n-yO3L.jpg|N/NewPrice|N/UsedPrice
+9780679753346|The Birth of the Clinic: An Archaeology of Medical Perception|N/Edition|Michel Foucault|1500|Vintage|1994-03-29|http://ecx.images-amazon.com/images/I/41RTg7BRvcL.jpg|N/NewPrice|9.00
+9780887276385|Integrated Chinese: Simplified Characters Textbook, Level 1, Part 1|3rd|Yuehua Liu|4499|Cheng & Tsui|2008-08-06|http://ecx.images-amazon.com/images/I/51M7k%2Bq1OaL.jpg|44.99|N/UsedPrice
+9780887276408|Integrated Chinese Level 1 Part 1 Workbook: Simplified Characters|3rd|Yuehua Liu|2399|Cheng & Tsui|2008-08-08|http://ecx.images-amazon.com/images/I/51WOUeMO0fL.jpg|23.99|N/UsedPrice
+9780887276484|Integrated Chinese: Level 1, Part 1 (Simplified & Traditional Character) Character Workbook (Chinese Edition)|3rd|Yuehua Liu|2199|Cheng & Tsui|2008-01-20|http://ecx.images-amazon.com/images/I/511L6Wj1dyL.jpg|21.99|N/UsedPrice
+9780887276798|Integrated Chinese: Level 2, Part 1 (Simplified and Traditional Character) Textbook (Chinese Edition)|3rd|Yuehua Liu|5399|Cheng & Tsui|2009-07-20|http://ecx.images-amazon.com/images/I/51CgjNxWFAL.jpg|53.99|N/UsedPrice
+9780887276835|Integrated Chinese: Level 2, Part 1 (Simplified and Traditional Character) Workbook (Chinese Edition)|3rd|Yuehua Liu|2599|Cheng & Tsui|2009-07-20|http://ecx.images-amazon.com/images/I/518Wps3ps6L.jpg|25.99|N/UsedPrice
+9780887276859|Integrated Chinese: Level 2, Part 1 (Simplified and Traditional Character) Character Workbook (Cheng & Tsui Chinese Language Series) (Chinese Edition)|3rd|Yuehua Liu|1499|Cheng & Tsui|2009-07-20|http://ecx.images-amazon.com/images/I/51wolxgLaXL.jpg|12.95|N/UsedPrice
+9780691090481|All Things Considered: Advanced  Reader of Modern Chinese.|N/Edition|Chih-p'ing Chou|5500|Princeton University Press|2001-07-01|http://ecx.images-amazon.com/images/I/41udqHISZEL.jpg|N/NewPrice|N/UsedPrice
+9780521296533|Chinese (Cambridge Language Surveys)|N/Edition|Jerry Norman|5500|Cambridge University Press|1988-01-29|http://ecx.images-amazon.com/images/I/41VFPH4VRSL.jpg|N/NewPrice|39.00
+9780691014685|The Languages of China|N/Edition|S. Robert Ramsey|3895|Princeton University Press|1989-10-01|http://ecx.images-amazon.com/images/I/51nbpAOXZ3L.jpg|N/NewPrice|N/UsedPrice
+9780691127668|Anything Goes: An Advanced Reader of Modern Chinese (Princeton Language Program: Modern Chinese)|N/Edition|Chih-p'ing Chou|5000|Princeton University Press|2006-07-03|http://ecx.images-amazon.com/images/I/41OxKJ0gjUL.jpg|N/NewPrice|N/UsedPrice
+9788042000516|Reflection Of Reality|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|53.25|N/UsedPrice
+9780393971064|An Anthology of Chinese Literature: Beginnings to 1911|N/Edition|Stephen Owen|N/Price|W. W. Norton & Company|1997-03-17|http://ecx.images-amazon.com/images/I/51gMZ9fej-L.jpg|N/NewPrice|49.70
+9780205786183|Occupied America: A History of Chicanos (7th Edition)|7|Rodolfo Acuna|7660|Prentice Hall|2010-01-31|http://ecx.images-amazon.com/images/I/51dMI3GSG1L.jpg|N/NewPrice|54.75
+9780813542249|500 Years of Chicana Women's History/500 anos de la mujer Chicana|Bilingual|Elizabeth S. Martinez|2495|Rutgers University Press|2008-02-06|http://ecx.images-amazon.com/images/I/51Mpp9zplWL.jpg|N/NewPrice|N/UsedPrice
+9780292776388|Soldaderas in the Mexican Military: Myth and History|1|Elizabeth Salas|2500|University of Texas Press|1990|http://ecx.images-amazon.com/images/I/4158EQPCZ6L.jpg|N/NewPrice|15.00
+9780816527465|Women and Change at the U.S.--Mexico Border: Mobility, Labor, and Activism|N/Edition|Doreen J. Mattingly|2495|University of Arizona Press|2008-03-20|http://ecx.images-amazon.com/images/I/517SqFWfTfL.jpg|N/NewPrice|18.75
+9780865164857|Words and Ideas|N/Edition|William J. Dominik|3900|Bolchazy-Carducci Publishers|2002-12-01|http://ecx.images-amazon.com/images/I/417hAFKobxL.jpg|39.00|29.25
+9780816503056|Bioscientific Terminology|N/Edition|Donald M. Ayers|1995|University of Arizona Press|1972-04-01|http://ecx.images-amazon.com/images/I/41R7KKND0QL.jpg|19.95|15.00
+9780140445923|The Iliad (Penguin Classics)|N/Edition|Homer|1500|Penguin Books|1991-07-01|http://ecx.images-amazon.com/images/I/41Niop1rfYL.jpg|15.00|11.25
+9780192834720|Metamorphoses|N/Edition|Ovid|938|Oxford University Press, USA|1955-05-31|http://ecx.images-amazon.com/images/I/51zQCy21etL.jpg|8.95|6.75
+9780199537570|The Poems of Catullus (Oxford World's Classics)|N/Edition|Catullus|1395|Oxford University Press, USA|2009-01-15|http://ecx.images-amazon.com/images/I/517sWWl6q2L.jpg|13.95|10.50
+9780199538720|Jason and the Golden Fleece: (The Argonautica) (Oxford World's Classics)|N/Edition|Apollonius of Rhodes|1395|Oxford University Press, USA|2009-04-15|http://ecx.images-amazon.com/images/I/51y1Aklx1gL.jpg|13.95|10.50
+9780226307909|Greek Tragedies, Volume 1|1|David Grene|1200|University Of Chicago Press|1992-02-24|http://ecx.images-amazon.com/images/I/510S5QQCKDL.jpg|N/NewPrice|8.25
+9780679729525|The Aeneid|REVISED|Virgil|1300|Vintage|1990-06-16|http://ecx.images-amazon.com/images/I/41C27X9SBSL.jpg|13.00|9.75
+9780801494338|Phaedra|N/Edition|Seneca|1150|Ilr Pr|1986-10-17|http://ecx.images-amazon.com/images/I/41880PNEKNL.jpg|11.50|8.65
+9780882950051|Clouds / the Pot of Gold: The Clouds : The Pot of Gold (Crofts Classics)|N/Edition|Aristophanes|695|Harlan Davidson|1986-06|http://ecx.images-amazon.com/images/I/41FKXPZI9%2BL.jpg|6.95|N/UsedPrice
+9780941051217|Lucretius :On Nature Of Things|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|16.95|12.75
+9780941051569|Plato : Symposium (Focus Philosophical Library)|N/Edition|Plato|1095|Focus Publishing/R. Pullins Company|1997-10-01|http://ecx.images-amazon.com/images/I/5163G7RS9DL.jpg|10.95|8.25
+9780697795588|Com 202Reader : A Look At Communication Theo|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|55.25|41.45
+9780393934120|The Norton Anthology of Drama (Shorter Edition)|Shorter Edition|J. Ellen Gainor|N/Price|W. W. Norton & Company|2009-11-06|http://ecx.images-amazon.com/images/I/51g1zu1%2B4oL.jpg|65.75|49.35
+9780809311101|Backwards & Forwards: A Technical Manual for Reading Plays|1st|David Ball|1795|Southern Illinois University Press|1983-07-07|http://ecx.images-amazon.com/images/I/41iM2AwW6QL.jpg|17.95|13.50
+9780136114994|Electric Circuits (9th Edition) (MasteringEngineering Series)|9|James W. Nilsson|19100|Prentice Hall|2010-01-13|http://ecx.images-amazon.com/images/I/51NE0iYhOkL.jpg|176.25|N/UsedPrice
+9780138147570|Signals and Systems (2nd Edition)|2|Alan V. Oppenheim|18000|Prentice Hall|1996-08-16|http://ecx.images-amazon.com/images/I/517NQ2TVYQL.jpg|168.50|126.40
+9780077211646|Fundamentals of Digital Logic with Verilog Design|2|Stephen Brown|N/Price|McGraw-Hill Science/Engineering/Math|2007-05-14|http://ecx.images-amazon.com/images/I/51JDV6sUzSL.jpg|N/NewPrice|130.15
+9780073380452|Microelectronic Circuit Design|4|Richard Jaeger|N/Price|McGraw-Hill Science/Engineering/Math|2010-03-01|http://ecx.images-amazon.com/images/I/51eneuABVCL.jpg|180.50|N/UsedPrice
+9781420062199|Electric Energy: An Introduction, Second Edition (Power Electronics and Applications Series)|2|Mohamed A. El-Sharkawi|10295|CRC Press|2008-08-05|http://ecx.images-amazon.com/images/I/51RZIMqANBL.jpg|102.95|77.25
+9780132139311|Fundamentals of Applied Electromagnetics (6th Edition)|6|Fawwaz T. Ulaby|15400|Prentice Hall|2010-03-07|http://ecx.images-amazon.com/images/I/51IzVShSRjL.jpg|N/NewPrice|N/UsedPrice
+9780849318849|Probability for Electrical and Computer Engineers|1|Charles Therrien|9895|CRC Press|2004-01-23|http://ecx.images-amazon.com/images/I/51sVqjHFbVL.jpg|N/NewPrice|N/UsedPrice
+9781584885085|Cryptography: Theory and Practice, Third Edition (Discrete Mathematics and Its Applications)|3|Douglas R. Stinson|6995|Chapman and Hall/CRC|2005-11-01|http://ecx.images-amazon.com/images/I/41BA6XVEHQL.jpg|N/NewPrice|N/UsedPrice
+9780072320848|Design with Operational Amplifiers and Analog Integrated Circuits|3|Sergio Franco|N/Price|McGraw-Hill Science/Engineering/Math|2001-08-08|http://ecx.images-amazon.com/images/I/51%2Bf2LdneXL.jpg|N/NewPrice|152.65
+9780471794752|Control Systems Engineering, 5th Edition|5|Norman S. Nise|N/Price|Wiley|2007-12-10|http://ecx.images-amazon.com/images/I/41f6wjb%2B6CL.jpg|N/NewPrice|N/UsedPrice
+9780971529281|First Course on Power Electronics|Year 2009 Edition|Ned Mohan|11000|MN Power Electronics (MNPERE)|2009-05-01|http://ecx.images-amazon.com/images/I/31oX%2BWSVZ2L.jpg|110.00|N/UsedPrice
+9780136919902|Power Systems Analysis (2nd Edition)|2|Arthur R. Bergen|17800|Prentice Hall|1999-08-16|http://ecx.images-amazon.com/images/I/51BlmYjKduL.jpg|N/NewPrice|N/UsedPrice
+9780123744937|Computer Organization and Design, Fourth Edition: The Hardware/Software Interface (The Morgan Kaufmann Series in Computer Architecture and Design)|4|David A. Patterson|8995|Morgan Kaufmann|2008-11-10|http://ecx.images-amazon.com/images/I/51HGo4MjkZL.jpg|N/NewPrice|67.50
+9780471721802|Embedded Systems: A Contemporary Design Tool|1|James K. Peckol|N/Price|Wiley|2007-10-22|http://ecx.images-amazon.com/images/I/51AhcTQ487L.jpg|N/NewPrice|138.20
+9780130909961|Digital Integrated Circuits (2nd Edition)|2|Jan M. Rabaey|18000|Prentice Hall|2003-01-03|http://ecx.images-amazon.com/images/I/41FN5Q43KEL.jpg|N/NewPrice|N/UsedPrice
+9780131733497|Digital Design: Principles and Practices Package (4th Edition)|4|John F. Wakerly|18400|Prentice Hall|2005-08-06|http://ecx.images-amazon.com/images/I/51wNmDB-ZyL.jpg|173.25|N/UsedPrice
+9780471448785|Microwave Engineering|3|David M. Pozar|N/Price|Wiley|2004-02-05|http://ecx.images-amazon.com/images/I/21VXQ5B1DTL.jpg|N/NewPrice|140.25
+9780961672188|Microchip Manufacturing|N/Edition|Stanley Wolf|14995|Lattice Press|2003-07-01|http://ecx.images-amazon.com/images/I/510ER06PNFL.jpg|N/NewPrice|N/UsedPrice
+9780131471221|Probability, Statistics, and Random Processes For Electrical Engineering (3rd Edition)|3|Alberto Leon-Garcia|18400|Prentice Hall|2008-01-07|http://ecx.images-amazon.com/images/I/51h6IDDHLAL.jpg|N/NewPrice|N/UsedPrice
+9780131988422|Discrete-Time Signal Processing (3rd Edition) (Prentice Hall Signal Processing)|3|Alan V. Oppenheim|17600|Prentice Hall|2009-08-28|http://ecx.images-amazon.com/images/I/51eeRAmHKFL.jpg|N/NewPrice|N/UsedPrice
+9780792383932|Algorithms for VLSI Physical Design Automation, Third Edition|3rd|Naveed A. Sherwani|11900|Springer|1998-11-30|http://ecx.images-amazon.com/images/I/41ku0DC2s3L.jpg|N/NewPrice|N/UsedPrice
+9780132490535|Electromagnetic Wave Propagation, Radiation, and Scattering|Facsimile|Akira Ishimaru|13200|Prentice Hall|1990-12-11|http://ecx.images-amazon.com/images/I/41%2Be-eXR2bL.jpg|N/NewPrice|N/UsedPrice
+9780471387992|Scattering of Electromagnetic Waves: Theories and Applications|1|Leung Tsang|16000|Wiley-Interscience|2000-07-17|http://ecx.images-amazon.com/images/I/41mtW0SWv%2BL.jpg|N/NewPrice|N/UsedPrice
+9780471388005|Scattering of Electromagnetic Waves, Numerical Simulations|1|Leung Tsang|16000|Wiley-Interscience|2001-05-18|http://ecx.images-amazon.com/images/I/41UkAQNAD4L.jpg|160.00|N/UsedPrice
+9780062731029|Cartoon Guide to Statistics|1|Larry Gonick|1799|Collins Reference|1994-02-25|http://ecx.images-amazon.com/images/I/51rVqsI0-8L.jpg|N/NewPrice|N/UsedPrice
+9780131427068|John E. Freund's Mathematical Statistics with Applications (7th Edition)|7|Irwin Miller|15520|Prentice Hall|2003-10-24|http://ecx.images-amazon.com/images/I/4135W32KVNL.jpg|N/NewPrice|N/UsedPrice
+9780534399429|Mathematical Statistics and Data Analysis (with CD Data Sets) (Duxbury Advanced)|3|John A. Rice|22495|Duxbury Press|2006-04-28|http://ecx.images-amazon.com/images/I/41DnfXYw2SL.jpg|N/NewPrice|N/UsedPrice
+9780674175440|A Course in Econometrics|N/Edition|Arthur S. Goldberger|7550|Harvard University Press|1991-04-15|http://ecx.images-amazon.com/images/I/41KYYJDH21L.jpg|N/NewPrice|N/UsedPrice
+9780691120355|Mostly Harmless Econometrics: An Empiricist's Companion|1|Joshua D. Angrist|3500|Princeton University Press|2008-12-15|http://ecx.images-amazon.com/images/I/41mujwhj8oL.jpg|N/NewPrice|N/UsedPrice
+9780205594276|Teaching Strategies for Ethnic Studies (8th Edition)|8|James A. Banks|11867|Allyn & Bacon|2008-02-23|http://ecx.images-amazon.com/images/I/51vim8fjpiL.jpg|N/NewPrice|83.25
+9780807749913|Teaching What Really Happened: How to Avoid the Tyranny of Textbooks and Get Students Excited About Doing History (Multicultural Education Series)|N/Edition|James W. Loewen|2195|Teachers College Press|2009-10-01|http://ecx.images-amazon.com/images/I/61s2W-reC0L.jpg|N/NewPrice|N/UsedPrice
+9780470283547|Qualitative Research: A Guide to Design and Implementation (JOSSEY-BASS HIGHER & ADULT EDUCATION SERIES)|3|Sharan B. Merriam|4700|Jossey-Bass|2009-04-06|http://ecx.images-amazon.com/images/I/411EDh1bd5L.jpg|N/NewPrice|N/UsedPrice
+9780767901260|A Hope in the Unseen: An American Odyssey from the Inner City to the Ivy League|First Edition|Ron Suskind|1599|Broadway|1999-05-04|http://ecx.images-amazon.com/images/I/41j9AGenkgL.jpg|N/NewPrice|N/UsedPrice
+9780452278301|Magic Trees of the Mind : How to Nurture Your Child's Intelligence, Creativity, and Healthy Emotions from Birth Through Adolescence|N/Edition|Marian Diamond|1600|Plume|1999-01-01|http://ecx.images-amazon.com/images/I/41LwykVRNDL.jpg|N/NewPrice|N/UsedPrice
+9780553378252|What's Going on in There? : How the Brain and Mind Develop in the First Five Years of Life|1|Lise Eliot|2000|Bantam|2000-10-03|http://ecx.images-amazon.com/images/I/51YC-zoi8FL.jpg|N/NewPrice|N/UsedPrice
+9780756654412|The Human Brain Book|Har/Dvdr|Rita Carter|4000|DK ADULT|2009-08-31|http://ecx.images-amazon.com/images/I/51Y-OI7gHYL.jpg|N/NewPrice|N/UsedPrice
+9781594860683|Einstein Never Used Flashcards: How Our Children Really Learn--and Why They Need to Play More and Memorize Less|N/Edition|Roberta Michnick Golinkoff|1599|Rodale Books|2004-08-25|http://ecx.images-amazon.com/images/I/41CpiJVDkbL.jpg|N/NewPrice|N/UsedPrice
+9780495596523|Understanding Statistics in the Behavioral Sciences|9|Robert R. Pagano|20395|Wadsworth Publishing|2008-12-31|http://ecx.images-amazon.com/images/I/51rZlNDBTLL.jpg|N/NewPrice|137.25
+9780309065368|How People Learn: Bridging Research and Practice|1|National Research Council|2100|National Academies Press|2000-06|http://ecx.images-amazon.com/images/I/41TFJ1FJD7L.jpg|N/NewPrice|N/UsedPrice
+9780805853704|Behavioral, Social, and Emotional Assessment of Children and Adolescents|3|Kenneth W. Merrell|10000|Routledge|2007-08-10|http://ecx.images-amazon.com/images/I/41bd6SU-n%2BL.jpg|N/NewPrice|N/UsedPrice
+9781606239605|Academic Skills Problems, Fourth Edition: Direct Assessment and Intervention (Guilford School Practitioner)|Fourth Edition|Edward S. Shapiro Phd|5500|The Guilford Press|2010-11-17|http://ecx.images-amazon.com/images/I/51QIR8N8E-L.jpg|N/NewPrice|N/UsedPrice
+9781609180218|Academic Skills Problems Fourth Edition Workbook|Fourth Edition, New edition|Edward S. Shapiro Phd|3500|The Guilford Press|2010-11-15|http://ecx.images-amazon.com/images/I/51sjLUcx%2BdL.jpg|N/NewPrice|N/UsedPrice
+9780132335546|Classroom Assessment: Supporting Teaching and Learning in Real Classrooms (2nd Edition)|2|Catherine Taylor|9300|Prentice Hall|2007-07-19|http://ecx.images-amazon.com/images/I/512iIb-GfFL.jpg|N/NewPrice|N/UsedPrice
+9780393933611|"They Say / I Say": The Moves That Matter in Academic Writing (Second Edition)|Second Edition|Gerald Graff|N/Price|W. W. Norton & Company|2009-12-22|http://ecx.images-amazon.com/images/I/512KOuvRVRL.jpg|21.50|16.15
+9780312664848|The Everyday Writer with 2009 MLA and 2010 APA Updates|Fourth Edition|Andrea A. Lunsford|N/Price|Bedford/St. Martin's|2010-06-22|http://ecx.images-amazon.com/images/I/41KlL4LFvRL.jpg|63.75|47.85
+9780312666781|2 P/s BriefEd, Acts Of Inquiry W/ Getting Th|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|34.25|N/UsedPrice
+9780312666774|2 P/s CompleteEd, Acts Of Inquiry W/ Getting|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|68.50|N/UsedPrice
+9780198157861|On the Aesthetic Education of Man in a Series of Letters (English and German Edition)|N/Edition|J. C. F. von Schiller|6000|Oxford University Press, USA|1983-04-07|http://ecx.images-amazon.com/images/I/418YQR9M1DL.jpg|N/NewPrice|N/UsedPrice
+9780199537082|On the Genealogy of Morals: A Polemic. By way of clarification and supplement to my last book Beyond Good and Evil (Oxford World's Classics)|N/Edition|Friedrich Nietzsche|1195|Oxford University Press, USA|2009-01-15|http://ecx.images-amazon.com/images/I/51IROXKe%2BKL.jpg|N/NewPrice|N/UsedPrice
+9780802143006|Black Skin, White Masks|Revised|Frantz Fanon|1400|Grove Press|2008-09-10|http://ecx.images-amazon.com/images/I/31E-MnT%2B51L.jpg|N/NewPrice|10.50
+9780805202410|Illuminations: Essays and Reflections|First Edition|Walter Benjamin|1600|Schocken|1969-01-13|http://ecx.images-amazon.com/images/I/419oAE9ZXrL.jpg|N/NewPrice|N/UsedPrice
+9780872202184|Selected Writings|N/Edition|Karl Marx|1695|Hackett Pub Co|1994-03-01|http://ecx.images-amazon.com/images/I/418p7F1CixL.jpg|N/NewPrice|12.75
+9780141439471|Frankenstein (Penguin Classics)|N/Edition|Mary Shelley|800|Penguin Classics|2003-05|http://ecx.images-amazon.com/images/I/41iPkpF4QdL.jpg|N/NewPrice|6.00
+9780393931389|As I Lay Dying (Norton Critical Editions)|N/Edition|William Faulkner|N/Price|W. W. Norton & Company|2009-12-04|http://ecx.images-amazon.com/images/I/41iHjLYtBFL.jpg|N/NewPrice|N/UsedPrice
+9780415280068|Critical Practice (New Accents)|2|Catherine Belsey|3095|Routledge|2002-06-30|http://ecx.images-amazon.com/images/I/51MBmGGyiFL.jpg|N/NewPrice|N/UsedPrice
+9780446603775|Dawn (Xenogenesis, Bk. 1)|N/Edition|Octavia E. Butler|1799|Aspect|1997-04-01|http://ecx.images-amazon.com/images/I/51aLX00bjJL.jpg|17.99|N/UsedPrice
+9781844670864|Imagined Communities: Reflections on the Origin and Spread of Nationalism (New Edition)|New Edition|Benedict Anderson|2195|Verso|2006-11-17|http://ecx.images-amazon.com/images/I/512yc4G6KyL.jpg|21.95|16.50
+9780140174922|The Art of Fiction: Illustrated from Classic and Modern Texts|N/Edition|David Lodge|1500|Penguin (Non-Classics)|1994-07-01|http://ecx.images-amazon.com/images/I/51vsa4tIELL.jpg|N/NewPrice|N/UsedPrice
+9780156628709|Mrs. Dalloway|1st Harvest Edition|Virginia Woolf|1300|Mariner Books|1990-09-24|http://ecx.images-amazon.com/images/I/51bRU2Gs9%2BL.jpg|N/NewPrice|9.75
+9780199203475|Adam Bede (Oxford World's Classics)|N/Edition|George Eliot|1395|Oxford University Press, USA|2008-06-16|http://ecx.images-amazon.com/images/I/51ofEzE83DL.jpg|N/NewPrice|N/UsedPrice
+9780199535651|Madame Bovary: Provincial Manners (Oxford World's Classics)|N/Edition|Gustave Flaubert|1095|Oxford University Press, USA|2008-05-15|http://ecx.images-amazon.com/images/I/51DBnC1hhHL.jpg|N/NewPrice|N/UsedPrice
+9780316291163|The French Lieutenant's Woman|1st Back Bay pbk. ed|John Fowles|1599|Back Bay Books|1998-09-01|http://ecx.images-amazon.com/images/I/51vy0%2BRlRBL.jpg|N/NewPrice|N/UsedPrice
+9780451529596|Pere Goriot (Signet Classics)|N/Edition|Honore de Balzac|695|Signet Classics|2004-12-07|http://ecx.images-amazon.com/images/I/41JYPF5ZPFL.jpg|N/NewPrice|N/UsedPrice
+9780679732242|The Sound and the Fury: The Corrected Text|N/Edition|William Faulkner|1300|Vintage|1990-10|http://ecx.images-amazon.com/images/I/51dfDvqrnRL.jpg|N/NewPrice|9.75
+9780195288773|The New Oxford Annotated Bible, Augmented Third Edition, New Revised Standard Version|College|Michael D. Coogan|3499|Oxford University Press, USA|2007-02-02|http://ecx.images-amazon.com/images/I/51R60mqO%2BgL.jpg|N/NewPrice|26.25
+9780140449105|Utopia (new& Updtd) (tr Turner )|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|N/NewPrice|N/UsedPrice
+9780192892867|This Stage-Play World: Texts and Contexts, 1580-1625 (OPUS)|2|Julia Briggs|5500|Oxford University Press, USA|1997-12-04|http://ecx.images-amazon.com/images/I/51rHsu%2BS0-L.jpg|N/NewPrice|N/UsedPrice
+9780199535699|The Prince (Oxford World's Classics)|N/Edition|Niccolò Machiavelli|695|Oxford University Press, USA|2008-05-15|http://ecx.images-amazon.com/images/I/51iSolW62jL.jpg|6.95|N/UsedPrice
+9780393927184|The Norton Anthology of English Literature, Volume B: The Sixteenth Century/The Early Seventeenth Century|8th|Stephen Greenblatt|N/Price|W. W. Norton & Company|2005-12-22|http://ecx.images-amazon.com/images/I/514YNRQNVVL.jpg|N/NewPrice|31.50
+9781408114216|The Spanish Tragedy (New Mermaids)|Revised edition|Thomas Kyd|1495|Methuen Drama|2009-08-25|http://ecx.images-amazon.com/images/I/51Y1P1wWbpL.jpg|N/NewPrice|N/UsedPrice
+9780205606283|Complete Works of Shakespeare, The (6th Edition)|6|David Bevington|10120|Longman|2008-07-27|http://ecx.images-amazon.com/images/I/61jUgR6ey0L.jpg|N/NewPrice|72.60
+9780192834874|Frankenstein: Or, The Modern Prometheus (Oxford World's Classics)|N/Edition|Mary Wollstonecraft Shelley|795|Oxford University Press, USA|1998-08-13|http://ecx.images-amazon.com/images/I/416Ow-JS5BL.jpg|N/NewPrice|6.00
+9780312191269|Frankenstein (Case Studies in Contemporary Criticism)|2nd|Mary Shelley|N/Price|Bedford/St. Martin's|2000-04-14|http://ecx.images-amazon.com/images/I/51ZEZ69C9KL.jpg|N/NewPrice|9.75
+9780393925326|The Norton Anthology of English Literature, Volume 2: The Romantic Period through the Twentieth Century (Norton Anthology of English Literature)|8th|Stephen Greenblatt|N/Price|W. W. Norton & Company|2006-01-04|http://ecx.images-amazon.com/images/I/51H3HXVGTJL.jpg|N/NewPrice|N/UsedPrice
+9780199536276|Hard Times (Oxford World's Classics)|N/Edition|Charles Dickens|795|Oxford University Press, USA|2008-07-15|http://ecx.images-amazon.com/images/I/41--Spf5flL.jpg|N/NewPrice|N/UsedPrice
+9780393964585|Frankenstein (Norton Critical Editions)|N/Edition|Mary Wollstonecraft Shelley|N/Price|W. W. Norton & Company|1995-12-17|http://ecx.images-amazon.com/images/I/41MrlR6oVoL.jpg|15.00|11.25
+9780393975420|Jane Eyre (Norton Critical Editions)|Third Edition|Charlotte Brontë|N/Price|W. W. Norton & Company|2000-10|http://ecx.images-amazon.com/images/I/41KnJro%2B05L.jpg|N/NewPrice|11.25
+9780393978896|Wuthering Heights (Norton Critical Editions)|4th|Emily Brontë|N/Price|W. W. Norton & Company|2002-11|http://ecx.images-amazon.com/images/I/41VSFSAYV4L.jpg|15.00|11.25
+9780140183009|The Death of the Heart (Penguin Classics)|N/Edition|Elizabeth Bowen|1395|Penguin Classics|1991-07-24|http://ecx.images-amazon.com/images/I/513E6MKG0ML.jpg|N/NewPrice|N/UsedPrice
+9780141182131|Howards End (Penguin Twentieth-Century Classics)|N/Edition|E. M. Forster|1100|Penguin Classics|2000-04-01|http://ecx.images-amazon.com/images/I/41vd93yvSkL.jpg|N/NewPrice|N/UsedPrice
+9780141441443|Sons and Lovers (Penguin Classics)|N/Edition|D. H. Lawrence|1300|Penguin Classics|2006-11-28|http://ecx.images-amazon.com/images/I/51oDa3SvZFL.jpg|N/NewPrice|N/UsedPrice
+9780393925333|Katherine Mansfield's Selected Stories (Norton Critical Edition)|N/Edition|Katherine Mansfield|N/Price|W. W. Norton & Company|2005-10-17|http://ecx.images-amazon.com/images/I/51AM79ARX3L.jpg|16.25|12.20
+9780486295688|World War One British Poets: Brooke, Owen, Sassoon, Rosenberg and Others (Unabridged)|N/Edition|Candace Ward|250|Dover Publications|1997-04-22|http://ecx.images-amazon.com/images/I/51H6HTFP47L.jpg|N/NewPrice|N/UsedPrice
+9780060726485|Great Short Works (p-3032 )|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|N/NewPrice|N/UsedPrice
+9780060727864|Great Short Works Of Mark Twain|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|N/NewPrice|10.50
+9780393313635|American Women Regionalists: A Norton Anthology|N/Edition|Judith Fetterley|N/Price|W. W. Norton & Company|1995-09-17|http://ecx.images-amazon.com/images/I/41KMCShqxqL.jpg|N/NewPrice|N/UsedPrice
+9780451524485|The Awakening and Selected Stories of Kate Chopin (Signet Classic)|N/Edition|Kate Chopin|495|Signet Classics|1976-04-01|http://ecx.images-amazon.com/images/I/51YuVfyaMML.jpg|N/NewPrice|3.75
+9780451524966|The Rise of Silas Lapham (Signet classics)|N/Edition|William Dean Howells|795|Signet Classics|1983-11|http://ecx.images-amazon.com/images/I/51PET3W2S4L.jpg|N/NewPrice|N/UsedPrice
+9780451528919|McTeague: A Story of San Francisco (Signet Classics)|N/Edition|Frank Norris|795|Signet Classics|2003-08-05|http://ecx.images-amazon.com/images/I/51DVPR0A8ZL.jpg|N/NewPrice|6.00
+9780451529664|The American (Signet Classics)|N/Edition|Henry James|795|Signet Classics|2005-01-04|http://ecx.images-amazon.com/images/I/51W225H15BL.jpg|N/NewPrice|N/UsedPrice
+9780472061563|The Conjure Woman (Ann Arbor Paperbacks)|N/Edition|Charles W. Chesnutt|1495|University of Michigan Press|1969-08-15|http://ecx.images-amazon.com/images/I/31qHQtLPIvL.jpg|N/NewPrice|N/UsedPrice
+9780205032280|How English Works: A Linguistic Introduction (3rd Edition)|3|Anne Curzan|10000|Prentice Hall|2011-02-05|http://ecx.images-amazon.com/images/I/51X-xSLkmfL.jpg|N/NewPrice|N/UsedPrice
+9781932361735|The Best Travel Writing 2010: True Stories from Around the World|N/Edition|James O'Reilly|1995|Travelers' Tales|2010-09-01|http://ecx.images-amazon.com/images/I/514400NSsqL.jpg|N/NewPrice|N/UsedPrice
+9780394743127|Ulysses (Gabler Edition)|1st|James Joyce|2100|Vintage|1986-05-12|http://ecx.images-amazon.com/images/I/41BS9YHQF1L.jpg|N/NewPrice|N/UsedPrice
+9780486268705|Dubliners (Dover Thrift Editions)|Unabridged|James Joyce|200|Dover Publications|1991-05-01|http://ecx.images-amazon.com/images/I/51B4E6K6Z6L.jpg|2.00|N/UsedPrice
+9780486280509|A Portrait of the Artist as a Young Man (Dover Thrift Editions)|N/Edition|James Joyce|350|Dover Publications|1994-05-20|http://ecx.images-amazon.com/images/I/510DMKKTfVL.jpg|N/NewPrice|N/UsedPrice
+9780143037743|On Beauty|First Thus|Zadie Smith|1500|Penguin Books|2006-08-29|http://ecx.images-amazon.com/images/I/51FBQ6XNMKL.jpg|N/NewPrice|N/UsedPrice
+9780375703867|White Teeth: A Novel|N/Edition|Zadie Smith|1595|Vintage|2001-06-12|http://ecx.images-amazon.com/images/I/41wIEttzK9L.jpg|N/NewPrice|N/UsedPrice
+9780375705502|England, England|N/Edition|Julian Barnes|1500|Vintage|2000-04-11|http://ecx.images-amazon.com/images/I/517WI0ZoJFL.jpg|N/NewPrice|N/UsedPrice
+9780375707346|Undue Influence|Reprint|Anita Brookner|1395|Vintage|2001-01-09|http://ecx.images-amazon.com/images/I/51KBGRY6SWL.jpg|N/NewPrice|N/UsedPrice
+9780385494144|Enduring Love: A Novel|N/Edition|Ian McEwan|1500|Anchor|1998-12-29|http://ecx.images-amazon.com/images/I/41EIyGs9ykL.jpg|N/NewPrice|N/UsedPrice
+9780385721790|Atonement: A Novel|N/Edition|Ian McEwan|1500|Anchor|2003-02-25|http://ecx.images-amazon.com/images/I/51fS5vrBjZL.jpg|N/NewPrice|N/UsedPrice
+9780679731368|Flaubert's Parrot|N/Edition|Julian Barnes|1500|Vintage|1990-11-27|http://ecx.images-amazon.com/images/I/51YBEA41HCL.jpg|N/NewPrice|N/UsedPrice
+9780679759324|Hotel Du Lac|1st Vintage Contemporaries Ed|Anita Brookner|1395|Vintage|1995-10-03|http://ecx.images-amazon.com/images/I/41AQT7BFWDL.jpg|N/NewPrice|N/UsedPrice
+9780393310900|Postmodern American Poetry: A Norton Anthology|First Edition|Paul Hoover|2995|W. W. Norton & Company|1994-05-17|http://ecx.images-amazon.com/images/I/41ULac4JAEL.jpg|N/NewPrice|N/UsedPrice
+9780192801692|The Secret Agent (Oxford World's Classics)|N/Edition|Joseph Conrad|1095|Oxford University Press, USA|2004-04-29|http://ecx.images-amazon.com/images/I/413gh18mXpL.jpg|N/NewPrice|N/UsedPrice
+9780140424515|Complete Poems (ed: Murphy)(w/new Intro)|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|18.00|N/UsedPrice
+9780143039280|The Portable Hawthorne (Penguin Classics)|N/Edition|Nathaniel Hawthorne|1800|Penguin Classics|2005-11-29|http://ecx.images-amazon.com/images/I/411FQq7EKBL.jpg|18.00|N/UsedPrice
+9780316184137|The Complete Poems of Emily Dickinson|N/Edition|Emily Dickinson|2199|Back Bay Books|1976-01-30|http://ecx.images-amazon.com/images/I/5193lOoUovL.jpg|N/NewPrice|16.50
+9780935312393|Life in the Iron Mills and Other Stories: Second Edition|Rev Exp Su|Rebecca Harding Davis|1395|The Feminist Press at CUNY|1993-01-01|http://ecx.images-amazon.com/images/I/51A%2BEpcZDUL.jpg|13.95|N/UsedPrice
+9780141180656|The Return of the Soldier (Penguin Twentieth-Century Classics)|N/Edition|Rebecca West|1200|Penguin Classics|1998-06-01|http://ecx.images-amazon.com/images/I/41wg0sP4yML.jpg|N/NewPrice|N/UsedPrice
+9780374525071|The Lost Lunar Baedeker: Poems of Mina Loy|N/Edition|Mina Loy|2200|Farrar, Straus and Giroux|1997-04-08|http://ecx.images-amazon.com/images/I/51mFJvh-EgL.jpg|N/NewPrice|N/UsedPrice
+9780375759345|The Waste Land and Other Writings (Modern Library Classics)|N/Edition|T.S. Eliot|795|Modern Library|2002-01-08|http://ecx.images-amazon.com/images/I/51Pc94nwM%2BL.jpg|N/NewPrice|N/UsedPrice
+9780393966343|The Good Soldier (Norton Critical Editions)|Subsequent|Ford Madox Ford|N/Price|W. W. Norton & Company|1995-06-17|http://ecx.images-amazon.com/images/I/41lTeALYyEL.jpg|N/NewPrice|N/UsedPrice
+9780811201629|Selected Poems of Ezra Pound (New Directions Paperbook)|N/Edition|Ezra Pound|995|New Directions|1957-01-17|http://ecx.images-amazon.com/images/I/418Ij%2B57wmL.jpg|N/NewPrice|N/UsedPrice
+9781601630230|Financial Statements: A Step-by-Step Guide to Understanding and Creating Financial Reports|Rev Exp|Thomas R. Ittelson|1799|Career Pr Inc|2009-08-15|http://ecx.images-amazon.com/images/I/51qhWqPSpzL.jpg|17.99|N/UsedPrice
+9781933895147|Successful Business Plan: Secrets & Strategies (Successful Business Plan Secrets and Strategies)|5|Rhonda Abrams|4495|Planning Shop|2010-09-16|http://ecx.images-amazon.com/images/I/51jB-oL9w4L.jpg|N/NewPrice|N/UsedPrice
+9780470279847|Essential Environmental Science|1|edward a keller|N/Price|John Wiley & Sons, Inc,2008|2008|N/Image|N/NewPrice|64.15
+9780135014332|Elements of the Nature and Properties of Soils (3rd Edition)|3|Nyle C. Brady|11620|Prentice Hall|2009-06-27|http://ecx.images-amazon.com/images/I/613ouUVRKsL.jpg|N/NewPrice|N/UsedPrice
+9781577666523|Forest Health and Protection|2|Robert L. Edmonds|7195|Waveland Pr Inc|2010-05-01|http://ecx.images-amazon.com/images/I/51SzaCwtATL.jpg|N/NewPrice|N/UsedPrice
+9780471109419|The Practice of Silviculture: Applied Forest Ecology, 9th Edition|9|David M. Smith|N/Price|Wiley|1996-10-18|http://ecx.images-amazon.com/images/I/51-2NNN6dJL.jpg|163.50|N/UsedPrice
+9780131474642|Geology (4th Edition)|4|Stanley Chernicoff|14420|Prentice Hall|2006-01-14|http://ecx.images-amazon.com/images/I/51ZVE1ZRFYL.jpg|N/NewPrice|102.20
+9780387304564|Sun, Earth and Sky|2nd|Kenneth R. Lang|6995|Springer|2006-09-06|http://ecx.images-amazon.com/images/I/519gmCnNBhL.jpg|69.95|52.50
+9780582301566|Global Geomorphology|1|Michael A. Summerfield|14360|Prentice Hall|1991|http://ecx.images-amazon.com/images/I/51AGPAZR5SL.jpg|N/NewPrice|101.85
+9780340691519|Quaternary Environments|2|Martin Williams|6050|A Hodder Arnold Publication|1998-10-29|http://ecx.images-amazon.com/images/I/51EC2QHJJAL.jpg|N/NewPrice|45.40
+9781405107778|Global Tectonics|3|Philip Kearey|9995|Wiley-Blackwell|2009-01-20|http://ecx.images-amazon.com/images/I/61GQJ3GmPUL.jpg|N/NewPrice|N/UsedPrice
+9780198582199|Great Geological Controversies|2|A. Hallam|9500|Oxford University Press, USA|1989-03-08|http://ecx.images-amazon.com/images/I/41G1T5PY4BL.jpg|N/NewPrice|N/UsedPrice
+9781420085389|Continuum Mechanics for Engineers, Third Edition (Computational Mechanics and Applied Analysis)|3|G. Thomas Mase|10295|CRC Press|2009-07-28|http://ecx.images-amazon.com/images/I/41Cy231kDPL.jpg|N/NewPrice|N/UsedPrice
+9781860940798|Basic Space Plasma Physics|N/Edition|Wolfgang Baumjohann|6100|World Scientific Publishing Company|1996-09|http://ecx.images-amazon.com/images/I/41FB50X68TL.jpg|N/NewPrice|N/UsedPrice
+9780123694614|The Physics of Glaciers, Fourth Edition|4|Kurt M. Cuffey|9995|Academic Press|2010-05-17|http://ecx.images-amazon.com/images/I/51PTJv0bglL.jpg|N/NewPrice|N/UsedPrice
+9780898868098|The Avalanche Handbook|3rd|David McClung|2195|Mountaineers Books|2006-10-31|http://ecx.images-amazon.com/images/I/41AtO6dfC5L.jpg|21.95|N/UsedPrice
+9780946417131|Field Guide to Snow Crystals|N/Edition|Edward R. Lachapelle|1895|Intl Glaciological Society|2001-07|N/Image|N/NewPrice|N/UsedPrice
+9780132403429|An Introduction to Igneous and Metamorphic Petrology|N/Edition|John D. Winter|13420|Prentice Hall|2001-02-19|http://ecx.images-amazon.com/images/I/51HMD03A75L.jpg|N/NewPrice|N/UsedPrice
+9780521880060|Principles of Igneous and Metamorphic Petrology|2nd|Anthony Philpotts|9500|Cambridge University Press|2009-02-02|http://ecx.images-amazon.com/images/I/61lPqBhGckL.jpg|N/NewPrice|N/UsedPrice
+9780865425415|Igneous Petrology|1|Myron G. Best|12495|Wiley-Blackwell|2000-12-27|http://ecx.images-amazon.com/images/I/517VVdFDpHL.jpg|N/NewPrice|N/UsedPrice
+9789608464087|Communicate in Greek (Greek Edition)|5|Kleanthes Arvanitakes|3975|Deltos Pubns|2000-01|http://ecx.images-amazon.com/images/I/31jAVWc79zL.jpg|49.95|N/UsedPrice
+9789608464117|Communicate in Greek: Exercise 1A (Greek Edition)|3|Kleanthes Arvanitakes|1425|Deltos Pubns|2000-06|http://ecx.images-amazon.com/images/I/41Y-o0W63%2BL.jpg|16.25|N/UsedPrice
+9789608464124|Communicate in Greek: Book 1B (Greek Edition)|3rd edition|Kleanthes Arvanitakes|1425|Deltos Publishing|2002-06|http://ecx.images-amazon.com/images/I/21VOooGht-L.jpg|16.25|N/UsedPrice
+9780143112365|Murder in Amsterdam: Liberal Europe, Islam, and the Limits of Tolerence|N/Edition|Ian Buruma|1600|Penguin (Non-Classics)|2007-08-28|http://ecx.images-amazon.com/images/I/51BpRMhWTfL.jpg|N/NewPrice|N/UsedPrice
+9780230573796|European Politics: A Comparative Introduction, 2nd edition (Comparative Government and Politics)|2nd|Tim Bale|3900|Palgrave Macmillan|2008-06-15|http://ecx.images-amazon.com/images/I/51i8s-pMXKL.jpg|N/NewPrice|N/UsedPrice
+9780521671811|The European Court and Civil Society: Litigation, Mobilization and Governance (Themes in European Governance)|N/Edition|Rachel A. Cichowski|4400|Cambridge University Press|2007-04-09|http://ecx.images-amazon.com/images/I/41uHV91fKOL.jpg|N/NewPrice|N/UsedPrice
+9780801486593|The Nordic States and European Unity (Cornell Studies in Political Economy)|N/Edition|Christine Ingebritsen|2295|Cornell University Press|2000-04-27|http://ecx.images-amazon.com/images/I/51JDW682D9L.jpg|N/NewPrice|17.25
+9781588262318|The European Union: Readings on the Theory and Practice of European Integration|3|Brent F. and Alexander Stubb Nelsen|N/Price|Lynne Rienner Publishers|2003|http://ecx.images-amazon.com/images/I/51X9JXCHZDL.jpg|24.50|N/UsedPrice
+9781845455170|Gender Politics In The Expanding European Union: Mobilization, Inclusion, Exclusion|N/Edition|Silke Roth|2995|Berghahn Books|2008-09-15|http://ecx.images-amazon.com/images/I/51ORRFJR9hL.jpg|N/NewPrice|N/UsedPrice
+9780558785871|3 P/sRond Point, Text, Myfrenchlab Access Co|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|116.75|N/UsedPrice
+9780558312725|5 P/s Reseau (custom) W/ Text, Wkbk, Myfrench|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|157.00|N/UsedPrice
+9781585101535|L'Enfant Noir|Student|Camara Laye|1495|Focus Pub R Pullins & Co|2005-07-26|http://ecx.images-amazon.com/images/I/21AFEZ7QBXL.jpg|14.95|11.25
+9780558307431|5 P/sContrastes (custom) W/ Text, Wkbk, Myfr|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|196.25|N/UsedPrice
+9781428231238|La France contemporaine|4|William Edmiston|11295|Heinle|2009-05-26|http://ecx.images-amazon.com/images/I/51dVSqvAa1L.jpg|101.25|75.95
+9782070387731|Tous Les Matins Du Monde (French Edition)|N/Edition|Pascal Quignard|N/Price|Gallimard|2003-01|http://ecx.images-amazon.com/images/I/516NGJ5ND3L.jpg|14.00|10.50
+9780131579064|Communicative Language Teaching in Action: Putting Principles to Work|1|Klaus Brandl|6933|Prentice Hall|2007-11-02|http://ecx.images-amazon.com/images/I/513kVh0zxYL.jpg|68.25|51.20
+9783150000106|MINNA VON BARNHELM|N/Edition|G. LESSING|N/Price|PHILIPP RECLAM JUN. VERLAG GMBH|1991|http://ecx.images-amazon.com/images/I/41fa4md23bL.jpg|N/NewPrice|N/UsedPrice
+9783150023549|Aus Dem Leben Eines Taugenichts|N/Edition|Joseph Eichendorff|N/Price|Philipp Reclam jun. Verlag GmbH|N/Pubdate|http://ecx.images-amazon.com/images/I/41ge3zgSaPL.jpg|N/NewPrice|N/UsedPrice
+9783150099001|Die Verwandlung|N/Edition|Franz Kafka|N/Price|W. W. Norton & Company|1960|http://ecx.images-amazon.com/images/I/5167%2BqdJb9L.jpg|N/NewPrice|N/UsedPrice
+9781606232620|A World of Difference, Second Edition: Encountering and Contesting Development|Second Edition|PhD Eric Sheppard|6500|The Guilford Press|2009-08-08|http://ecx.images-amazon.com/images/I/51haGtmIrTL.jpg|N/NewPrice|N/UsedPrice
+9780471314257|Exploring Geographical Information Systems, 2nd Edition|2|Nicholas Chrisman|N/Price|Wiley|2001-05-23|http://ecx.images-amazon.com/images/I/61NxLrj1oyL.jpg|N/NewPrice|N/UsedPrice
+9781559639156|An Introduction to Coastal Zone Management|REV|Timothy Beatley|4000|Island Press|2002-04-01|http://ecx.images-amazon.com/images/I/51V4W7Y9XBL.jpg|N/NewPrice|26.25
+9788190411004|An English-Hindi Dictionary (Revised and Enlarged Edition of English-Hindi Dictionary)|N/Edition|Fr. Camil Bulcke|3995|S. Chand|2007-07-02|N/Image|N/NewPrice|N/UsedPrice
+9780077299507|2 P/s KontakteW/ Quia (6e 09)|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|187.25|N/UsedPrice
+9780934034388|English Grammar for Students of German: The Study Guide for Those Learning German (English Grammar Series)|5|Cecile Zorach|1995|Olivia & Hill Pr|2009-06|http://ecx.images-amazon.com/images/I/41epMNZtYDL.jpg|19.95|15.00
+9780073386164|Film Art: An Introduction|9|David Bordwell|N/Price|McGraw-Hill Humanities/Social Sciences/Languages|2009-11-25|http://ecx.images-amazon.com/images/I/41eWYbE51gL.jpg|95.50|71.65
+9780851703701|M (BFI Film Classics)|N/Edition|Anton Kaes|1495|British Film Institute|2000-02-26|http://ecx.images-amazon.com/images/I/41JZbXnHiSL.jpg|N/NewPrice|N/UsedPrice
+9780495902850|Stationen|2|Prisca Augustyn|13495|Heinle|2011-01-01|http://ecx.images-amazon.com/images/I/51QTTsh89qL.jpg|N/NewPrice|N/UsedPrice
+9783257230451|Der Besuch der alten Dame (German Edition)|N/Edition|Friedrich Duerrenmatt|2195|Diogenes|2003-08|http://ecx.images-amazon.com/images/I/51wD8ClNJWL.jpg|19.25|N/UsedPrice
+9783522177832|Momo. Schulausgabe|N/Edition|N/Author|N/Price|Thienemann Verlag GmbH|N/Pubdate|http://ecx.images-amazon.com/images/I/212D0H2BC8L.jpg|21.50|16.15
+9781413017731|An Introduction to Language|8|Victoria Fromkin|14195|Wadsworth Publishing|2006-05-31|http://ecx.images-amazon.com/images/I/51sUAEEoxOL.jpg|N/NewPrice|88.50
+9780465024414|The Assassin's Accomplice, movie tie-in: Mary Surratt and the Plot to Kill Abraham Lincoln|Media tie-in|Kate Clifford Larson|1699|Basic Books|2011-02-22|http://ecx.images-amazon.com/images/I/51RvGy9yx-L.jpg|N/NewPrice|N/UsedPrice
+9780679733768|A Midwife's Tale: The Life of Martha Ballard, Based on Her Diary, 1785-1812|1st|Laurel Thatcher Ulrich|1695|Vintage|1991-06-04|http://ecx.images-amazon.com/images/I/71TBFG19GSL.gif|N/NewPrice|12.75
+9780679740759|The Murder of Helen Jewett|N/Edition|Patricia Cline Cohen|1700|Vintage|1999-06-29|http://ecx.images-amazon.com/images/I/51GMQM7K5NL.jpg|N/NewPrice|12.75
+9780807855348|Closer to Freedom: Enslaved Women and Everyday Resistance in the Plantation South (Gender and American Culture)|N/Edition|Stephanie M. H. Camp|1995|The University of North Carolina Press|2004-09-13|http://ecx.images-amazon.com/images/I/51WW0V1VKTL.jpg|19.95|N/UsedPrice
+9780141180410|Kristin Lavransdatter I: The Wreath (Penguin Classics)|N/Edition|Sigrid Undset|1500|Penguin Classics|1997-12-01|http://ecx.images-amazon.com/images/I/519wvKmwpJL.jpg|N/NewPrice|N/UsedPrice
+9780143105909|The Saga of Gosta Berling (Penguin Classics)|Original|Selma Lagerlof|1600|Penguin Classics|2009-09-29|http://ecx.images-amazon.com/images/I/41MOD9JdR6L.jpg|N/NewPrice|N/UsedPrice
+9780312152475|Blackwater|N/Edition|Kerstin Ekman|1800|Picador|1996-12-15|http://ecx.images-amazon.com/images/I/519984BCPRL.jpg|N/NewPrice|13.50
+9780679743330|Anecdotes of Destiny and Ehrengard|N/Edition|Isak Dinesen|1600|Vintage|1993-06-01|http://ecx.images-amazon.com/images/I/51NVyX0AQfL.jpg|N/NewPrice|11.25
+9780802141293|Troll: A Love Story|1ST|Johanna Sinisalo|1200|Grove Press|2004-02-19|http://ecx.images-amazon.com/images/I/41CuylRE1zL.jpg|N/NewPrice|N/UsedPrice
+9780802170774|Purge|1 Tra|Sofi Oksanen|1495|Grove Press, Black Cat|2010-04-06|http://ecx.images-amazon.com/images/I/51YmSwEaeQL.jpg|14.95|N/UsedPrice
+9780935312386|Women and Appletrees|N/Edition|Moa Martinson|1695|The Feminist Press at CUNY|1993-01-01|http://ecx.images-amazon.com/images/I/51qUO2VCOrL.jpg|18.95|N/UsedPrice
+9781559703482|Dina's Book|N/Edition|Herbjorg Wassmo|2199|Arcade Publishing|1996-05-17|http://ecx.images-amazon.com/images/I/41XJ6AZFVBL.jpg|N/NewPrice|N/UsedPrice
+9781580051255|Egalia's Daughters: A Satire of the Sexes|3rd|Gerd Brantenberg|1495|Seal Press|2004-12-14|http://ecx.images-amazon.com/images/I/51CGb1x%2BxnL.jpg|N/NewPrice|N/UsedPrice
+9780253212832|The Decolonial Imaginary: Writing Chicanas into History (Theories of Representation and Difference)|N/Edition|Emma Pérez|1895|Indiana University Press|1999-07-01|http://ecx.images-amazon.com/images/I/51ICbMyVO8L.jpg|N/NewPrice|N/UsedPrice
+9780300042283|The Grounding of Modern Feminism|N/Edition|Professor Nancy F. Cott|2500|Yale University Press|1989-09-10|http://ecx.images-amazon.com/images/I/618SH2KH7FL.jpg|N/NewPrice|N/UsedPrice
+9780415912129|Feminist Genealogies, Colonial Legacies, Democratic Futures (Thinking Gender)|1|M. Jacqui Alexander|3895|Routledge|1996-11-22|http://ecx.images-amazon.com/images/I/51QbD7uL2kL.jpg|N/NewPrice|29.25
+9780679771265|Blues Legacies and Black Feminism: Gertrude "Ma" Rainey, Bessie Smith, and Billie Holiday|1st Vintage Books Ed|Angela Y. Davis|1700|Vintage|1999-01-26|http://ecx.images-amazon.com/images/I/41AxozO3vbL.jpg|N/NewPrice|N/UsedPrice
+9780415700825|Modern Hebrew: An Essential Grammar (Essential Grammars)|3|Lewis Glinert|4095|Routledge|2005-05-18|http://ecx.images-amazon.com/images/I/41TUyK8PeuL.jpg|35.95|N/UsedPrice
+9780553592238|The New Bantam-Megiddo Hebrew & English Dictionary, Revised|Rep Blg|Dr. Sivan Reuven|1800|Bantam|2009-12-08|http://ecx.images-amazon.com/images/I/51A%2BbOgw9wL.jpg|18.00|N/UsedPrice
+9788081700750|Lev.1 Ivrit MinHahathala|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|48.00|N/UsedPrice
+9788081712975|Lev.2 IvritMin Hahathala|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|47.00|N/UsedPrice
+9788081713040|Lev.2 CdsT/a Ivrit Min Hahathala|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|48.00|N/UsedPrice
+9789653900035|Multi Dictionary Bilingual Learners Dictionary Hebrew-Hebrew-English English-Hebrew (Multilingual Edition)|N/Edition|Edna Lauden|6295|AD Publications|2006-01-01|http://ecx.images-amazon.com/images/I/51sPoMjk9IL.jpg|56.00|N/UsedPrice
+9780071414128|Teach Yourself Hindi Complete Course Package (Book + 2CDs) (TY: Complete Courses)|1|Rupert Snell|2995|McGraw-Hill|2003-03-27|http://ecx.images-amazon.com/images/I/51z9MG6D0NL.jpg|N/NewPrice|N/UsedPrice
+9780071419840|Teach Yourself Beginner's Hindi Script|1|Rupert Snell|1295|McGraw-Hill|2003-06-06|http://ecx.images-amazon.com/images/I/51BRUozhaOL.jpg|N/NewPrice|N/UsedPrice
+9780195638462|Oxford Hindi English Dictionary|N/Edition|Mcgregor|3500|Oxford University Press|2010-05-01|http://ecx.images-amazon.com/images/I/5127GP2MV0L.jpg|34.75|N/UsedPrice
+9780877253518|Intermediate Hindi Reader|Bilingual|Usha R. Jain; Karine Schomer|4000|Institute of East Asian Studies|1999-04-01|http://ecx.images-amazon.com/images/I/51-QJxht90L.jpg|40.00|N/UsedPrice
+9788120805088|Primer of Modern Standard Hindi|1st|Michael C. Shapiro|4150|Motilal Banarsidass,|2000-01-01|http://ecx.images-amazon.com/images/I/41l8YbWyHhL.jpg|26.50|N/UsedPrice
+9780944613429|Advanced Hindi Grammar|Bilingual|Usha R. Jain|4000|Institute of East Asian Studies|2007-06-01|http://ecx.images-amazon.com/images/I/41CsSeLe-DL.jpg|40.00|N/UsedPrice
+9780140112405|The Selling of the President|N/Edition|Joe McGinniss|1600|Penguin (Non-Classics)|1988-08-02|http://ecx.images-amazon.com/images/I/516VV2FEATL.jpg|N/NewPrice|N/UsedPrice
+9780143034377|American Dream: Three Women, Ten Kids, and a Nation's Drive to End Welfare|N/Edition|Jason DeParle|1700|Penguin (Non-Classics)|2005-08-30|http://ecx.images-amazon.com/images/I/51XJ9JZ0NAL.jpg|17.00|N/UsedPrice
+9780393337662|Invisible Hands: The Businessmen's Crusade Against the New Deal|Reprint|Kim Phillips-Fein|1695|W. W. Norton & Company|2010-01-11|http://ecx.images-amazon.com/images/I/41KOJqJC2-L.jpg|N/NewPrice|N/UsedPrice
+9780394716282|Voices of Protest: Huey Long, Father Coughlin, & the Great Depression|1st Vintage Books ed|Alan Brinkley|1595|Vintage|1983-08-12|http://ecx.images-amazon.com/images/I/51VRW6WAHDL.jpg|N/NewPrice|N/UsedPrice
+9780809016389|Murdering McKinley: The Making of Theodore Roosevelt's America|N/Edition|Eric Rauchway|1500|Hill and Wang|2004-09-18|http://ecx.images-amazon.com/images/I/51VC-SfWFXL.jpg|N/NewPrice|N/UsedPrice
+9780140441239|Conquest OfNew Spain (tr Cohen )|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|N/NewPrice|12.00
+9780292731400|Time, History, and Belief in Aztec and Colonial Mexico|N/Edition|Ross Hassig|2500|University of Texas Press|2001-04|http://ecx.images-amazon.com/images/I/41X1MCB4MKL.jpg|N/NewPrice|N/UsedPrice
+9780486275697|The Codex Borgia: A Full-Color Restoration of the Ancient Mexican Manuscript|N/Edition|Gisele Diaz|2295|Dover Publications|1993-06-22|http://ecx.images-amazon.com/images/I/61lPr8KL13L.jpg|N/NewPrice|N/UsedPrice
+9780521485852|Aztecs: An Interpretation (Canto)|N/Edition|Inga Clendinnen|3100|Cambridge University Press|1995-02-24|http://ecx.images-amazon.com/images/I/4151H745E1L.jpg|N/NewPrice|N/UsedPrice
+9780816518869|History and Mythology of the Aztecs: The Codex Chimalpopoca|N/Edition|John Bierhorst|1995|University of Arizona Press|1998-06-01|http://ecx.images-amazon.com/images/I/41P7B23C7CL.jpg|N/NewPrice|N/UsedPrice
+9780826343376|The Allure of Nezahualcoyotl: Pre-Hispanic History, Religion, and NahuaPoetics|N/Edition|Jongsoo Lee|3495|University of New Mexico Press|2008-05-16|http://ecx.images-amazon.com/images/I/51U%2BVEfm-IL.jpg|N/NewPrice|N/UsedPrice
+9780140277722|Cafe Europa: Life After Communism|N/Edition|Slavenka Drakulic|1500|Penguin (Non-Classics)|1999-02-01|http://ecx.images-amazon.com/images/I/411XK4322ZL.jpg|15.00|N/UsedPrice
+9780802150271|A Dying Colonialism|N/Edition|Frantz Fanon|1495|Grove Press|1994-01-14|http://ecx.images-amazon.com/images/I/51nHgSrvscL.jpg|N/NewPrice|10.50
+9780805094220|Washington Rules: America's Path to Permanent War (American Empire Project)|Reprint|Andrew Bacevich|1500|Metropolitan Books|2011-03-29|http://ecx.images-amazon.com/images/I/41Lru-at8OL.jpg|N/NewPrice|N/UsedPrice
+9781400041688|Liberty's Exiles: American Loyalists in the Revolutionary World|1St Edition|Maya Jasanoff|3000|Knopf|2011-02-15|http://ecx.images-amazon.com/images/I/51O2lDnOJeL.jpg|N/NewPrice|N/UsedPrice
+9780156148504|Burmese Days: A Novel|N/Edition|George Orwell|1400|Mariner Books|1974-03-20|http://ecx.images-amazon.com/images/I/51FNHfCNAUL.jpg|N/NewPrice|N/UsedPrice
+9780156196253|Coming Up for Air (Harvest Book)|N/Edition|George Orwell|1400|Mariner Books|1969-10-22|http://ecx.images-amazon.com/images/I/410fbmjjAiL.jpg|N/NewPrice|N/UsedPrice
+9780156421171|Homage to Catalonia|N/Edition|George Orwell|1400|Mariner Books|1980-10-22|http://ecx.images-amazon.com/images/I/41-EhnniOuL.jpg|N/NewPrice|10.50
+9780156767507|The Road to Wigan Pier|N/Edition|George Orwell|1400|Mariner Books|1972-10-18|http://ecx.images-amazon.com/images/I/51YWIfWGbdL.jpg|N/NewPrice|N/UsedPrice
+9780226509594|Desiring Arabs|Reprint|Joseph A. Massad|2250|University Of Chicago Press|2008-09-15|http://ecx.images-amazon.com/images/I/41O1OwbLO6L.jpg|N/NewPrice|N/UsedPrice
+9780231106610|Colonial Citizens|15|Elizabeth Thompson|3000|Columbia University Press|2000-01-15|http://ecx.images-amazon.com/images/I/418SWNTT7VL.jpg|N/NewPrice|N/UsedPrice
+9780520224742|In the House of the Law: Gender and Islamic Law in Ottoman Syria and Palestine|1|Judith E. Tucker|2495|University of California Press|2000-07-03|http://ecx.images-amazon.com/images/I/51KsmZRoTsL.jpg|N/NewPrice|N/UsedPrice
+9780520227408|Inventing Home: Emigration, Gender, and the Middle Class in Lebanon, 1870-1920|1|Akram F. Khater|2695|University of California Press|2001-09-03|http://ecx.images-amazon.com/images/I/51kUm9hzwlL.jpg|N/NewPrice|N/UsedPrice
+9780520251540|Egypt as a Woman: Nationalism, Gender, and Politics|1|Beth Baron|2695|University of California Press|2007-02-05|http://ecx.images-amazon.com/images/I/41qg5xcXtdL.jpg|N/NewPrice|N/UsedPrice
+9780691123059|Civilizing Women: British Crusades in Colonial Sudan|N/Edition|Janice Boddy|2895|Princeton University Press|2007-07-02|http://ecx.images-amazon.com/images/I/51cgpc7UMEL.jpg|N/NewPrice|N/UsedPrice
+9780062502896|The Chalice and the Blade: Our History, Our Future|First|Riane Eisler|1899|HarperOne|1988-09-01|http://ecx.images-amazon.com/images/I/51odXzVSPVL.jpg|N/NewPrice|14.25
+9780679733874|The Republic: The Complete and Unabridged Jowett Translation|Vintage Classics ed|Plato|1095|Vintage|1991-03-06|http://ecx.images-amazon.com/images/I/516NJF9VYJL.jpg|N/NewPrice|8.25
+9780742511897|America's Promise: A Concise History of the United States, Volume I|N/Edition|Paula Baker|4495|Rowman & Littlefield Publishers, Inc.|2004-03-15|http://ecx.images-amazon.com/images/I/51NDEQM2QML.jpg|N/NewPrice|33.75
+9780742511910|America's Promise: A Concise History of the United States, Volume II|2004 VOL 1|Paula Baker|4495|Rowman & Littlefield Publishers, Inc.|2004-05|http://ecx.images-amazon.com/images/I/51YAHMAPNKL.jpg|N/NewPrice|33.75
+9780743487771|Narrative of the Life of Frederick Douglass: An American Slave, Written by Himself (Enriched Classics)|N/Edition|Frederick Douglass|495|Simon & Schuster|2004-10-26|http://ecx.images-amazon.com/images/I/51NBFY7HQEL.jpg|N/NewPrice|3.75
+9781558611580|The Yellow Wall-Paper|Revised|Charlotte Perkins Gilman|695|The Feminist Press at CUNY|1996-09-01|http://ecx.images-amazon.com/images/I/51WIfRAepXL.jpg|N/NewPrice|5.25
+9780809016068|First Generations: Women in Colonial America|1st Pbk. Ed|Carol Berkin|1600|Hill and Wang|1997-07-01|http://ecx.images-amazon.com/images/I/41NRKAFQT9L.jpg|N/NewPrice|N/UsedPrice
+9780882952390|A Respectable Army: The Military Origins Of The Republic, 1763-1789 (American History Series)|2|James Kirby Martin|1995|Harlan Davidson|2006-01-30|http://ecx.images-amazon.com/images/I/51E55E2SBKL.jpg|N/NewPrice|N/UsedPrice
+9780521567305|Trials of Nation Making: Liberalism, Race, and Ethnicity in the Andes, 1810-1910|N/Edition|Brooke Larson|2899|Cambridge University Press|2004-01-19|http://ecx.images-amazon.com/images/I/41Y0axMxiuL.jpg|N/NewPrice|N/UsedPrice
+9780521598613|In Search of an Inca: Identity and Utopia in the Andes (New Approaches to the Americas)|N/Edition|Flores Galindo Alberto|2199|Cambridge University Press|2010-06-07|http://ecx.images-amazon.com/images/I/413TyuFPqeL.jpg|N/NewPrice|N/UsedPrice
+9780822340676|A Revolution for Our Rights: Indigenous Struggles for Land and Justice in Bolivia, 1880–1952|N/Edition|Laura Gotkowitz|2495|Duke University Press Books|2008-01-30|http://ecx.images-amazon.com/images/I/51V9f4L1sYL.jpg|N/NewPrice|N/UsedPrice
+9780822342793|Indians and Leftists in the Making of Ecuador's Modern Indigenous Movements (Latin America Otherwise)|N/Edition|Marc Becker|2395|Duke University Press Books|2008-07-28|http://ecx.images-amazon.com/images/I/51NLo7EmsZL.jpg|N/NewPrice|N/UsedPrice
+9780822344698|Ugly Stories of the Peruvian Agrarian Reform (Latin America Otherwise)|N/Edition|Enrique Mayer|2395|Duke University Press Books|2009-10-09|http://ecx.images-amazon.com/images/I/61MYmlDnZeL.jpg|N/NewPrice|N/UsedPrice
+9780140513288|The Penguin Historical Atlas of the Vikings (Hist Atlas)|N/Edition|John Haywood|2000|Penguin (Non-Classics)|1995-09-01|http://ecx.images-amazon.com/images/I/51WQWfBRmfL.jpg|N/NewPrice|15.00
+9780520232853|The Saga of the Volsungs: The Norse Epic of Sigurd the Dragon Slayer|N/Edition|Jesse L. Byock|1695|University of California Press|2002-01-07|http://ecx.images-amazon.com/images/I/4174J1ZWVEL.jpg|N/NewPrice|N/UsedPrice
+9781442601482|The Viking Age: A Reader (Readings in Medieval Civilizations and Cultures)|N/Edition|Angus A. Somerville|4295|University of Toronto Press, Higher Education Division|2010-04-15|http://ecx.images-amazon.com/images/I/41t7kW46zVL.jpg|N/NewPrice|32.25
+9780393973518|The Search for Modern China, 2nd Edition|2nd|Jonathan D. Spence|N/Price|W. W. Norton & Company|1999-01-17|http://ecx.images-amazon.com/images/I/515T1CYQ3RL.jpg|55.25|N/UsedPrice
+9780393973723|The Search for Modern China: A Documentary History|1st ed|Pei-kai Cheng|N/Price|W. W. Norton & Company|1999-01|http://ecx.images-amazon.com/images/I/513ETR59G0L.jpg|N/NewPrice|24.75
+9780804750691|The Man Awakened from Dreams: One Man's Life in a North China Village, 1857-1942|1|Henrietta Harrison|1895|Stanford University Press|2005-01-30|http://ecx.images-amazon.com/images/I/41CZ539GSNL.jpg|N/NewPrice|N/UsedPrice
+9780295987606|The Many Lives of a Rajput Queen: Heroic Pasts in India, C. 1500-1900|N/Edition|Ramya Sreenivasan|2495|University of Washington Press|2007-12-30|http://ecx.images-amazon.com/images/I/51bx6aqfP%2BL.jpg|N/NewPrice|N/UsedPrice
+9780061148477|The Protestant Reformation: Revised Edition|N/Edition|Hans J. Hillerbrand|1599|Harper Perennial|2009-08-01|http://ecx.images-amazon.com/images/I/51oDlpzv6DL.jpg|15.99|N/UsedPrice
+9780300027600|The Age of Reform 1250-1550 ( An Intellectual and Relgious History of Late Medieval and Reformation Europe)|N/Edition|Steven Ozment|N/Price|Yale University Press|1980|N/Image|N/NewPrice|N/UsedPrice
+9780415107280|Henry VIII and the English Reformation (Lancaster Pamphlets)|N/Edition|David G Newcombe|2295|Routledge|1995-07-24|http://ecx.images-amazon.com/images/I/51FKCjYgugL.jpg|N/NewPrice|N/UsedPrice
+9780823214808|The Autobiography of St. Ignatius Loyola|N/Edition|John C. Olin|2100|Fordham University Press|1993-10-05|http://ecx.images-amazon.com/images/I/4112HYP1AWL.jpg|N/NewPrice|15.00
+9780826477941|Discourse on Free Will (Continuum Impacts)|N/Edition|Desiderius Erasmus|1795|Continuum|2005-03-04|http://ecx.images-amazon.com/images/I/51K0JQW7DCL.jpg|N/NewPrice|N/UsedPrice
+9780195373387|The Bottom Billion: Why the Poorest Countries are Failing and What Can Be Done About It|N/Edition|Paul Collier|1595|Oxford University Press, USA|2008-08-22|http://ecx.images-amazon.com/images/I/41Eq%2BDR96mL.jpg|N/NewPrice|N/UsedPrice
+9780136061274|Computer Networks and Internets (5th Edition)|5th|Douglas E. Comer|14400|Prentice Hall|2008-04-28|http://ecx.images-amazon.com/images/I/51jAWnd1rxL.jpg|N/NewPrice|N/UsedPrice
+9780596101008|Zero Configuration Networking: The Definitive Guide|1|Daniel Steinberg|3995|O'Reilly Media|2005-12-20|http://ecx.images-amazon.com/images/I/41SNLrUt%2BQL.jpg|N/NewPrice|N/UsedPrice
+9780123740373|Sketching User Experiences:  Getting the Design Right and the Right Design (Interactive Technologies)|N/Edition|Bill Buxton|4995|Morgan Kaufmann|2007-04-11|http://ecx.images-amazon.com/images/I/510e78jqH3L.jpg|N/NewPrice|N/UsedPrice
+9780470084113|About Face 3: The Essentials of Interaction Design|3rd|Alan Cooper|4500|Wiley|2007-05-07|http://ecx.images-amazon.com/images/I/41A9IYZ323L.jpg|N/NewPrice|N/UsedPrice
+9780470723371|Research Methods in Human-Computer Interaction|1|Dr. Jonathan Lazar|N/Price|Wiley|2010-02-16|http://ecx.images-amazon.com/images/I/51NMScxozPL.jpg|N/NewPrice|N/UsedPrice
+9780205353118|Social Research Methods: Qualitative and Quantitative Approaches (5th Edition)|5|W. Lawrence Neuman|9900|Allyn & Bacon|2002-07-17|http://ecx.images-amazon.com/images/I/51VDP548JDL.jpg|N/NewPrice|N/UsedPrice
+9781412960991|Case Study Research: Design and Methods (Applied Social Research Methods)|4th|Dr. Robert K. Yin|4795|Sage Publications, Inc|2008-10-31|http://ecx.images-amazon.com/images/I/51fEXlGbkFL.jpg|N/NewPrice|N/UsedPrice
+9781605764160|4 P/sSentieri W/ Online Passcode, Wkbk, Answ|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|192.00|N/UsedPrice
+9781413016406|Da capo, Sixth Edition (with Text Audio CD)|6th|Annamaria Moneti|14595|Thomson/Heinle|2006-02-07|http://ecx.images-amazon.com/images/I/51R7BGxxJGL.jpg|N/NewPrice|71.25
+9788845907296|Una Storia Semplice (Piccola Biblioteca Adelphi No. 238)  (Italian Edition)|N/Edition|Leonardo Sciascia|N/Price|Adelphi|1989|http://ecx.images-amazon.com/images/I/31y15LmXRXL.jpg|N/NewPrice|N/UsedPrice
+9780791455463|How the World Became a Stage: Presence, Theatricality, and the Question of Modernity|N/Edition|William Egginton|2995|State University of New York Press|2002-10-10|http://ecx.images-amazon.com/images/I/41J7%2Bcmvk2L.jpg|N/NewPrice|N/UsedPrice
+9781409406839|The Perfect Genre. Drama and Painting in Renaissance Italy|N/Edition|Kristin Phillips-Court|9995|Ashgate|2011-04-01|http://ecx.images-amazon.com/images/I/51%2BdNGoX1uL.jpg|N/NewPrice|N/UsedPrice
+9781903436608|A Midsummer Night's Dream (Arden Shakespeare: Second Series)|2nd revised|William Shakespeare|1700|Arden Shakespeare|1979-09-06|http://ecx.images-amazon.com/images/I/510YRYwknGL.jpg|N/NewPrice|N/UsedPrice
+9788842513612|Laminta (ed Varese ) (mursia)|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|27.00|N/UsedPrice
+9788861580381|Candelaio (exclesior)|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|N/NewPrice|N/UsedPrice
+9784789014403|Genki 1 Textbook: An Integrated Course in Elementary Japanese|2nd edition|Eri Banno|N/Price|Japan Times,The|2011-02|http://ecx.images-amazon.com/images/I/51C%2BQJwJ1rL.jpg|N/NewPrice|N/UsedPrice
+9784789014410|Genki 1 Workbook: An Integrated Course in Elementary Japanese|2nd edition|N/Author|N/Price|Japan Times,The|2011-02|http://ecx.images-amazon.com/images/I/41E9x-SxfaL.jpg|N/NewPrice|N/UsedPrice
+9784789009829|Integrated Course in Elem Japa: Banno Eri (English and Japanese Edition)|N/Edition|Eri Banno|7560|Japan Times|1999-10-01|http://ecx.images-amazon.com/images/I/51P9ItR66vL.jpg|46.00|N/UsedPrice
+9784789010023|Genki II: An Integrated Course in Elementary Japanese [workbook] (English and Japanese Edition)|1st,Workbook|Eri Banno|3780|The Japan Times|2000-05|http://ecx.images-amazon.com/images/I/51UX-Cj7ZBL.jpg|22.50|N/UsedPrice
+9784789011631|Genki 2: An Integrated Course in Elementary Japanese|1st|Eri Banno|N/Price|The Japan Times|2004-02-01|http://ecx.images-amazon.com/images/I/51pU8uti%2B1L.jpg|N/NewPrice|N/UsedPrice
+9784789004541|A Dictionary of Basic Japanese Grammar|1st paperback|Seiichi Makino|N/Price|The Japan Times|1989-03-01|http://ecx.images-amazon.com/images/I/41zO3fSx%2B8L.jpg|37.75|N/UsedPrice
+9784789013079|An Integrated Approach to Intermediate Japanese Revised Edition with CDs (Textbook with 2 CDs Revised July 2008)|N/Edition|Akira Miura & Naomi Hanaoka McGloin|N/Price|The Japan Time|2008|http://ecx.images-amazon.com/images/I/41ajeLXqawL.jpg|41.00|N/UsedPrice
+9784789013086|An Integrated Approach to Intermediate Japanese Revised Edition (workbook)|N/Edition|Akira Miura & Naomi Hanaoka Mcgloin|N/Price|The Japan Time|2008|http://ecx.images-amazon.com/images/I/41d2t-Qab5L.jpg|19.00|N/UsedPrice
+9780231109918|Early Modern Japanese Literature: An Anthology, 1600-1900 (Translations from the Asian Classics)|N/Edition|Haruo Shirane|3300|Columbia University Press|2004-08-11|http://ecx.images-amazon.com/images/I/417HBX446NL.jpg|N/NewPrice|N/UsedPrice
+9780231136976|Traditional Japanese Literature: An Anthology, Beginnings to 1600 (Translations from the Asian Classics)|N/Edition|Haruo Shirane|3600|Columbia University Press|2008-10-06|http://ecx.images-amazon.com/images/I/51sHwqIsVcL.jpg|N/NewPrice|N/UsedPrice
+9780231135245|Classical Japanese: A Grammar|N/Edition|Haruo Shirane|5500|Columbia University Press|2005-09-14|http://ecx.images-amazon.com/images/I/41475zKlVKL.jpg|N/NewPrice|N/UsedPrice
+9780231139908|Classical Japanese Reader and Essential Dictionary|Bilingual|Haruo Shirane|5500|Columbia University Press|2007-03-16|http://ecx.images-amazon.com/images/I/41XwBPUanmL.jpg|N/NewPrice|N/UsedPrice
+9780972835602|You Speak Korean! Volume 1|N/Edition|Soohee Kim|3995|ParadigmBusters Publishing|2003-01-01|http://ecx.images-amazon.com/images/I/61lCsnCQWHL.jpg|39.95|N/UsedPrice
+9780972835619|You Speak Korean! Volume 1 Workbook|Workbook|Haewon Cho|2100|ParadigmBusters Publishing|2003-01-01|http://ecx.images-amazon.com/images/I/51MwD39o5nL.jpg|21.00|N/UsedPrice
+9780972835640|Korean Conjugation at a Glance Laminated Reference Card|Crds|Soohee Kim|350|Cheng & Tsui|2009-12-18|N/Image|3.50|N/UsedPrice
+9780972835664|You Speak Korean!|N/Edition|Soohee Kim|4995|ParadigmBusters Publishing|2008-01-01|http://ecx.images-amazon.com/images/I/61AM9dAtxBL.jpg|49.95|37.50
+9780972835671|You Speak Korean! Volume 3 Workbook|Workbook|Haewon Cho|2500|ParadigmBusters Publishing|2008-01-01|http://ecx.images-amazon.com/images/I/515W-XQN0mL.jpg|25.00|N/UsedPrice
+9780982185025|Remember The LittleGuys|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|N/NewPrice|N/UsedPrice
+9780471457275|Introduction to Heat Transfer|5|Frank P. Incropera|N/Price|Wiley|2006-04-07|http://ecx.images-amazon.com/images/I/41pW1jANS7L.jpg|210.25|157.70
+9780558308384|Mechanical BehaviorOf Materials (custom)|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|N/NewPrice|N/UsedPrice
+9780072837032|Engineering Design (Engineering Series)|4|George Dieter|N/Price|McGraw-Hill Science/Engineering/Math|2008-03-12|http://ecx.images-amazon.com/images/I/51N0TUv3zML.jpg|175.25|131.45
+9780387856049|Analytical System Dynamics: Modeling and Simulation|1st Edition. 2nd Printing.|Brian Fabien|12900|Springer|2008-12-02|http://ecx.images-amazon.com/images/I/41JJzB28L3L.jpg|N/NewPrice|N/UsedPrice
+9780824799144|Introduction to Manufacturing Processes and Materials (Manufacturing Engineering and Materials Processing)|1st|Robert Creese|14995|Marcel Dekker|1999-03-15|http://ecx.images-amazon.com/images/I/4161TGJAJZL.jpg|N/NewPrice|110.25
+9780195129847|Discovering Grammar: An Introduction to English Sentence Structure|3rd|Anne C. Lobeck|7995|Oxford University Press, USA|2000-02-17|http://ecx.images-amazon.com/images/I/41M73YAP98L.jpg|N/NewPrice|60.00
+9780814251638|Language Files: Materials for an Introduction to Language and Linguistics|10th|Anouschka Bergmann|4495|Ohio State University Press|2007-05-15|http://ecx.images-amazon.com/images/I/41ouikus5LL.jpg|44.95|33.75
+9780230232303|Semantics, Second Edition (Palgrave Modern Linguistics)|2|Kate Kearns|3700|Palgrave Macmillan|2011-06-21|http://ecx.images-amazon.com/images/I/41BNCcv5GbL.jpg|37.00|N/UsedPrice
+9780262532679|Historical Linguistics: An Introduction|second edition|Lyle Campbell|4400|The MIT Press|2004-10-01|http://ecx.images-amazon.com/images/I/41qC%2BHJ2vvL.jpg|N/NewPrice|N/UsedPrice
+9781405133845|Syntax: A Generative Introduction (Introducing Linguistics)|2|Andrew Carnie|5995|Wiley-Blackwell|2006-09-11|http://ecx.images-amazon.com/images/I/41bNoLYxViL.jpg|59.95|45.00
+9780199243709|Core Syntax: A Minimalist Approach (Core Linguistics)|N/Edition|David Adger|6000|Oxford University Press, USA|2003-05-29|http://ecx.images-amazon.com/images/I/21QGU9%2BfIqL.jpg|N/NewPrice|N/UsedPrice
+9780521387071|Social Network Analysis: Methods and Applications (Structural Analysis in the Social Sciences)|1|Stanley Wasserman|5200|Cambridge University Press|1994-11-25|http://ecx.images-amazon.com/images/I/51N%2BRewf9lL.jpg|N/NewPrice|N/UsedPrice
+9780631153146|Language and Social Networks (Language in Society)|2|Lesley Milroy|4495|Wiley-Blackwell|1991-01-16|http://ecx.images-amazon.com/images/I/51Ly3o4kRJL.jpg|45.00|N/UsedPrice
+9781575864006|Syntactic Theory: A Formal Introduction, 2nd Edition (Center for the Study of Language and Information - Lecture Notes)|1|Ivan A. Sag|3750|Center for the Study of Language and Inf|2003-04-01|http://ecx.images-amazon.com/images/I/41K4F3A9WKL.jpg|N/NewPrice|N/UsedPrice
+9780131873216|Speech and Language Processing (2nd Edition)|2|Daniel Jurafsky|14400|Prentice Hall|2008-05-26|http://ecx.images-amazon.com/images/I/41t400jJquL.jpg|N/NewPrice|N/UsedPrice
+9781555706661|Information Literacy Instruction: Theory and Practice, Second Edition (Information Literacy Sourcebooks)|Second Edition|Esther S. Grassian|8000|Neal-Schuman Publishers, Inc.|2009-07-31|http://ecx.images-amazon.com/images/I/51g9D4CJ9oL.jpg|75.00|N/UsedPrice
+9781856045452|Research Methods in Information|N/Edition|Alison Jane Pickard|9995|Facet Publishing|2007-03-15|http://ecx.images-amazon.com/images/I/41Ge9pusRZL.jpg|N/NewPrice|N/UsedPrice
+9780307387097|Half the Sky: Turning Oppression into Opportunity for Women Worldwide (Vintage)|Reprint|Nicholas D. Kristof|1595|Vintage|2010-06-01|http://ecx.images-amazon.com/images/I/51Sb1DQ%2BgzL.jpg|N/NewPrice|N/UsedPrice
+9780813544618|A People's History of the European Court of Human Rights|N/Edition|Michael D. Goldhaber|2495|Rutgers University Press|2009-01-30|http://ecx.images-amazon.com/images/I/519QOhtpSVL.jpg|N/NewPrice|19.50
+9780073305370|Thermodynamics: An Engineering Approach with Student Resource DVD|6|Yunus Cengel|N/Price|McGraw-Hill Science/Engineering/Math|2006-09-22|http://ecx.images-amazon.com/images/I/51CCDPFWBFL.jpg|N/NewPrice|150.40
+9780077422417|Fluid Mechanics with Student DVD (McGraw-Hill Series in Mechanical Engineering)|7|Frank White|N/Price|McGraw-Hill Science/Engineering/Math|2010-02-02|http://ecx.images-amazon.com/images/I/41dQj9sGKvL.jpg|N/NewPrice|145.70
+9780521529778|Thin Film Materials: Stress, Defect Formation and Surface Evolution (Cambridge Pocket Clinicians)|1|L. B. Freund|6599|Cambridge University Press|2009-01-19|http://ecx.images-amazon.com/images/I/51xVicUN6eL.jpg|N/NewPrice|N/UsedPrice
+9781439805336|Thermal Radiation Heat Transfer, 5th Edition|5|John R. Howell|12995|CRC Press|2010-09-28|http://ecx.images-amazon.com/images/I/41UY-EEOxqL.jpg|N/NewPrice|N/UsedPrice
+9780979258183|Experimental Solid Mechanics|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|N/NewPrice|N/UsedPrice
+9780470119167|Advanced Engineering Mathematics|9Rev Ed|Erwin Kreyszig|N/Price|Unknown|2006|N/Image|N/NewPrice|N/UsedPrice
+9780023801419|Principles and Techniques of Vibrations|1|Leonard Meirovitch|18000|Prentice Hall|1996-10-21|http://ecx.images-amazon.com/images/I/41CENE4XBTL.jpg|N/NewPrice|N/UsedPrice
+9780536563170|Introduction to Leadership, MSL I, Revised Edition (BOLC I: Army ROTC)|N/Edition|U. S. Army|N/Price|Pearson Custom|2009|N/Image|17.75|N/UsedPrice
+9780536563187|foundations of leadership (a military science and leadership development program)|N/Edition|army rotc|N/Price|custom publishing|2008|N/Image|23.00|17.25
+9780534467197|Applied Statistics for Engineers and Scientists (with CD-ROM)|2|Jay L. Devore|22495|Duxbury Press|2004-02-20|http://ecx.images-amazon.com/images/I/41ePGLKOKPL.jpg|199.50|149.65
+9780136033134|First Course in Probability, A (8th Edition)|8|Sheldon Ross|14267|Prentice Hall|2009-01-07|http://ecx.images-amazon.com/images/I/41nuRiGCoZL.jpg|N/NewPrice|101.25
+9780132664844|Legal Environment of Business, The (6th Edition)|6|Nancy K. Kubasek|20000|Prentice Hall|2011-03-20|http://ecx.images-amazon.com/images/I/41UWrErkh1L.jpg|N/NewPrice|N/UsedPrice
+9781400096794|The Nine: Inside the Secret World of the Supreme Court|Reprint|Jeffrey Toobin|1600|Anchor|2008-09-09|http://ecx.images-amazon.com/images/I/51FAYRoE69L.jpg|N/NewPrice|12.00
+9780077907563|2 P/s OrganizationalBehavior (2e 11) W/ Conn|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|N/NewPrice|82.70
+9780077578695|Business Government &Society ( Custom )|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|N/NewPrice|N/UsedPrice
+9780743269513|The 7 Habits of Highly Effective People|Revised|Stephen R. Covey|1595|Free Press|2004-11-09|http://ecx.images-amazon.com/images/I/51Osk63EaBL.jpg|N/NewPrice|12.00
+9781594484803|Drive: The Surprising Truth About What Motivates Us|Reprint|Daniel H. Pink|1600|Riverhead Trade|2011-04-05|http://ecx.images-amazon.com/images/I/412gnUUjEPL.jpg|N/NewPrice|N/UsedPrice
+9780538753098|Strategic Management: Concepts: Competitiveness and Globalization|9|Michael A. Hitt|16695|South-Western College Pub|2010-01-01|http://ecx.images-amazon.com/images/I/4148yOXRr6L.jpg|116.75|87.60
+9780073404844|ABCs of Relationship Selling|11|Charles Futrell|N/Price|McGraw-Hill/Irwin|2010-01-19|http://ecx.images-amazon.com/images/I/41%2BFCgtEm1L.jpg|146.75|110.10
+9781111826116|PROMO (with Marketing CourseMate with eBook Printed Access Card)|1|Thomas O'Guinn|6995|South-Western College Pub|2011-03-21|http://ecx.images-amazon.com/images/I/61wxXvBIcIL.jpg|69.95|N/UsedPrice
+9780136106814|The Strategy and Tactics of Pricing (5th Edition)|5|Thomas Nagle|9525|Prentice Hall|2010-03-12|http://ecx.images-amazon.com/images/I/41T4vMlLmOL.jpg|N/NewPrice|N/UsedPrice
+9780558826833|2 P/s BasicMaterials In Music Theory W/my Mu|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|116.25|N/UsedPrice
+9780874519624|Israel in the Middle East: Documents and Readings on Society, Politics, and Foreign Relations, Pre-1948 to the Present (Tauber Institute Series for ... Jewry & Schusterman Series in Israel Studies)|2nd ed.|Itamar Rabinovich|2995|Brandeis|2007-12-30|http://ecx.images-amazon.com/images/I/51-dy7rMNDL.jpg|N/NewPrice|N/UsedPrice
+9781584653271|Jews in Israel: Contemporary Social and Cultural Patterns (Tauber Institute Series for the Study of European Jewry)|2|Uzi Rebhun|3500|Brandeis|2003-11-01|http://ecx.images-amazon.com/images/I/41DV9JDVJ9L.jpg|N/NewPrice|N/UsedPrice
+9780978698300|Sett I Gang 1 Textbook|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|97.50|73.15
+9780978698324|Sett i gang II: Workbook|1ST|Kari Lie|N/Price|NorWords|2008-02-08|http://ecx.images-amazon.com/images/I/41pQt3SNiWL.jpg|21.50|N/UsedPrice
+9780978698331|Glossary T/a Sett I Gang 1|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|13.50|N/UsedPrice
+9788202256487|Engelsk Norsk Engelsk Ordbok (cappelens)|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|63.25|N/UsedPrice
+9788249608171|Enkel Norsk Grammatikk (damm)|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|52.25|N/UsedPrice
+9788205348622|Ibsens Beste(gyldendal Norsk)|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|N/NewPrice|N/UsedPrice
+9780073376707|Introduction to the Worlds Oceans|10|Keith Sverdrup|N/Price|McGraw-Hill Science/Engineering/Math|2008-11-03|http://ecx.images-amazon.com/images/I/51ruAltJLdL.jpg|N/NewPrice|N/UsedPrice
+9780110006000|Selling Science(uwcs)|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|13.00|N/UsedPrice
+9780195174991|A Field Guide for Science Writers: The Official Guide of the National Association of Science Writers|2|Deborah Blum|2195|Oxford University Press, USA|2005-08-25|http://ecx.images-amazon.com/images/I/417NCdvKAOL.jpg|N/NewPrice|N/UsedPrice
+9780813814247|News and Numbers: A Guide to Reporting Statistical Claims and Controversies in Health and Other Fields|2|Victor Cohn|4495|Wiley-Blackwell|2001-04-19|http://ecx.images-amazon.com/images/I/41Ht58K7YLL.jpg|N/NewPrice|N/UsedPrice
+9780521833134|Chemical Oceanography and the Marine Carbon Cycle|N/Edition|Steven Emerson|8200|Cambridge University Press|2008-06-08|http://ecx.images-amazon.com/images/I/51UTg10GRoL.jpg|N/NewPrice|N/UsedPrice
+9780558728557|Financial Management ( Custom )|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|N/NewPrice|59.25
+9780205639472|Philosophical Problems: An Annotated Anthology, Reprint (2nd Edition)|2|Laurence BonJour|11400|Longman|2007-12-31|http://ecx.images-amazon.com/images/I/51nRcH%2B3B4L.jpg|N/NewPrice|80.85
+9780195388725|Disputed Moral Issues: A Reader|2|Mark Timmons|7995|Oxford University Press, USA|2010-10-01|http://ecx.images-amazon.com/images/I/510aLuaqePL.jpg|N/NewPrice|N/UsedPrice
+9780071755467|Schaum's Outline of Logic, Second Edition (Schaum's Outline Series)|2|John Nolt|1900|McGraw-Hill|2011-01-27|http://ecx.images-amazon.com/images/I/51nuJsuqf8L.jpg|19.00|14.25
+9780872201668|Grounding for the Metaphysics of Morals: With on a Supposed Right to Lie Because of Philanthropic Concerns|3|Immanuel Kant|895|Hackett Pub Co|1993-06-01|http://ecx.images-amazon.com/images/I/41aI1aXLyWL.jpg|N/NewPrice|N/UsedPrice
+9780872206496|The Classical Utilitarians: Bentham and Mill|N/Edition|Jeremy Bentham|1195|Hackett Pub Co|2003-03-01|http://ecx.images-amazon.com/images/I/419J10WY2GL.jpg|N/NewPrice|N/UsedPrice
+9780872208094|The Practice of Virtue: Classic And Contemporary Readings in Virtue Ethics|N/Edition|Jennifer Welchman|1695|Hackett Pub Co|2006-03-30|http://ecx.images-amazon.com/images/I/51098W2HCYL.jpg|N/NewPrice|N/UsedPrice
+9781551118031|Readings in the Philosophy of Religion, second edition|2|Kelly James Clark|6995|Broadview Press|2008-02-14|http://ecx.images-amazon.com/images/I/219k6rfcYNL.jpg|N/NewPrice|N/UsedPrice
+9780061768248|Essential Schopenhauer|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|N/NewPrice|N/UsedPrice
+9780199297221|The Two Fundamental Problems of Ethics (Oxford World's Classics)|N/Edition|Arthur Schopenhauer|1395|Oxford University Press, USA|2010-06-11|http://ecx.images-amazon.com/images/I/61dkdA7TUKL.jpg|N/NewPrice|N/UsedPrice
+9780521016889|Nietzsche: The Anti-Christ, Ecce Homo, Twilight of the Idols: And Other Writings (Cambridge Texts in the History of Philosophy)|N/Edition|Friedrich Nietzsche|2599|Cambridge University Press|2005-11-21|http://ecx.images-amazon.com/images/I/41Y9ED398AL.jpg|N/NewPrice|N/UsedPrice
+9780521626958|Kant: Groundwork of the Metaphysics of Morals (Cambridge Texts in the History of Philosophy)|N/Edition|Immanuel Kant|1799|Cambridge University Press|1998-04-28|http://ecx.images-amazon.com/images/I/41YB8yWm1RL.jpg|N/NewPrice|N/UsedPrice
+9780521636452|Nietzsche: The Gay Science: With a Prelude in German Rhymes and an Appendix of Songs (Cambridge Texts in the History of Philosophy)|N/Edition|Friedrich Nietzsche|1799|Cambridge University Press|2001-09-17|http://ecx.images-amazon.com/images/I/41jGwWmo3gL.jpg|N/NewPrice|N/UsedPrice
+9780679724650|Beyond Good & Evil: Prelude to a Philosophy of the Future|N/Edition|Friedrich Nietzsche|1400|Vintage|1989-12-17|http://ecx.images-amazon.com/images/I/71BCSM7142L.gif|N/NewPrice|N/UsedPrice
+9780872202832|On the Genealogy of Morality|N/Edition|Friedrich Wilhelm Nietzsche|1495|Hackett Pub Co|1998-09-01|http://ecx.images-amazon.com/images/I/51wnxXOWG1L.jpg|N/NewPrice|11.25
+9780195101737|Classics of Modern Political Theory : Machiavelli to Mill|N/Edition|Steven M. Cahn|6795|Oxford University Press, USA|1996-11-07|http://ecx.images-amazon.com/images/I/41FTZWQ8S0L.jpg|N/NewPrice|N/UsedPrice
+9780872207363|Republic|3rd|Plato|1295|Hackett Pub Co|2004-09-30|http://ecx.images-amazon.com/images/I/41k2Bx3q-tL.jpg|N/NewPrice|8.25
+9780385415804|Prisoner's Dilemma|N/Edition|William Poundstone|1700|Anchor|1993-01-01|http://ecx.images-amazon.com/images/I/51NwIoo3jjL.jpg|N/NewPrice|12.75
+9780816614400|Choices: An Introduction to Decision Theory|1|Michael Resnik|2000|Univ Of Minnesota Press|1987-06-15|http://ecx.images-amazon.com/images/I/414ICp18msL.jpg|20.00|15.00
+9780073407425|Morality and the Good Life: An Introduction to Ethics Through Classical Sources|5|Robert Solomon|N/Price|McGraw-Hill Humanities/Social Sciences/Languages|2008-12-09|http://ecx.images-amazon.com/images/I/41Q%2By4ouswL.jpg|N/NewPrice|70.50
+9780534589097|Conduct and Character: Readings in Moral Theory|5|Mark Timmons|9995|Wadsworth Publishing|2005-06-07|http://ecx.images-amazon.com/images/I/51XfLWChrGL.jpg|N/NewPrice|N/UsedPrice
+9780415775397|The Animal Ethics Reader|2|Susan Armstrong|4695|Routledge|2008-05-13|http://ecx.images-amazon.com/images/I/414YFquickL.jpg|N/NewPrice|N/UsedPrice
+9780521717731|Ethics and Animals: An Introduction (Cambridge Applied Ethics)|1|Lori Gruen|2799|Cambridge University Press|2011-03-14|http://ecx.images-amazon.com/images/I/51k7IN5ZqgL.jpg|N/NewPrice|N/UsedPrice
+9780226348124|Philosophies of Art and Beauty: Selected Readings in Aesthetics from Plato to Heidegger (Phoenix Books)|N/Edition|Albert Hofstadter|3000|University Of Chicago Press|1976-08-15|http://ecx.images-amazon.com/images/I/51uDYvydyPL.jpg|N/NewPrice|19.50
+9780817366230|Aesthetics from Classical Greece to the Present (Studies in the Humanities: No. 13)|1|Monroe C. Beardsley|2195|University Alabama Press|1975-10-30|http://ecx.images-amazon.com/images/I/416P5K8T3FL.jpg|N/NewPrice|N/UsedPrice
+9780198752530|A Survey of Metaphysics|N/Edition|E. J. Lowe|5295|Oxford University Press, USA|2002-03-07|http://ecx.images-amazon.com/images/I/41XbvHIktfL.jpg|N/NewPrice|N/UsedPrice
+9780226458083|The Structure of Scientific Revolutions|3rd|Thomas S. Kuhn|1300|University Of Chicago Press|1996-12-15|http://ecx.images-amazon.com/images/I/41k7c5oyMaL.jpg|N/NewPrice|9.75
+9780195014914|Elementary Logic|2|Benson Mates|5995|Oxford University Press, USA|1972-01-06|http://ecx.images-amazon.com/images/I/21K8VL3ncHL.jpg|N/NewPrice|N/UsedPrice
+9780393327601|Incompleteness: The Proof and Paradox of Kurt Godel (Great Discoveries)|N/Edition|Rebecca Goldstein|1495|W. W. Norton & Company|2006-02-17|http://ecx.images-amazon.com/images/I/516NGPYWDBL.jpg|N/NewPrice|N/UsedPrice
+9780743422994|The Mystery of the Aleph: Mathematics, the Kabbalah, and the Search for Infinity|N/Edition|Amir  D. Aczel|1799|Washington Square Press|2001-09-01|http://ecx.images-amazon.com/images/I/51zftcibEuL.jpg|17.99|13.50
+9780872203495|Plato Complete Works|1st THUS|Plato|5500|Hackett Pub Co|1997-05-01|http://ecx.images-amazon.com/images/I/41QYJ0ZJ3EL.jpg|N/NewPrice|N/UsedPrice
+9780558385040|V.1 Physics(custom) (4e 09)|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|86.25|64.70
+9780558385026|V.2 Physics(4e 09) (custom)|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|55.00|41.25
+9780558385033|Physics (3)|Custom|James S. Walker|N/Price|Pearson|2010|N/Image|55.00|41.25
+9780471548706|Physics by Inquiry: An Introduction to Physics and the Physical Sciences (2 Volume Set)|N/Edition|Lillian C. McDermott|8190|John Wiley & Sons Inc|1995-08|N/Image|136.25|N/UsedPrice
+9783527406012|Introduction to Elementary Particles|2nd|David Griffiths|10500|Wiley-VCH|2008-10-21|http://ecx.images-amazon.com/images/I/41dXt%2Byv8EL.jpg|N/NewPrice|N/UsedPrice
+9780471309321|Classical Electrodynamics Third Edition|3|John David Jackson|N/Price|Wiley|1998-08-10|http://ecx.images-amazon.com/images/I/31LHMvAvmIL.jpg|106.25|N/UsedPrice
+9780486691930|Mathematics for Physicists (Dover Books on Mathematics)|N/Edition|Philippe Dennery|1995|Dover Publications|1996-08-14|http://ecx.images-amazon.com/images/I/41R7TY7P1TL.jpg|N/NewPrice|N/UsedPrice
+9780201539295|Modern Quantum Mechanics (Revised Edition)|1|J. J. Sakurai|16160|Addison Wesley|1993-09-10|http://ecx.images-amazon.com/images/I/41Yh5QbjmlL.jpg|N/NewPrice|108.95
+9780521864497|Quantum Field Theory|1|Mark Srednicki|7900|Cambridge University Press|2007-02-05|http://ecx.images-amazon.com/images/I/41h1TkpkEzL.jpg|75.00|N/UsedPrice
+9780321644688|Calculus For Biology and Medicine (3rd Edition) (Calculus for Life Sciences Series)|3|Claudia Neuhauser|16267|Prentice Hall|2010-01-13|http://ecx.images-amazon.com/images/I/41X8ylIcQSL.jpg|158.25|118.70
+9780134888019|Applied Statistics for Engineers and Scientists: Using Microsoft Excel & Minitab|N/Edition|David M. Levine|8667|Prentice Hall|2000-09-18|N/Image|N/NewPrice|62.10
+9780131008465|Biostatistical Analysis (5th Edition)|5|Jerrold H. Zar|14933|Prentice Hall|2009-02-25|http://ecx.images-amazon.com/images/I/41IBefYnmQL.jpg|N/NewPrice|N/UsedPrice
+9780060920463|Life in a Medieval Village|N/Edition|Frances Gies|1499|Harper Perennial|1991-01-30|http://ecx.images-amazon.com/images/I/51-hDCHGWLL.jpg|N/NewPrice|11.25
+9780521708401|Comparative Politics: Interests, Identities, and Institutions in a Changing Global Order|3|Jeffrey Kopstein|8300|Cambridge University Press|2008-07-21|http://ecx.images-amazon.com/images/I/51fGsVT9oYL.jpg|N/NewPrice|59.25
+9781412992565|How Societies Change (Sociology for a New Century Series)|Second Edition|Daniel Chirot|2995|Pine Forge Press|2011-05-27|http://ecx.images-amazon.com/images/I/510K2QTr0sL.jpg|N/NewPrice|N/UsedPrice
+9780142003343|The Blank Slate: The Modern Denial of Human Nature|N/Edition|Steven Pinker|1700|Penguin (Non-Classics)|2003-08-26|http://ecx.images-amazon.com/images/I/41eqhE%2B3q0L.jpg|N/NewPrice|N/UsedPrice
+9780316017930|Outliers: The Story of Success|Reprint|Malcolm Gladwell|1699|Back Bay Books|2011-06-07|http://ecx.images-amazon.com/images/I/41h5QL0vVEL.jpg|N/NewPrice|N/UsedPrice
+9780374227340|The Origins of Political Order: From Prehuman Times to the French Revolution|1St Edition|Francis Fukuyama|3500|Farrar, Straus and Giroux|2011-04-12|http://ecx.images-amazon.com/images/I/512D-ssS68L.jpg|N/NewPrice|N/UsedPrice
+9780520219786|Damned Lies and Statistics: Untangling Numbers from the Media, Politicians, and Activists|1|Joel Best|2195|University of California Press|2001-05-08|http://ecx.images-amazon.com/images/I/51uadFPN5YL.jpg|N/NewPrice|N/UsedPrice
+9780691034713|Designing Social Inquiry: Scientific Inference in Qualitative Research|N/Edition|Gary King|3500|Princeton University Press|1994-05-02|http://ecx.images-amazon.com/images/I/51N%2BELNxkJL.jpg|N/NewPrice|N/UsedPrice
+9780716755197|Research Methods in the Social Sciences w/Data Bank CD|7th|Chava Frankfort-Nachmias|N/Price|Worth Publishers|2007-03-06|http://ecx.images-amazon.com/images/I/417o21-u8-L.jpg|N/NewPrice|N/UsedPrice
+9780761988557|Dictionary of Statistics & Methodology: A Nontechnical Guide for the Social Sciences|3rd|Dr. W. Paul Vogt|5995|Sage Publications, Inc|1993-05-28|http://ecx.images-amazon.com/images/I/41ord9qMIlL.jpg|N/NewPrice|N/UsedPrice
+9781412924238|Proposals That Work: A Guide for Planning Dissertations and Grant Proposals|5th|Lawrence F. Locke|6195|Sage Publications, Inc|2007-02-13|http://ecx.images-amazon.com/images/I/51tRSGkzTmL.jpg|N/NewPrice|N/UsedPrice
+9780060936945|Collins Portuguese Concise Dictionary 2e (HarperCollins Concise Dictionaries) (English and Portuguese Edition)|2nd|Harpercollins Publishers|1500|Collins Reference|2001-01-15|http://ecx.images-amazon.com/images/I/51DE67Q690L.jpg|15.00|N/UsedPrice
+9780131894051|Ponto de Encontro: Portuguese as a World Language|1|Anna Klobucka|10300|Prentice Hall|2007-01-14|http://ecx.images-amazon.com/images/I/61DKRIShQJL.jpg|100.25|N/UsedPrice
+9780131894082|Brazilian Activities Manual for Ponto de Encontro: Portuguese as a World Language|1|Anna Klobucka|7333|Prentice Hall|2007-08-17|http://ecx.images-amazon.com/images/I/61ioZkPNgPL.jpg|72.25|54.20
+9780942566352|Brasil, Lingua E Cultura: Writing and Language Laboratory Manual|3rd|Tom Lathrop|2495|Juan de la Cuesta|2006-06-01|http://ecx.images-amazon.com/images/I/61q4DOKNYnL.jpg|N/NewPrice|N/UsedPrice
+9780942566437|Brasil! Lingua E Cultura|3 Rev Upd|Tom Lathrop|6495|Linguatext Ltd|2004-12|http://ecx.images-amazon.com/images/I/61HQAXB96iL.jpg|68.25|N/UsedPrice
+9781585103447|Viajando atraves do alfabeto: A Reading and Writing Program for Intermediate to Advanced Portuguese (in Portuguese) (Portuguese Edition)|N/Edition|Patricia Isabel Sobral|2695|Focus Publishing/R. Pullins Co.|2009-11-02|http://ecx.images-amazon.com/images/I/51bJBErKOVL.jpg|26.95|N/UsedPrice
+9780936347295|An Introduction to Persian 3rd Edition|3rd Rev|W.M. Thackston|4500|Ibex Pub|1993-05-01|http://ecx.images-amazon.com/images/I/51SXBW8WR3L.jpg|N/NewPrice|33.75
+9780878932252|Animal Behavior: An Evolutionary Approach, Ninth Edition|9th Edition|John Alcock|8995|Sinauer Associates, Inc.|2009-03-31|http://ecx.images-amazon.com/images/I/51vWZ6sXmkL.jpg|N/NewPrice|66.00
+9780205775385|Child Development [With Mydevelopmentlab] (Books a la Carte)|N/Edition|Laura E. Berk|10867|Pearson Custom Publishing|2009-01|N/Image|105.75|N/UsedPrice
+9780321759986|Elementary Statistics: Picturing the World plus MyMathLab/MyStatLab Student Access Code Card|1|Ron Larson|16520|Addison Wesley|2011-01-30|N/Image|N/NewPrice|N/UsedPrice
+9780073513164|¿Sabías que...?:  Beginning Spanish|5|Bill VanPatten|N/Price|McGraw-Hill Humanities/Social Sciences/Languages|2007-01-10|http://ecx.images-amazon.com/images/I/51QyiIshQSL.jpg|161.50|121.15
+9780078149863|3 P/s Espanol Nivel 100 (6e 05) W/ Quia 1 & 2|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|168.50|N/UsedPrice
+9780078178504|2 P/s Espanol Nivel 103 (7e 08) W/ Quia 2|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|98.00|N/UsedPrice
+9780072497083|Destinos: Second Edition of the Alternate Edition|2nd|Bill VanPatten|14281|Mcgraw-Hill College|2001-12-31|http://ecx.images-amazon.com/images/I/51vX6k1waYL.jpg|N/NewPrice|112.15
+9780072497113|Workbook/Studyguide Vol. 1 fuw Destinos|2|VAN PATTEN|N/Price|McGraw-Hill Humanities/Social Sciences/Languages|2002-02-15|http://ecx.images-amazon.com/images/I/41vqhLRFEyL.jpg|68.25|N/UsedPrice
+9780072497120|Workbook/Studyguide Vol. 2 t/a Destinos|2|VAN PATTEN|N/Price|McGraw-Hill Humanities/Social Sciences/Languages|2002-03-21|http://ecx.images-amazon.com/images/I/41gqYBE9ZKL.jpg|68.25|51.20
+9780944613405|Devavanipravesika: An Introduction to the Sanskrit Language|3rd|Robert P. Goldman|5500|U C Regents|1999-02-06|http://ecx.images-amazon.com/images/I/416KE7h3jyL.jpg|55.00|N/UsedPrice
+9788120804852|The Roots, Verb-Forms and Primary Derivatives of the Sanskrit Language|N/Edition|William Dwight Whitney|1950|Motilal Banarsidass,|2000-01-01|N/Image|12.50|N/UsedPrice
+9788120806214|Sanskrit Grammar: Including both the Classical Language and the Older Dialects|1|W.D. Whitney|3700|Motilal Banarsidass|2005-02-01|http://ecx.images-amazon.com/images/I/41xvjv%2BeZrL.jpg|21.50|N/UsedPrice
+9788120813632|Sanskrit Reader: Text, Vocabulary and Notes|N/Edition|Charles Rockwell Lanman|2800|Motilal Banarsidass,|2001-01-01|http://ecx.images-amazon.com/images/I/51wWhImDGoL.jpg|16.00|N/UsedPrice
+9788124600955|Sanskrit Grammar for Students, New Updated Edition|N/Edition|Arthur Anthony MacDonell|1500|DK Printworld|2004-02-02|http://ecx.images-amazon.com/images/I/41CEH5F8PTL.jpg|9.00|N/UsedPrice
+9781429224253|The Basic Practice of Statistics: (Paper Text & Student CD)|Fifth Edition|David S. Moore|N/Price|W. H. Freeman|2009-01-15|http://ecx.images-amazon.com/images/I/61dX5gtWPjL.jpg|N/NewPrice|N/UsedPrice
+9780130272959|Statistical Methods for the Social Sciences (4th Edition)|4|Alan Agresti|14933|Prentice Hall|2008-01-07|http://ecx.images-amazon.com/images/I/61K-fFSWJoL.jpg|N/NewPrice|N/UsedPrice
+9780801894923|The New Politics of Old Age Policy|second edition|Robert B. Hudson|3000|The Johns Hopkins University Press|2010-05-28|http://ecx.images-amazon.com/images/I/41XIDzDJxiL.jpg|N/NewPrice|N/UsedPrice
+9780826121417|End-of-Life Care and Addiction: A Family Systems Approach|1|Dr. Suzanne Bushfield PhD  MSW|4500|Springer Publishing Company|2009-11-23|http://ecx.images-amazon.com/images/I/518iPGKo5ZL.jpg|N/NewPrice|N/UsedPrice
+9780765704320|Inside Out and Outside In: Psychodynamic Clinical Theory, Practice, and Psychopathology in Multicultural Contexts|Second Edition|Joan Berzoff|5995|Jason Aronson|2007-11-27|http://ecx.images-amazon.com/images/I/41GNMxOyS0L.jpg|59.95|N/UsedPrice
+9780890420256|Diagnostic and Statistical Manual of Mental Disorders DSM-IV-TR Fourth Edition (Text Revision)|4th|American Psychiatric Association|11500|Amer Psychiatric Pub|2000-06|http://ecx.images-amazon.com/images/I/410AV15F9DL.jpg|115.00|N/UsedPrice
+9780981510057|Research Methods for Social Workers|9th|Richard M. Grinnell Jr.|N/Price|Pair Bond|2012|N/Image|N/NewPrice|N/UsedPrice
+9780205520978|Human Behavior and the Social Environment: Shifting Paradigms in Essential Knowledge for Social Work Practice (5th Edition) (Connecting Core Competencies)|5|Joe M. Schriver|12500|Prentice Hall|2010-01-20|http://ecx.images-amazon.com/images/I/51h2ygSDikL.jpg|N/NewPrice|N/UsedPrice
+9781616200152|The Girl Who Fell from the Sky|Reprint|Heidi W. Durrow|1395|Algonquin Books|2011-01-11|http://ecx.images-amazon.com/images/I/41ug2qUA28L.jpg|N/NewPrice|N/UsedPrice
+9780131867932|Introduction to Mathematical Statistics and Its Applications, An (4th Edition)|4|Richard J. Larsen|15333|Prentice Hall|2005-12-10|http://ecx.images-amazon.com/images/I/51HW125HEVL.jpg|145.25|108.95
+9780534243128|Statistical Inference|2|George Casella|23395|Duxbury Press|2001-06-18|http://ecx.images-amazon.com/images/I/41KVJ3EVACL.jpg|N/NewPrice|N/UsedPrice
+9780387985022|Theory of Point Estimation (Springer Texts in Statistics)|2nd|E.L. Lehmann|10900|Springer|1998-08-13|http://ecx.images-amazon.com/images/I/41DAC%2B3QZpL.jpg|N/NewPrice|N/UsedPrice
+9789127666856|Textbok, Rivstart A1 + A2|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|61.50|N/UsedPrice
+9789127666863|Ovningsbok, Rivstart A1 + A2|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|40.00|N/UsedPrice
+9780781809917|Vietnamese-English English-Vietnamese Dictionary & Phrasebook (Hippocrene Dictionary & Phrasebooks)|Bilingual|Bac Hoai Tran|1395|Hippocrene Books|2004-03-18|http://ecx.images-amazon.com/images/I/215Q5PDD7VL.jpg|N/NewPrice|N/UsedPrice
+9780781812443|Vietnamese Practical Dictionary: Vietnamese -english/ English-vietnamese (Vietnamese Edition)|Bilingual|Bac Hoai Tran|1995|Hippocrene Books|2010-06-15|http://ecx.images-amazon.com/images/I/51Ju-JLC5GL.jpg|N/NewPrice|N/UsedPrice
+9788140501144|Conversational Vietnamese(7e 10)|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|N/NewPrice|N/UsedPrice
+9780295980898|Chung Ta Noi: Conversational Vietnamese--An Intermediate Text|N/Edition|Le Pham Thuy-Kim|6000|University of Washington Press|2002-03|http://ecx.images-amazon.com/images/I/51KVJM284TL.jpg|N/NewPrice|N/UsedPrice
+9780060931933|Giants in the Earth: A Saga of the Prairie (Perennial Classics)|9th|Ole Edvart Rolvaag|1499|Harper Perennial Modern Classics|1999-08-01|http://ecx.images-amazon.com/images/I/51Oefb2sF7L.jpg|N/NewPrice|11.25
+9780140441673|Peer Gynt : A Dramatic Poem|N/Edition|Henrik Ibsen|1100|Penguin Classics|1966-04-30|http://ecx.images-amazon.com/images/I/51vzkSUPB-L.jpg|11.00|N/UsedPrice
+9780141180649|Hunger (Penguin Twentieth-Century Classics)|Open market ed|Knut Hamsun|1500|Penguin Classics|1998-02-01|http://ecx.images-amazon.com/images/I/51yTk4d3RmL.jpg|N/NewPrice|11.25
+9780451530226|Four Major Plays, Volume I (Signet Classics)|N/Edition|Henrik Ibsen|695|Signet Classics|2006-06-06|http://ecx.images-amazon.com/images/I/41uqlZJzqIL.jpg|6.95|N/UsedPrice
+9781555974701|Out Stealing Horses|N/Edition|Per Pettersen|2200|Graywolf Press|2008-08-23|http://ecx.images-amazon.com/images/I/41-VpM6X8WL.jpg|N/NewPrice|N/UsedPrice
+9788047507027|Erasmus Montanus|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|N/NewPrice|2.25
+9788047570267|V.1 NorwegianShort Stories (wits Ii, #3) Fro|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|N/NewPrice|3.00
+9780231114494|After Last Sky|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|N/NewPrice|N/UsedPrice
+9780262013420|Lacan at the Scene (Short Circuits)|1|Henry Bond|2495|The MIT Press|2009-10-02|http://ecx.images-amazon.com/images/I/51DXzRy1FoL.jpg|N/NewPrice|N/UsedPrice
+9780374563233|Camera Lucida|N/Edition|N/Author|N/Price|N/Publisher|N/Pubdate|N/Image|N/NewPrice|N/UsedPrice
+9780802150622|Stories and Texts for Nothing|N/Edition|Samuel Beckett|1495|Grove Press|1994-01-13|http://ecx.images-amazon.com/images/I/41Y2MRTFETL.jpg|N/NewPrice|N/UsedPrice
+9780811214131|The Rings of Saturn|N/Edition|W.G. Sebald|1495|New Directions|1999-04-01|http://ecx.images-amazon.com/images/I/511aLXZrnFL.jpg|N/NewPrice|N/UsedPrice
+9780819569295|Seven Controlled Vocabularies and Obituary 2004. The Joy of Cooking: [AIRPORT NOVEL MUSICAL POEM PAINTING FILM PHOTO HALLUCINATION LANDSCAPE] (Wesleyan Poetry Series)|N/Edition|Tan Lin|2295|Wesleyan|2010-04-01|http://ecx.images-amazon.com/images/I/31NXwMDpmVL.jpg|N/NewPrice|N/UsedPrice
+9780321746153|Precalculus Plus MyMathLab/MyStatLab Student Access Code Card (4th Edition)|4|Robert F. Blitzer|19133|Addison Wesley|2010-07-09|N/Image|N/NewPrice|N/UsedPrice
+9780131472860|Foundations of MEMS|1|Chang Liu|13200|Prentice Hall|2005-09-05|http://ecx.images-amazon.com/images/I/41YRAKKF8ZL.jpg|N/NewPrice|N/UsedPrice
+9780393978193|The Tempest (Norton Critical Editions)|N/Edition|William Shakespeare|N/Price|W. W. Norton & Company|2003-12|http://ecx.images-amazon.com/images/I/51KASRC82SL.jpg|N/NewPrice|10.35
+9780713668841|The Changeling (New Mermaids)|3rd|Thomas Middleton|1495|Methuen Drama|2006-10-31|http://ecx.images-amazon.com/images/I/51eQEPeVNtL.jpg|N/NewPrice|N/UsedPrice
+9780198751724|A Treatise of Human Nature (Oxford Philosophical Texts)|N/Edition|David Hume|3195|Oxford University Press, USA|2000-02-24|http://ecx.images-amazon.com/images/I/21auozHKpxL.jpg|N/NewPrice|N/UsedPrice
+9780471586999|Power Generation, Operation, and Control|2|Allen J. Wood|15900|Wiley-Interscience|1996-01|http://ecx.images-amazon.com/images/I/513Dh10e1iL.jpg|N/NewPrice|N/UsedPrice
+9780470115398|Transport Phenomena, Revised 2nd Edition|2nd|R. Byron Bird|N/Price|John Wiley & Sons, Inc.|2006-12-11|http://ecx.images-amazon.com/images/I/41NwvmQoo4L.jpg|N/NewPrice|136.35
+9780140150803|The Portable Thomas Jefferson (Portable Library)|N/Edition|Thomas Jefferson|2000|Penguin (Non-Classics)|1977-10-27|http://ecx.images-amazon.com/images/I/41PcFxzFWRL.jpg|N/NewPrice|N/UsedPrice
+9780143035282|The Americanization of Benjamin Franklin|N/Edition|Gordon S. Wood|1600|Penguin (Non-Classics)|2005-05-31|http://ecx.images-amazon.com/images/I/51032V5AJXL.jpg|N/NewPrice|N/UsedPrice
+9780374530235|John Adams: Party of One|First Edition|James Grant|4200|Farrar, Straus and Giroux|2006-02-21|http://ecx.images-amazon.com/images/I/41YCKKEAJEL.jpg|N/NewPrice|N/UsedPrice
+9780451528100|The Autobiography and Other Writings|N/Edition|Benjamin Franklin|495|Signet Classics|2001-09-01|http://ecx.images-amazon.com/images/I/51GA1V11FXL.jpg|N/NewPrice|N/UsedPrice
+9780679764410|American Sphinx: The Character of Thomas Jefferson|N/Edition|Joseph J. Ellis|1600|Vintage|1998-04-07|http://ecx.images-amazon.com/images/I/715Y36JEW7L.gif|N/NewPrice|N/UsedPrice
+9780813918334|Thomas Jefferson and Sally Hemings: An American Controversy|N/Edition|Annette Gordon-Reed|1795|University of Virginia Press|1998-03-22|http://ecx.images-amazon.com/images/I/51HCaWoSesL.jpg|N/NewPrice|N/UsedPrice
+9780226902258|Trade-Offs: An Introduction to Economic Reasoning and Social Issues|N/Edition|Harold Winter|1500|University Of Chicago Press|2005-05-01|http://ecx.images-amazon.com/images/I/31wLgDAcjNL.jpg|N/NewPrice|N/UsedPrice
+9780520244931|Markets and States in Tropical Africa: The Political Basis of Agricultural Policies, With a New Preface (California Series on Social Choice and Political Economy)|2|Robert H. Bates|2495|University of California Press|2005-03-04|http://ecx.images-amazon.com/images/I/514E2PFFAWL.jpg|N/NewPrice|18.75
+9780674276604|Exit, Voice, and Loyalty: Responses to Decline in Firms, Organizations, and States|N/Edition|Albert O. Hirschman|2300|Harvard University Press|1970-01-01|http://ecx.images-amazon.com/images/I/51lnT2P46ZL.jpg|N/NewPrice|17.25
+9780691137476|The Invisible Hook: The Hidden Economics of Pirates|N/Edition|Peter T. Leeson|2495|Princeton University Press|2009-03-31|http://ecx.images-amazon.com/images/I/51Ag0eLEZlL.jpg|N/NewPrice|N/UsedPrice
+9780804748544|The Not So Wild, Wild West: Property Rights on the Frontier (Stanford Economics and Finance)|1|Terry L. Anderson|2895|Stanford Economics and Finance|2004-05-04|http://ecx.images-amazon.com/images/I/41WGZX291HL.jpg|N/NewPrice|N/UsedPrice
+9780817948528|Greener Than Thou (HOOVER INST PRESS PUBLICATION)|N/Edition|Terry L. Anderson|1500|Hoover Institution Press|2008-10-15|http://ecx.images-amazon.com/images/I/41Vrrl3kRIL.jpg|N/NewPrice|11.25
+9780060995058|The Joke (Definitive Version)|N/Edition|Milan Kundera|1399|Harper Perennial|1993-04-14|http://ecx.images-amazon.com/images/I/41vcS2bAEBL.jpg|N/NewPrice|N/UsedPrice
+9780195094466|From Stalinism to Pluralism: A Documentary History of Eastern Europe since 1945|2|Gale Stokes|3995|Oxford University Press, USA|1996-01-04|http://ecx.images-amazon.com/images/I/31g4SlqmdeL.jpg|N/NewPrice|N/UsedPrice
+9780520217607|Letters from Freedom: Post-Cold War Realities and Perspectives (Society and Culture in East-Central Europe)|1|Adam Michnik|2695|University of California Press|1998-09-08|http://ecx.images-amazon.com/images/I/414OyxViapL.jpg|N/NewPrice|N/UsedPrice
+9781586485245|Shtetl|N/Edition|Eva Hoffman|1595|PublicAffairs|2007-10-09|http://ecx.images-amazon.com/images/I/51Zclmz6OJL.jpg|N/NewPrice|N/UsedPrice
+9780130111890|Advanced Calculus for Applications (2nd Edition)|2|Francis B. Hildebrand|8667|Prentice Hall|1976-04-10|http://ecx.images-amazon.com/images/I/41STTB89C9L.jpg|N/NewPrice|N/UsedPrice
+9780131786875|The Jews: A History|1|John Efron|6420|Prentice Hall|2008-07-13|http://ecx.images-amazon.com/images/I/51O1b2X96%2BL.jpg|N/NewPrice|N/UsedPrice
+9780195389067|The Jew in the Modern World: A Documentary History|3|Paul Mendes-Flohr|5995|Oxford University Press, USA|2010-12-21|http://ecx.images-amazon.com/images/I/51ReCdsl6GL.jpg|N/NewPrice|N/UsedPrice
+9780521457149|Introduction to Space Physics|1st|Margaret G. Kivelson|10000|Cambridge University Press|1995-04-28|http://ecx.images-amazon.com/images/I/41wxTiEShFL.jpg|N/NewPrice|N/UsedPrice
+9780205309023|The Elements of Style, Fourth Edition|4th|William Strunk Jr.|995|Longman|1999-08-02|http://ecx.images-amazon.com/images/I/51q3tYpGjnL.jpg|9.95|7.50
+9780387947662|The Craft of Scientific Writing|3rd|Michael Alley|4495|Springer|1996-08-29|http://ecx.images-amazon.com/images/I/51xE-cZVjcL.jpg|N/NewPrice|33.75
+9780963488411|The Elements of Graphing Data|2|William S. Cleveland|4900|Hobart Press|1994-10-01|http://ecx.images-amazon.com/images/I/419GVCrktGL.jpg|N/NewPrice|N/UsedPrice
+9781878220912|Eloquent Science: A Practical Guide to Becoming a Better Writer, Speaker and Scientist|N/Edition|David M. Schultz|4500|American Meteorological Society|2009-12-15|http://ecx.images-amazon.com/images/I/51jZXQcTXSL.jpg|N/NewPrice|N/UsedPrice
+9780131687288|Digital Image Processing (3rd Edition)|3|Rafael C. Gonzalez|18000|Prentice Hall|2007-08-31|http://ecx.images-amazon.com/images/I/51t3V4hER5L.jpg|N/NewPrice|119.65

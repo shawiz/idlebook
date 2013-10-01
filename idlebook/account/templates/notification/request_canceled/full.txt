@@ -1,0 +1,3 @@
+{{writer}} has canceled the request for the book {{book_title}}. You can view the canceled request at:
+
+http://{{ current_site }}/requests/{{trade_id}}

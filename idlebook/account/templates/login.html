@@ -1,0 +1,17 @@
+{% extends "small_base.html" %}
+
+{% block title %}Login / Sign up - Idlebook{% endblock %}
+
+{% block modals %}
+{% include 'signup_modal.html' %}
+{% endblock %}
+
+{% block message %}
+<div id="message">
+    <h2>You need a Facebook account and <br />@uw.edu email to use this service. (<a href="#" rel="tipsy" title="We need to confirm that everyone is a UW student to prevent bad people from stealing your books.">?</a>)</h2>
+    <p class="image-button"><img src="{{STATIC_URL}}images/facebook-login.png" title="Login with Facebook" class="facebook-login-button" /></p>	
+    <p class="tip">Existing users, please login</p>
+    <p class="image-button"><img src="{{STATIC_URL}}images/facebook-signup.png" title="Sign up with Facebook" class="facebook-signup-button" /></p>	
+    <p class="tip">Click the button above to sign up</p>
+</div>
+{% endblock %}

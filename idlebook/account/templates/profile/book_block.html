@@ -1,0 +1,30 @@
+{% load money_format %}
+
+<li class="book-block">
+	<a href="/book/{{item.book.id}}/"><img src="{{MEDIA_URL}}{{item.book.image|default:'books/book-default.png'}}" /></a>
+	<div class="book-info">
+		<h4 class="title"><a href="/book/{{item.book.id}}/" title="{{item.book.title}}">{{item.book.title|truncatewords:7}}</a></h4>
+		{% if item.copy.lease_price or item.copy.sale_price %}
+		    {% if item.copy.lease_price %}
+		    <p>Lease: {{item.copy.lease_price|price}}</p>					    
+		    {% endif %}
+		    {% if item.copy.sale_price %}
+		    <p>Sale: {{item.copy.sale_price|price}}</p> 
+		    {% endif %}
+		{% endif %}
+		{% if item.copy.condition %}
+		<span>{{item.condition}}</span>
+		{% endif %}
+	    {% if is_myself %}
+		    {% if item.copy.lease_price or item.copy.sale_price %}
+		    <p>
+		        <span class="copy-edit-button hovering" id="copy-{{item.copy.id}}">Update</span>
+		        <span class="remove-button hovering" id="copy-remove-{{item.book.id}}">Remove</span>
+		    </p>
+		    {% else %}
+		    <p class="edit-button"><span class="copy-edit-button" id="copy-{{item.copy.id}}">Set price and condition</span></p>
+		    <span class="remove-button hovering" id="copy-remove-{{item.book.id}}">Remove</span>
+		    {% endif %}
+		{% endif %}
+	</div>
+</li>

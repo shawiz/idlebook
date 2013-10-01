@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+
+{% block title %}{{ flatpage.title }} - idlebook{% endblock %}
+
+{% block facebook_meta %}
+<meta property="fb:admins" content="1146120396" />
+<meta property="fb:app_id" content="206779069338929"/>
+{% endblock %}
+
+{% block css %}
+<link href="{{STATIC_URL}}css/flatpage.css" rel="stylesheet" type="text/css" />
+<link href="{{STATIC_URL}}css/help.css" rel="stylesheet" type="text/css" />
+{% endblock %}
+
+{% block content %}
+<div id="content" class="dark">
+	<div id="container">
+		<div id="main" class="wide">
+		    <h1 class="title">{{ flatpage.title }}</h1>
+        	{{ flatpage.content|safe }}
+        </div>
+        <div class="clear"></div>
+	</div>
+</div>
+{% endblock %}

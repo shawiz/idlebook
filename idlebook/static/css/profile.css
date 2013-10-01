@@ -1,0 +1,294 @@
+h2 {
+	font-weight: normal;
+	margin-bottom: 10px;
+}
+
+.add-button {
+	width: 200px;
+	background-color: #efefef;
+	float: left;
+	margin-right: 20px;
+	text-align: center;
+	padding: 10px 0px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+}
+
+.add-button a {
+	color: #333;
+}
+
+.add-button strong {
+	font-size: 40px;
+	line-height: 40px;
+	font-weight: bold;
+}
+
+ul.book-detail-list li {
+	float: left;
+	margin: 20px 40px 0px 0;
+	width: 260px;
+	height: 150px;
+}
+
+ul.book-detail-list li img {
+	display: block;
+	width: 85px;
+	border: 1px solid #ddd;
+	float: left;
+}
+
+ul.book-detail-list li .book-info {
+	margin-left: 85px;
+	padding-left: 15px;
+	width: 180px;
+	font-size: 13px;
+}
+
+ul.book-detail-list li .book-info h4 {
+	margin-bottom: 3px;
+	font-size: 13px;
+}
+
+ul.book-detail-list li .book-info p {
+	margin-bottom: 1px;
+}
+
+ul.book-detail-list li .book-info p.edit-button {
+	margin-top: 3px;
+}
+
+ul.book-detail-list li .book-info .course {
+	background-color: #eee;
+	color: #555;
+	font-size: 11px;
+	border: 1px solid #ddd;
+	padding: 2px 4px;
+	-moz-border-radius: 12px;
+	-webkit-border-radius: 12px;
+	border-radius: 12px;
+}
+
+.copy-edit-button {
+	background-color: #f4f4ec;
+	font-size: 12px;
+	padding: 2px 6px;
+	cursor: pointer;
+	border-bottom: 1px solid #ccc;
+	border-right: 1px solid #ddd;
+	margin-right: 2px;
+}
+
+.remove-button,
+.remove-wish-button {
+	background-color: #f4f4ec;
+	font-size: 12px;
+	padding: 2px 6px;
+	cursor: pointer;
+	border-bottom: 1px solid #ccc;
+	border-right: 1px solid #ddd;
+}
+
+.hovering {
+	display: none;
+}
+
+.book-block:hover .hovering {
+	display: inline;
+}
+
+.main-block .tip {
+	color: #777;
+	margin-bottom: 10px;
+}
+
+#search-bar {
+	margin-bottom: 10px;
+	width: 610px;
+}
+
+#search-bar #search-box {
+	margin: auto;
+	width: 598px;
+	padding: 6px 5px;
+	border: 1px solid #aaa;
+	background-color: #fff;
+	color: #999;
+	font-size: 15px;
+	font-family: Georgia, "Times New Roman", serif;
+	font-style: italic;
+	background : #fff url('../images/search-icon.png') 585px center no-repeat;
+}
+
+
+#search-bar #search-box.tip-off {
+	color: #333;
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	font-style: normal;
+}
+
+#search-bar #search-box.tip-half {
+	color: #ccc;
+	-moz-box-shadow: inset 0 2px 3px rgba(0, 0, 0, 0.1);
+	-webkit-box-shadow: inset 0 2px 3px rgba(0, 0, 0, 0.1);
+	box-shadow: inset 0 2px 3px rgba(0, 0, 0, 0.1);
+}
+
+
+#profile-desc {
+	color: #666;
+	margin: 6px 0px 10px 1px;
+	font-size: 14px;
+	width: 650px;
+	line-height: 18px;
+	overflow: hidden;
+}
+
+#profile-details {
+	margin-top: -100px;
+	padding: 5px;
+	width: 300px;
+	background-color: #fff;	
+	border: 1px solid #ddd;
+}
+
+.profile-side-block {
+	padding: 10px;
+	border-top: 1px dashed #ccc;
+	color: #000;
+	line-height: 18px;
+}
+
+.profile-side-block h3 {
+	font-size: 16px;
+	color: #555;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.profile-side-block p {
+	font-size: 14px;
+	line-height: 20px;
+}
+
+.profile-side-block p.tip {
+	color: #666;
+	font-size: 12px;
+	margin-top: 3px;
+}
+
+#profile-picture, #profile-stats {
+	border-top: none;
+}
+
+#profile-stats span {
+	color: #000;
+}
+
+#profile-picture img {
+	float: left;
+	margin-right: 10px;
+}
+
+#profile-picture .promote {
+    float: right;
+    max-width: 80px;
+    color: #333;
+    padding: 1px 4px;
+    background-color: #eee;
+}
+
+.like {
+    margin-top: 3px;
+}
+
+#profile-picture .option {
+	display: inline-block;
+	padding: 1px 6px;
+	margin-bottom: 5px;
+	background-color: #eee;
+	color: #333;
+}
+
+.profile-count {
+	float: left;
+	border-left: 1px solid #eee;
+	margin-right: 12px;
+	padding-left: 12px;
+	font-size: 13px;
+	text-align: center;
+	line-height: 18px;
+}
+
+.profile-count.first {
+	border-left: none;
+}
+
+.profile-count strong span {
+	font-size: 22px;
+	cursor: help;
+}
+
+.profile-edit-button {
+	display: none;
+	float: right;
+}
+
+.profile-side-block:hover .profile-edit-button {
+	display: inline;
+}
+
+#profile-links img {
+	margin-right: 5px;
+}
+
+#profile-links .facebook-link {
+	color: #3B5998;
+	font-weight: bold;
+}
+
+.reviews-seller {
+	display: none;
+}
+
+
+/*
+#profile-activity ul li {
+	border-bottom: 1px dotted #ddd;
+	margin-bottom: 5px;
+	padding-bottom: 3px;
+}
+
+#profile-activity ul li img {
+	float: left;
+	margin-right: 15px;
+}
+
+#profile-activity ul li p {
+	line-height: 50px;
+}
+
+#profile-activity ul li p.time {
+	float: right;
+	line-height: 50px;
+	color: #999;
+}
+
+#add-friend-box .modal-box-body {
+	height: 120px;
+}
+
+#add-friend-box .modal-box-body textarea.modal-message {
+	float: right;
+	height: 80px;
+	width: 300px;
+	font-size: 13px;
+}
+
+#message-box .modal-box-body textarea.modal-message {
+	width: 360px;
+	height: 80px;
+	margin-top: 5px;
+}
+*/

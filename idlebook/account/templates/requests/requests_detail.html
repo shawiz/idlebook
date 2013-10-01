@@ -1,0 +1,331 @@
+{% extends "requests/requests_base.html" %}
+
+{% load name_format %}
+{% load state_format %}
+{% load money_format %}
+{% load switch_tag %}
+{% load elif_tag %}
+{% load humanize %}
+
+{% block modals %}
+{% include "edit_copy_modal.html" %}
+{% include "special_offer_modal.html" %}
+{% endblock %}
+
+{% block requests_tabs %}
+<div id="settings-tabs">
+	<ul class="tabs">
+		{% if role == 'seller' %}
+		<li class="active"><a href="/requests/">Requests received <span class="count">{{unread_requests_received}}</span></a></li>
+		<li><a href="/requests/sent/">Requests sent <span class="count">{{unread_requests_sent}}</span></a></li>
+		{% else %}
+		<li><a href="/requests/">Requests received <span class="count">{{unread_requests_received}}</span></a></li>
+		<li class="active"><a href="/requests/sent/">Requests sent <span class="count">{{unread_requests_sent}}</span></a></li>
+		{% endif %}
+	</ul>
+</div>
+{% endblock %}
+
+{% block requests_main %}
+<div id="main" class="wide">
+    
+    {% if role == 'seller' %}
+    <div class="request-detail">
+        <a href="/book/{{book_id}}/" title="View Book"><img class="request-image" src="{{MEDIA_URL}}{{request.image|default:'books/book-default.png'}}" /></a>
+	    <div class="request-main">
+    	    <div class="request-prices">
+    		{% switch request.state %}
+    			{% case 1 2 %}
+    				{% if request.special_offer != None %}
+    					<span class="request-price strike">{{request.price|price}}</span>
+    					<span class="request-price">{{request.special_offer|price}}</span> <span class="modal-link special-offer-button {{request.type}}" id="make-special-offer-{{request.id}}">Update price</span>
+    				{% else %}
+    					<span class="request-price">{{request.price|price}}</span> <span class="modal-link special-offer-button {{request.type}}" id="make-special-offer-{{request.id}}">Update price</span>
+    				{% endif %}
+    			{% else %}
+    				{% if request.special_offer != None %}
+    					<span class="request-price strike">{{request.price|price}}</span>
+    				    <span class="request-price">{{request.special_offer|price}}</span>
+    				{% else %}
+    			        <span class="request-price">{{request.price|price}}</span>
+    		        {% endif %}
+    		        {% if request.paid %}
+    		        <a href="/wallet/" class="payment-status" rel="tipsy" title="View your balance and transaction history in your Wallet">Paid</a>
+    		        {% else %}
+    		        <a class="payment-status" rel="tipsy" title="You will be paid once the renter/buyer picks up your book from our dropbox">Not Paid</a>
+    		        {% endif %}
+    		{% endswitch %}
+    		</div>
+
+    		<p class="request-title"><a href="/book/{{book_id}}/" title="View Book">{{request.title}}</a></p>
+            <div class="request-info">
+    			<p><span class="request-label">requested by</span><a href="/person/{{ request.buyer_username }}/">{{ request.buyer_fullname }}</a><span class="request-time">{{request.add_time|naturalday}}</span></p>
+    			{% if request.type == 'lease' %}
+    			<p><span class="request-label">type</span>Rent</p>
+    			<p><span class="request-label">rental period</span>{{request.start_date}} - {{request.due_date}} ({{request.duration}})</p>	
+    			{% else %}
+    			<p><span class="request-label">type</span>Buy</p>
+    			{% endif %}
+			
+    			<table class="request-status-table"><tbody><tr>
+    			{% if request.type == 'lease' %}
+                    {% switch request.phase %}
+    				    {% case 1 %}				
+        				        <td class="current"><span class="count">1</span> <span class="request-status">{{request.state|format_state_status:'lease'}}</span></td>
+        				        <td class="not-complete"><span class="count">2</span> owner dropped off</td>
+        				        <td class="not-complete"><span class="count">3</span> renter picked up</td>
+        				        <td class="not-complete last"><span class="count">4</span> returned</td>	
+    				    {% case 2 %}
+    				        <td class="complete"><span class="count">1</span> request</td>
+    				        <td class="current"><span class="count">2</span> <span class="request-status">{{request.state|format_state_status:'lease'}}</span></td>
+    				        <td class="not-complete"><span class="count">3</span> renter picked up</td>
+    				        <td class="not-complete last"><span class="count">4</span> returned</td>                    
+                        {% case 3 %}
+    				        <td class="complete"><span class="count">1</span> request</td>
+    				        <td class="complete"><span class="count">2</span> owner dropped off</td>
+    				        <td class="current"><span class="count">3</span> <span class="request-status">{{request.state|format_state_status:'lease'}}</span></td>
+    				        <td class="not-complete last"><span class="count">4</span> returned</td>
+                        {% case 4 %}
+    				        <td class="complete"><span class="count">1</span> request</td>
+    				        <td class="complete"><span class="count">2</span> owner dropped off</td>
+    				        <td class="complete"><span class="count">3</span> renter picked up</td>
+    				        <td class="current last"><span class="count">4</span> <span class="request-status" >{{request.state|format_state_status:'lease'}}</span></td>
+                    {% endswitch %}
+            
+                {% else %}
+                    {% switch request.phase %}
+    				    {% case 1 %}
+        				    <td class="current"><span class="count">1</span> <span class="request-status">{{request.state|format_state_status:'sale'}}</span></td>
+        				    <td class="not-complete"><span class="count">2</span> seller dropped off</td>
+        				    <td class="not-complete last"><span class="count">3</span> buyer picked up</td>
+    				    {% case 2 %}
+    				        <td class="complete"><span class="count">1</span> request</td>
+    				        <td class="current"><span class="count">2</span> <span class="request-status">{{request.state|format_state_status:'sale'}}</span></td>
+    				        <td class="not-complete last"><span class="count">3</span> buyer picked up</td>
+                        {% case 3 %}
+    				        <td class="complete"><span class="count">1</span> request</td>
+    				        <td class="complete"><span class="count">2</span> seller dropped off</td>
+    				        <td class="current last"><span class="count">3</span> <span class="request-status">{{request.state|format_state_status:'sale'}}</span></td>
+                    {% endswitch %}
+                {% endif %}
+    			</tr></tbody></table>
+		    
+    			{% if request.seller_notice %}
+    			<div class="request-action-triangle phase-{{request.phase}} {{request.seller_response_class}}"></div>
+    			<div class="request-action phase-{{request.phase}} {{request.seller_response_class}}">
+    				{% switch request.state %}
+    				    {% case 1 %}
+    						<p class="{{request.seller_response_class}}">{{request.state|format_state_seller:request.type}}</p>
+    						<form action="{% url idlebook.account.views.respond_request %}" method="post" class="respond-form secondary">
+    							{% csrf_token %}
+    							<label>other actions:</label>
+    							<input type="hidden" name="trade_id" value="{{request.id}}" />
+    							<input type="submit" title="Decline to lend the book to {{request.buyer_fullname}}" name="reject" class="active warning" id="reject-{{request.id}}" value="Decline Trade" />
+    							<input type="submit" title="Hide this request (the sender won't know)" name="ignore" id="ignore-{{request.id}}" value="Ignore Trade" />
+    						</form>
+    					{% case 2 %}
+    						<form action="{% url idlebook.account.views.respond_request %}" method="post" class="respond-form">
+    							{% csrf_token %}
+    							<input type="hidden" name="trade_id" value="{{request.id}}" />
+    							<input type="submit" title="Agree to lend the book to {{request.buyer_fullname}}" name="accept" class="active" id="accept-{{request.id}}" value="Accept" />
+    							<input type="submit" title="Decline to lend the book to {{request.buyer_fullname}}" name="reject" class="active warning" id="reject-{{request.id}}" value="Decline" />
+    							<input type="submit" title="Hide this request (the sender won't know)" name="ignore" id="ignore-{{request.id}}" value="Ignore" />
+    						</form>
+    					{% case 10 11 %}
+    					    <p class="{{request.seller_response_class}}">{{request.state|format_state_seller:request.type}}</p>
+    						<form action="{% url idlebook.account.views.respond_request %}" method="post" class="respond-form secondary">
+    							{% csrf_token %}
+    							<label>other actions:</label>
+    							<input type="hidden" name="trade_id" value="{{request.id}}" />
+    							<input type="submit" title="Cancel this trade" name="cancel" id="cancel-{{request.id}}" value="Cancel Trade" />
+    						</form>
+    					{% case 30 %}
+    					    <p class="{{request.seller_response_class}}">
+    					    {% if request.type == 'lease' %}
+    					        {{request.state|format_state_seller:'lease'}}
+    					    {% else %}
+    					        <p class="{{request.seller_response_class}}"><a href="/requests/{{request.id}}/review/">{{request.state|format_state_seller:'sale'}}</a>
+    					    {% endif %}
+    					    </p>
+    					{% case 41 %}
+    					    <p class="{{request.seller_response_class}}"><a href="/requests/{{request.id}}/review/">{{request.state|format_state_seller:'lease'}}</a></p>
+                    	{% else %}
+    						<p class="{{request.seller_response_class}}">{{request.state|format_state_seller:request.type}}</p>
+    				{% endswitch %}
+    			</div>
+    			{% endif %}
+            </div>
+    	</div> <!-- request-main -->
+	</div> <!-- request -->
+	
+	
+	
+	{% elif role == 'buyer' %}
+	<div class="request-detail">
+		<a href="/book/{{book_id}}/" title="View Book"><img class="request-image" src="{{MEDIA_URL}}{{request.image|default:'books/book-default.png'}}" /></a>
+		<div class="request-main">
+		    
+			<div class="request-prices">
+			    {% if request.special_offer != None %}
+    			    <span class="request-price strike">{{request.price|price}}</span>
+    			    <span class="request-price">{{request.special_offer|price}}</span>
+    			{% else %}
+    		        <span class="request-price">{{request.price|price}}</span>
+    	        {% endif %}
+    	        {% if request.paid %}
+    	            <a href="/wallet/" class="payment-status" rel="tipsy" title="View your balance and transaction history in your Wallet">Paid</a>
+    	        {% else %}
+    	            <a class="payment-status" rel="tipsy" title="You will be paying when picking up the book from our dropbox">Not Paid</a>
+    	        {% endif %}
+			</div>
+		    
+			<p class="request-title"><a href="/book/{{book_id}}/" title="View Book">{{ request.title }}</a></p>
+			<div class="request-info">
+				<p><span class="request-label">requested </span><a href="/person/{{ request.seller_username }}/">{{ request.seller|name:user }}</a><span class="request-time">{{request.add_time|naturalday}}</span></p>
+				{% if request.type == 'lease' %}
+				<p><span class="request-label">type</span>Rent</p>
+				<p><span class="request-label">rental period</span>{{ request.start_date }} - {{ request.due_date }} ({{request.duration}})</p>	
+				{% else %}
+				<p><span class="request-label">type</span>Buy</p>
+				{% endif %}
+				
+				<table class="request-status-table"><tbody><tr>
+				{% if request.type == 'lease' %}
+                    {% switch request.phase %}
+    				    {% case 1 %}
+        				        <td class="current"><span class="count">1</span> 
+        				            {% if request.state == 3 %}
+                    				<span class="request-status">{{request.prev_state|format_state_status:'lease'}}</span>
+                    				{% else %}
+                    				<span class="request-status">{{request.state|format_state_status:'lease'}}</span>
+                    			    {% endif %}
+        				        </td>
+        				        <td class="not-complete"><span class="count">2</span> owner dropped off</td>
+        				        <td class="not-complete"><span class="count">3</span> renter picked up</td>
+        				        <td class="not-complete last"><span class="count">4</span> returned</td>	
+    				    {% case 2 %}
+    				        <td class="complete"><span class="count">1</span> request</td>
+    				        <td class="current"><span class="count">2</span> <span class="request-status">{{request.state|format_state_status:'lease'}}</span></td>
+    				        <td class="not-complete"><span class="count">3</span> renter picked up</td>
+    				        <td class="not-complete last"><span class="count">4</span> returned</td>                    
+                        {% case 3 %}
+    				        <td class="complete"><span class="count">1</span> request</td>
+    				        <td class="complete"><span class="count">2</span> owner dropped off</td>
+    				        <td class="current"><span class="count">3</span> <span class="request-status">{{request.state|format_state_status:'lease'}}</span></td>
+    				        <td class="not-complete last"><span class="count">4</span> returned</td>
+                        {% case 4 %}
+    				        <td class="complete"><span class="count">1</span> request</td>
+    				        <td class="complete"><span class="count">2</span> owner dropped off</td>
+    				        <td class="complete"><span class="count">3</span> renter picked up</td>
+    				        <td class="current last"><span class="count">4</span> <span class="request-status" >{{request.state|format_state_status:'lease'}}</span></td>
+                    {% endswitch %}
+                
+                {% else %}
+                    {% switch request.phase %}
+    				    {% case 1 %}
+        				    <td class="current"><span class="count">1</span> 
+        				        {% if request.state == 3 %}
+                			    <span class="request-status">{{request.prev_state|format_state_status:'sale'}}</span>
+                			    {% else %}
+                			    <span class="request-status">{{request.state|format_state_status:'sale'}}</span>
+                			    {% endif %}
+        				    </td>
+        				    <td class="not-complete"><span class="count">2</span> seller dropped off</td>
+        				    <td class="not-complete last"><span class="count">3</span> buyer picked up</td>
+    				    {% case 2 %}
+    				        <td class="complete"><span class="count">1</span> request</td>
+    				        <td class="current"><span class="count">2</span> <span class="request-status">{{request.state|format_state_status:'sale'}}</span></td>
+    				        <td class="not-complete last"><span class="count">3</span> buyer picked up</td>
+                        {% case 3 %}
+    				        <td class="complete"><span class="count">1</span> request</td>
+    				        <td class="complete"><span class="count">2</span> seller dropped off</td>
+    				        <td class="current last"><span class="count">3</span> <span class="request-status">{{request.state|format_state_status:'sale'}}</span></td>
+                    {% endswitch %}
+                {% endif %}
+				</tr></tbody></table>
+				
+				{% if request.buyer_notice %}
+				<div class="request-action-triangle phase-{{request.phase}} {{request.buyer_response_class}}"></div>
+				<div class="request-action phase-{{request.phase}} {{request.buyer_response_class}}">
+                	{% switch request.state %}
+    					{% case 1 %}
+    						<p class="{{request.buyer_response_class}}">{{request.state|format_state_buyer:request.type}}</p>
+    						<form action="{% url idlebook.account.views.respond_request %}" method="post" class="respond-form">
+    							{% csrf_token %}
+    							<input type="hidden" name="trade_id" value="{{request.id}}" />
+    							<input type="submit" title="Agree to buy/rent this book for {{request.orginial_price}}" name="accept" class="active" id="accept-{{request.id}}" value="Accept Price" />
+    							<a href="/requests/{{request.id}}/"><button name="message">Message Owner</button></a>
+    							<input type="submit" title="Cancel request for the book from {{request.seller|halfname}}" name="cancel" id="cancel-{{request.id}}" class="secondary" value="Cancel Trade" />
+    						</form>
+    					{% case 2 3 10 %}
+						    <p class="{{request.buyer_response_class}}">{{request.state|format_state_buyer:request.type}}</p>
+    						<form action="{% url idlebook.account.views.respond_request %}" method="post" class="respond-form secondary">
+    							{% csrf_token %}
+    							<label>other actions:</label>
+    							<input type="hidden" name="trade_id" value="{{request.id}}" />
+    							<input type="submit" title="Cancel request for the book from {{request.seller|name:user}}" name="cancel" id="cancel-{{request.id}}" value="Cancel Trade" />
+    						</form>
+    				    {% case 30 %}
+    					    <p class="{{request.buyer_response_class}}">
+    					    {% if request.type == 'lease' %}
+    					        {{request.state|format_state_buyer:'lease'}}
+    					    {% else %}
+    					        <p class="{{request.buyer_response_class}}"><a href="/requests/{{request.id}}/review/">{{request.state|format_state_buyer:'sale'}}</a>
+    					    {% endif %}
+    					    </p>
+    					{% case 41 %}
+    					    <p class="{{request.buyer_response_class}}"><a href="/requests/{{request.id}}/review/">{{request.state|format_state_buyer:'lease'}}</a></p>
+    					{% else %}
+    						<p class="{{request.buyer_response_class}}">{{request.state|format_state_buyer:request.type}}</p>
+    				{% endswitch %}
+    			</div>
+                {% endif %}
+
+				{% if request.last_message %}
+					<div class="request-last-message">
+					    <p><img src="{{MEDIA_URL}}{{request.last_message.sender.profile.thumb}}" /><a href="/person/{{request.last_message.sender.profile.username}}">{{request.last_message.sender|name:user}}</a>: {{request.last_message.content}} <a class="reply-button" href="/requests/{{request.id}}"><button>View Conversation</button></a></p>
+					    <div class="clear"></div>
+				    </div>
+				{% endif %}
+
+			</div>
+		</div>
+		<div class="clear"></div>
+	</div>
+	{% endif %}
+	
+	<div id="messages">
+	    {% for message in trade_messages %}
+    	<div class="message">
+    		<img class="sender-image" id="{{message.id}}" src="{{MEDIA_URL}}{{message.sender.profile.thumb}}" />
+    		<div class="message-main">
+    			<div class="message-info">
+    				<a href="/person/{{message.sender.profile.username}}/">{{message.sender.first_name}} {{message.sender.last_name}}</a>
+    				<span class="message-time">{{message.add_time}}</span>
+    			</div>
+    			<div class="message-body">
+    				<p>{{message.content}}</p> 
+    			</div>
+    		</div>
+    		<div class="clear"></div>
+    	</div>
+    	{% endfor %}
+    	<div class="message">
+    		<img class="sender-image" src="{{MEDIA_URL}}{{user.profile.thumb}}" />
+    		<div class="message-main">
+    			<form action="{% url idlebook.account.views.view_request request.id %}" method="post">
+    				{% csrf_token %}
+    				<div class="message-body">
+    					<textarea class="message-reply" name="content"></textarea>
+    				</div>
+    				<input type="hidden" name="next" value="{{next}}"/>
+    				<input type="submit" class="active message-reply-button" value="Reply" />
+    			</form>
+    		</div>
+    		<div class="clear"></div>
+    	</div>
+    </div>
+	
+</div>
+<div class="clear"></div>
+{% endblock %}

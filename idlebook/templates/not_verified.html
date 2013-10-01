@@ -1,0 +1,6 @@
+{% if user.is_authenticated and not user.profile.email_verified %}
+<div id="verification-wrap">
+	<div id="verification"><p>Complete your sign up by checking <strong>{{user.email}}</strong> to confirm. (<a href="#" id="send-confirmation">resend confirmation email</a>)</p>
+	<p><strong>Please don't forget to check your spam box.</strong> Check email now: <a target="_blank" href="http://gmail.uw.edu" title="Quick link to your Gmail inbox">Gmail.uw.edu</a> &#8226; <a target="_blank" href="http://www.outlook.com/" title="Quick link to your Windows Live inbox">Outlook.com</a><p></div>
+</div>
+{% endif %}

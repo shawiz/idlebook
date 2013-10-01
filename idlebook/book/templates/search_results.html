@@ -1,0 +1,87 @@
+{% extends "base.html" %}
+
+{% block title %}Search results for {{term}} - Idlebook{% endblock %}
+
+{% block css %}
+<link href="{{STATIC_URL}}css/book.css" rel="stylesheet" type="text/css" />
+<link href="{{STATIC_URL}}css/search.css" rel="stylesheet" type="text/css" />
+{% endblock %}
+
+{% block scripts %}
+<script src="{{STATIC_URL}}scripts/edit.copy.js" type="text/javascript"></script>
+<script src="{{STATIC_URL}}scripts/own_wish.book.js" type="text/javascript"></script>
+<script src="{{STATIC_URL}}scripts/search_results.js" type="text/javascript"></script>
+{% endblock %}
+
+{% block modals %}
+{% include "edit_copy_modal.html" %}
+{% endblock %}
+
+{% block content %}
+<div id="content">
+	<div id="container">
+		<h1 class="title">Search results for "{{term}}"</h1>		
+		<div id="main">
+            <div class="pagination">
+                <div class="search-result-info">{{books.start_index}}-{{books.end_index}} of {{total}} results</div>
+			    <span class="step-links">
+			        <span class="current">
+			            page {{books.number}} of {{books.paginator.num_pages}}
+			        </span>
+			        {% if books.has_previous %}
+			            <a href="?q={{term}}&page={{books.previous_page_number}}">previous</a>
+			        {% endif %}
+                    {% if books.has_next %}
+			            <a href="?q={{term}}&page={{books.next_page_number}}">next</a>
+			        {% endif %}
+			    </span>
+			</div>
+			{% for book in books.object_list %}
+			<div class="search-result-row">
+				<div class="image"><a href="/book/{{book.id}}"><img src="{{MEDIA_URL}}{{book.image|default:'books/book-default.png'}}" /></a></div>
+				<div class="detail">
+					<h2 class="book-title"><a href="/book/{{book.id}}">{{book.title}}</a></h2>
+					<p class="description">
+						{% if book.authors %}{{book.authors}}{% endif %}
+						{% if book.edition %} / {{book.edition}} edition{% endif %}
+						{% if book.publication_date %} / {{book.publication_date}}{% endif %}
+						{% if book.publisher %} / {{book.publisher}}{% endif %} </p>
+					{% if book.courses %}
+    				<p class="courses">
+    				    {% for course in book.courses.all %}
+    				        <span class="course">{{course.name}}</span>
+    				    {% endfor %}
+    				</p>
+    				{% endif %}
+    				<button class="wish-button active" id="own-book-{{book.id}}">Add to my wishlist</button>
+					<button class="own-button active" id="wish-book-{{book.id}}">I own it</button>
+					<a href="/book/{{book.id}}#copies"><button>View available copies</button></a>
+				</div>
+			</div>
+			{% empty %}
+		    <p>No book is found</p>
+		    {% endfor %}
+
+            <div class="pagination bottom">
+                <div class="search-result-info">{{books.start_index}}-{{books.end_index}} of {{total}} results</div>
+			    <span class="step-links">
+			        <span class="current">
+			            page {{books.number}} of {{books.paginator.num_pages}}
+			        </span>
+                    {% if books.has_previous %}
+			            <a href="?q={{term}}&page={{books.previous_page_number}}">previous</a>
+			        {% endif %}
+			        {% if books.has_next %}
+			            <a href="?q={{term}}&page={{books.next_page_number}}">next</a>
+			        {% endif %}
+			    </span>
+			</div>
+		</div>
+		
+		<div id="side">
+			<div class="side-item"></div>
+		</div>
+		<div class="clear"></div>
+	</div>
+</div>
+{% endblock %}

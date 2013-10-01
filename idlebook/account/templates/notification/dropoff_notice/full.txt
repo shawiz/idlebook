@@ -1,0 +1,9 @@
+{{writer}} has dropped off the book {{book_title}} at our dropbox (Ave Copy Center). Please pick it up.
+
+The detailed directions to the dropbox is at:
+
+http://{{current_site}}/dropbox/
+
+You can view the book request at:
+
+http://{{current_site}}/requests/{{trade_id}}

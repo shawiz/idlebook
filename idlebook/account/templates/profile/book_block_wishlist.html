@@ -1,0 +1,14 @@
+<li class="book-block">
+	<a href="/book/{{item.book.id}}/"><img src="{{MEDIA_URL}}{{item.book.image|default:'books/book-default.png'}}" /></a>
+	<div class="book-info">
+		<h4 class="title"><a href="/book/{{item.book.id}}/" title="{{item.book.title}}">{{item.book.title|truncatewords:8}}</a></h4>
+		<p>
+		    {% for course in item.courses %}
+			<span class="course">{{course.name}}</span>
+			{% endfor %}
+			{% if is_myself %}
+            <p><span class="remove-wish-button hovering" id="remove-wish-{{item.book.id}}">Remove</span></p>
+            {% endif %}
+		</p>
+	</div>
+</li>

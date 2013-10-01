@@ -1,0 +1,98 @@
+.intro {
+    padding-top: 1px;
+    padding-bottom: 1px;
+	margin-bottom: 20px;
+	background-color: #fff;
+	width: 100%;
+	-moz-box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+	-webkit-box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.intro p {
+	margin: 10px 20px;
+	font-size: 14px;
+	line-height: 20px;
+	color: #333;
+}
+
+.intro p em {
+	font-style: normal;
+	color: #666;
+	font-weight: bold;
+}
+
+#regular-balance h2 {
+	margin: 5px 0 15px 0;
+	font-size: 16px;
+	padding-top: 5px;
+}
+
+#security-deposit h2 {
+	margin: 30px 0 15px 0;
+	font-size: 16px;
+}
+
+#order-check-button {
+	float: right;
+	margin-bottom: 10px;
+	font-weight: bold;
+	color: #555;
+}
+
+table.transactions {
+	background-color: #fff;
+	width: 100%;
+	text-align: center;
+	-moz-box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+	-webkit-box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+table.transactions tr td {
+	padding: 10px 5px;
+	border-top: 1px dotted #ccc;	
+}
+
+table.transactions tr th {
+	padding: 10px 5px;
+	font-weight: bold;
+	color: #555;
+	border-bottom: 1px solid #ccc;
+}
+
+table.transactions tr td p {
+    margin-bottom: 8px;
+}
+
+table.transactions tr td p.last {
+    margin-bottom: 0;
+}
+
+table.transactions tr td .account {
+    font-size: 12px;
+    background-color: #eee;
+    border: 1px solid #ccc;
+    padding: 1px 3px;
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+}
+
+table.transactions tr td.positive {
+	color: #0000ff;
+}
+
+table.transactions tr td.negative {
+	color: #ff0000;
+}
+
+table.transactions tr td.none {
+	padding: 15px;
+	font-size: 14px;
+}
+
+table.transactions tr td.balance {
+    font-weight: bold;
+    color: #333;
+}

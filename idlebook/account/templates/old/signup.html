@@ -1,0 +1,65 @@
+{% extends "base.html" %}
+
+{% block title %}Sign up - idlebook{% endblock %}
+
+{% block css %}
+<link href="{{STATIC_URL}}css/account.css" rel="stylesheet" type="text/css" />
+{% endblock %}
+
+{% block header %}
+<div id="header-wrap">
+	<div id="header">
+		<div id="site-logo"><a href="/"><img src="{{STATIC_URL}}images/site-logo.png" /></a></div>
+	</div>
+</div>
+{% endblock %}
+
+{% block content %}
+<div id="content" class="dark">
+	<div id="container">
+		<div id="main">
+			<div class="account-form">
+				<h2>Sign up</h2>
+				{% if user.is_authenticated %}
+				<p class="notice">You are already logged in.</p>
+				{% else %}
+				
+				<form action="{% url idlebook.account.views.signup %}" method="post">
+					{% csrf_token %}
+					<div class="form-row first">
+						<label for="email">{{ form.email.label_tag }}</label>
+						{{ form.email }} @uw.edu
+					</div>
+					<div class="form-row">
+						<div class="form-row-half">
+							<label for="first-name">{{ form.first_name.label_tag }}</label>
+							{{ form.first_name }}
+						</div>
+						<div class="form-row-half">
+							<label for="last-name">{{ form.last_name.label_tag }}</label>
+							{{ form.last_name }}
+						</div>
+						<div class="clear"></div>
+					</div>
+					<div class="form-row">
+						<label for="password">{{ form.password.label_tag }}</label>
+						{{ form.password }}
+					</div>
+					<div class="form-row last">
+						<p class="account-desc">By clicking "Create Account", you are indicating that you have read and agree to the <a href="/terms/" target="_blank">Terms of Service</a></p>
+					</div>
+					<div class="form-row last">
+						<input type="hidden" name="next" value="{{next}}" />
+						<input type="submit" name="submit" class="active" value="Create Account" />
+					</div>
+				</form>
+				{% endif %}
+			</div>
+		</div>
+		<div id="aside">
+			
+		</div>
+		<div class="clear"></div>
+	</div>
+</div>
+{% endblock %}

@@ -1,0 +1,3 @@
+{{writer}} just wrote a review for you regarding to your trade experience with the book {{book_title}}. You can view the review at:
+
+http://{{ current_site }}/requests/{{trade_id}}/review/

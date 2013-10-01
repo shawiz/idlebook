@@ -1,0 +1,304 @@
+.account-form {
+	background-color: #fff;
+	-moz-box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+	-webkit-box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.account-form h2 {
+	font-weight: bold;
+	padding: 20px 20px 10px;
+	border-bottom: 1px solid #ccc;
+}
+
+.account-form .notice {
+	padding: 10px 20px 20px 20px;
+}
+
+.account-form legend {
+	font-size: 18px;
+	color: #666;
+}
+
+.account-form fieldset {
+	border-top: 1px dashed #aaa;
+	padding-left: 20px;
+}
+
+.account-form .errors, .errorlist {
+	color: #ff0000;
+}
+
+.form-row {
+	padding-bottom: 10px;
+	clear: both;
+	border-bottom: 1px dotted #ddd;
+	padding: 10px 20px 15px 20px;
+}
+
+.form-row.first {
+	padding: 15px 20px;
+}
+
+.form-row.last {
+	border-bottom: none;
+}
+
+.form-row.individual {
+	padding: 15px 20px;
+	border-bottom: 1px dashed #aaa;
+	background-color: #eee;
+}
+
+.form-row.individual label {
+	margin-bottom: 12px;
+	color: #555;
+}
+
+.form-row.individual p {
+	color: #666;
+	margin-top: 20px;
+}
+
+#facebook {
+	padding: 3px;
+}
+
+#facebook.settings {
+	background-color: #eee;
+	padding: 5px;
+}
+
+#facebook .facebook-picture {
+	float: left;
+}
+
+#facebook .facebook-name {
+	margin-left: 65px;
+	margin-top: 6px;
+	font-size: 15px;
+}
+
+#facebook .facebook-info {
+	margin-left: 65px;
+	margin-top: 6px;
+}
+
+#facebook .facebook-connect {
+	display: inline-block;
+	border: 1px solid #ccc;
+	background-color: #ddd;
+	color: #666;
+	padding: 4px 5px;
+	font-size: 12px;
+	cursor: pointer;
+}
+
+
+#facebook .facebook-friends {
+	display: inline-block;
+	margin-left: 5px;
+	font-size: 12px;
+	color: #666;
+}
+
+.form-row-half {
+	float: left;
+	margin-right: 10px;
+}
+
+.form-row p.label {
+    margin: 10px 0;
+    color: #444;
+    font-size: 14px;
+}
+
+.form-row p.account-desc {
+	margin-top: 5px;
+	color: #666;
+	font-size: 12px;
+	line-height: 16px;
+}
+
+.form-row label, .form-row-half label {
+	display: block;
+	margin-bottom: 5px;
+	color: #666;
+	font-size: 14px;
+}
+
+.form-row input[type="text"], .form-row-half input[type="text"],
+.form-row input[type="password"], .form-row-half input[type="password"] {
+	font-size: 14px;
+	padding: 5px;
+	margin-right: 3px;
+	color: #333;
+	border: 1px solid #ccc;
+	-moz-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1);
+	-webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1);
+	box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.form-row input[type="text"]:focus, .form-row-half input[type="text"]:focus,
+.form-row input[type="password"]:focus, .form-row-half input[type="password"]:focus {
+	border: 1px solid #999;
+}
+
+.account-error {
+	color: red;
+	margin-top: 3px;
+}
+
+.account-row {
+	border-bottom: 1px dotted #ddd;
+	padding: 15px 20px 15px 20px;
+}
+
+.account-row.last {
+	border-bottom: none;
+}
+
+.account-row .label {
+	float: left;
+	color: #444;
+	font-size: 14px;
+	width: 100px;
+	line-height: 18px;
+	text-align: right;
+}
+
+.account-row .input {
+	padding-left: 120px;
+}
+
+.account-row .input button {
+	margin-left: 7px;
+}
+
+.account-row .input input[type="text"],
+.account-row .input input[type="password"] {
+	font-size: 12px;
+	padding: 2px 4px;
+	width: 200px;
+}
+
+.account-row .input label {
+	display: block;
+	line-height: 24px;
+}
+
+.account-row .input textarea {
+	font-size: 12px;
+	padding: 2px 4px;
+	width: 400px;
+	height: 120px;	
+}
+
+.account-row .input input[type="submit"] {
+	font-size: 14px;
+	padding: 3px 15px;
+}
+
+.account-row .input img.profile-pic {
+	margin-right: 15px;
+	float: left;
+}
+
+.account-row .input .extra {
+    float: right;
+    width: 390px;
+}
+
+.account-row .input .extra .tip {
+    background-color: #eee;
+    width: 200px;
+    padding: 10px;
+    line-height: 20px;
+    color: #333;
+}
+
+.account-row .input .extra .tip em {
+    font-style: italic;
+    color: #666;
+}
+
+.account-row .recommended {
+	color: #666;
+}
+
+.account-row .input p.account-title {
+	font-size: 14px;
+	margin: 5px 0 10px 5px;
+	color: #333;
+}
+
+.account-row .input p.account-text {
+	font-size: 16px;
+}
+
+.account-row .input p.account-text a {
+	line-height: 22px;
+	font-size: 13px;
+}
+
+.account-row .input p.account-dept {
+	margin: 5px 0 10px;
+}
+
+.account-row .input p.account-dept a {
+    color: #000;
+	text-decoration: none;
+}
+
+.account-row .input p.account-dept a:hover {
+	text-decoration: underline;
+}
+
+.account-row .input p.account-dept .remove-dept {
+	font-size: 14px;
+	cursor: pointer;
+	color: #1a8f5b;
+	text-decoration: none;
+}
+
+.account-row .input p.account-dept-add {
+	margin-top: 15px;
+}
+
+.account-row .input p.account-dept-input {
+	display: none;
+}
+
+.account-row .input p.account-desc {
+	margin-top: 5px;
+	color: #666;
+	font-size: 12px;
+	line-height: 16px;
+}
+
+.account-row .input p.account-error {
+	margin-top: 5px;
+	color: #ee0000;
+	font-size: 12px;
+}
+
+#username-exist {
+	display: none;
+}
+
+.account-row .input p.account-desc span.account-url {
+	color: #333;
+	font-size: 13px;
+}
+
+.account-row .input p.account-desc em#url-username {
+	background-color: #feff9f;
+	font-style: normal;
+	padding: 1px 3px;
+	color: #333;
+}
+
+.account-row input[type="text"].account-website {
+	width: 340px;
+}
+

@@ -1,0 +1,37 @@
+{% extends "settings/settings_base.html" %}
+
+{% block settings_tabs %}
+<div id="settings-tabs">
+	<ul class="tabs">
+		<li><a href="/settings/">Account</a></li>
+		<li><a href="/settings/profile/">Profile</a></li>
+		<li class="active"><a href="/settings/network/">Network</a></li>
+		<li><a href="/settings/notifications/">Notifications</a></li>
+	</ul>
+</div>
+{% endblock %}
+
+{% block settings_main %}
+<div id="main">
+	<div class="account-row">
+		<div class="label"><label for="network">Current Network</label></div>
+		<div class="input">
+			<input type="text" name="network" value="{{ network }}" disabled="disabled" />
+			<p class="account-desc">Your current network is your current college / university</p>
+		</div>
+	</div>
+	<div class="account-row last">
+		<div class="label"><label for="major">Departments</label></div>
+		<div class="input">
+			{% for department in departments %}
+			<p class="account-dept"><a href="/library/washington/depts/{{department.id}}/">{{department.name}}</a> <a class="remove-dept" id="remove-dept-{{department.id}}" title="Remove this department">×</a></p>
+			{% endfor %}
+			<p class="account-dept-input"><input id="dept-input" type="text" name="department" /></p>
+			<p class="account-dept-add"><a href="#" id="dept-add">Add a department</a></p>
+			<p class="account-desc">Your departments help us find the most useful books for you</p>
+		</div>
+	</div>
+</div>
+<div id="aside">
+</div>
+{% endblock %}

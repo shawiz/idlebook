@@ -1,0 +1,297 @@
+Center for Career Services;CCS
+Honors;HONORS
+University Academy;ACADEM
+Afro-American Studies;AFRAM
+American Ethnic Studies;AES
+Asian-American Studies;AAS
+Chicano Studies;CHSTU
+Swahili;SWA
+Tagalog;TAGLG
+American Indian Studies;AIS
+Anthropology;ANTH
+Archaeology;ARCHY
+Biocultural Anthropology;BIOA
+Applied Mathematics;AMATH
+Art;ART
+Art History;ARTH
+Arts Program;ARTS
+Altai;ALTAI
+Asian Languages and Literature;ASIAN
+Bengali;BENG
+Chinese;CHIN
+Hindi;HINDI
+Indian;INDN
+Indonesian;INDON
+Japanese;JAPAN
+Korean;KOREAN
+Sanskrit;SNKRT
+Tamil;TAMIL
+Thai;THAI
+Tibetan;TIB
+Urdu;URDU
+Vietnamese;VIET
+Astronomy;ASTR
+Astrobiology;ASTBIO
+Biology;BIOL
+Center for Studies in Demography and Ecology;CSDE
+Center for the Humanities;HUM
+Chemistry;CHEM
+Classical Archaeology;CLAR
+Classical Linguistics;CLLI
+Classics;CLAS
+Greek;GREEK
+Latin;LATIN
+Communication;COM
+Comparative History of Ideas;CHID
+Comparative Literature;CLIT
+Dance;DANCE
+Digital Arts and Experimental Media;DXARTS
+Disability Studies;DISST
+Drama;DRAMA
+Economics;ECON
+English;ENGL
+General Studies;GENST
+General Interdisciplinary Studies;GIS
+Individualized Studies;INDIV
+Geography;GEOG
+Germanics;GERMAN
+Ancient and Medieval History;HSTAM
+History;HIST
+History of Asia;HSTAS
+History of the Americas;HSTAA
+Modern European History;HSTEU
+European Studies;EURO
+International Studies;SIS
+International Studies (African Studies);SISAF
+International Studies (Asian Studies);SISA
+International Studies (Canadian Studies);SISCA
+International Studies (Comparative Religion);RELIG
+International Studies (East Asian Studies);SISEA
+International Studies (Jewish Studies);SISJE
+International Studies (Latin American Studies);SISLA
+International Studies (Middle Eastern Studies);SISME
+International Studies (Russian, East European and Central Asian Studies);SISRE
+International Studies (South Asian Studies);SISSA
+International Studies (Southeast Asian Studies);SISSE
+Law, Societies, and Justice;LSJ
+American Sign Language;ASL
+French Linguistics;FRLING
+Linguistics;LING
+Romance Linguistics;ROLING
+Spanish Linguistics;SPLING
+Mathematics;MATH
+Music;MUSIC
+Music - Applied;MUSAP
+Music Education;MUSED
+Music Ensemble;MUSEN
+Music History;MUHST
+Akkadian;AKKAD
+Arabic;ARAB
+Aramaic;ARAMIC
+Egyptian;EGYPT
+Hebrew;HEBR
+Near Eastern Languages and Civilization;NEARE
+Persian;PRSAN
+Turkic;TKIC
+Turkish;TKISH
+Ugaritic;UGARIT
+Neurobiology;NBIO
+History and Philosophy of Science;HPS
+Philosophy;PHIL
+Values in Society;VALUES
+Physics;PHYS
+Political Science;POLS
+Psychology;PSYCH
+French;FRENCH
+Italian;ITAL
+Portuguese;PORT
+Romance Languages and Literature;ROMAN
+Romanian (Romance);RMN
+Spanish;SPAN
+Danish;DANISH
+Estonian;ESTO
+Finnish;FINN
+Latvian;LATV
+Lithuanian;LITH
+Norwegian;NORW
+Scandinavian;SCAND
+Swedish;SWED
+Bosnian/Croatian/Serbian;BCS
+Bulgarian;BULGR
+Czech;CZECH
+Georgian;GEORG
+Polish;POLSH
+Romanian (Slavic);ROMN
+Russian;RUSS
+Slavic;SLAV
+Slavic Languages and Literatures;SLAVIC
+Slovenian;SLVN
+Ukrainian;UKR
+Social Sciences;SOCSCI
+Sociology;SOC
+Speech and Hearing Sciences;SPHSC
+Statistics;STAT
+Women Studies;WOMEN
+Architecture;ARCH
+Built Environment;BE
+Construction Management;CM
+Landscape Architecture;LARCH
+Community and Environmental Planning;CEP
+Strategic Planning for Critical Infrastructure;SPCI
+Urban Planning;URBDP
+Accounting;ACCTG
+Administration;ADMIN
+Business Administration;BA
+Business Administration Research Methods;BARM
+Business Communications;BCMU
+Business Economics;BECON
+Business Policy;BPOL
+E-Business;EBIZ
+Entrepreneurship;ENTRE
+Finance;FIN
+Human Resources Management and Organizational Behavior;HRMOB
+Information Systems;IS
+Information Systems Master of Science;MSIS
+International Business;IBUS
+Management;MGMT
+Marketing;MKTG
+Operations Management;OPMGT
+Organization and Environment;OE
+Quantitative Methods;QMETH
+Strategic Management;STMGT
+Dental Hygiene;DHYG
+Dental Public Health Sciences;DPHS
+Dentistry;DENT
+Endodontics;ENDO
+Oral Biology;ORALB
+Oral Medicine;ORALM
+Oral Surgery;OS
+Orthodontics;ORTHO
+Pediatric Dentistry;PEDO
+Periodontics;PERIO
+Prosthodontics;PROS
+Restorative Dentistry;RESD
+Curriculum and Instruction;EDC&I
+College of Education;EDUC
+Early Childhood and Family Studies;ECFS
+Education (Teacher Education Program);EDTEP
+Educational Leadership and Policy Studies;EDLPS
+Educational Psychology;EDPSY
+Special Education;EDSPE
+Aeronautics and Astronautics;AA
+Chemical Engineering;CHEME
+Nanoscience and Molecular Engineering;NME
+Civil and Environmental Engineering;CEE
+Computer Science and Engineering;CSE
+Computer Science and Engineering Accelerated Masters Program;CSEM
+Computer Science and Engineering Professional Masters Program;CSEP
+Electrical Engineering;EE
+Engineering;ENGR
+Human Centered Design and Engineering;HCDE
+Industrial Engineering;INDE
+Materials Science and Engineering;MSE
+Mechanical Engineering;ME
+Mechanical Engineering Industrial Engineering;MEIE
+Aquatic and Fishery Sciences;FISH
+Atmospheric Sciences;ATMS
+College of the Environment;CENV
+Earth and Space Sciences;ESS
+Program on the Environment;ENVIR
+Bioresource and Science Engineering;BSE
+Environmental Science and Resource Management;ESRM
+Paper Science and Engineering;PSE
+School of Forest Resources;CFR
+School of Marine Affairs;SMA
+Oceanography;OCEAN
+Quantitative Science;QSCI
+Quaternary Sciences;QUAT
+Informatics;INFO
+Information School Interdisciplinary;INFX
+Information Science;INSC
+Information Management;IMT
+Library and Information Science;LIS
+Biomolecular Structure and Design;BMSD
+Graduate School;GRDSCH
+Global Trade, Transportation & Logistics;GTTL
+Individual PhD;IPHD
+Molecular and Cellular Biology;MCB
+Museology;MUSEUM
+Near and Middle Eastern Studies;N&MES
+Neurobiology and Behavior;NEUBEH
+Nutritional Science;NUTR
+Quantitative Ecology and Resource Management;QERM
+Bioengineering;BIOEN
+Medical Engineering;MEDENG
+Pharmaceutical Bioengineering;PHARBE
+Global Health;GH
+University Conjoint Courses;UCONJ
+Law;LAW
+Law A;LAWA
+Law B;LAWB
+Law E;LAWE
+Law (Health);LAWH
+Law (Intellectual Property);LAWP
+Law (Taxation);LAWT
+Anesthesiology;ANEST
+Biochemistry;BIOC
+Bioethics and Humanities;BH
+Biological Structure;BSTR
+Comparative Medicine;CMED
+Conjoint Courses;CONJ
+Family Medicine;FAMED
+Genome Sciences;GENOME
+Human Biology;HUBIO
+Immunology;IMMUN
+Laboratory Medicine;LABM
+MEDEX Program;MEDEX
+Medical Education and Biomedical Informatics;MEBI
+Emergency Medicine;MEDEM
+Medicine;MED
+Medicine Elective Clerkships;MEDECK
+Medicine Required Clerkships;MEDRCK
+Microbiology;MICROM
+Molecular Medicine;MOLMED
+Neurological Surgery;NEURS
+Neurology;NEURL
+Obstetrics and Gynecology;OBGYN
+Ophthalmology;OPHTH
+Orthopedics;ORTHP
+Otolaryngology--Head and Neck Surgery;OTOHN
+Pathology;PATH
+Pediatrics;PEDS
+Pharmacology;PHCOL
+Physiology and Biophysics;PBIO
+Psychiatry and Behavioral Sciences;PBSCI
+Radiation Oncology;RONC
+Radiology;RADGY
+Rehabilitation Medicine;REHAB
+Surgery;SURG
+Urology;UROL
+Nursing;NSG
+Nursing;NURS
+Nursing Clinical;NCLIN
+Nursing Methods;NMETH
+Medicinal Chemistry;MEDCH
+Pharmaceutics;PCEUT
+Pharmacy;PHARM
+Pharmacy Practice;PHARMP
+Pharmacy Regulatory Affairs;PHRMRA
+Public Affairs Executive MPA;PAEX
+Public Affairs;PBAF
+Public Policy and Management;PPM
+Biostatistics;BIOST
+Environmental Health;ENVH
+Epidemiology;EPI
+Health Informatics and Health Information;HIHIM
+Health Services;HSERV
+Health Services Management;HSMGMT
+Pathobiology;PABIO
+Public Health Genetics;PHG
+Aerospace Studies;AS
+Military Science;MSCI
+Naval Science;NSCI
+Social Welfare BASW;SOCWF
+Social Welfare;SOCWL
+Social Work (MSW);SOCW
+Icelandic;ICEL
+Gender, Women, and Sexuality Studies;GWSS
